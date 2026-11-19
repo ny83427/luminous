@@ -1,6 +1,6 @@
 # Volume Ten　Huichang
 
-## Chapter 59　Packing Up
+## Chapter 59　Packing
 
 > His work being done, at high noon He ascended to the Truth.
 >

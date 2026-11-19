@@ -1,6 +1,6 @@
 # Volume Ten　Huichang
 
-## Chapter 57　Where the Edict Reaches
+## Chapter 57　As Far as the Edict Reaches
 
 > Every year, at the time of the Nativity, he sent heavenly incense to announce his success, and gave dishes from the imperial table to honour the Luminous congregation.
 >
