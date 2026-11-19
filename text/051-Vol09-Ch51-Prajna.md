@@ -1,0 +1,417 @@
+# Volume Nine　The Translation Hall
+
+## Chapter 51　Prajna
+
+> In the Shengli years the sons of Śākya used their strength and raised their voices in Eastern Zhou; at the end of Xiantian, lesser scholars laughed aloud and slandered us in Western Hao.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+In the spring of the second year of Zhenyuan, someone came knocking at the gate of the Daqin monastery.
+
+By then Yisi had been dead two years. Jingjing was forty, and had been in charge two years. He was not a remarkably good head of the monastery, nor a bad one. The monastery's accounts he checked himself every month; the lamp oil of the scripture room he counted himself every month; the small lamp at the gate he went out and lit himself every day at dark. While Yisi lived, Yisi had lit it. Yisi was gone, so he lit it after him. No one told him to, and he never told anyone why.
+
+He was still afraid of cold water. A man of forty, in summer so thirsty his throat smoked, and still he waited for the well water to boil on the stove and cool to warm before he drank. The young people newly come to the monastery laughed at him behind his back, saying the head's stomach kept the rule better than the head did. When this reached his ears he thought about it, and decided they were right.
+
+The man knocking was a military officer.
+
+About forty, not tall, his face darkened by wind and sun, a sword at his belt, in the robe of the Shence Army. The Shence Army was the Son of Heaven's own guard, and these years in Chang'an its men walked with a heavier tread than other men. The old believer who kept the gate saw that robe and his legs half gave way; he ran in with the news, unable to get a whole sentence out.
+
+Jingjing went out to see.
+
+Behind the officer stood an old Buddhist monk.
+
+The old monk was very thin, thinner than Jingjing, his skin dark with a red glow, as if burned by a different sun. He wore a tawny yellow robe, his head bare and shaven, his eyes deep-set but bright. He stood outside the threshold of the Daqin monastery and looked up at the cross on the lintel, looked a long time, very attentively, as if making out a character.
+
+"You're Jingjing?" asked the officer.
+
+"I am."
+
+"My name is Luo Haoxin, of the Left Shence Army," said the officer. "This is my cousin, the Tripitaka master Prajna, from the land of Kapisa in northern India."
+
+The old monk drew his eyes back from the cross and put his palms together to Jingjing.
+
+Jingjing put his palms together too. He did not know whether this was the right way to return the courtesy, but he could think of no other.
+
+---
+
+Luo Haoxin was a forthright man. He came into the courtyard, sat down, drank a mouthful of hot water, and told what he had come for.
+
+His mother was from Kapisa; she had married into the Tang lands and borne him, and he had grown up in Chang'an. Of the speech of Kapisa he knew only a few phrases, learned from his mother as a child, and as he grew up he had mostly forgotten them. Prajna was his uncle's son; he had left the household life young, studied the scriptures at great monasteries all over India for decades, and then vowed to come east. In the second year of Jianzhong he came by sea to Guangzhou, and the year after entered Chang'an.
+
+The second year of Jianzhong. When Jingjing heard those words, something stirred in him. That year the stele had been raised at the gate of the Daqin monastery. In the month the stele went up, this old monk was being tossed on the waves of the southern sea.
+
+Luo Haoxin said that his cousin, having come to Chang'an, lived in a monastery in the city, and no one could talk with him. He knew Sanskrit, knew several tongues of India, and not a word of Tang. In the Buddhist monasteries there were indeed some who knew a little Sanskrit, but the scripture his cousin had brought was a *hu* text, not a Sanskrit one.
+
+"What scripture?" asked Jingjing.
+
+"The *Sutra of the Six Paramitas*," said Luo Haoxin. "Seven fascicles."
+
+He said the title very smoothly; he had plainly learned it by heart.
+
+Luo Haoxin said that some days before he had gone about asking who in Chang'an understood *hu* tongues, whose Tang writing was good. An old general in the camp, a *hu* himself, surnamed Mi, had told him: go to the Daqin monastery in the Yining Ward and find Jingjing; that man has translated thirty-odd scriptures, and writes Tang better than a palace graduate.
+
+"What we translate are our own scriptures," said Jingjing.
+
+Luo Haoxin was taken aback. "Aren't scriptures all scriptures?"
+
+Jingjing did not answer.
+
+Luo Haoxin put down his tea bowl and said: "I don't understand scriptures. I'm a soldier. My cousin walked from India to Chang'an, walked years, all for these seven fascicles. As his cousin, I want to find someone to translate them, to earn him some merit, and earn myself some too. Will you or won't you?"
+
+Jingjing looked at Prajna.
+
+Prajna sat there, his two hands on his knees, not moving. He could not understand what they were saying, but he seemed to know they were speaking of him. He looked at Jingjing, and in his eyes there was no pleading, and no pride; he only looked.
+
+Jingjing thought of someone.
+
+Many years before, in that ruined church north of the city of Xizhou, seven teachers had sat before him, listening to a boy of eleven teaching them to write *water, fire, gate, road*. Then they had looked at him like this too.
+
+"Let me think about it," said Jingjing.
+
+---
+
+That night the monastery's elders sat in the scripture room half the night.
+
+Samaan was the first to refuse. He was Warden of the Rule; this was exactly his charge. He said that of the five articles of the plan in those days, the first was: do not quarrel with the other teachings. Translating scripture for the Buddhists was more trouble than quarrelling. Translate it well, and people say we're courting the Buddhists; translate it badly, and people say we've spoiled the Buddhist scriptures. However you translate it, nothing good comes of it.
+
+"Besides," said Samaan, "do you understand the Buddhist scriptures?"
+
+"No," said Jingjing.
+
+"Then what would you translate?"
+
+Jingjing could not say.
+
+Azarel had said nothing all along. He was old, his eyes no longer saw well; he sat by the lamp with a knotted cord in his hands, turning it. When Samaan had finished, he spoke, and asked one thing: "A man of the Shence Army—can you refuse him?"
+
+The scripture room was silent a while.
+
+Everyone knew what the Shence Army was. These years the Shence Army was under the palace eunuchs, and one word from a eunuch counted for more than ten from a chief minister. A commander of the Shence Army brings his cousin to your gate in person and very courteously asks you, and you say you won't translate. The next time he comes to your gate, it may not be so courteous.
+
+"It's not that I fear him," Azarel said again. "It's that in this city we never had firm footing to begin with. When someone reaches out a hand to pull you up and you draw yours back, they remember."
+
+Samaan said no more.
+
+Jingjing sat there and thought of his father.
+
+While his father lived, it was his father who dealt with the outside world. Lord Guo, Lord Li, Official Pei—those men knew his father's face, that purple robe, that body full of wounds. His father was gone, and that face was gone. Who was he, Jingjing? Only a *hu* monk who could write Tang.
+
+He thought too of something his father had once said to him. To use other people's words is like living in other people's houses. Live there you may; but when you've lived there long, don't forget it isn't your own house.
+
+This time it was other people wanting to borrow his house to live in.
+
+"I'll translate it," he said.
+
+---
+
+The translating was done in the monastery's scripture room.
+
+Prajna came every morning, and on the days Luo Haoxin was not on duty, he came too. The three of them sat round a long table, the *hu* text spread on it, brush and ink and a pile of paper beside.
+
+On the very first day they stuck.
+
+That *hu* text was written in a *hu* script. Jingjing knew the letters and could sound them out one by one, and of the words he sounded out, half he understood and half he did not. The half he did not understand were exactly the words that mattered.
+
+Prajna understood those words. But Prajna could not say them. He spoke Sanskrit, a long string, very urgently. Jingjing could not understand. Luo Haoxin listened beside them, frowning, now and then picking out a word or two he had heard from his mother as a child and putting it into Tang.
+
+So every word went through three hands. Prajna told Luo Haoxin, Luo Haoxin told Jingjing, and Jingjing guessed from the *hu* text. When he guessed right, Prajna nodded; when he guessed wrong, Prajna shook his head. Mostly he shook it; seldom he nodded.
+
+That night Jingjing stayed alone in the scripture room.
+
+When Prajna and Luo Haoxin left it was already dusk. On the long table lay the drafts of a whole day, the pages covered with corrections, so corrected that the ink had soaked right through the paper; of what could be read there were no more than a dozen lines. He put the sheets straight one by one and pressed them under the paperweight, then went to the corner and opened that wooden box. It was still the box that had been the elder Babai's in the old days, and the key now hung at his own belt. He reached to the very bottom, felt out the small cloth bundle, untied it, and inside was Alopen's parchment book.
+
+He had read this book more than once. In that winter of the first year of Jianzhong when he wrote the stele, he had held it almost every night, searching it for years and months, for names, for lines of the edict, for things that could be carved in stone. Then he had read fast, read in haste, and whatever the stele had no use for, he had turned past page after page. Now he sat under the lamp and turned the book again from the beginning, turning very slowly. This time what he was looking for was not what he had looked for when writing the stele. He wanted to know how, a hundred and fifty years ago, that man who could not speak one word of Tang had turned a scripture into Tang writing.
+
+---
+
+The pages at the front of the book, about the road, he had found too trivial when writing the stele and hardly looked at closely. This time he looked closely, and only then learned that before Alopen entered Chang'an, Chang'an had long known he was coming.
+
+When he entered Shazhou, there was a post station. The first thing the station master asked was where they came from, how many men, how many beasts, whether they had papers; what they believed, he was in no hurry to ask. Alopen could produce no papers of the Tang realm, only a letter, written in Tang characters in Khotan by a man who knew *hu* tongues, two lines in all, saying that these were monks of the kingdom of Daqin, sent by their church to present scriptures and images, wishing to go to the capital and report. The station master read the letter, and looked at the wax seals on their chests, and on the seals a small stamp was pressed. The stamp was the Patriarch's gift, and Alopen had carried it against his body all the way, even sleeping with it inside his robe at night. The station master did not know the stamp, but he knew that a thing with a stamp on it was not to be lightly sent away, so he lodged them at the station and wrote a report himself and sent it east.
+
+From then on, wherever they came, it seemed the place had long been waiting for them. The station men first counted for them: how many chests, how many rolls of scripture, how many scrolls of images, how many men, how many camels, recorded in a register, and only when it was recorded let them go on. Alopen wrote in the book: the officials of the Tang count the things first and look at the men afterwards; they count everything perfectly clearly, and hardly ask about the men at all. When Jingjing read this line, he thought of these years of dealing with the Court of State Ceremonial and the capital prefecture, and thought: it's still like that.
+
+At Xianyang, men came from the Court of State Ceremonial. One was an assistant, with a Sogdian interpreter; he opened the chests one by one and looked, and when he had looked said: tomorrow the Chief Minister comes out to the outskirts to meet you; tonight bathe and change your clothes. When Alopen heard the interpreter he thought he had heard wrong, and had him say it again. On that day's page there was only one line: *What sort of official is a Chief Minister? Asked three men, and the three said three different things.*
+
+The business at the western outskirts the next day Jingjing had read most closely when writing the stele, and this time only skimmed. There was one place only that he had not noticed before. When Duke Fang had dismounted and greeted Alopen, he did not ask first about the scriptures, but first had someone bring him that stamp to look at. He held the stamp in his palm and looked at it a long while, and when he had looked gave it back to Alopen and said one thing. The interpreter passed it on, and it was this: this is the seal of your church, not the seal of your country.
+
+Alopen wrote in the book: "He knew what it was. Before I had said anything, he knew."
+
+Jingjing read this line twice. Before, he had known only that Duke Fang was the wise minister of Taizong's reign; the histories said he was a good planner, that he knew how to use men—those were words in books. The Duke Fang in this line was a man standing in the wind and sand of the western outskirts with a *hu*'s small stamp in the palm of his hand, who understood at one look that behind this party there was no state letter from any country, and that what they had brought was something else. Having understood, he was willing to bring out the full honour guard to the western outskirts, and receive them as guests and bring them in.
+
+---
+
+Of the affairs in the library the book recorded most, and most confusedly.
+
+Before, Jingjing had made out only the outline: Alopen spoke Syriac, the disciple turned it into Persian, the Sogdian interpreter turned it into Tang, the scribe of the Imperial Library set it down in the literary language—one sentence through four mouths. Now, reading page by page closely, he saw that the four mouths had not been arranged so from the beginning. For the first month there were only three mouths and no scribe; the interpreter wrote it himself. The interpreter's spoken Tang was fluent, but his Tang characters were a mess, the sentences upside down, half in *hu* word order. What was translated in that month, the book said, was all burned later.
+
+It was Duke Fang, coming once to look at the library, who changed the rule.
+
+That day Duke Fang stood by the long table, picked up the interpreter's draft, read a few lines, put it down, picked it up again and read a few more lines, with no expression on his face. When he had read it he said a few things, the interpreter passed them on, and Alopen wrote them down. Jingjing puzzled a long time over those few scrawled lines of Syriac; the sense was: translated like this it goes fast, but whoever reads it can't get through it; and if they can't get through it, however many scriptures you translate, it's only a heap of paper.
+
+The next day there was a scribe in the library, a collator of the Imperial Library; what his surname was the book did not record, only that he was very young, his hands very white, and when he wrote he rolled his sleeves up very high.
+
+A few days later Duke Fang came again and laid down a rule. Alopen recorded this rule very carefully, and drew a circle beside it. Jingjing learned for the first time that Alopen in those days had translated by this method: when the scribe had settled a passage, it was not done; the interpreter must read the Tang back into the *hu* tongue, and the disciple read the *hu* tongue back into Syriac, sentence by sentence, for Alopen to hear. Alopen listened and checked it against what he had said. What matched was kept; what did not was circled, and the four mouths went round again from the beginning.
+
+One page said: "Walking it back, three sentences in ten are not mine any more."
+
+A few pages later: "Today two in ten are not mine."
+
+A few pages more: "Today only one. Duke Fang said: one is one, go slowly. I still cannot understand the Tang he speaks, but when he said go slowly, his face meant that."
+
+When Jingjing had read this far, he put the book down and sat a long time.
+
+He thought of the long table that day. Prajna told Luo Haoxin, Luo Haoxin told him, and he set it down in Tang. Three men, three hands, always forward, not one of them walking back. Prajna could not read Tang characters, Luo Haoxin did not understand the scripture, and whether what he wrote was right or wrong, there was no one in the world who could walk it back for him and look. When Prajna nodded, it was because what Luo Haoxin said had the right sense; whether what Luo Haoxin said had the right sense, Prajna, listening to Luo Haoxin's few half-understood words of the speech of Kapisa, could only guess too. The dozen lines he had written that day looked like Tang, read smoothly, but how many sentences in them were Prajna's he did not know.
+
+Alopen in those days had known. Alopen could not read Tang, but he knew what he meant to say, and every sentence he pulled back to his own ears to hear again. Jingjing could read Tang, more characters than that collator, but he did not know what Prajna meant to say.
+
+He turned further on in the book.
+
+One page recorded the scribe quarrelling with Alopen. The scribe wanted to write the Lord who created heaven and earth as *the Heavenly Honoured One*, saying a Tang man would see at once it meant the supreme god; Alopen would not have it, saying that was the Daoists' god. The two of them argued across four mouths all morning, and neither could persuade the other. At the end Duke Fang came, heard the interpreter give each side's words once, thought a while, and said: "Borrow the name for now. The substance is yours. Make your substance clear, and in time the name will naturally become yours."
+
+Alopen wrote in the margin of this page: "He is right. But a borrowed name—when is it paid back?"
+
+Another page recorded a small thing. The scribe had written *arhat* in the draft; Alopen, hearing his disciple read out the sounds, thought they sounded familiar and asked what it was. The scribe said it was a saint of the Buddhists who had attained and would not be born again. Alopen thought and said: my name sounds much like it when you say it; don't let people think I'm one of those. When the scribe heard the interpreter he laughed so hard he could not hold his brush. That word stayed in the scripture in the end.
+
+When Jingjing read this, he laughed too. It was the first time he had laughed that day.
+
+He wrapped up the book, put it back at the bottom of the box, and blew out the lamp.
+
+---
+
+The next day, Prajna came early as before.
+
+The three characters 波羅蜜, *paramita*, took three days to translate.
+
+Prajna said a great deal, Luo Haoxin listened a long time, and at last said: "He says it's crossing a river. Crossing from this side to the other side."
+
+"To which side?"
+
+Luo Haoxin went to ask again. Prajna said more. When Luo Haoxin had heard it he scratched his head and said: "He says on the other side there's no suffering."
+
+Jingjing held his brush suspended over the paper, and for a long time did not set it down.
+
+He thought: this I understand. And thought: this I don't. What he understood was that there was a river, and on the other side of the river a place where, when people reached it, they wept no more. What he did not understand was whether the river Prajna spoke of was the river he knew.
+
+Later he heard from an old believer at the monastery who had once been a Buddhist that the Buddhist scriptures had a ready-made translation for it: *to the other shore*. So he wrote *to the other shore*. When he had written it he looked at those characters a long time. The characters were good characters. Living in them, he always felt it was not his own house.
+
+---
+
+Of the six paramitas, there was one he translated most smoothly.
+
+That day they came to *patience under insult*. Prajna spoke a long while, Luo Haoxin could not understand, and Prajna grew anxious, stood up, and acted it out with his hands. He put out one hand and made as if to strike his own face, then turned the other cheek and made the gesture again, then put his palms together and stood still.
+
+Luo Haoxin said: "It means being struck and not striking back."
+
+The hand in which Jingjing held his brush stopped.
+
+He thought of his father. His father on the bank of the Yellow River, one man, one shield, one mace, knocked down five men and killed not one. He thought of Yonan. Yonan under the locust tree, Narsai's knife coming, and Yonan did not dodge.
+
+And he thought of words: whosoever shall smite thee on thy right cheek, turn to him the other also.
+
+Prajna was still standing there, palms together.
+
+Jingjing bent his head and wrote. That fascicle he translated very fast; in one day he did three days' worth. Luo Haoxin watched him write and said: "This time you don't need to ask."
+
+Jingjing said: "This we have too."
+
+Luo Haoxin told Prajna what he had said. Prajna heard it, looked at Jingjing, looked a while, and smiled. When he smiled, all the wrinkles of his face crowded towards his eyes, like a sheet of paper crumpled and spread out again.
+
+---
+
+As the translating went on, the two of them spoke of other things too.
+
+Prajna asked: what is your Buddha called?
+
+Jingjing said: we have no Buddha; we have Mishihe, the Messiah.
+
+Luo Haoxin turned it. Prajna asked again: what is Mishihe like?
+
+Jingjing thought and said: he came from heaven, was born among men, was nailed to wood by men and died, and after three days dead, lived again.
+
+Luo Haoxin turned it, stumblingly. When Prajna had heard it, he nodded and said a long string.
+
+When Luo Haoxin had heard it, he said: "He says the Buddha had many lives too, and in one life gave his body to feed a starving tigress."
+
+Jingjing said: "It's not the same."
+
+Luo Haoxin opened his mouth, and closed it again. He looked at Jingjing, then at Prajna, and said: "This one I won't translate. Act it out between yourselves."
+
+The two of them looked at each other. One an old monk come from India, one a *hu* monk born in Chang'an, one who could not speak Tang, one who could not speak Sanskrit, sitting at either end of a long table with a *hu* text between them that neither could read entire.
+
+Neither of them acted anything out again.
+
+Prajna did not eat after noon; every day he ate only the one morning meal, and ate very little. Jingjing's stomach was bad, and he could not eat much at a meal either. The woman who cooked for the monastery brought in two bowls of gruel, and each of them drank only half, and pushed the other half aside, where it grew cold. Luo Haoxin looked from one to the other and drank both halves.
+
+A few days later Prajna brought a small packet of something—tawny dried fruits, wrinkled, like an old man's fingers. He pressed it on Jingjing, pointed at his own stomach, then at Jingjing's.
+
+Luo Haoxin said: "*Haritaki*. Indian medicine. He says your stomach is bad."
+
+Jingjing was stunned. He did not know how Prajna had seen it.
+
+He took it. That packet of *haritaki* he ate for more than a year.
+
+---
+
+The seven fascicles took more than seven months to translate.
+
+The day they were finished, Luo Haoxin carried the drafts away, had them fair-copied, and submitted them with a memorial. Luo Haoxin had had someone else write the memorial; what it said, Jingjing did not know. Luo Haoxin said: His Majesty believes in the Buddha; when he sees it he'll surely be pleased.
+
+Then came the waiting.
+
+They waited a summer, and waited an autumn.
+
+In winter, on the day of the first snow, Luo Haoxin came again.
+
+This time he did not bring Prajna. He came into the courtyard alone, stood in the snow, would not come inside, took a sheet of paper from inside his robe and handed it to Jingjing. His face was very bad, as if he had eaten something that disagreed with him.
+
+"A copy," he said. "Read it yourself."
+
+Jingjing unfolded the paper.
+
+There were not many characters on it. It said that Prajna was not versed in the *hu* tongue, and did not understand the Tang language either; that Jingjing did not know Sanskrit, and was not clear about the Buddha's teaching. It said that the two of them had translated together, and though it was called a translation, nothing had in truth been translated. It said that His Majesty, having read it, found the meaning obscure and the language thin.
+
+Below were a few more lines.
+
+It said that since the Buddhist monasteries and the Daqin monastery dwelt in different places, the laws they practised were wholly different too.
+
+It said that Jingjing should transmit the teaching of Mishihe, and the Buddhist monks should spread the Buddhist scriptures.
+
+It said that the teachings of the two houses should be kept apart, each going its own way, and not mixed together.
+
+Jingjing read it through, and read it again from the beginning.
+
+The snow fell on the paper and melted into little drops of water, blurring a few characters. He dabbed at them gently with his sleeve.
+
+"*The meaning obscure and the language thin*," he read aloud once.
+
+Luo Haoxin stood beside him rubbing his hands and said: "It's my fault. I shouldn't have come to you."
+
+"The general mustn't say so," said Jingjing.
+
+"As for my cousin," said Luo Haoxin, "His Majesty has had him translate it again, with a few great masters of the Ximing Monastery."
+
+Jingjing nodded.
+
+"His Majesty is right," he said. "I don't understand the Buddha."
+
+Luo Haoxin looked at him, as if he had not expected him to say this. He looked a while, sighed, cupped his fists, and went.
+
+---
+
+When Samaan learned of this, he stood at the door of the scripture room a long time.
+
+Jingjing thought he would say *I told you so*. Samaan did not. He only asked for the paper, read it once, gave it back to Jingjing, and said: "Keep it safe. A government document—we'll have use for it one day."
+
+Jingjing said: "It's a scolding of us."
+
+Samaan said: "A scolding of us is a document too."
+
+---
+
+What came after, Jingjing heard little by little.
+
+Prajna translated that scripture again with the monks of the Ximing Monastery, into ten fascicles, and the title grew longer too: the *Mahayana Sutra of the Principle of the Six Paramitas*. It was said to be very well translated, and His Majesty wrote a preface for it himself. Some years later, it was heard that Prajna had been granted the purple robe.
+
+When Jingjing heard this, he was grinding ink in the scripture room. He stopped, and thought of his father's purple robe. After his father died, that robe was folded square and put away at the bottom of a chest, and once a year he took it out to air in the sun.
+
+He thought: that old monk came from very far away too.
+
+He went on grinding ink.
+
+A dozen years after that, a monk of the Ximing Monastery named Yuanzhao compiled, by imperial order, a catalogue of the Buddhist scriptures. In the catalogue he wrote this affair, sentence by sentence, very clearly. He wrote that Jingjing "did not know Sanskrit, and was not clear about the Buddha's teaching," wrote that the two of them, "though it was called a translation, did not get even half a pearl."
+
+A young man at the monastery read this far and asked Jingjing: "Master, what does *half a pearl* mean?"
+
+Jingjing said: "It means half a pearl."
+
+"And *did not get even half a pearl*?"
+
+"It means not even half a one."
+
+The young man held in his laughter until his face went red. Jingjing looked at him, and laughed first himself.
+
+But that is for later.
+
+---
+
+That day when Luo Haoxin had gone, Jingjing stood in the courtyard a while.
+
+The snow came down heavier, settling all over his shoulders. The small lamp at the gate was not yet lit, and the sky was already growing dark.
+
+He folded the paper, put it inside his robe, and went into the scripture room.
+
+The scripture room was very cold. He stirred up the charcoal in the brazier and sat down at the long table. That *hu* text was no longer on the table; Luo Haoxin had long since taken it away. All that was left on the table were his own things: a pile of half-written drafts, the monastery's own scriptures, more than a year in the translating and not yet finished.
+
+He did not set brush to paper at once. He got up and opened that wooden box again, took out Alopen's book, and turned to the latter half.
+
+There was a page there he had read when writing the stele, and picked out only two sentences from it to carve in stone. This time he read it through from beginning to end, word by word.
+
+It was the winter of the tenth year of Zhenguan, and Alopen had been in the library more than a year. The first time the Son of Heaven came to the library he had come unexpected, looked at one page of draft, asked one question and gone. This time was different. This time men came first from the Court of State Ceremonial, saying that on such a day the Son of Heaven would summon him, and laying out a great set of rules: when to arrive at the palace gate, where to wait, to go in only when called, how many steps to walk and then bow, how many times to bow, not to open his mouth unless the Son of Heaven asked. The disciple translated these rules for Alopen one by one, and halfway through could not remember them himself.
+
+That day they went into the palace. The book recorded: gate after gate, and inside the gates more gates, until in the end he no longer knew whether he was going east or west. The hall was not large, nor were there many people in it; the Son of Heaven sat at the head, Duke Fang stood to one side, and another man sat in a corner with paper spread before him, and whenever the Son of Heaven said a sentence, he wrote it down. Alopen learned afterwards that this was the Diarist, whose office was to record the words and deeds of the Son of Heaven.
+
+The four mouths were all there too. The disciple knelt behind Alopen, the Sogdian interpreter knelt behind the disciple; the scribe had not come, and in his place an official of the Court of State Ceremonial knelt at the very outside, passing the Son of Heaven's words in, and Alopen's words out.
+
+The first thing the Son of Heaven asked was: the Heavenly Honoured One, the sovereign, and parents—which comes first and which after?
+
+The book said that when this question reached Alopen's ears, the hall was so quiet you could hear the fire in the brazier. Alopen thought a while and answered: first revere the Heavenly Honoured One, next revere the sovereign, next revere one's parents; the Heavenly Honoured One teaches men to revere the sovereign, and teaches them to revere their parents too; the three do not conflict.
+
+When he had answered, the disciple said it once, and the interpreter opened his mouth and for a long while made no sound. Alopen wrote in the book: "His face was white. Duke Fang looked at him once, and only then did he say it."
+
+When the Son of Heaven had heard it, he said nothing. After a while, he nodded.
+
+When Jingjing read this far, his hand lay on the book, and for a good while he did not turn the page. In that earliest Tang scripture of the monastery there was just such a passage, saying that in this life the first a man must revere is the Heavenly Honoured One, the second the Sage Sovereign, the third his parents. As a boy, learning the scriptures with his father, he had read this passage and always thought some scribe had added it himself to please the Son of Heaven, and had even felt aggrieved on Alopen's behalf. Only now did he know that it was what Alopen himself had answered in the palace to the Son of Heaven's face, and that as he answered, the Sogdian had gone white with fear.
+
+The second thing the Son of Heaven asked was why they monks shaved the crown of the head and yet kept the beard on the chin.
+
+Alopen answered: we keep the beard to show that outwardly we still do the business of the world like other men; we shave the crown to show that in our hearts we keep no private desire.
+
+Jingjing knew this sentence. In the second year of Jianzhong he had carved it on the stele: *They keep their beards, to show that they have outward conduct; they shave the crown, to show that they have no inward passions.* He had taken it then for a fine couplet picked out of the old records, and had never thought how it came to be. It had been an answer—a weather-beaten *hu* monk kneeling in the palace, answering an emperor's question across four mouths.
+
+The third thing, the Son of Heaven did not ask aloud. He had a few pages of the scripture fair-copied in the library brought up, and looked at them himself. At one place he smiled, turned his face to Duke Fang and said something, Duke Fang answered, the Son of Heaven smiled again, and put the drafts down.
+
+Alopen wrote in the book: "The Son of Heaven came to a place and smiled. I asked my disciple what he was smiling at, my disciple asked the interpreter, and the interpreter would not say."
+
+Jingjing looked at this line, and knew what the Son of Heaven had smiled at. On the draft, the Lord's name was written 移鼠.
+
+At the last, the Son of Heaven asked one thing: you came from so far away; on the road men died, beasts died; now you are here, what do you want?
+
+Alopen answered: "On the road, when someone was thirsty, we gave him water; when someone was cold, we gave him clothes. Here too, we would do the same."
+
+When the Son of Heaven had heard it, he dismissed them.
+
+The end of this page in the book was written after they left the palace, the writing more crooked than before, as if written while walking. It said that outside the palace gate Duke Fang called him back and said one thing. This time the interpreter did not hesitate, but passed it on at once:
+
+"The Son of Heaven was looking at the man."
+
+---
+
+Jingjing read this page once more.
+
+He thought: Alopen's scripture was translated wrong. The Lord's name was written as a rat, the Heavenly Honoured One was borrowed from the Daoists, the arhat borrowed from the Buddhists, the whole page full of other people's words. But Emperor Taizong, having read it, issued an edict saying of his teaching that he *knew it deeply to be right and true, and gave special command that it be taught*.
+
+His own seven fascicles were smooth in every word, good Tang in every sentence; even *to the other shore* was the Buddhists' own ready-made phrase. But the present emperor, having read them, said *the meaning obscure and the language thin*.
+
+He put these two sentences side by side and thought a long time, and understood one thing. Alopen's Tang was wrong, but he knew what he meant to say, and the Son of Heaven, across four mouths, saw a man who knew what he meant to say. His own Tang was not wrong, but he did not know what Prajna meant to say. The present emperor, across one sheet of paper, saw just that.
+
+He turned to the page in the book where the edict came down. The end of that edict ordered the government to build a monastery for Alopen in the Yining Ward. The end of today's sheet ordered him, Jingjing, to transmit the teaching of Mishihe and not meddle in the Buddhists' affairs.
+
+A hundred and fifty years ago, the court said: your Way may go throughout the world.
+
+A hundred and fifty years later, the court said: your Way, go by it yourself, and don't go onto other men's roads.
+
+He thought: these two sentences say the same thing.
+
+He took out the paper again, unfolded it, and looked at that last sentence.
+
+*Jingjing should transmit the teaching of Mishihe.*
+
+He looked a long time. Then he copied that one sentence alone onto a small slip of paper and put it under his inkstone, with one corner showing.
+
+He ground ink, took up his brush, and went on translating his own scriptures.
+
+He translated until it was full dark before he remembered the lamp at the gate, put down his brush, took up his fire-steel, and went out.
+
+---
+
+**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
