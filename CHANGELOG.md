@@ -2,6 +2,15 @@
 
 按时间倒序排列。每条记录写明日期、版本、涉及章节和改动内容。英译章节末尾注明据中文本哪一版译出。
 
+## 2026-11-19　全书译完；英文预告片；阅读网站
+
+- 正文：第二十一章至第六十六章 `021`–`066`（第五卷至第十二卷）及尾声 `067-Epilogue-The-Steppe.md` 译出，均为 v0.1，章末注明据中文哪一版。一卷一次提交。
+- 第五十七、五十九章英文章名改回与 `working/toc.md` 一致（*As Far as the Edict Reaches*、*Packing*）。
+- 早先章节的小修：第十四、十五章 “Master Yisi” 统一为 “Master Yi”；第十四章版本行格式统一；第十六章 “Dragon Queen” 改为 “Purple-Robed Dragon King”；第五十四章一处笔误。
+- `working/names.md` 新增第七节（第二十一章以后的人名、地名、称谓）；`working/translation-notes.md` 新增第七节，列出中文原文里请作者核对的几处。
+- 预告片：`tools/trailer/trailer.py`、`sound.py` 由中文版改写，画面与配乐不变，字幕改英文（Cardo 字体），碑面仍刻中文碑文；输出 `trailer/Luminous_trailer.mp4`（32.6 秒，约 28 MB）。
+- 阅读网站：`tools/site/build_site.py`、`style.css`、`app.js` 由中文版改写——同样的版式、目录、日夜间、字号、朗读（改用英文语音）、已读标记与续读；字体 EB Garamond / Cormorant Garamond。生成到 `docs/`，含预告片与封面页。与中文版一样，网页上不显示各章碑文题记与章末附注。
+
 ## 2026-11-19　英译起步：目录、封面、人名表与第一批样稿
 
 据中文本《景》（ny83427/jing）当前版本译出。目录结构与中文本一致。

@@ -173,3 +173,39 @@
 ---
 
 **Version** v0.1　**Last modified** 2026-11-19（美国中部时间）　**Status** 模拟稿，待作者定
+
+## 七、第二十一章以后新增（2026-11-19）
+
+| 中文 | 英文 | 说明 |
+|---|---|---|
+| 阿撒列 | Azarel | |
+| 玛尔雅 | Marya | |
+| 萨摩安 | Samaan | |
+| 巴鲁玛 | Baluma ★ | 备选 Bar-Luma；暂用合写。 |
+| 裴官人 | Official Pei | |
+| 吕秀岩 | Lü Xiuyan | 碑文书者。 |
+| 吕绍 | Lü Shao | 吕秀岩之孙。 |
+| 李素 | Li Su | |
+| 罗好心 | Luo Haoxin | |
+| 景福 | Jingfu | 法名意为“景福”（Luminous blessing），出碑文“家殷景福”。 |
+| 阿福 | A-Fu | 景福俗名；营中绰号“胡饼”作 Flatbread。 |
+| 安延 | An Yan | |
+| 萨朗 | Salang | 萨尔吉斯之孙。 |
+| 小满 | Xiaoman | |
+| 康真 | Kang Zhen | |
+| 康商人 | Merchant Kang | |
+| 约瑟／以利亚 | Joseph / Elijah | 第六十章起两位波斯老僧。 |
+| 何老人 | Old He | |
+| 石（泾州附籍胡户） | Shi | |
+| 王大头 | Big-Head Wang | |
+| 康阿禄 | Kang Alu | |
+| 薛让 | Xue Rang | |
+| 克姆丹（长安的叙利亚名） | Kumdan | 碑侧叙利亚文。 |
+| 耶兹德卜兹 | Yazdbozid | 伊斯的叙利亚名，只在引碑侧文字时出现。 |
+| 穆护 | the Muhu | 不意译。 |
+| 节儿（吐蕃城主） | the *jie'er* | 斜体音译。 |
+| 克烈 | the Kerait | 尾声。 |
+| 莫贺延碛 | the Moheyan Desert | |
+| 弹筝峡 | the Tanzheng Gorge | 首次出现加释义 “the water of the plucked zither”。 |
+| 坊正 | the warden（of the ward） | |
+| 县尉／书吏 | sheriff / scribe | |
