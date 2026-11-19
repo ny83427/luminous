@@ -1,0 +1,253 @@
+# Volume One　Guo Ziyi
+
+## Chapter 3　Ctesiphon
+
+> Seven times a day they offer praise, and pray widely for the living and the dead.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+It was the third watch by the time Yisi came back from the governor's residence.
+
+What Guo Ziyi had called him for was the road through Jingxing. An edict had come from the court: the Shuofang army was to detach a force to go out first through Jingxing into Hebei, to relieve Changshan. Guo Ziyi had put forward Li Guangbi to go, and how many men Li Guangbi should take, which road, when to set out, had been argued over in the command tent for the better part of the night. Yisi stood in a corner of the tent and did not put in a word; only when Guo Ziyi asked him did he speak. What he spoke of was the road east from Taiyuan: where along it there was water, where the post-stations were, which stretches the caravans were most often robbed on and which way the robbers mostly came from. All this he had asked out of foreign merchants bit by bit over the years and kept in his head.
+
+When it was done the generals dispersed. As he left, Guo Ziyi said one thing to him: in a few days the main army would march east too, and Yisi was to go with it. Yisi said he would.
+
+As he walked back to the west side of the city it began to snow again, not heavily, a fine snow that melted the moment it touched his face. There were no lamps in the lanes, and he walked slowly. The letter lay against his chest the whole way, warmed by his body, its wax seal gone a little soft.
+
+---
+
+The courtyard was very quiet. The fire in the stove had been banked, and only a little dark red was left. The door of the inner room stood open a crack. Yisi pushed it and went in. Jingjing was asleep, curled on his side under the quilt, the edge of it pulled right up under his chin, so that only half his face showed. The lamp had not been blown out; its wick had burned very short, and the flame had shrunk to the size of a soybean.
+
+The bowls on the table had all been washed and stacked upside down at the corner of the table, one of them Jingjing's and one of them his. The bowl Old Duan had drunk his broth from had been washed too and set apart by itself.
+
+Yisi sat down at the table, pulled the wick up a little, and took the letter out from inside his robe.
+
+First he looked for a while at the seal in the wax. It was a cross with a ring of Syriac letters around it. He knew the seal: it was the seal of the archdeacon of the Patriarchate. When he left the city of Balkh at seventeen, that seal had been in another man's hands, and the name on it had not been this one.
+
+He lifted the wax with his fingernail, untied the cord, and opened the letter. It was not long. It was written with a reed pen, the letters fine and close, each stroke pressed down hard, so that in places the pen had cut right through the hide. As soon as he saw the hand he knew who had written it.
+
+"To Yisi, priest in Chang'an, my brother in the Lord:
+
+"The seat of the metropolitan of the province of China has stood empty three years, and still no one is willing to go. For many years the Patriarchate has had no sure report of the affairs of the monastery in Chang'an. The Patriarch commands: the man who has charge of the monastery in Chang'an is to come to the Patriarchate within one year to give account, and set out the true state of the church there: how many in the congregation, what property the monastery has, how many scriptures, whether there are documents from the officials, how matters stand with the court. On this basis the Patriarchate will decide whether to send someone east, and whom.
+
+"That is the church's business.
+
+"There is one other thing. Mother died last winter in the city of Balkh. At the end she asked after you. I told her you were in Chang'an and all was well. I do not know whether all is well with you, but I told her so. She went peacefully.
+
+"If you cannot come, you may send the boy. I have not yet seen him.
+
+"Shapur, at Ctesiphon. In the month of Tammuz, in the year one thousand and sixty-six of the Greeks."
+
+At first Yisi read fast. The part about the church's business he took in at a glance, and his mind was already reckoning how many people there were in the Chang'an monastery, how many scriptures, what dealings it had had with the officials over the years. At the words *one other thing* his eyes slowed; at the word *Mother* they stopped.
+
+He stopped on that word a long time, and then read on one word at a time, more slowly than a child learning his letters. When he had finished, he looked at the date at the end. Tammuz was high summer, and the year one thousand and sixty-six of the Greeks was what the Tang people called the fourteenth year of Tianbao. The letter had been written last summer and had travelled the better part of a year with caravans before it reached his hands. The "last winter" of the letter, reckoned to tonight, was the winter before last.
+
+His mother had been in the ground more than a year. In Chang'an, in Lingzhou, on the bank of the Yellow River, under the walls of Yunzhong, he had eaten every day, said his prayers every day, looked at the road every day, and known nothing.
+
+Yisi folded the letter, laid it on the table, and set a bowl on it to hold it down. He got up, went to the east wall, and knelt in front of the bronze cross.
+
+The room was very cold, and the floor under his knees was ice. He put his palms together before his chest. First he said what he said every night, the few passages from the monastery that his father had taught him, line by line; he had said them for decades and they came without thought. When he had finished he did not get up, and he did not say anything else. He only knelt there with his head bowed.
+
+He thought of his father.
+
+When his father Milis died he had not been there either. That was the winter of the seventh year of Tianbao. He was twenty-three, had lived in Chang'an six years, had a wife at home and a son just learning to walk. In the autumn of the following year a merchant from Tokharistan came to the monastery in the Yining Ward to give alms, and spoke of the old priest Milis of Balkh: he had been buried the winter before, the merchant said; it had snowed the day of the burial, and nearly every believer in the city had come. Yisi had been standing opposite the merchant at the time, holding a bowl of tea he had poured for the guest. His wife came up behind him and took the bowl out of his hands. That night he sat alone in the scripture hall of the monastery all night and did not go home.
+
+That time he had not gone back to Balkh. The road was too long, and the monastery in Chang'an could not spare him. He told himself he would go back in a few years, to visit his father's grave and see his mother. Then his wife fell ill; then his wife died; then Jingjing grew a little bigger every day; then the world fell into chaos. Now his mother was gone too, and in the city of Balkh there was no one left waiting for him to come back.
+
+He thought, too, of the night he left Balkh.
+
+He had left in a great hurry that night. His father called him into the room, took the wooden cross from his own neck and hung it round Yisi's, and said nothing; only he kept his hand pressed on Yisi's head for a long time. His mother wrapped him a bundle of bread, still warm, in two layers of cloth, and pushed it inside his coat. The caravan going east was waiting outside the city gate and would leave before dawn. When he left, his elder brother was not at home. He knew where his brother was, but he did not go there; he could not. After that he never saw his father or his mother again.
+
+He thought of his wife. She had been ill the better part of a year, and toward the end she was nothing but a handful of bones, and still she worried that Jingjing's winter coat had not been padded properly. She died in the spring, when the apricot blossom in the monastery had just come out. He said the prayers for her and closed her eyes with his own hand. Of the three, she was the only one he had been there for at the end.
+
+The cold under his knees crept upward bit by bit, to his waist, to his back. Still he knelt.
+
+He thought of Chang'an. A few people were still left at the monastery in the Yining Ward, and more than half the scriptures in the scripture hall had not been brought out. When he left, Chang'an had still looked peaceful; but now An Lushan had made himself emperor in Luoyang, and between Luoyang and Chang'an there was only Tong Pass. Whether Tong Pass would hold, he did not know; and if it did not, what would become of those few people at the monastery in Chang'an, and of those scriptures, he did not know either. This monastery in Lingzhou was pitifully small; the roof leaked every year, and every year the elder said it must be mended, and every year there was no money to mend it. The Patriarchate wanted him to come and give account, wanted to know how many in the congregation, what property, how many scriptures—and he could not even say how much was left here. He went east and west with Lord Guo, looking at the road for him, and which way the road of his own people went, he could not see. When the war would end, what would be left when it ended, when the monastery could be mended, and who would come to pray in it once it was mended—not one of these could he see.
+
+He opened his mouth, wanting to ask for something: that his father and mother might rest in heaven, that Jingjing might be safe on the road, that the few in Chang'an might still be alive, that this war might end soon. There was too much he wanted to ask for, and when it reached his lips not one thing came out. In the end he said only what the elder Ahad was always saying: Lord, have mercy. He said it once, paused, and said it again.
+
+He knelt like that for about half an hour. The wick burned short again, the flame shrank back, the room went dark, and of the lotus under the bronze cross there was nothing left in the dark but a blurred ring of shadow.
+
+He did not weep. When he got up, both his legs had gone numb past feeling, and he had to lean against the wall for a while before he could walk.
+
+He went and sat by Jingjing's bed, and looked at the child's sleeping face, and sat there until the window paper turned white.
+
+---
+
+Early the next morning Yisi went to the governor's residence again.
+
+Guo Ziyi was eating his breakfast: a bowl of millet gruel, a dish of salted vegetables, a steamed bun. When he saw Yisi come in he pointed to the mat opposite and had someone ladle out a bowl of gruel for him too. Yisi did not sit. He stood and told him what it was, very simply. A letter had come from the Patriarchate in the west, summoning him back to give account. He could not go. He wanted to send his son. He wanted to borrow a man from Lord Guo to escort him.
+
+Guo Ziyi listened while he drank his gruel, and when he had heard it all he put down his bowl and asked: "This Patriarchate of yours—where is it?"
+
+"In the lands of the Arabs," said Yisi. "Between the two rivers, in what the Tang people call the old land of Persia. An old city called Ctesiphon."
+
+"How far?"
+
+"With a caravan, if all goes well, half a year."
+
+Guo Ziyi was silent for a moment, then asked: "How old is your son?"
+
+"Ten."
+
+"A child of ten, and you'll have him travel half a year? There's desert on the road, and snow mountains, and robbers. Aren't you afraid?"
+
+"I'm afraid," said Yisi. "How could I not be? But in a few days Lord Guo marches east, and when this humble monk goes with him, the child will be alone in Lingzhou. The elder of the monastery, Ahad, was going west to the Patriarchate anyway, and at the end of this month a great caravan leaves going west, one that knows the road well; if we miss this one, who knows what year the next one goes. Once the elder has gone, there is no one left at the monastery I could leave the child with. My brother writes too that he wants to see him, and the Patriarchate has a school; when the child gets there he can read the scriptures and learn his letters. How long this war will last, where it will go, this humble monk does not know. To leave him in Lingzhou, I'm afraid; to send him, I'm afraid too. Since I'm afraid either way, I thought, let him go to his uncle."
+
+He said it evenly, as if he had long since decided. In truth, kneeling before the cross in the night, this was what he had turned over and over, and by daybreak he still had not decided; only when he reached the gate of the governor's residence had he set his teeth. He knew it was not a matter of which was the safer choice. It was a wager: a wager that nothing would happen on the road, that he himself would come back, that he would live to see the child return. If he lost the wager—he did not dare think further.
+
+Guo Ziyi nodded. He thought of his own sons. The eldest was already in the army; the younger were still in Chang'an. Chang'an was not safe now either.
+
+"Whom do you want to borrow?"
+
+"Old Duan," said Yisi. "He's travelled the Hexi corridor, he knows what happens on the road. He reads a road true and he reads men true. With the child in his keeping, this humble monk can be easy."
+
+Guo Ziyi smiled a little. "You know how to pick, don't you? One pick and you take one of my old guards." He finished the gruel in his bowl, wiped his mouth, and said: "Take Old Duan. And I'll give you one more. There's a crossbowman in my camp from Hedong called Xu Jing. Lost two fingers to the frost manning a beacon tower, can't draw a heavy crossbow any more. He should have been sent home, but the road to Hedong is cut by the rebels now, and he can't get back, so he's sitting idle in camp. He served in Hexi in his early years, and he's been out west."
+
+Yisi bowed.
+
+Guo Ziyi waved his hand and went on: "There's something I want Old Duan to do for me. These Arabs in the west—I've only heard people talk of them, never seen them. I hear they're very big, bigger than the Turks, bigger than Tibet. Five years ago Gao Xianzhi fought them at Talas and was beaten. How exactly he was beaten, I've asked several men who came back from there, and each tells it his own way. Have Old Duan go and look. Look at their soldiers, their horses, their cities, their people. And come back and tell me."
+
+Yisi said he would.
+
+As Guo Ziyi said all this, his face kept its usual mild look, as if he were mentioning something in passing. Yisi understood well enough. Lending him men to escort his son was Lord Guo's kindness; sending Old Duan to look at the Arabs was Lord Guo's business. Kindness and business—Lord Guo wanted both, and let neither drop.
+
+Guo Ziyi had a tally brought, cast in bronze, the size of a palm, with *Headquarters of the Military Governor of Shuofang* cut on the front and a number on the back. He held it out. "Past Hexi, this won't be much use. But this side of Hexi, if they meet Tang troops, or a checkpoint, they show it and they'll take two fewer sword-cuts."
+
+Yisi took the tally and closed his hand on it. It was ice-cold. He bowed, turned and walked out. As he reached the door Guo Ziyi called him back.
+
+"Yisi."
+
+Yisi turned round.
+
+Guo Ziyi sat there, not looking at him, only at the empty bowl on the table. "That letter of yours," he said. "What else did it say?"
+
+Yisi stood still. In everything he had just said, he had not mentioned a word about his family.
+
+"My mother has died," he said. "Last winter. This humble monk only learned of it last night."
+
+Guo Ziyi nodded, and after a while said: "These next few days, don't come to camp. Stay at home with the boy."
+
+---
+
+Yisi came out of the governor's residence and stood a long time at the gate.
+
+He could not understand how Guo Ziyi had seen it. When he spoke he had thought his voice was level and his face was level, the same as always. Perhaps it was that his eyes were red from the sleepless night; perhaps that he had stood and would not sit; perhaps it was none of these, and Lord Guo had simply seen it. He had lived in Chang'an more than ten years and met no few officials, high and low, Tang and foreign. Some had been courteous to him, some cold, some had looked at him as a curiosity. But never had there been an official who, over his breakfast, heard in one sentence of business that his mother had died.
+
+He thought of what he had seen in the camp these two months and more. When the soldiers spoke of Lord Guo, their voices were not the same as when they spoke of other generals. They feared Li Guangbi, they respected Pugu Huai'en, and behind their backs they had cursed several generals as mean, greedy for glory, men who did not treat soldiers as men. But when they spoke of Lord Guo, they said only "Lord Guo," and when they said it they neither laughed nor cursed, the way country people speak of their old father. Once, when the army had made camp at night, a young soldier keeping the camp gate was stamping his feet against the cold, and Yisi heard him say to the man next to him that if it had been anyone else as military governor, he'd have been loath to give his life; but if Lord Guo wanted it, he'd give it. At the time Yisi had taken it for soldiers' talk and not thought about it. Now, standing at the gate of the governor's residence with that ice-cold tally in his hand, he thought again of the young soldier stamping his feet.
+
+His heart was hot, so hot it stung. He put the tally inside his robe with the letter, bent his head, and walked toward the west side of the city.
+
+---
+
+That evening, Yisi told Jingjing.
+
+When Jingjing had heard it, he said not a word, but bent his head and shovelled in his rice. After a few mouthfuls he looked up and asked: "Pa's not going?"
+
+"Pa can't go. In a few days Lord Guo is going east to fight, and Pa has to go with him."
+
+"You don't kill people when you fight anyway."
+
+Yisi looked at him. Jingjing's eyes were a little red, and his mouth was pressed tight, as if he were sulking at someone.
+
+"Fighting isn't only killing people," Yisi said. "Lord Guo wants Pa to look at the road for him. Where there's water ahead, where there's an ambush, which road goes through—someone has to go and look first. If Pa leaves, these things will have to be done by someone who doesn't know them as well, and with someone else, perhaps a good many more people will die."
+
+Jingjing bent his head and shovelled in more rice. After a while he asked in a small voice: "What's my uncle like?"
+
+Yisi put down his chopsticks and thought about it. "Your uncle is eight years older than I am. When I was small, he taught me my letters, and taught me to ride. He knew his letters better than I did, and he rode better than I did too. Later he went to the Patriarchate and I came to Chang'an, and we haven't seen each other for more than ten years."
+
+"Is he fierce?"
+
+"He's fierce," said Yisi. "When he puts on a stern face, he's much fiercer than Pa. When Pa was little and got a single word wrong reciting the scriptures, he made me copy that page out twenty times, and I wasn't allowed to eat until I'd finished."
+
+A look of some fear came into Jingjing's face.
+
+Yisi went on: "He has only one arm. The right one—he lost it himself. One year there was a struggle at the Patriarchate over who would hold the seat, a fierce one, and someone hired an assassin, who crept into his room at night. The assassin brought his sword down. Your uncle didn't dodge. He raised his right arm to take the blow, and with his left hand drew the knife from under his pillow and cut the assassin's neck with it. The assassin died, and the arm couldn't be saved."
+
+Jingjing's mouth hung open and would not close for a long time. "Why didn't he dodge?"
+
+"He wrote to me afterwards and said that if he had dodged, the assassin would have failed that time and come back another; if he didn't dodge, and cut down one of them, the ones behind wouldn't dare come again."
+
+Jingjing thought about it and said: "Then he was right."
+
+Yisi glanced at him, and said neither that he was right nor that he was wrong. He was silent a moment, then said: "The year I was seventeen, I did something wrong. A very great wrong. Your uncle took it on himself for me. Because he took it on himself, he could never go back to Balkh again. That I could come to Chang'an, that I could have you, that I can sit here and eat this bowl of rice—half of it, he gave me."
+
+Jingjing stared at him. "What was it?"
+
+"When you meet him," said Yisi, "if he wants to tell you, listen. If he doesn't, don't ask."
+
+Jingjing nodded. He had never heard Pa talk like this.
+
+"When you meet him, bow. Whatever he asks, answer it; what you don't know, say you don't know. Nothing he hates more than a lie," said Yisi. "And he'll ask you one thing."
+
+"What?"
+
+"He'll ask you: is the road still open?"
+
+Jingjing blinked. "What road?"
+
+"The road east. The road from Chang'an to Ctesiphon," said Yisi. "Our people, coming from there and going here, all travel the one road. The scriptures come along that road, the letters come along that road, the people come along that road. What your uncle fears most at the Patriarchate is that the road should be cut. Once the road is cut, the people here get no letters from there, and the people there don't know if anyone is left here, and in a few decades nobody knows anybody any more."
+
+Jingjing thought about it a long time and said: "Then I'll say it's open."
+
+"You'll have to travel it once first, to know if it's open."
+
+"Then I'll travel it once and then say."
+
+Yisi nodded, picked up his chopsticks again, took a piece of radish, and put it into Jingjing's bowl. "Eat the radish first. On the road there'll be nobody to put food in your bowl like this."
+
+Jingjing ate it.
+
+---
+
+On the day they left, it was not yet light.
+
+Outside the courtyard gate stood three men, three horses and two camels. The camels carried bales: dry rations, leather water skins, felt blankets, a few rolls of scripture, a packet of herbs, and a small bag of broken silver.
+
+Old Duan stood at the front, holding his grey, and the scar on his face looked deeper in the early light. Behind him stood a tall thin man of thirty or so, a short bow on his back, his right hand drawn up into his sleeve: that was Xu Jing. As soon as Xu Jing saw Yisi he started talking. He said he had checked every water skin one by one last night, and one leaked, and he had changed it; he said that on the road you must never drink unboiled water, must never light an open fire at night, must never trust a smiling face; he said he knew several of the post-masters in Hexi and they could go to them at Liangzhou. He said a whole string of things, and Old Duan stood beside him listening, and the scar on his face did not move once.
+
+The third was the elder Ahad, from the monastery. The elder was over sixty, short, with a thin straggling beard gone white and then yellow. He did not ride a horse but a camel, and carried no weapon of any kind. In his hand he held only a knotted cord, a prayer rope tied with one knot after another, and as he went he turned the knots in his fingers, one knot, one prayer. The mutton broth Old Duan had drunk a few days before was his cooking. He was the oldest man in the monastery at Lingzhou, and had been to the Patriarchate once when he was young; this time he had asked to go himself. He said he wanted to see the two rivers once more before he died.
+
+Yisi came out of the house, with Jingjing behind him. The child wore a new sheepskin coat, which the women of the monastery had sat up all night to make; it was a little big, and the sleeves were turned back twice. On his back was a small bundle with two changes of clothes, a brush, a stick of ink and a roll of paper. Yisi had told him: whatever you see on the road, write it down, and when you come back show it to me.
+
+Yisi gave the bronze tally to Old Duan. Then he took the wooden cross from his own neck. It was a small cross on a leather thong, the wood handled until it was black and shining. He hung it round Jingjing's neck and tucked it inside his collar, against his skin.
+
+"This was your grandfather's," he said.
+
+Jingjing put up his hand and touched it, and said nothing.
+
+Yisi took a letter from inside his robe, one he had written the night before, wrapped in oilcloth and sealed with wax, and put it into Jingjing's bundle at the very bottom. "When you meet your uncle, give it to him with your own hands."
+
+"Mm."
+
+"And on the road, don't drink cold water. If you're thirsty, better to wait till Uncle Xu has boiled some."
+
+Jingjing's face went red to the roots of his ears. "I won't drink cold water on the road."
+
+Beside them Old Duan let out a snort of laughter and quickly turned his face away. Xu Jing did not understand and asked him what he was laughing at. Old Duan said it was nothing, the wind was strong, he had choked on it.
+
+Yisi did not laugh. He squatted down until he was the same height as Jingjing and looked at the child's face, looked a long time. He seemed to have many things to say, and in the end he said only one. "Go. Do as Uncle Duan tells you."
+
+Jingjing nodded, turned, and went to the camel. Xu Jing lifted him up and sat him among the bales, and tied a rope loosely once round his waist and made it fast to the pack frame.
+
+Old Duan swung onto his horse and saluted Yisi with his fists together. "Don't worry, Master Yi. I'll take him there for you, and I'll bring him back."
+
+Yisi returned the salute.
+
+The camel bells rang.
+
+---
+
+Yisi did not see them to the end of the lane.
+
+He stood at the courtyard gate and watched the little train of men and beasts move slowly away. Camels walk slowly, one step and then another, and the bells rang one note and then another. Jingjing sat on the camel's back with his back to him, a small bundle of a boy. When they reached the corner of the lane, Jingjing looked back once. Yisi raised his hand, and lowered it again. The train went round the corner of the wall and could not be seen. The bells could still be heard, further and further, fainter and fainter, until at last they could not be heard.
+
+Only then did the day come up.
+
+He turned and went back into the house. It was very cold inside; the fire in the stove had not been lit. He went to the table and saw the stack of bowls upside down at the corner, one of them his and one of them Jingjing's. He picked up Jingjing's bowl, looked at it, put it into the cupboard, and shut the cupboard door.
+
+Then he took the mace and the sword down from the wall and hung them at his belt, took down the round shield and slung it on his back, and went out toward the governor's residence.
+
+---
+
+**Version** v0.1 (translated from Chinese v0.5)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿

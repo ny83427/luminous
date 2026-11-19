@@ -1,0 +1,195 @@
+# Book One　Alaha
+
+# Volume One　Guo Ziyi
+
+## Chapter 1　Breaking Wind
+
+> He could give away his salary and rewards, and did not hoard them at home.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+In the second month of the fifteenth year of Tianbao, the Yellow River outside Lingzhou was still sealed with ice, and the snow of a whole winter lay on the ice, blown by the wind into long furrows, as if someone had combed it.
+
+On the first day of the first month that year, An Lushan had made himself emperor of Great Yan in Luoyang. By the time the news reached Lingzhou it was late in the first month. Nobody in the city wept, and nobody cursed; only, every household shut its door a little earlier than in other years, the sellers of sesame flatbread packed up their stalls a little earlier, and the watchmen going their rounds at night beat their clappers a little faster. Lingzhou was the seat of the military governor of Shuofang. The city was not large, but it held a great many troops, and all year round the streets smelled of horse dung and leather. By day the soldiers drilled on the parade ground outside the walls, and their shouts came over the wall in gusts; at night the city went strangely quiet, and all you could hear was the wind coming off the river, slapping the paper in every window.
+
+Guo Ziyi had come back from Yunzhong at the beginning of the second month.
+
+In the twelfth month of the year before, he had led the Shuofang army out of Lingzhou and east along the Yellow River, taken the garrison at Jingbian on the way, beaten the rebel general Gao Xiuyan at the river bend, and then swung north and laid siege to Yunzhong. Yunzhong had not yet fallen when an edict came from the court, telling him to lift the siege, go back to Shuofang to raise more men, and then push east again. On the day he rode back into the city the people stood along both sides of the street to look. They saw the old general on his horse, a crust of white frost on his beard, his face the same as always, showing neither the pride of a victory nor the vexation of a wasted march. Some said Guo Ziyi was a man who kept his head; some said he was a deep one; and say what they might, nobody could tell what he was thinking.
+
+Old Duan was one of Guo Ziyi's personal guards and had followed him for more than ten years, and he could not tell either. He knew only one thing: wherever Lord Guo's eyes were looking, that was where his mind was. These days Guo Ziyi often stood alone under the eaves of the governor's residence with his hands behind his back, looking east, for the better part of an hour at a time.
+
+That evening, when he had finished discussing business, Guo Ziyi called Old Duan to him and said: "Seventh, go over to the west side of the city and fetch that foreign monk. I have an errand for him. No need to hurry him. Let him eat first. So long as he's here before the second watch."
+
+Old Duan said he would, threw on his sheepskin coat, and went out.
+
+---
+
+Old Duan had known that foreign monk no more than two months or so.
+
+In the twelfth month, when the army marched east and reached the bank of the Yellow River, Guo Ziyi had taken this man in, and kept him in his service to look at the road. Why Lord Guo had kept him, Old Duan knew; he had been on the slope that day and seen the whole thing from beginning to end. Only it was a long story, and when people in the camp asked him about it he could never be bothered to tell it.
+
+In those two months Old Duan had travelled more road with this foreign monk than many old comrades in the camp travelled in a lifetime. Guo Ziyi had the monk look at the road, and every day before light the monk left camp and went ahead of the army, looking at water, at crossings, at which mouths of which valleys could hide an ambush, at which villages still had people in them. Guo Ziyi did not like to send him alone, and often had Old Duan go along with a few riders. They had lain half the night in snowdrifts together, gnawed flatbread frozen hard as stone together, and once, by the river bend, they had run into a rebel patrol and been chased twenty li together. The monk talked little. His Chinese came slowly, bitten off one word at a time, as if he were afraid of biting wrong. In camp Old Duan was a loud-voiced man, but with the monk he would often go half a day without a word, and not find it dull.
+
+What Old Duan remembered best was that time at the river bend. They had gone out, five riders, to scout a track, and in a fold of the hills they ran into the rebel patrol, twenty-odd riders, who turned and came after them. The monk rode last. All the way he was calm, unhurried, turning several times to look back at the pursuit, and then at the lie of the hills on either side. At a fork he suddenly pulled his horse to the left and plunged into a gully, narrow and steep. Old Duan, behind him, was cursing his mother's name under his breath, thinking the monk had lost his wits—until he followed him in and understood. The bottom of the gully was a stretch of riverbed frozen solid. The Tang horses were all shod with ice nails; the rebels' horses were not. When the pursuers came into the gully their horses slid all over the ice, several went down one after another, and they never caught up again. On the way back to camp Old Duan asked him how he had known the rebels' horses were not shod for ice. The monk said he had looked at the hoofprints they left that morning. That was the day Old Duan understood that when Lord Guo told this man to "look at the road," the road was not all he looked at.
+
+There was a lot of talk in the camp about this foreign monk. Some said he knew sorcery; some said he had been a soldier in the west and killed people, and had become a monk because killing frightened him; and some said he was no monk at all but a spy sent by the Arabs. Old Duan believed none of it. He had seen more than one spy, and a spy's eyes were not like that.
+
+Only, for all the time they had spent together out on the road, Old Duan had never been to his house. When the army came back to the city, the monk went back to his lodging on the west side, and Old Duan went back to his barracks, one at this end of town and one at that. Today was the first time he would knock at the door.
+
+---
+
+On the west side of the city there was a ward where the foreigners lived. The houses were low, the courtyard walls rammed yellow earth, and on top of the walls last autumn's dead grass still stood, shivering in the wind. At the far end of the ward was a small monastery. There was no name-board over its gate, only a cross carved on the lintel, the four ends of the cross all rounded, like four leaves. The people of the city called it the Persian monastery; some called it the foreign monastery. What the people of the monastery called it themselves, Old Duan had heard the monk say once, and had not remembered.
+
+The monk lived in a side courtyard east of the monastery.
+
+When Old Duan reached the gate it was already getting dark. A line of lamplight showed through the crack of the door, and with it came the smell of mutton broth, mixed with radish and pepper, all the more tempting in the cold wind. He raised his hand and knocked twice.
+
+The one who opened the door was the monk himself.
+
+He was not tall—half a head shorter than Old Duan—but broad in the shoulder, so that standing in the doorway he almost filled the frame. His hair was cropped short against his scalp and his beard was trimmed short too, and his cheeks were red from the wind. His eyes were brown and deep-set, and when he looked at you they neither shied away nor pressed. He wore a grey robe washed nearly white, its sleeves rolled to the forearm, and he had a pair of chopsticks in his hand.
+
+He was a little surprised to see Old Duan, then stood aside from the door. "Old Duan? It's cold out there. Come in."
+
+"No, no, I won't come in." Old Duan put his fists together in salute, and while he said it his foot was already over the threshold. "Lord Guo wants you to go over to him. Says he has an errand for you. No hurry, he says—eat first, so long as you're there before the second watch."
+
+"Then you've come at the right time. The food's just on the table," the monk said. "Eat a mouthful with us."
+
+Old Duan had meant to say he had eaten in camp, but the smell of the broth kept working its way into his nose, and the lamplight inside was warm, and when the words reached his mouth they came out: "Well, then, I won't stand on ceremony."
+
+---
+
+The room was very small. A low table, two mats, a brazier with the charcoal burning well. On the west wall hung a small round shield, and below the shield two wooden pegs had been driven in; from one hung a curved sword, from the other a short mace. Old Duan had seen that mace before. Its head was no bigger than a fist, cast iron, with fine grooves chiselled into it one after another. A bow stood in the corner, unstrung, the string coiled and hung on the tip.
+
+The east wall, though, was bare. No weapon hung there. Only in the very centre a small board had been nailed up, and on the board stood a bronze cross.
+
+Old Duan could not help looking at it twice. The cross was not large, a foot or so high, the bronze worn bright. Its four ends were rounded, the same shape as the one carved on the monastery gate, and on each rounded end were three little bronze beads. The strange thing was what lay beneath the cross: it did not stand on a base but on a lotus flower. The petals lay one over another, their tips turned slightly outward, carved so finely you could see the veins in them; and under the lotus was a curl of cloud.
+
+Lotuses Old Duan had seen plenty of. In the Buddhist temples of Lingzhou every bodhisattva in every hall sat on a lotus; the old women selling incense at temple gates had lotuses embroidered on their baskets. But a lotus holding up not a bodhisattva but a cross—in forty-odd years of living, this was the first time he had seen it. He wondered to himself whether this monk's bodhisattva might simply be a cross. Then he thought it was not polite to stare at what a man kept in his own house, and moved his eyes away.
+
+On the table: a bowl of mutton broth, a plate of flatbread, a dish of ginger cut very fine, two bowls, two pairs of chopsticks.
+
+At the table sat a boy of ten or so, thin, his face very pale, his eyes large and black. When he saw a stranger come in he got up at once and made Old Duan a proper bow. The bow was correct in every particular, and it was a Tang bow, not a foreigner's.
+
+"This is my son," the monk said. "Jingjing. Jingjing, this is Uncle Duan. He's with Lord Guo."
+
+"Sit down, sit down, sit down." Old Duan waved both hands. "I'm a rough fellow who runs errands. I'm not worth a bow like that. You bow to me like that and I don't know what to do with my hands and feet."
+
+The monk took another bowl and pair of chopsticks from the cupboard, filled the bowl full of broth and set it before Old Duan, and pushed a flatbread over to him. He sat down again in his own place, but did not pick up his chopsticks at once. He turned round to face the cross on the east wall, put his palms together before his chest, bowed his head, and said a few words under his breath. Old Duan could not understand one word of it; it went burbling along like a mountain stream running between stones. When he had finished, he touched his forehead, his chest, and his left and right shoulders with his right hand, and only then turned back and took up his chopsticks.
+
+The boy did the same, quick and practised, plainly used to it.
+
+Old Duan held his bowl and for a moment did not know whether he ought to touch his own forehead and shoulders too. He thought about it, and in the end did not, and bent his head and took a big mouthful of broth. It was very hot and very salty. The mutton was stewed soft as mush, and the radish had soaked up the broth and melted as soon as it touched the tongue.
+
+"Good broth!" He smacked his lips. "If the cooks in camp could do this, the men would cut off two more heads apiece in every fight."
+
+"One of the elders at the monastery made it," the monk said. "He can cook. I can't. When I make broth, Jingjing takes one mouthful and won't take another."
+
+The boy said in a small voice, "Pa's broth is bitter."
+
+---
+
+The three of them ate for a while.
+
+As he ate, Old Duan watched father and son. The monk put a piece of radish into his son's bowl and said, "Eat the radish too. Don't just pick out the meat." The boy looked at the radish, then at his father, and ate it after all. The monk picked up a piece of meat, and this time the boy held out his own bowl for it.
+
+Something stirred in Old Duan's chest, and he thought of his own son. If that child had lived, he would be about this age now. He bent his head and took another mouthful of broth. It was a little too hot, so hot his eyes stung.
+
+After a while he found something to say. "The two of you—at home, do you speak Tang talk too, usually?"
+
+"At the table we speak Tang talk," the monk said. "The rest of the time he can speak whatever he likes. At the table, just for that while, only Tang talk."
+
+Old Duan was puzzled, but did not like to ask. The monk went on of his own accord, very slowly. "He was born in Chang'an, and he'll have to live his life among Tang people. If his Tang talk isn't good, people will know as soon as he opens his mouth that he's a foreigner's child, and he'll be the worse for it. I want him to speak it better than the Tang people do."
+
+The boy kept his head down and muttered something, not loud, but not trying to keep it quiet either. "My Tang talk's already better than Pa's. Speaking Tang talk at the table is so Pa can practise."
+
+The monk looked at him once. His face did not change; only his chopsticks paused for a moment on the rim of his bowl.
+
+This time Old Duan really could not hold it in, and let out a "Ha!" of laughter. When he laughed, the scar that ran slantwise from his left brow down to the corner of his mouth pulled half his face along with it, while the other half did not move, which made him look rather frightening. The boy glanced up at him and quickly looked down again, but the corners of his mouth curled up a little, on the quiet.
+
+The monk did not laugh. He only pushed the dish of ginger toward his son.
+
+---
+
+Only now did Old Duan notice that a letter lay pinned under the lamp stand.
+
+It was written on some yellowish-brown hide paper, folded into a long strip and tied with thin cord, and on the knot was a blob of black wax. A seal had been pressed into the wax; in the lamplight its pattern could not be made out clearly, except that round its edge ran a ring of curling letters. They were not Chinese, and they were not any Turkic or Uyghur letters he had ever seen.
+
+The letter had not been opened.
+
+While they ate, Old Duan saw the monk's eyes go to the letter twice, and each time only for a glance before he looked away.
+
+"From the west?" Old Duan asked.
+
+"It came yesterday with a caravan."
+
+"Then why not open it and have a look? It's come a long way."
+
+The monk paused. "I'll open it after we eat."
+
+Old Duan said "Oh," and asked no more. At first he took the monk for a particular sort of man, who did one thing at a time—eat when you eat, read when you read. But watching him glance at the letter again and again, a glance and then away, it did not look like being particular. Old Duan had seen plenty of men in the army get letters from home. Some snatched them and tore them open; some carried them inside their coats for days and did not dare. This monk was the second kind.
+
+The boy glanced at the letter too, a little longer than his father had.
+
+---
+
+They were halfway through the broth when there was a sudden *pff* in the room.
+
+It was not loud. It was muffled and short. But the room was so small and the table so close that all three of them heard it perfectly.
+
+The boy froze where he sat, his chopsticks hanging in the air. His pale face went red from his forehead to the roots of his ears, red and shining. He fixed his eyes on the broth in his bowl and did not dare move at all, as if, so long as he did not move, that sound had never happened.
+
+Old Duan was taken aback for a moment; then he slapped his thigh and burst out laughing, laughing so hard the broth slopped over the edge of his bowl. "Good lad! I was wondering who was letting off thunder under the table! Muffled it may be, but there's breath enough behind it. Come to camp tomorrow and beat the drums—you'll do better than half the men, who've no puff left in them after supper!"
+
+The boy went redder still. Tears welled up in his eyes. He kept his head down, and his voice was as thin as a mosquito's whine. "Pa. It's shameful."
+
+The monk put down his chopsticks. He did not look at Old Duan, only at his son. "Did you drink cold water again last night, when no one was looking?"
+
+The boy did not answer. After a long while he gave a very small nod.
+
+"There you are, then. You drink cold water, your belly makes trouble, the trouble makes wind, and once it's out you feel better. That's your belly's doing. You didn't do it on purpose." As he spoke he pushed the dish of ginger right up to his son's bowl. "Eat a few strips of ginger. Warm yourself up. From now on, if you're thirsty at night, wake me and I'll boil you some water. Don't go dipping from the vat yourself." He paused, then said: "You did it, and you said you did it. You didn't put it on anyone else. What's shameful about that? What shames a man is a lie, not wind."
+
+He said it very slowly, one word at a time, the way he always spoke. The boy picked up a clump of ginger with his chopsticks and stuffed it into his mouth. Probably it was too hot for him, for he drew a sharp breath, and the heat of it drove his tears back in.
+
+Old Duan sat holding his bowl and said the words over again to himself. What shames a man is a lie, not wind. He felt there was something in it, and yet when he thought about it, he could not say exactly what. He only felt that the way this monk talked was not the way the men in camp talked.
+
+---
+
+The boy still had his head down, and his ears were still red.
+
+Old Duan put his bowl down, wiped his mouth, cleared his throat, and put on the air of a man about to teach some serious learning. "Jingjing, your pa's quite right. But your Uncle Duan will teach you one more thing. There's a refined name for this business."
+
+The boy could not help raising his head.
+
+"Some years back, a scholar came to the camp—came down from Chang'an to write documents for the headquarters. His belly was bad, like yours. Let them off every other day. But when he let one off he didn't say he'd let one off. He said he'd been *paying empty respects*." Old Duan said it word by word, with great clarity and proper tones. "Pay-ing emp-ty re-spects. I asked him what paying empty respects meant. He said: when you go to the privy, that's called 'going to pay your respects'—that's how they put it in Chang'an. And empty respects, well, that's when you've made the trip for nothing. All sound, no goods. That scholar was in camp the better part of a year. Of all the learning he talked, I don't remember a word—only those words, and I've remembered them to this day."
+
+The boy burst out laughing.
+
+The monk, though, repeated it after him, quite seriously. "Paying… empty… respects." He thought about it. "What are respects?"
+
+"How would I know?" Old Duan glared. "It's what the scholar said. You're asking me? Anyway, from now on, if either of you two makes a noise, you say you've been paying empty respects. Nice and refined, and nobody can find fault with it."
+
+The monk nodded, as if putting the words away in his heart. The boy was laughing so hard he had collapsed onto the table, his shoulders shaking.
+
+Old Duan warmed to it the more he talked. "That's nothing. Last winter at the river bend, twenty-odd men crammed into one tent, and supper was boiled beans. Come midnight it was like beating drums. The loudest of the lot was a crossbowman from Hedong called Xu Jing, who's the greatest stickler for the rules you ever saw. Next morning we all laughed at him, and he wouldn't own up to it for his life. Later we all put money together to beg the cook not to boil beans again, and he put in more than anyone, and still wouldn't own up."
+
+The boy laughed again, and only when he had finished laughing did he remember what he had done himself, and his face went red again—but this time the red was not the same as before.
+
+The monk still did not laugh aloud. But Old Duan saw that when he bent his head to pick up some food, the corner of his mouth moved once, and a little later, moved again.
+
+---
+
+The room was warm again. The charcoal in the brazier was burning just right, and a thin steam rose from the bowl of broth.
+
+Old Duan drank a few more mouthfuls, his eyes going again and again to the boy. Ten years old, born in Chang'an, come all this way with his father to Lingzhou on the frontier; thin and frail, a weak stomach, and yet quick of tongue and with good manners. Old Duan thought of that snowy day two months and more ago, of the ring of carts on the bank of the Yellow River, and there was something he wanted to say, which turned over several times on the tip of his tongue.
+
+At last he spoke. He did not say it to the monk; he said it to the boy. "Jingjing, your Uncle Duan has a question for you. Would you like to know how your uncle came to know your pa?"
+
+The boy blinked. "I know. I was there that day. I was under the cart."
+
+Old Duan shook his head, and grinned, and the scar pulled half his face along again.
+
+"Lying under a cart, what can you see? A whole lot of horses' legs," he said. "Your Uncle Duan was up on the slope that day. What he saw was your pa."
+
+---
+
+**Version** v0.1 (translated from Chinese v0.5)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿

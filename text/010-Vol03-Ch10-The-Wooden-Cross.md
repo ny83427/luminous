@@ -1,0 +1,493 @@
+# Volume Three　The Pamir Road
+
+## Chapter 10　The Wooden Cross
+
+> Who holds the hidden pivot and makes and transforms all things, who gives the holy ones their wonder and is honoured by them as the Origin—who is this but our Triune Wonder, the beginningless true Lord, Alaha!
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+Down from the Pamirs, the elder Ahad seemed to become another man.
+
+The speech of the people they met on the road changed little by little. First it was Tokharian, then Persian crept into it, and then one evening an old man driving a donkey sat down to rest by the road, opened his mouth, and said a grace before eating—in Syriac.
+
+The elder Ahad heard it from his camel and sat bolt upright. He jumped down from the camel, his knees gave way so that he nearly went down on them, and he did not care; he ran over to talk to the old man. The two of them talked a long time, the old man laughing and the elder laughing too, his beard jerking up and down.
+
+That night Jingjing heard him humming a tune on his felt. It was very slow and very short, and when it was finished he began it again. Jingjing asked what he was humming, and he said it was what the fishermen of his village sang when they hauled in their nets. His father used to sing it, and he had sung along as a child. Fifty-odd years, and the words were gone, but he still remembered the tune.
+
+Xu Jing said the elder had been walking faster these last few days.
+
+Old Duan said that was an old horse catching the smell of its own manger.
+
+The elder Ahad heard it, and was not offended. "Seventh Son Duan is right," he said.
+
+---
+
+Balkh was smaller than Jingjing had imagined.
+
+When Pa talked of Balkh he always said it was big, the greatest city in Tokharistan, with a hundred temples, a thousand markets, ten thousand wells. Jingjing rode in through the city gate with the caravan and saw a spread of low mud houses, with a few broken stupas among them, their tops fallen in and grass growing on their sides. There were not many people in the city. Among those going back and forth in the streets were Arab soldiers in black, curved swords at their waists, black cloth wound round their heads.
+
+The elder Ahad said that over the last ten-odd years there had been several wars here. The Arabs came; the Türgesh came; the Arabs came again. The walls fell and were mended, were mended and fell again.
+
+"When your pa left," said the elder, "the city was still sound."
+
+---
+
+They found the church in the south of the city.
+
+It was very small, smaller than the one at Lingzhou. There was a cross carved on the gate, its four ends rounded, like four leaves. The gate was open. In the courtyard there was a mulberry tree, and under the tree sat an old man mending a shoe.
+
+The elder Ahad went up and said a few words to him in the local tongue. The old man looked up, peered at them with narrowed eyes, bent his head to his shoe again, and said something.
+
+The elder turned to Jingjing. "He says the priest of the church died the year before last. There's no priest now, only him keeping it."
+
+Jingjing stood at the gate, not knowing whether he should go in or not.
+
+The old man looked up again, and this time he saw Jingjing. His gaze rested on Jingjing's face a moment, then moved down, to his neck. Jingjing's wooden cross had slipped out of his collar and hung on his chest.
+
+The old man put down the shoe and stood up.
+
+He came over to Jingjing, bent down, put out one finger and touched the wooden cross, lightly. His finger was very thick and rough, the nail rimmed with black dirt. He turned the cross over and looked at the back.
+
+On the back a small mark was cut, a curved stroke with a dot trailing beneath it, worn nearly flat. Jingjing had always thought it was a scar in the wood.
+
+The old man looked at it a long time, then raised his head, looked at Jingjing, and said a name.
+
+Jingjing understood it. It was his grandfather's name. Milis.
+
+The old man turned and went into the sanctuary, and after a while came out with another cross in his hand. It was wooden too, a little bigger than Jingjing's, its four ends rounded too, handled black and shining too. He turned it over and showed Jingjing the back.
+
+On the back the same curved mark was cut, with the same dot trailing beneath.
+
+The elder Ahad leaned over to look, and said: "It's a Syriac letter. *M*. M for Milis."
+
+The old man said a few things, and the elder put them into words for Jingjing: in the old days, the crosses in the church were all carved by the priest Milis himself. Every one he carved, he cut an *M* on the back. The church once had a dozen of them; in the wars they were burned, lost, and now only this one in the sanctuary was left.
+
+"And this one round your neck," said the elder.
+
+Jingjing looked down at the cross on his chest and put out his hand and felt the scar on the back. It was not a scar after all.
+
+The old man asked something else. The elder said: "He's asking whose child you are."
+
+Jingjing said: "Yisi's. My pa is called Yisi."
+
+The old man's face changed.
+
+He looked at Jingjing, his lips moved, and he said something, very low. The elder did not put it into words at once; only after a while did he say: "He says: the young one… he's still alive."
+
+"What else does he say?"
+
+"Nothing," said the elder.
+
+The old man had already bent his head and gone back to mending his shoe.
+
+---
+
+The old man took them to see the graves.
+
+They were on a patch of open ground behind the church, a dozen graves, all mounds of earth, each with a stone set before it carved with a cross and a name. His grandfather's and grandmother's graves lay side by side. His grandfather's mound had long since been flattened and was overgrown with camel thorn; his grandmother's was still yellow earth, the grass not yet grown over it.
+
+On both stones, below the cross, was cut that curved *M*.
+
+Jingjing stood before the graves and did not know what to do.
+
+He had never seen his grandfather, nor his grandmother. Pa seldom spoke of them. He knew only that his grandmother had had two sons, the elder gone to the two rivers and the younger to Chang'an. After his grandfather died she had stayed alone in Balkh, keeping her husband's grave, for six more years.
+
+The elder Ahad changed into a white robe. He had carried it all the way from Lingzhou, wrapped in oilcloth the whole time, and Jingjing had never seen him wear it. He stood before the two graves, opened his book, and read a long passage. He read very slowly, word by word, not the way he prayed on the road. Jingjing could tell that this was what was read for the dead.
+
+In the middle of it the elder stopped and looked back at Jingjing. Jingjing understood, and knelt. He did not know what to say, so he said the evening praises Pa had taught him.
+
+Old Duan and Xu Jing stood behind. Old Duan took the felt cap off his head and held it in his fist. Xu Jing wanted to say something, glanced at Old Duan, and did not.
+
+When it was done Jingjing stood up, took the roll of paper from his bundle, found a blank place, and with a stick of charcoal traced the writing on the two stones. It was Syriac and he could not read all of it, so he copied it as it looked, stroke by stroke, very slowly. When he came to the *M*, he traced it twice.
+
+That night, beside the writing he had traced, he wrote a line in Chinese:
+
+"Grandfather's and Grandmother's graves. Behind the church in Balkh. Grandfather's cross and my cross are the same on the back. I've been to see them for Pa."
+
+---
+
+They stayed five days in Balkh.
+
+The third day was the day of the seventh-day offering. The church had had no priest for two years, and the few believers left in the city, when that day came, only came by themselves and knelt a while in the sanctuary and went away. The elder Ahad had the old man spread the word that this time there would be someone to lead the service.
+
+That morning eleven people came. Old people, women, and a baby carried in someone's arms. The church could not afford to light many lamps, and lit only three.
+
+The elder Ahad, in his white robe, stood before the sanctuary and went through the service from beginning to end. When he came to the offering bread, he broke a loaf and put the pieces one by one into their hands. One old woman took her piece and did not eat it, but held it in her fist and knelt on the ground and wept. The old man stood at the door wiping his eyes on his sleeve too.
+
+Jingjing knelt at the very back. He had seen the service in Chang'an and in Lingzhou, but he had never seen anyone weep like that on being given a piece of bread.
+
+When the service was over, though, the elder was not very pleased.
+
+He called the old man over and talked to him a good while, fast, frowning. Jingjing could not follow, and asked him that evening. The elder said the people here read the prayers with the Syriac all wrong; several sounds had gone crooked, and they had been reading them crooked for decades with no one to correct them. He had spent the better part of the day teaching the old man, and the old man could not learn it, and that made him impatient.
+
+"If they read it crooked, can't the Lord understand?" Jingjing asked.
+
+The elder opened his mouth and found no answer.
+
+He sat a while, and then laughed first himself, and shook his head. "The Lord understands. It's I who can't bear to hear it."
+
+But the next day he spent the whole morning teaching the old man again.
+
+---
+
+From Balkh they went west for more than two months.
+
+Past Merv, past Nishapur, past one city after another, one desert after another. There were more and more people in the cities, and their speech grew harder and harder to follow. Jingjing filled his roll of paper, and the elder Ahad bought him another in a market.
+
+The further west they went, the more churches there were along the way. In the city of Merv there was a great church where everyone spoke Syriac. The elder Ahad stayed there three days, sitting in the courtyard at night with the old priest of the church, talking until midnight.
+
+He was asking after people he had known in his day. His teachers at the Patriarchate; the fellow students he had read the scriptures with; the few who had come east with him and later gone back.
+
+Jingjing could not follow what they said; he could only see the elder's face. The elder asked a name; the old priest thought, and shook his head, or said something. The elder nodded, and turned a knot on the cord in his hand, and asked the next.
+
+Toward the end, he turned the knots more and more slowly.
+
+Old Duan was watching all the way.
+
+He watched the Arab soldiers: how they made camp, how they posted sentries, how they rode. The Arab soldiers wore black and carried black banners, and passed along the road troop after troop; their horses were tall and strong, stronger than the horses of Shuofang. He saw their bows, shorter than Tang bows and more sharply curved. He saw their swords, curved and long, with patterns rippling along the blades like waves on water.
+
+One evening, for the first time, he came to Jingjing of his own accord, squatted beside him, and watched him write.
+
+"That paper of yours," he said. "Could you put something down for me?"
+
+"Put what down?"
+
+"Put: Arab soldiers wear black, carry black banners, strong horses, short bows, curved swords. Don't dig ditches round camp; sentries posted on all four sides, and posted far out."
+
+Jingjing wrote it down word by word. There were some characters he could not write, and Old Duan taught him. Old Duan did not know many characters, but he knew these.
+
+"What do you want it written down for?" Jingjing asked.
+
+"To show Lord Guo when we get back," said Old Duan. "Lord Guo likes this sort of thing."
+
+---
+
+In the ninth month they reached Ctesiphon.
+
+Ctesiphon stands on the bank of the Tigris, a very old city.
+
+It was the elder Ahad who saw the river first.
+
+That day they were going west along a dirt road, and when they came to the top of a slope the elder suddenly reined in his camel. Below the slope was a stretch of level ground, and on it a river, very wide, its water yellow, flowing very slowly, with rows of date palms along both banks and their shadows lying in the water.
+
+The elder sat on his camel looking a long time and did not say a word.
+
+Then he got down from the camel and walked alone down the slope to the river, squatted down, and put both hands in the water.
+
+Jingjing wanted to go after him, and Old Duan caught hold of him.
+
+"Let him be by himself a while," said Old Duan.
+
+The elder squatted by the river a long time. From the slope you could see only his back, a small huddle wrapped in that old sheepskin robe, not moving.
+
+When he came back his eyes were red and half his sleeve was wet. He said nothing, climbed up on his camel, and took up his cord.
+
+They had gone some way before he said: "This water comes down from where our village is."
+
+---
+
+In the city there stood a vast arch, which had been part of the palace of the old kings of Persia. The palace had long since fallen, and only this one arch was left, standing by itself, frighteningly high. A dozen horses could have passed under it side by side. Jingjing stood under the arch looking up, looked till his neck ached, and still could not see the top.
+
+The elder Ahad stood beside him and looked up too.
+
+"I came here when I was twenty," said the elder. "Came with people from the village. The first time I saw this arch I ran underneath it, ran through and ran back, three times. They all laughed at me."
+
+He kept his head raised and looked a while longer.
+
+"In those days I thought it was the highest thing under heaven."
+
+The Patriarchate was not in the middle of the city but by the river on the east side: a compound enclosed by earthen walls, with a few rows of buildings and a church, a cross set up on the church roof. The walls were not high, but very thick. At the gate stood two men in grey robes holding short staves, who came forward and stopped them.
+
+The elder Ahad went up and spoke to them in Syriac.
+
+The two young gatekeepers listened and glanced at each other, and the corner of one's mouth twitched, as if he were trying not to laugh. Jingjing could hear that the elder's Syriac was not like theirs: several sounds were drawn out long, and for some words he used different expressions from theirs.
+
+The elder saw the twitch of the man's mouth too. He paused, finished what he had to say, and brought out Yisi's letter.
+
+The two of them looked at the wax seal on the letter, then at Jingjing, and stood aside.
+
+Inside the compound, the elder asked an old deacon who was sweeping whether the elder Elijah, who used to teach the scriptures, was still there. The old deacon said he had been dead twenty years. The elder asked after Simeon, who had studied with him. The old deacon thought a long time and said he did not know the man.
+
+The elder nodded and asked no more.
+
+---
+
+That afternoon, in a small room in the compound, Jingjing met his uncle.
+
+The room was very small, smaller than their house at Lingzhou. The walls were white and bare, except that a wooden cross was nailed to the east wall. In the room there was only a wooden desk, a mat and an oil lamp. The lamp was lit; though it was daytime, the room was very dim.
+
+As soon as Jingjing came in, the first thing he saw was the cross.
+
+Its four ends were rounded, like four leaves.
+
+His heart jumped. He thought of the cross in the old man's hands in the church at Balkh, and of the one on his own chest. He did not dare ask, and took his eyes off the wall.
+
+Behind the desk sat a man.
+
+He was very thin, thinner than Pa, and taller too. His hair and beard were half white, cut very short. His face was long, the cheekbones high, the eyes deep-set, and the eyes were brown, exactly like Pa's.
+
+His right sleeve was empty, knotted at the elbow.
+
+Jingjing did as Pa had taught him: went to the front of the desk, knelt, and bowed. As he lowered his head, the wooden cross slipped out of his collar, swung once, and hung before him.
+
+The man did not tell him to rise.
+
+He looked at Jingjing, looked a long time. His gaze rested on Jingjing's face a while, then fell to the cross, and rested there longer.
+
+"He gave you that?" the man said. He spoke the dialect of Balkh. Jingjing could understand it; it was what Pa spoke at home.
+
+"Pa said it was Grandfather's," said Jingjing.
+
+The man said nothing more.
+
+After a while he asked: "Why didn't your father come?"
+
+Kneeling there, Jingjing said what Pa had taught him to say. Pa was with Lord Guo, Lord Guo was at war, Pa could not leave.
+
+He took Pa's letter from inside his coat and held it up in both hands.
+
+His uncle took the letter with his left hand, laid it on the desk, and did not open it.
+
+"There's war in the east," said his uncle. "Tell me what it's like."
+
+---
+
+Jingjing had not expected his uncle to know even less than he did.
+
+Caravans from the east took half a year on the road, and the word they carried passed from hand to hand to hand, so that by the time it reached the Patriarchate all that was left was *there's war in the Tang*. His uncle asked one thing after another, in great detail.
+
+Where did the rebels rise?
+
+Fanyang, said Jingjing. It was An Lushan. Pa says he's a Hu, so fat he can't ride a horse.
+
+How far had they got?
+
+Luoyang was lost. Lost in the twelfth month of last year. In the first month An Lushan made himself emperor in Luoyang.
+
+And Chang'an?
+
+Still holding, said Jingjing. Geshu Han is holding Tong Pass. When we left, Chang'an was still holding.
+
+When he had said that he stopped. It came to him that when they left Chang'an was still holding, and now the better part of a year had passed, and he did not know whether it still was.
+
+His uncle looked at him, and did not finish the thought for him.
+
+Then he asked about Guo Ziyi. What sort of man was Guo Ziyi, how did he treat Pa, how many soldiers were in the camp, where did the soldiers come from? He asked how many people there were in the monastery in Chang'an, how many in the monastery in Lingzhou, and of those how many were Hu and how many Tang. Jingjing answered each one. Some things he knew, some he did not. What he did not know, he said he did not know.
+
+When his uncle heard him say he did not know, his eyebrows moved slightly, and he said nothing.
+
+At the very end his uncle paused, and asked the question Jingjing had been waiting for all along.
+
+"Is the road still open?"
+
+Jingjing raised his head.
+
+He thought of the Yellow River outside Lingzhou, where you could not stop on the ice. He thought of the mound beyond the Jade Gate, the arrowhead in Uncle Duan's arm, the scripture held to the elder Ahad's chest. He thought of the Pamirs, the wind in the passes, the elder's cold hand under the rock face. He thought of the two graves behind the church in Balkh, one overgrown with camel thorn, one still yellow earth.
+
+"It's open," said Jingjing. "I've travelled it once."
+
+His uncle looked at him.
+
+On that long, thin, deeply lined face, there was no expression at all. But Jingjing saw that the letter under his uncle's left hand had been crumpled at one corner in his grip.
+
+"Get up," said his uncle.
+
+---
+
+That night Old Duan said to Jingjing: that uncle of yours is like a soldier.
+
+"How?" Jingjing asked.
+
+"The way he asks questions," said Old Duan. "Just like Lord Guo questioning a scout. Doesn't ask if you're tired, doesn't ask if you're scared. Only asks how far they've got, where the men are, how many."
+
+Jingjing thought about it and said: "Pa said he's fierce."
+
+Old Duan said "Mm," and did not take that up. After a while he said: "He questioned you all afternoon—how many soldiers Lord Guo has, how many people in the monastery—and not one word about how your pa's keeping."
+
+Jingjing thought about it. It seemed to be so.
+
+"The year I went off to be a soldier," said Old Duan, "my pa sent letters by someone twice. Both times all he asked was whether the camp fed us enough." Having said that, he went off to feed the horses.
+
+Jingjing wanted to ask his uncle about what had happened the year Pa was seventeen. He thought about it all evening, and remembered Pa saying, *if he doesn't tell you, don't ask*. So he did not ask.
+
+The elder Ahad did not come to eat that evening.
+
+Jingjing went to look for him and found him sitting alone at the foot of the compound wall, his back against it, facing the river. It was dark; the river could not be seen, only heard. He held the knotted cord in his hand and was not turning it.
+
+Jingjing sat down beside him.
+
+The elder did not turn his head. After a long while he said: "I studied the scriptures here three years. In this whole compound there isn't one person who knows me any more."
+
+Jingjing did not know what to say. He took the elder's hand, as he had under the rock face in the Pamirs, and held it.
+
+---
+
+In the days at the Patriarchate Jingjing had nothing much to do, and every day went about by the river with Old Duan, watching men fish, watching men up in the date palms picking dates.
+
+One afternoon, coming back from the river, he saw the elder Ahad standing at his uncle's door. The elder stood a while, raised his hand to knock, lowered it again, walked up and down before the door twice, and only then knocked. The door opened, and he went in.
+
+Jingjing waited in the courtyard. He waited a long time; the sun moved from one end of the compound wall to the other before the door opened again. The elder came out, nothing to be read on his face, walked past Jingjing as if he did not see him, and went straight out of the compound gate.
+
+That day he sat by the river again until dark.
+
+Jingjing asked Old Duan what the elder had gone to see his uncle about. Old Duan said: grown-ups' business; you keep out of it. But he himself looked toward the river several times.
+
+---
+
+After ten-odd days his uncle sent for Jingjing again.
+
+This time he was not alone in the room. Beside the desk stood several men in grey robes, all well on in years—fat and thin, tall and short.
+
+His uncle said: "The Patriarch has agreed. The Patriarchate is sending people back with you."
+
+Jingjing's heart jumped.
+
+"Twenty-four monk-soldiers," said his uncle, "and seven teachers. The teachers are all past forty-two, all ordained at the Patriarchate, all able to preach, baptise and set rules. The monk-soldiers are to guard the road, and the men."
+
+He paused, and went on: "Your father writes that in the monastery at Chang'an people are frightened, many have already scattered, and scriptures have been lost. These men are not going to enjoy themselves. They're going to find the scattered ones and bring them back, one by one."
+
+"But Chang'an…" said Jingjing.
+
+"Not into Chang'an at first," said his uncle. "It will take you half a year to get to Xizhou. Half a year from now, nobody knows whose Chang'an will be. You stop in Xizhou first and wait there. Xizhou is close to Hexi, news comes quickly, and the war won't reach it soon. When things are settled in Chang'an, then go in."
+
+He stopped, and went on: "The elder Ahad is not going back to Lingzhou. He came and told me. Forty years in the east, and he wants to spend what's left of his days on this side. I asked the Patriarch for him, and the Patriarch has agreed."
+
+Jingjing looked up.
+
+His uncle did not look at him, but pointed with his left hand at the men beside the desk. "These are the seven teachers. They can't speak Tang speech. While you wait in Xizhou, you teach them."
+
+Jingjing stood stock-still. "I teach them?"
+
+"You speak Tang speech, you write Tang characters," said his uncle. "They don't. If you don't teach them, who will?"
+
+Standing there, Jingjing suddenly understood. On the road back, the elder would not be there. The only one who could speak Tang speech would be himself.
+
+Jingjing looked at the seven men. The seven men looked back at him; some were smiling and some were not.
+
+His uncle said: "One more thing."
+
+"Of the seven," said his uncle, "there is one who asked to go himself. The others I sent; he alone asked. When your father was in Chang'an, he was in Chang'an too. He knows your father."
+
+The man standing at the very end took a step forward and bowed to Jingjing.
+
+His face was very clean, without a beard, and he looked no more than thirty-odd, a good deal younger than the others among the seven. But there were already white threads in his hair.
+
+"I am called Yonan," the man said. He spoke Tang speech, very slowly, very rawly; but he could speak it.
+
+Yonan looked at Jingjing, looked very carefully. Then he smiled a little, and stepped back.
+
+Jingjing's eyes followed him back, and fell on a man standing at the other end. This one had a very high brow ridge, a very straight nose, and eyes like two stones. As Yonan stepped back, that man glanced at Yonan—only one glance—and looked away.
+
+---
+
+When the others had gone out, his uncle told Jingjing to stay.
+
+"Take off the cross," he said.
+
+Jingjing hesitated, then took the wooden cross off his neck and held it out in both hands.
+
+His uncle did not take the cross; he looked only at the thong. It was the one Pa had threaded; all along the road it had been soaked with sweat and blown by wind, and it was worn furry, and in one place so thin it was nearly through.
+
+His uncle took a new leather thong from under the desk and laid it on the desk. With his left hand he undid the old thong, and threaded the new one through the little hole at the top of the cross. Then he bent his head, took one end of the thong in his teeth, held the other end in his left hand, wound it once, wound it again, pulled, and the knot was tied. Tied very tight and very neat.
+
+With his left hand he held the cross out to Jingjing.
+
+"Put it on," he said.
+
+Jingjing put on the cross and tucked it inside his collar, against his skin, just as Pa had when he first put it on him.
+
+He looked up, and his uncle had already bent his head to the things on the desk.
+
+---
+
+That night Jingjing found the elder Ahad by the river.
+
+The elder was still sitting at the foot of that stretch of compound wall, his back against it, facing the river. Jingjing ran over and squatted down in front of him.
+
+"Elder," he said, "you're not going back?"
+
+The elder looked at him and nodded.
+
+Jingjing said "Ah." He thought about it, and slowly his face broke into a smile.
+
+"Then you can see this river every day," he said. "Didn't you say this water comes down from where your village is? And you can go back to your village and see the fig tree."
+
+The elder looked at him and said nothing.
+
+"Don't be unhappy," said Jingjing. "Uncle Duan says you're an old horse that's caught the smell of its manger. If you've caught the smell, you should go back to the manger."
+
+The elder's lips trembled. He reached out and pulled Jingjing to him and held him tight.
+
+He held him very tight. Jingjing's face was buried in that old sheepskin robe, and he smelled mutton fat and mint. He felt the elder's chest heaving, and only after a while did he understand that the elder was crying. Crying without a sound, only shaking.
+
+"I promised your pa," said the elder, his voice muffled against the top of Jingjing's head, "I'd bring you back."
+
+"Uncle Duan will bring me back," said Jingjing. "And Uncle Xu."
+
+"The church at Lingzhou…" said the elder. "The roof's still leaking."
+
+"Pa will mend it," said Jingjing. He thought about it and said, "If Pa can't mend it, I'll go back and help him."
+
+The elder, crying, laughed a little, and his beard was all tears.
+
+He let Jingjing go, wiped his face on his sleeve, and said: "Get out your paper."
+
+---
+
+That night, by the oil lamp in the room, Jingjing filled a whole sheet. The elder sat beside him and told him one thing after another as it came to him.
+
+"The church keys: one is with your pa, one is behind the stove in a crack in the wall, stopped up with a brick."
+
+"The rafter in the northeast corner is rotten; when it rains it leaks; put a basin under it. When you mend the roof, don't get that mason called Wang from the West Market. He skimps. The patch he did last year fell in within one winter."
+
+"Auntie Kang, who sells flatbread in the east of the city, sends the church flatbread every Cold Food. Your pa must give her a bolt of cloth back. She won't want it; give it to her anyway."
+
+"In Horse-Yard Lane there's an old groom who's had a sore on his leg for years. On the first of every month someone must take him his medicine. The recipe is on the second shelf of the scripture cupboard, tucked into the oldest roll."
+
+"The few rolls in the scripture cupboard came out of Chang'an. When they get damp they must be aired, and while they're airing nobody may walk away—one gust of wind and they're gone."
+
+"The apricot tree in the back courtyard: in spring when it flowers, your pa always stands under it a while. Don't go and call him. Let him stand."
+
+Jingjing looked up.
+
+The elder looked at him and said: "Write it down."
+
+So Jingjing wrote it down.
+
+Toward the end the elder spoke more slowly. He stopped, looked at the lamp, and after a while said: "I thought I would go back to the village and die by the river."
+
+Jingjing waited for him to go on.
+
+"But your pa's home, the church at Balkh," said the elder, "has no priest. Those few people have been saying the prayers crooked for decades, and nobody to correct them."
+
+"The old grandfather who mends shoes," said Jingjing, "you taught him two days and he still hasn't learned."
+
+"He hasn't learned," said the elder.
+
+"Then go and teach him," said Jingjing. "And you can look after Grandfather's and Grandmother's graves for Pa. If you go and see them every day, it's like Pa going every day."
+
+The elder looked at him, looked a long time.
+
+"Good," he said.
+
+As he said it, something seemed to come off his shoulders. He took up the knotted cord and turned one knot, and then another.
+
+"First I'll go back to the village and have one look," he said. "And when I've looked, I'll go east with you as far as Balkh. And the days I have left, I'll preach in your pa's home."
+
+Jingjing added another line on the paper: "The elder Ahad isn't going back to Lingzhou. He's staying in Balkh, to look after Grandfather and Grandmother for Pa."
+
+---
+
+That night Jingjing lay down and still could not sleep.
+
+He listened to the sound of the Tigris outside the window. The river flowed very slowly, a lapping, a lapping, like someone washing clothes a long way off. Old Duan slept by the door, Xu Jing under the window, the elder Ahad beside him, snoring, very loud. In all their days at the Patriarchate, this was the first time Jingjing had heard him snore.
+
+Jingjing put his hand inside his collar and felt the cross. He felt the *M* on its back, and then the knot in the thong. The knot was very hard and very tight.
+
+He thought of his uncle's empty sleeve. The sleeve was knotted at the elbow, a knot tied very tight and very neat, as though it was tied afresh every morning.
+
+Now he knew how it was tied.
+
+---
+
+**Version** v0.1 (translated from Chinese v0.4)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿

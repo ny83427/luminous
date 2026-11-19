@@ -1,0 +1,307 @@
+# Volume Four　Xiangji Temple
+
+## Chapter 20　The Street of Heaven
+
+> Suzong came back to restore the realm, heaven's might leading his chariot; the holy sun spread its brightness, an auspicious wind swept away the night.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+The gates of Chang'an were opened from the inside.
+
+The rebels had fled all night, fled in such haste that they had not had time to shut the gates properly. After daybreak some of the bolder townsfolk climbed the walls to look, saw the fields south of the city full of Tang banners, ran down, and a few of them together pushed open the Mingde Gate.
+
+The gate's pivots had not been oiled in a long time, and as they pushed it they creaked and groaned, and went on creaking a long while.
+
+---
+
+Before the grand army struck camp, Yisi asked Old Duan: and those two?
+
+"Buried," said Old Duan. "The army's striking camp, it couldn't wait for you. I got two men from General Hun's camp to help, and buried them under that crook-necked willow by the canal. The one beside the sluice."
+
+Yisi looked at him.
+
+"Put up a post," said Old Duan. "Carved their names on it. I carved them; they came out crooked. The *Shi* of Shi Six I know how to write; the *Wei* of Wei Three, I asked that administrative assistant who reads the military books, he wrote it out for me, and I carved it from that."
+
+Yisi said: "I'll go and see."
+
+"The army's leaving," said Old Duan. "The centre doesn't wait. If you fall behind, is it on you or on me?"
+
+Yisi said no more. He looked east once. East were the wheatfields, and beyond the wheatfields those canals, the willows on their banks in rows; seen from here, they looked like a few low hedges. He could not tell which one was that one. He knew it was at the north end of the third canal.
+
+---
+
+Yisi rode into the city.
+
+The surgeon had said no riding for a month; he had heard it. Old Duan had heard it too. Old Duan had meant to go and find a cart, and Yisi had said there was no need. He rode Old Duan's horse; his own, its haunch bound in cloth, went with an empty saddle, tied behind Old Duan's horse's saddle. He held the saddle and tried three times, and the third time clambered up. Old Duan stood below the horse watching him, the scar on his face twitching and twitching, and in the end said nothing, came over and took his horse's bridle.
+
+"I'll lead it," said Old Duan. "You sit. If you fall off, I'm not catching you."
+
+Yisi said: "All right."
+
+He did not fall off.
+
+---
+
+The grand army halted for a while outside the city.
+
+The place where it halted was not far from the gate; the men in front had stopped, so the men behind had to stand too. Yisi sat on his horse looking ahead over the heads, and saw the Uighur *yabghu* on horseback with his horsemen behind him, every one of them with his chest out, their eyes all on the city gate.
+
+Yisi had heard men in camp say that before the Uighurs came, the court had made a compact with them. When the city was taken, the land and the people would go to the Tang; the gold and silk, and the sons and daughters, to the Uighurs.
+
+Now the city gate stood open.
+
+The Uighurs' horses were stamping where they stood, stamping hard.
+
+The Prince of Guangping dismounted.
+
+He walked up in front of the *yabghu*'s horse and stopped. Then he bowed down.
+
+Yisi was too far off to hear what he said. Afterwards it went round the camp that the Marshal had said: we have only just won the Western Capital; if we plunder it at once, the people of the Eastern Capital will hear of it, and all of them will hold out to the death for the rebels, and the Eastern Capital will never be taken. I beg the *yabghu* to wait until we reach the Eastern Capital, and then do as was agreed.
+
+The *yabghu* sat stunned on his horse.
+
+Then he leapt down. Leapt down so fast he nearly lost his footing. He leapt down and he too bowed down to the Prince of Guangping, knelt on the ground and took the prince's feet in his two hands. He said a string of words in Uighur. The interpreter beside him turned them, stumbling; the gist was that the *yabghu* said it would be as His Highness wished, and he would lead his troops straight on to the Eastern Capital.
+
+The Prince of Guangping bent down and raised him up.
+
+There were people at the city gate who saw it. There were people on the walls who saw it too. Those who saw told the next, and the next, and in the end there were people everywhere—on the walls, in the gate passage, along the street—and some were weeping and shouting as they wept, and what they were shouting Yisi had to listen a long time before he made it out: the Prince of Guangping is truly lord of both Chinese and barbarian.
+
+Yisi sat on his horse and watched the two of them standing before the city gate, one a prince of the house of Tang, one a prince of the Uighurs, one holding the other by the arm.
+
+Old Duan, below the horse, muttered: "That bow was worth something."
+
+Yisi did not take him up.
+
+The Uighurs' horses stopped stamping. The *yabghu* mounted, shouted back at the men behind him, and his horsemen wheeled and went round by the south of the city and east, to camp east of the Chan River. They did not enter the city.
+
+Pugu Huai'en's camp was to go with the Uighurs. He rode past Yisi on that black horse, and when he came level he checked his reins.
+
+He looked at Yisi's face, looked at the line of stitches, looked at the missing half of the eyebrow. Looked a good while.
+
+"That lad at the sluice," said Pugu Huai'en. "What was his name?"
+
+"Wei Three," said Yisi.
+
+Pugu Huai'en gave one nod.
+
+"He was first onto the sluice," he said.
+
+He said no more, pressed his horse's flanks, and went. The black horse's tail swished once and raised a little dust, which settled on Old Duan's felt cap.
+
+Old Duan took off the cap, slapped it, looked after Pugu Huai'en's back and said: "That man asks a name like he's having a tooth pulled."
+
+---
+
+Once inside the city, the order came down.
+
+No camp was to enter the wards, none to enter people's houses, none to take a blade of grass or a stick of wood from the people. What was eaten and used would come from the camps, and nothing was to be asked of the people. Anyone who broke the order would be beheaded.
+
+Guo Ziyi gave the order himself. The guards carrying it galloped along the streets shouting it as they rode, shouting until their voices split.
+
+The Marshal's procession went at the very front, north along the great street inside the Mingde Gate. That was Zhuque Street, the street down the very middle of Chang'an; the people of Chang'an called it the Street of Heaven. Yisi followed with the centre further back, a long way behind, and heard only a mass of sound ahead, rising in waves; he could not tell whether it was weeping or shouting.
+
+The people crowded at the roadside were mostly from the few wards at the south end, who had run out as soon as the gate was opened. Further north, the people in the wards had not yet come out, and the street grew empty.
+
+The street was very wide, wide as a riverbed. The year he first came to Chang'an, the old steward of the monastery had brought him to see this street, saying it was called the Street of Heaven. In those days both sides of it were lined with locust trees, and under the trees were crowds of people—sellers of flatbread, sellers of wine, sellers of rouge, men leading camels, men riding donkeys, men in carts—packed so tight a horse could not get through.
+
+Now the locust trees were still there, though a few had been cut down, leaving half-stumps. Grass had grown in the earth of the street, clump by clump, some of it up to the knee. Along both sides the ward walls had in places collapsed, and through the gaps you could see into the wards: houses burned black, rafters poking slantwise at the sky.
+
+The hooves fell dull on the grass-grown street. Tens of thousands of men were marching down this street, and it did not look crowded at all.
+
+Yisi looked west. West lay the West Market. When he was young he had often gone to the West Market, to eat mutton in the *hu* eating-houses there, to look on the bookstalls for scrolls come from the west. From this street, you could once have seen the tops of a few tall buildings over by the West Market.
+
+He looked a while, and did not see those rooftops.
+
+Old Duan, leading the horse, looked west too and asked: "What are you looking at?"
+
+"The West Market."
+
+"Still there?"
+
+"I can't see it," said Yisi.
+
+Old Duan said "Mm," and led the horse on. He walked half a step faster than most men, but today he walked very slowly, as slowly as the horse. The horse took a step, and he took a step.
+
+---
+
+After a while, people began to come out of the ward gates.
+
+First one, putting out his head, taking a look, drawing back. After a while, putting it out again, and this time looking a little longer. Then two, three. Then a crowd.
+
+They stood at the ward gates, stood in the gaps of the fallen ward walls, watching the soldiers go by in the street. They were all very thin, their faces grey, their clothes grey, their hair grey too. There was one old man who watched and watched, and then his legs gave way and he knelt down, knelt in the dirt at the ward gate, and wept. He wept without a sound; only his shoulders heaved and heaved.
+
+Some of those beside him knelt down with him.
+
+The soldiers went by; some turned their heads to look, some kept their heads down and did not look.
+
+No one went to help the old man up. The order had said: no entering the wards.
+
+The old man got up by himself.
+
+---
+
+Halfway along, the army halted again.
+
+Up ahead they were assigning quarters, which camp would be billeted where, to be settled one by one. Those behind rested along the roadside. The wounded climbed down from the carts and sat against the ward wall, sitting in one long row.
+
+Yisi dismounted too. Getting down was harder than getting up; Old Duan caught him below, caught him, helped him over to the foot of the wall and sat him down against it. He could only sit sideways; his back could not touch the wall.
+
+When he had sat down, he found he was thirsty.
+
+He felt at his belt; the waterskin was empty. It had been empty since the night before.
+
+Just then a boy came out of the ward gate.
+
+The boy was thirteen or fourteen, thin and dark, barefoot, with a carrying pole on his shoulder and an earthen jar hanging at each end. The jars were covered with cloth, and white steam rose from under the cloth. He walked very slowly, very carefully, afraid of the jars swinging.
+
+He came up to the row of wounded, stopped, set down the pole, and lifted the cloth from one of the jars.
+
+It was broth. What broth, there was no telling; it was clear, with a few leaves of wild greens floating in it.
+
+He took a wooden bowl from his belt, ladled out a bowlful, and handed it to the wounded man nearest him. The man was taken aback, looked at him, looked at the bowl, took it, and drank.
+
+The boy ladled another bowl and handed it to the next.
+
+One by one the wounded took the bowl, drank, and gave it back to him. The boy took the bowl back, did not wash it, ladled another and handed it to the next. When one jar was empty he uncovered the other.
+
+When he came to Yisi, he stopped.
+
+He looked at Yisi's face. Looked at the crooked line of stitches, looked at the missing half of the eyebrow, looked at those brown, very deep-set eyes. He held the bowl in his hands, and did not hand it over.
+
+Yisi looked at him too.
+
+"Are you a *hu*?" asked the boy.
+
+"Yes."
+
+The boy thought and asked again: "*Hu* fight the rebels too?"
+
+"Yes."
+
+The boy thought again, and handed him the bowl.
+
+Yisi took the bowl. It was hot, so hot his fingers flinched. He looked down at the broth in the bowl, clear, steaming, two leaves of greens stuck to the side.
+
+Hot.
+
+He thought of the last line on Jingjing's paper. *I haven't drunk cold water. Once I did.*
+
+He raised the bowl and drank.
+
+The broth was very thin, with hardly any salt, and tasted of earth. But it was very hot, hot from his throat all the way down into his belly, so hot that the wound in his back grew warm along with it.
+
+He gave the bowl back to the boy.
+
+"What happened to your face?" asked the boy.
+
+"An arrow."
+
+"Does it hurt?"
+
+Yisi thought a moment.
+
+"It hurts," he said.
+
+The boy nodded, as if this answer satisfied him very well. He took the bowl, shouldered his pole, and went on to the next man.
+
+Old Duan had been watching from beside him, and when the boy was some way off he said: "Couldn't you have said it doesn't hurt?"
+
+Yisi said: "It hurts."
+
+---
+
+That afternoon the camps were all settled in their quarters.
+
+Guo Ziyi moved into an empty mansion in the city. Whose it had been before, no one knew. Yisi was put in a side room beside the mansion; there was only a broken couch in the room, with a layer of straw on it. Old Duan went and found a felt and spread it on the straw, and told him to lie down.
+
+"Lord Guo says you're to lie still," said Old Duan.
+
+Yisi lay down.
+
+Old Duan sat down on the threshold and said the Marshal would stay in the city only three days; after three days the army would go east to attack the Eastern Capital. Lord Guo had said Yisi was not to go with them, but stay in Chang'an and heal.
+
+"And you?" asked Yisi.
+
+"I'm staying too," said Old Duan. "Lord Guo says I'm to keep an eye on you."
+
+Yisi lay on his side, his face to the window. The window paper was torn, torn into strips, and when the wind blew it rustled. Through the holes in the window he could see a small patch of sky outside.
+
+Slowly the sky grew dark.
+
+That night, the city was very quiet.
+
+---
+
+Yisi slept a while, and woke.
+
+When he woke he did not know what hour it was. Outside the window it was dark, and Old Duan was snoring at the door.
+
+He lay a while and could not get back to sleep. He propped himself on the edge of the couch and slowly sat up, and slowly stood. The wound in his back pulled; he stopped a while, waited until that wave of pain had passed, and then went out.
+
+Old Duan had one eye open, watching him.
+
+Yisi stopped.
+
+Old Duan said nothing. The open eye closed again, and the snoring went on.
+
+Yisi stepped over him.
+
+---
+
+Behind the mansion there was a wooden tower, three storeys, which the former master of the house had used for climbing up to look at the view; the stairs were very steep.
+
+Yisi held the rail and climbed step by step. A step, a rest. He climbed very slowly, and by the time he reached the top the cloth on his back was wet.
+
+There was nothing upstairs. A few broken tiles on the floor, a heap of bird droppings in a corner. The windows on all four sides were gone; only the frames were left, and the wind blew in at one side and out at the other.
+
+He went to a window frame and looked out.
+
+Chang'an lay below his feet.
+
+Ward after ward, black all the way to where he could no longer see. The ward walls black, the roofs black, the trees black. The Street of Heaven ran from south to north, a little blacker than the wards on either side, like a ditch. He knew that within it were more than a hundred wards, and in the wards lived several hundred thousand souls. At the first Lantern Festival after he came to Chang'an, he had come out at night to look at Chang'an, and the city had been full of lamps, strings and strings of them, hung from the wards out onto the streets and from the streets up onto the gate towers, so bright the sky was red.
+
+Now there was not one lamp.
+
+He looked a long time and did not find one.
+
+To the north, over by the Imperial City, there were a few points of fire, moving, moving—the night watch walking the walls with torches. The firelight came to the corner of the wall, turned, and was lost to sight. After a while it came out again on the other side.
+
+In the wards, nothing. Those who had oil could not bear to burn it; those who had none could not. And there were houses whose doors stood open and whose rooms were empty, the people gone who knew where, and probably not coming back.
+
+The wind came in from outside the city, blew across more than a hundred wards, across all those black roofs, and brought not a sound with it. Not even a dog barking.
+
+---
+
+He looked west.
+
+In the west, up against the city wall, there was a ward called Yining. In the ward there was a monastery. On its lintel was carved a cross, the four ends of the cross rounded, like four leaves. At the monastery gate there was a great locust tree, and in the back courtyard a well.
+
+He had lived there more than ten years. There he had been a priest, there he had married, there he had had a son. His wife had fallen ill, and died there.
+
+Jingjing was in Xizhou now, in a church that also had a cross carved on it, teaching seven old men to speak Tang.
+
+The west was black.
+
+He could not see the Yining Ward. He could only see a great expanse of black, the same as the black everywhere else. Whether the monastery was still there, whether its gate was still there, whether the locust tree was still there, he did not know.
+
+He could go and look. From here to the Yining Ward was a little under an hour on horseback.
+
+He did not go.
+
+He held the window frame and stood, looking at that expanse of black in the west.
+
+The wind blew in through the window frame, cool, on the stitches across his forehead, and it hurt a little. He thought of Wei Three's eyes, closed, and opening again a slit.
+
+He thought: tomorrow.
+
+Not tomorrow. The surgeon said a month lying down. Old Duan would stop him.
+
+In a few days, then.
+
+He raised his two hands and folded them before his chest, folded them a while, and let them fall.
+
+He turned, held the rail, and went down step by step.
+
+---
+
+**Version** v0.1 (translated from Chinese v0.3)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿

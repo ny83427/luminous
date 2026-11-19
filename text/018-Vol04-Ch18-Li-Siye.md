@@ -1,0 +1,557 @@
+# Volume Four　Xiangji Temple
+
+## Chapter 18　Li Siye
+
+> Though he was trusted even in the bedchamber, he did not set himself apart in the ranks.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+On the twenty-seventh day of the ninth month of the second year of Zhide, before it was light, fog rose over the fields southwest of Chang'an.
+
+By that year Chang'an had been in rebel hands a year and three months. The Son of Heaven was at Fengxiang, the Retired Emperor in Shu, and between the two capitals, through the thousand *li* of the Guanzhong plain, there were refugees and burned villages everywhere. Half a month before, the Prince of Guangping, Marshal of the Armies of the Empire, with his Deputy Marshal Guo Ziyi, had led a hundred and fifty thousand men of Shuofang, Anxi, the Uighurs, the southern tribes and the Arabs—two hundred thousand, it was claimed—east from Fengxiang, and camped some days on the west bank of the Feng.
+
+On the twenty-seventh, before light, the grand army crossed the Feng and drew up north of Xiangji Temple. On the west it rested on the Feng, on the east was a broad plain, and for ten *li* the banner companies stretched one after another without a break. Li Siye led the Anxi troops as the vanguard, Guo Ziyi the Shuofang troops as the centre, Wang Sili the rear, and Pugu Huai'en, with the Uighur *yabghu*'s four thousand horse, was posted west of the centre, by the Feng.
+
+The rebels came out too. An Shouzhong, Li Guiren and Tian Qianzhen, with a hundred thousand men, drew up in one long line north of the Tang army, their backs to the walls of Chang'an. The two sides were no more than a few *li* apart; before the fog came, when the wind blew south, you could hear the horses neighing on the other side.
+
+Four months before, Guo Ziyi had suffered a great defeat at the Qing Canal, weapons and armour strewn over the ground, and fallen back all the way to Wugong. If they were beaten again this time, who knew what year Chang'an would be won back? Everyone in camp understood this, and so those few days the camp was unusually quiet; even the cursing grew less.
+
+When Old Duan told of this battle afterwards, he always began with the fog.
+
+"That fog," he would say, "was white as rice-water. Put out your hand and you couldn't see your own fingers."
+
+And the listeners would ask: how do you fight in fog?
+
+Old Duan would say: in fog you fight with your ears.
+
+When he said it he would touch the scar on his face, and his eyes would go to one side, to Yisi sitting in the corner. Yisi would keep his head down, and not take him up.
+
+---
+
+The night before, Yisi had picked a man from the centre.
+
+Guo Ziyi had told him to pick a steady one. He picked a Lingzhou man of Sogdian stock, surnamed Shi, sixth among his brothers, whom everyone called Shi Six. He was about twenty, spoke little, rode well, and his two hands were cracked from the cold, with black mud worked into the cracks.
+
+Yisi asked his name, asked it again, and said it over twice in his heart.
+
+Ever since Changshan, when he went out with someone, he always asked their name first.
+
+Wei Three's name he did not need to ask. Wei Three had been with him more than four months, and he had known it by heart long ago. When Wei Three heard Shi Six was going with them tomorrow, he went over and told Shi Six that he had caught loaches in those canals in the east as a boy, that his home was twenty *li* south of the city, not far from here, and his ma was still there.
+
+Shi Six listened, said nothing, and pulled his horse's girth one hole tighter.
+
+"Tomorrow," Yisi said to Wei Three, "whatever you see, you ride back first. Don't wait for me."
+
+"Report to Lord Guo," said Wei Three, "and to General Pugu too."
+
+Yisi said "Mm."
+
+---
+
+At the fourth watch the three of them left camp, crossed the Feng ahead of the grand army, and went east.
+
+Yisi took three strips of cloth from inside his coat, one each, and had them bind their horses' muzzles. With its muzzle bound a horse cannot whinny. He had learned this outside Changshan; that time, his horse had whinnied once.
+
+"Follow my horse's tail," he said. "Don't talk. When I raise my hand, stop."
+
+The two of them nodded.
+
+When they reached the first canal, the fog rose.
+
+It came up off the Feng as on the two days before, white and thick, spreading without a sound. In a moment, when Yisi looked back, he could see only Shi Six's horse's head, not Shi Six's face. Wei Three, further back, was only a grey shape.
+
+He raised his hand. The two horses behind him stopped.
+
+He sat on the canal bank without moving, and listened.
+
+On the two mornings before, when he and Wei Three had lain up here, there had been sound in the east. There were birds in the willows along the banks. The autumn sparrows, as soon as it was light, made a din like a market day, a flock flying from this tree to that one and back again.
+
+This morning there were no birds in the east.
+
+He listened a long time. Not one.
+
+He dismounted and slid down into the canal. The mud in the bottom was softer than three days before; one step sank to the ankle. He squatted and felt about in the mud with his hand. There were hoofprints in it, many, one on top of another, every which way, all going east.
+
+He felt a few steps further on and touched a heap of something.
+
+It was horse dung.
+
+He laid his hand on it. It was warm.
+
+He wiped his hand in the mud, climbed up the bank, went to Wei Three's horse and said under his breath: "Horses have gone through the first canal, during the night, going east. The dung's warm. No birds in the willows to the east. That's all."
+
+Wei Three said the words back after him once.
+
+"Go," said Yisi.
+
+Wei Three turned his horse and went west. The hoofbeats went a dozen paces and were swallowed by the fog.
+
+---
+
+The second canal was deeper than the first.
+
+Yisi stopped at its edge and was about to dismount when there was a slight movement behind him.
+
+It was Shi Six. Shi Six's horse had veered a few steps north; he was looking for a way down into the canal.
+
+Yisi raised his hand.
+
+The fog was too thick. His hand went up, up in front of his own face, and Shi Six could not see it.
+
+Then he saw.
+
+At that moment the fog thinned a little. Only a little, only one small patch. He saw that in the bottom of the second canal men were standing up. One, two, several. They stood up very slowly, very steadily, as if they had long been squatting there, squatting most of the night, until their legs had gone numb. They held short spears and swords; not one held a bow.
+
+A short spear went into Shi Six's horse's chest.
+
+The horse went down on its knees. Shi Six pitched off its back and fell into the canal. The men in the canal closed round him.
+
+There was no shout.
+
+Not one. All Yisi heard was mud being trampled, a blade going into flesh, and a man breathing; he breathed a few times, and stopped.
+
+They made no sound because they did not want anyone to know they were there.
+
+Yisi sat on his horse, the mace in his hand. He was gripping the haft so hard it burned.
+
+The fog parted a little more and drifted east. He saw what lay beyond the second canal.
+
+On the bank of the third canal, behind the willows, row upon row, were horses' heads. The heads were all lowered, the muzzles all bound with cloth, like his own horse's. Behind the horses' heads were men's heads, and above the men's heads, spearpoints. The spearpoints stood close together, one by the next, and in the fog it was as if a great bed of reeds had grown up along the canal.
+
+Of the men in the bottom of the ditch, two had looked his way.
+
+They began to climb the bank.
+
+---
+
+Yisi turned his horse.
+
+He did not go into the canal. If he went into the canal, he could smash two of them, perhaps three. Then he would be lying in the mud there with Shi Six. And all Wei Three would have taken back was a heap of warm horse dung.
+
+He galloped west a little way, out of those men's hearing, then worked round to the north.
+
+He went a long way round, round the north ends of the first canal and the second, round to the north end of the third, and from there felt his way back south. The wind was from the east; he was on the west, and the rebels' horses could not smell his.
+
+The fog was beginning to thin.
+
+The sun was not out yet, but above the fog it was already bright, a dazzling white, as if someone had lit a very great lamp over the top of it. Below it was still thick; above, it was already thin.
+
+At the north end of the third canal he found the sluice Wei Three had spoken of a few days before.
+
+The sluice was built of stone, very old, grass grown thick in the cracks. The gate was long gone; only the two stone walls were left, and between them the canal bed was built up higher than elsewhere, so that a horse could cross.
+
+Beside the sluice there was a willow, very old, its trunk leaning, slanting out over the canal. He tied his horse behind the stone wall of the sluice and climbed the trunk. He climbed very slowly, listening as he climbed.
+
+Halfway up, his head came out of the fog.
+
+---
+
+The fog lay just under his chin.
+
+He looked east.
+
+The fog was like a sheet of white water spread over the wheatfields, spread flat. The canals had all sunk beneath it and could not be seen. But along the canal below his feet, running south, things were sticking up out of the fog.
+
+Banner poles. And spearpoints.
+
+The poles one by one, the spearpoints in swathes, rising from the surface of the fog, starting a bowshot and more from the sluice and stretching a long way south. It was as if a whole fleet had sunk in a river, with only the masts showing above the water.
+
+He began to count. The spearpoints could not be counted. He counted the banners. How many men stood under one banner he had watched for two years in Shuofang and knew. He counted them one by one from north to south, and at the south end the fog was too thick to see. He counted them again from south to north.
+
+He had finished counting.
+
+At that moment the horse he had tied behind the stone wall cried out.
+
+A horse with its muzzle bound cannot whinny; it can only blow through its nose. But that blowing, in a place so quiet, was like someone striking a gong.
+
+Over by the third canal, a few of the spearpoints moved.
+
+---
+
+Yisi slid down from the tree.
+
+As he landed he turned his ankle, had no time for it, threw himself at the reins, untied them and swung into the saddle. Before the horse had broken into a run, bowstrings sounded in the fog to the east.
+
+This time they were shooting. They knew now that someone had seen them.
+
+The arrows came boring out of the fog, whizzing, from where he could not see; he only heard them going past his ears. He lay low and drove his horse west.
+
+One arrow struck the horse in the haunch. The horse lurched, did not fall, and ran on.
+
+Another arrow went into his back.
+
+He felt as if someone had punched him in the back—not very painful, only a heaviness. He reached behind him and felt the shaft. It had gone in between the lower rim of the round shield and the seam of the leather armour, slantwise, right into that gap.
+
+The third arrow struck him in the side. This time it hurt.
+
+---
+
+That morning, under the banner of the centre, it was another scene.
+
+The grand army had crossed the Feng and drawn up its lines while it was still dark. Old Duan took his place under the banner of the centre and took a dry cake out of his coat. This was his old method. When he was waiting on someone in battle, he broke off a small piece and held it in his mouth without chewing, waiting for it to slowly dissolve. One small piece dissolved was about one stick of incense.
+
+When the first piece had dissolved, Wei Three came back.
+
+Wei Three tumbled off his horse in front of Guo Ziyi's and reported those few sentences word for word: horses had gone through the first canal, during the night, going east, the dung was warm, there were no birds in the willows to the east.
+
+When Guo Ziyi had heard it he sent a man west to report to Pugu Huai'en, sent another to tell Shi Jingzhong, and had Wei Three go to Pugu's side too, to guide the Uighurs when he got there. The man who went came back and said that on General Pugu's side the Uighurs were already saddling up, and had bound their horses' muzzles.
+
+Old Duan broke off a second piece.
+
+At the hour of *chen*, drums sounded to the north.
+
+The rebel general Li Guiren came out with a body of picked horse to offer battle, riding back and forth in front of the vanguard, each time loosing a volley of arrows. The archers and crossbowmen of the vanguard gathered their arrows and shot back, and as they shot, a troop of men went out after them.
+
+The order was no pursuit. The men who went out in pursuit perhaps had not heard; perhaps they had heard, and could not hold themselves back.
+
+When they pursued, the main rebel line bore down.
+
+At that moment the fog was full of sound. Hoofbeats, shouting, blade on blade, rolling down from the north, rolling up to the vanguard and in a moment rolling into it. The troop that had gone out in pursuit was driven back, the rebel horse right on their heels, and they crashed into the vanguard's line together. The vanguard broke. The sound of its breaking fell back, fell back as far as the baggage carts, and there the rebels dismounted to loot the carts.
+
+The second piece of cake Old Duan forgot to put in his mouth. He clenched it in his hand and crushed it.
+
+---
+
+That was when Yisi came back.
+
+He came out of the fog lying along his horse's back, the horse limping, came up to Guo Ziyi's horse and stopped. It took a great effort to straighten himself.
+
+"The third canal," he said. "From the sluice south, more than two *li*. Twenty-odd banners, several thousand horse at least. Muzzles all bound, heads to the west. Waiting."
+
+"They saw you?"
+
+"They saw me. They don't know how much I saw."
+
+Guo Ziyi turned his head and said a sentence to the man beside him. A signal flag went up and went off to the west.
+
+"Pugu will go round by the east of the vanguard," Guo Ziyi said to Yisi. "You go to the vanguard's baggage and wait for him there."
+
+Old Duan rushed up and caught Yisi's bridle. He saw the shaft in Yisi's back, the patch of black-red at his side, the arrow in the horse's haunch; his mouth opened and shut, and he cursed, very foully. When he had cursed he jumped down from his own horse and pushed its reins into Yisi's hands.
+
+Yisi changed horses. He was about to go when out of the fog to the north a man came galloping.
+
+---
+
+It was Li Siye.
+
+Yisi had seen him drilling the Anxi troops outside Fengxiang, had been no more than a few paces from him in the Marshal's tent, but had never seen him in the saddle like this. He was half a head taller than other men to begin with, and that black-maned bay was taller than other horses; when man and horse came charging up, the guards under the banner all gave back a step. The horse's mouth was white with foam. His helmet was askew, and there was a streak of blood across his face—whose, no one knew.
+
+He reined in before Guo Ziyi's horse, the horse's forefeet rose and came down again, splashing mud all over Yisi.
+
+"Lord Guo!" roared Li Siye. His voice was big to begin with, and at this roar the ears of every man under the banner rang. "They've broken in up front! They're clambering all over the baggage carts!"
+
+Guo Ziyi looked at him. "Can you hold?"
+
+"Not holding like this, I can't!"
+
+Li Siye drew a breath. Yisi could hear him breathing from two horses away.
+
+"I'll strip off my armour and go in," said Li Siye. "Fill their horses' hooves with this flesh of mine! Fight it out and there might still be a way to live; don't, and not one of us gets back to Fengxiang!"
+
+Guo Ziyi said one word only: "Go."
+
+Li Siye said nothing more. He took hold of his armour straps with both hands.
+
+The straps were tied tight; he tugged once and they did not give, so he drew the knife from his belt and cut through them at a stroke. The plates of his armour fell clattering off him round the horse's hooves. He tore at the clothes beneath, tore them off and threw them away. He sat bare-chested on his horse, his arms and back all old scars, one over another, like the bark of an old tree.
+
+The guard behind him handed him a *mo* blade.
+
+Yisi had seen *mo* blades. When the Anxi troops drilled he had stood at the edge of the ground and watched. The blade was long and narrow, edged on both sides, joined to a long wooden haft with iron at the butt; stood on end the whole weapon was taller than a man, and very heavy, so that an ordinary soldier carrying one for a day would have his shoulder rubbed raw. The blade men were all picked big men; they held it in both hands and swung it from the waist.
+
+Li Siye laid the blade across his saddle, wheeled his horse and went north.
+
+Yisi followed behind. He was going to the baggage, and it was the same road as Li Siye's.
+
+---
+
+The fog was lifting.
+
+The sun had not yet shown its head, but the fog was rising layer by layer, and over by the vanguard you could already see a few dozen paces.
+
+The baggage carts stood just behind the vanguard; several had been overturned by the rebels, and millet was spilled over the ground. The rebel horse were pouring in through the gap in the vanguard; some had dismounted to rummage in the carts, some were still hunting down and cutting at the Tang soldiers running back. Yisi reined in and stopped behind an overturned cart. With the arrow in his back, his eyes went now west, to see whether Pugu's Uighurs had come, and now, in spite of himself, forward.
+
+Li Siye leapt from his horse in front of the gap, threw the reins to a guard, took up the blade, and placed himself in front of the men running back.
+
+"Anxi men!" he roared. "Stand! Turn round, all of you!"
+
+They were running hard, and a few ran on past him.
+
+"One more step," roared Li Siye, "and I'll cut you down first!"
+
+A rebel horseman came charging at him.
+
+The horseman probably took him for a deserter who had thrown away his armour; he raised his sword and came straight at him, meaning to cut him down in passing. Li Siye did not dodge. When the horse was three or four paces from him, he slipped half a step to the left, gripped the haft in both hands, twisted from the waist, and swung the blade upward from below.
+
+Yisi saw the horse's chest open.
+
+The horse pitched forward onto its knees, and its rider went over its head and fell at Li Siye's feet. Li Siye's blade had already come back, and came down again.
+
+A second horseman came charging. This time Li Siye went to meet him. The blade swung out and took the horse in the neck. The neck went crooked, the horse ran on two more steps before it fell. Its rider was flung a long way, and before he could get up someone had thrown himself on him and pinned him.
+
+The man who threw himself on him was one of the Anxi soldiers who had been running back a moment before.
+
+Yisi glanced west. To the west there was still fog, no sign of the Uighurs. He looked forward again.
+
+Li Siye swung stroke after stroke. With every stroke his body twisted, the muscles of his back bunched up in knots, sweat and blood shining in the fog. The men and horses round his feet piled up higher and higher, and when the rebel horse came charging up to that spot, the horses lost heart first and reared, shying away to either side.
+
+The men running back stopped running.
+
+First one stopped and turned his head to look. Then two, three. Then a whole swathe of them. They saw that bare-chested man, saw the heap round his feet. Some picked up swords from the ground, some picked up the shields they had dropped, and one by one they walked forward again.
+
+The rebel horse that had broken through the gap—the ones in front reined in, the ones behind crashed into them, and they jammed together in a knot.
+
+Then Yisi heard another sound.
+
+It was the vanguard's drums. At first they were ragged, one stroke and another, no rhythm to them; then they steadied, *dong*, *dong*, *dong*, each stroke heavier than the last.
+
+The *mo*-blade men of Anxi came out of the line.
+
+Two thousand blade men spread out rank by rank into a wall. The first rank was *mo* blades, behind them long-hafted axes, blades and axes upright, edges forward. When the wall was formed, at each drumbeat it took one step forward. One step, and the blades all went up together; another step, and they all came down together. No one shouted, no one rushed ahead, no one fell back. The wall went very slowly, slowly as an ox ploughing.
+
+Li Siye stood in the very middle of the front rank, the first to meet them.
+
+The rebel horse charged up to the wall. The blades came down. Horses fell, and men too. The horses behind charged up, tripped over the horses in front, and the blades came down again.
+
+The wall took a step forward.
+
+Yisi had seen men who did not fear death. Du De drew the rearguard lot, said he would hold for the time it takes to drink a cup of tea, and never came back. Old Iron on the bank of the Mianman, a spear through his belly, still talking to him about Lock. He had never seen a man strip to the waist and step forward, and a vanguard that had already broken stand firm.
+
+He had watched the roads for Guo Ziyi for two years. How deep a canal was, when fog would clear, whether horse dung had gone cold—these he could see. How this man made the men who were running back stand—he watched it, and could not see.
+
+Behind him there were hoofbeats, dull, as if coming up from under the ground.
+
+Pugu Huai'en had come.
+
+He rode a black horse, burst out of the fog, and behind him came the Uighurs, more than the eye could take in. The horses' muzzles were all bound with cloth, not a sound out of them, only the hoofbeats.
+
+Wei Three rode beside Pugu Huai'en.
+
+Pugu Huai'en reined in before Yisi's horse. He looked at Yisi, saw the feathers at his back, saw the patch of black-red at his side.
+
+"How many?" asked Pugu Huai'en.
+
+"Twenty-odd banners. Several thousand horse," said Yisi. "The third canal, from the sluice south, more than two *li*. Heads to the west."
+
+"Where do we go in?"
+
+"The sluice at the north end. You can get horses through."
+
+"I know the sluice," said Wei Three.
+
+Pugu Huai'en glanced at Wei Three, and then at the arrow in Yisi's back. "Can you still ride?"
+
+"I can."
+
+"Then both of you lead the way."
+
+---
+
+Yisi and Wei Three led them round to the north.
+
+The same road again. Round the north ends of the first canal and the second, to the sluice at the north end of the third.
+
+There were men at the sluice. When Yisi had come that morning there had been none; they had been posted after he was seen, a few sentries squatting behind the stone wall. Wei Three rode out in front and was first onto the sluice.
+
+Yisi saw his horse dash in between the stone walls, saw two men rise from behind the wall, two spears, thrust out together.
+
+Wei Three fell from his horse.
+
+The Uighurs behind were already surging up. In the blink of an eye the two men behind the wall were gone, trampled into the mud by the hooves. Yisi tried to rein in, could not; the Uighurs pushed him on, squeezed him through the sluice. He looked back and saw only a mass of horses' legs.
+
+Past the sluice was the north end of the third canal.
+
+Yisi turned his head in the saddle. Pugu Huai'en was right behind him, the Uighurs behind Pugu Huai'en. The fog had not cleared entirely, but it was much thinner now; you could see twenty or thirty paces.
+
+He raised his hand and pointed south.
+
+To the south, in the bottom of the third canal, the rows of horses' heads were still lowered, the rows of men still squatting. They all faced west, towards the Tang centre. They were waiting. Waiting for the rear of the Tang line ahead to empty, and then they would charge out of the canal.
+
+They were not looking north.
+
+Pugu Huai'en drew his sword.
+
+The Uighurs began to whoop.
+
+---
+
+When Yisi thought of that whooping afterwards, his ears still hurt. Several thousand men whooping at once, high and long, like a pack of wolves howling under the moon. Before the whoop had died, the hoofbeats bore down after it, thousands of horses from north to south, along the banks of the third canal, charging down.
+
+The men in the canal turned their heads.
+
+Their horses were in the bottom of the canal, muzzles bound, heads lowered. The men had to mount, the horses had to raise their heads, the cloth on their muzzles had to be untied, the horses had to climb up out of the ditch. The banks so high, so steep, the willows so thick.
+
+There was no time.
+
+Yisi charged down behind Pugu Huai'en. The arrow in his back jolted and jolted, and with every jolt the world went black before his eyes. He paid it no heed. His mace was in his right hand, his shield still on his back; the lower rim of the shield pressed on the arrow's shaft, and every movement tugged at the wound, so he dared not take it off.
+
+A rebel climbed out of the canal bottom, already mounted, the cloth still tied on his horse's muzzle. He came at Yisi with his sword raised. Yisi swayed aside from the sword and brought the mace down on his wrist. The sword fell, and the man slumped sideways off his horse.
+
+He heard Pugu Huai'en shouting something ahead.
+
+He turned his head to listen.
+
+In the instant that he turned his head, something came from the left and struck him in the face.
+
+---
+
+His left eye went red all at once.
+
+Not pain. The pain came later. In that instant he only felt the world on his left turn red all at once, red and burning hot, and then he could see nothing. Something wet lay over his eye, heavy, like a piece of cloth soaked in water.
+
+He looked with his right eye. The right eye could still see.
+
+He saw the Uighurs hacking and killing in the canal. Saw the horses in the bottom jammed together, unable to climb out; some men leapt from their horses' backs and tried to climb the bank, and halfway up were cut down by the Uighur swords. Saw Pugu Huai'en on that black horse charging back and forth along the bank, and wherever he charged, men went down in swathes.
+
+He sat on his horse, and did not charge down any further.
+
+Then the shouting and killing slowly thinned.
+
+Then there was no one left standing in the canal.
+
+Pugu Huai'en rode back, passed by him, reined in, and looked at him. His face was spattered with blood; his own or others', no telling.
+
+"Not one got away," said Pugu Huai'en.
+
+Yisi nodded.
+
+Pugu Huai'en looked at his face a while and said nothing. He wheeled his horse and went not towards the centre but to the northwest.
+
+Yisi followed him with his right eye.
+
+Northwest from the north end of the third canal there was a gentle slope, and below it the fog had cleared earlier; you could already see a hundred or two hundred paces. Below the slope was a dense black mass—the main rebel line, its rear turned this way, its front locked together with Li Siye's blade companies. The rebels had buried all their picked horse in the canals to the east and thought their rear was safe; the men at the back of the line had not so much as turned their heads.
+
+Pugu Huai'en reined in on the slope, turned and shouted something. He shouted it in Uighur; Yisi could not understand. The Uighurs gathered to him from the canal, from the banks, from under the willows, gathered into one great mass, the horses blowing white breath, the blood dripping from the swords.
+
+Then Yisi saw Pugu Huai'en take the helmet off his head and throw it down by his horse's hooves, cut his armour straps and shed his armour too, and snatch a long lance from the hand of a Uighur horseman beside him. Thousands of Uighurs could all see his face.
+
+He pointed the lance forward and was the first to charge down the slope. The Uighurs charged down after him, like an awl driven into a sheaf of straw. Only then did the men at the back of the rebel line turn their heads.
+
+South at the foot of the slope, the flank of the rebel line had broken too. Yisi looked across with his right eye and saw a bare-chested man with that blade taller than a man, bringing a wall with him, cutting into the flank of the rebel line and cutting all the way through to its rear, where he met the Uighurs.
+
+It was Li Siye.
+
+The blood from Yisi's left eye ran down, over the bridge of his nose, and into his right eye. He blinked, opened it again, and could not see clearly. He wiped it with his sleeve, wiped it once, and below the slope it was all chaos; he could not tell which was Pugu Huai'en, which were Uighurs, which were rebels.
+
+All he could see was that whole great rebel line, like a wall someone had shoved hard from behind, tilting forward. And ahead, Li Siye's *mo* blades were waiting for it.
+
+---
+
+By the time he got back to the centre, the fog had cleared completely.
+
+The sun was out, shining on the wheat stubble, dazzling bright. His right eye squinted against the glare; his left was still red, still black, with that thing lying over it.
+
+He looked for Guo Ziyi. He knew Lord Guo was just ahead, but he had only one eye, and he looked and did not find him.
+
+He raised his hand and touched the arrow in his face.
+
+It was lodged in his left brow bone, not deep; the head was caught in the bone, and as he pulled it out he heard a crunch in the bone, like biting on a grain of sand. He threw the arrow away.
+
+Then he touched that thing. It was his own skin. It had peeled down from his forehead and lay over his eye, still attached by a little.
+
+He had to see Guo Ziyi. He could not speak to Guo Ziyi with one eye.
+
+He took hold of that flap of skin and tore it off.
+
+This time it hurt. It hurt so that his jaws clamped shut, clamped till his cheeks ached. But the left eye was uncovered. The eye was full of blood; he blinked a few times, the blood ran out of the corner, and he could see.
+
+Guo Ziyi was right in front of him.
+
+He told Guo Ziyi: the east is stopped. General Pugu has broken through to the back of the rebel line.
+
+Guo Ziyi looked at him a long time and said: good.
+
+---
+
+He turned his horse and saw Old Duan.
+
+Old Duan was standing there, his face white, the scar so red it was purple. Old Duan's mouth was open as if he were about to shout something, and did not shout it.
+
+Yisi wanted to say something to him. He wanted to say something, so Old Duan would stop looking at him like that. He thought, and could think of nothing else.
+
+"The road's open," he said.
+
+He rode on ahead.
+
+---
+
+Ahead, the blade companies were still pushing.
+
+Yisi reached the rear of the vanguard, reined in, and watched. His left eye was clotted with blood again; he wiped it with his sleeve, and when he had wiped it, after a while it clotted again. So every so often he wiped it.
+
+The wall was still the same wall, going forward rank by rank. The blades went up, came down, went up, came down. The rebels in front of the wall fell swathe by swathe, like wheat under the sickle.
+
+Li Siye was still at the very front.
+
+There were several more gashes on him, one on his shoulder, one under his ribs, and the blood ran down his body, past his waist, down his legs, into his boots. Both his boots were red, and every step he took squelched in them. He did not stop. The blade swung just the same, the wall went on just the same.
+
+Yisi looked at his boots.
+
+He thought of that rainy day at Wugong, sitting on the cart shaft pouring the water out of his boots, and it came out red. He had looked at it a long time.
+
+Behind the wall, too, men were falling.
+
+A few Tang soldiers had come back out of the wall. Their swords were gone, one had lost his helmet too, their faces were all mud and blood, their eyes staring wide, and they were running back. To run back they had to pass between the rear ranks of the blade companies.
+
+The rear-rank blade men did not make way.
+
+The blades went up, came down.
+
+One.
+
+Yisi watched.
+
+More men came back. The blades went up, came down. Two. Three.
+
+One ran halfway, looked back, turned round and ran forward again, back into the wall. He was not cut down.
+
+Four. Five.
+
+The sixth was a young one, not much older than Wei Three. He ran fastest, ran right up to the blade men, went down on his knees, and raised both hands.
+
+The blade came down.
+
+Six.
+
+Yisi sat on his horse and did not move.
+
+He had been there the night before in the Marshal's tent when the words were settled: anyone who pursues, cut him down. And for running back in the face of the enemy, the law of the army was to cut him down too. Of that troop that had gone out in pursuit that morning, the few who had come back were lying here.
+
+He looked at Li Siye's back, and at the few men fallen behind the wall.
+
+He did not count any further.
+
+---
+
+The battle went on until dark. The histories say that it lasted from noon to the hour of *you*, that the Tang army took sixty thousand heads, and that of the rebels who fell into the ditches and died, two or three in ten. The histories record that Li Siye stood bare-chested before the line with his blade and killed more than ten men—some books say several dozen—before the line held; record that he led the vanguard forward with long blades like a wall, first in the ranks, crushing all before him, and went round behind the rebel camp to take it front and back with the Uighurs; record that wounded he still charged on, and his blood soaked through his boots. They record that Pugu Huai'en shed his armour, took up a lance, and drove straight into the rebel line. The ambush of horse in the canals to the east the histories record too, saying "the scouts learned of it."
+
+At dark, the rebels fell back. They fell back into the city of Chang'an, and on the road many more died—fallen into ditches, trampled by their own—and no one counted. On the Tang side, many died too. The wounded were carried back from the front and laid in rows in the wheatfields, and when there was no more room, along the canal banks.
+
+Yisi was in the saddle all the while.
+
+The arrow in his back was still there, the arrow in his side still there. The one in his side he had snapped off himself, leaving only the head in his flesh. The one in his back he could not reach.
+
+When it was full dark, he dismounted.
+
+He led his horse east. At the second canal, in the mud of the canal bottom, he found Shi Six. Shi Six lay face down in the mud, his two hands still clenched, and the mud in the cracks of his hands was blacker than before.
+
+He put Shi Six across his horse and went north, round to the sluice of the third canal.
+
+At the sluice there were many dead heaped up, Uighurs and rebels, every which way, lying on top of each other. He turned them over one by one. At the seventh he found Wei Three. Wei Three lay on his back at the foot of the stone wall, two holes in his chest.
+
+Yisi laid the two of them on the canal bank, side by side. He wiped their faces with his sleeve, wiped them once; the mud would not come clean, and he wiped them again.
+
+Wei Three's eyes were open. Yisi reached out to close them; they closed, and when he took his hand away they opened again a slit.
+
+He closed them once more. This time he left his hand there, and did not take it away.
+
+On the canal bank the willows were still shedding their leaves, one, then another, falling on the three of them. Far off in the east, at the far end of the wheatfields, someone seemed to be weeping, or perhaps it was only the wind.
+
+Yisi's hand lay on Wei Three's eyes a long time.
+
+"Shi Six," he said.
+
+"Wei Three."
+
+---
+
+**Version** v0.1 (translated from Chinese v0.4)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
