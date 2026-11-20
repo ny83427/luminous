@@ -262,7 +262,7 @@ def main():
   <section class="mock">
     <img src="img/Mockup.jpg" alt="The three books">
   </section>
-  <footer class="foot">English edition, first draft · <a href="https://github.com/ny83427/luminous">source</a> · <a href="https://ny83427.github.io/jing/">中文版《景》</a></footer>
+  <footer class="foot">English edition, first draft · <a href="https://ny83427.github.io/jing/">中文版《景》</a></footer>
 </main>
 """
     (OUT / "index.html").write_text(page("Luminous | Lao Tie & Claude", index), encoding="utf-8")
