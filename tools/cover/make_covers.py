@@ -4,8 +4,11 @@ Usage (from this folder):
     npm i @fontsource/cinzel @fontsource/cormorant-garamond   # once
     python3 make_covers.py            # writes ../../cover/source/*.png and ../../cover/*.jpg
 
-The artwork (dusk sky, sun, lotus cross, the calligraphic 景, the caravan) is taken
-unchanged from final_main.html, the Chinese edition's cover; only the lettering differs.
+The artwork is taken unchanged from the Chinese edition's cover designs
+(jing/工具/封面设计): final_main.html for the main cover, and final_p1/p2/p3.html for the
+three book covers (dusk and caravan / night sky and star road / red sun and palace roofs).
+Only the lettering differs: the Chinese vertical label 第一部 阿罗诃 etc. becomes an English
+label in the same top-left position and colour, and LUMINOUS and the byline go at the foot.
 """
 import pathlib, re
 from playwright.sync_api import sync_playwright
@@ -18,9 +21,9 @@ BYLINE = "LAO TIE &amp; CLAUDE"
 
 COVERS = {
     "Main": None,
-    "Vol1": ("BOOK ONE", "ALAHA", "755 – 765"),
-    "Vol2": ("BOOK TWO", "MESSIAH", "765 – 818"),
-    "Vol3": ("BOOK THREE", "WIND", "818 – 850"),
+    "Vol1": ("final_p1.html", "BOOK ONE", "ALAHA", "755 – 765"),
+    "Vol2": ("final_p2.html", "BOOK TWO", "MESSIAH", "765 – 818"),
+    "Vol3": ("final_p3.html", "BOOK THREE", "WIND", "818 – 850"),
 }
 
 CSS = """
@@ -49,21 +52,49 @@ CSS = """
 """
 
 
+VOL_CSS = """
+<link rel="stylesheet" href="node_modules/@fontsource/cinzel/500.css">
+<link rel="stylesheet" href="node_modules/@fontsource/cinzel/700.css">
+<link rel="stylesheet" href="node_modules/@fontsource/cormorant-garamond/500-italic.css">
+<style>
+.en-part{position:absolute;left:170px;top:190px;font-family:"Cinzel";color:var(--c);text-shadow:0 2px 10px rgba(0,0,0,.35)}
+.en-part .k{display:block;font-size:40px;font-weight:500;letter-spacing:14px}
+.en-part .n{display:block;font-size:86px;font-weight:700;letter-spacing:14px;margin-top:6px;line-height:1}
+.en-part .r{display:block;width:120px;height:2px;background:var(--c);opacity:.7;margin:22px 0 16px}
+.en-part .y{display:block;font-size:34px;font-weight:500;letter-spacing:8px;opacity:.85}
+.en-foot{position:absolute;left:0;right:0;bottom:140px;text-align:center;color:var(--a);text-shadow:0 2px 8px rgba(0,0,0,.35)}
+.en-foot .t{display:block;font-family:"Cinzel";font-weight:700;font-size:64px;letter-spacing:22px;padding-left:22px}
+.en-foot .s{display:block;font-family:"Cormorant Garamond";font-style:italic;font-weight:500;font-size:38px;margin-top:6px}
+.en-foot .b{display:block;font-family:"Cinzel";font-weight:500;font-size:34px;letter-spacing:12px;padding-left:12px;margin-top:14px;opacity:.9}
+</style>
+"""
+
+
+def build_vol(name, spec):
+    tpl, k, n, y = spec
+    src = (HERE / tpl).read_text(encoding="utf-8")
+    part_c = re.search(r'\.part\{[^}]*?color:(#[0-9a-fA-F]{6})', src).group(1)
+    auth_c = re.search(r'\.author2\{[^}]*?color:(#[0-9a-fA-F]{6})', src).group(1)
+    src = re.sub(r'<div class="author2">.*?</div><div class="part">.*?</div>', "", src, flags=re.S)
+    src = src.replace("</head>", VOL_CSS + "</head>", 1)
+    text = (f'<div class="en-part" style="--c:{part_c}"><span class="k">{k}</span><span class="n">{n}</span>'
+            f'<span class="r"></span><span class="y">{y}</span></div>'
+            f'<div class="en-foot" style="--a:{auth_c}"><span class="t">LUMINOUS</span>'
+            f'<span class="s">{SUBTITLE}</span><span class="b">{BYLINE}</span></div>')
+    src = re.sub(r'(</div>\s*</body>)', text + r'\1', src, count=1)
+    out = HERE / f"en_{name}.html"
+    out.write_text(src, encoding="utf-8")
+    return out
+
+
 def build(name, book):
+    if book is not None:
+        return build_vol(name, book)
     src = (HERE / "final_main.html").read_text(encoding="utf-8")
-    # drop the Chinese byline and its style block
     src = re.sub(r'<style>\.author2.*?</style><div class="author2">.*?</div>', "", src, flags=re.S)
     src = src.replace("</head>", CSS + "</head>", 1)
-    if book is None:
-        text = (f'<div class="en-title">LUMINOUS</div><div class="en-rule"></div>'
-                f'<div class="en-sub">{SUBTITLE}</div><div class="en-by">{BYLINE}</div>')
-        src = src.replace('<div class="page">', '<div class="page">', 1)
-    else:
-        k, n, y = book
-        text = (f'<div class="en-title">LUMINOUS</div><div class="en-rule"></div>'
-                f'<div class="en-book"><span class="k">{k}</span><span class="n">{n}</span><span class="y">{y}</span></div>'
-                f'<div class="en-sub">{SUBTITLE}</div><div class="en-by">{BYLINE}</div>')
-        src = src.replace('<div class="page">', '<div class="page en-vol">', 1)
+    text = (f'<div class="en-title">LUMINOUS</div><div class="en-rule"></div>'
+            f'<div class="en-sub">{SUBTITLE}</div><div class="en-by">{BYLINE}</div>')
     src = src.replace("</div></body>", text + "</div></body>")
     out = HERE / f"en_{name}.html"
     out.write_text(src, encoding="utf-8")
