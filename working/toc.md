@@ -61,7 +61,7 @@
 | 018 | 李嗣业 | Li Siye | |
 | 019 | 促织 | Crickets | |
 | 020 | 天街 | The Street of Heaven | 朱雀大街，长安人叫“天街”。 |
-| 021 | 赈 | Relief | |
+| 021 | 义宁坊 | The Yining Ward | 中文 v0.4 改名重写（原“赈”） |
 | 022 | 五十 | Fifty | |
 | 023 | 鞠杖 | The Polo Mallet | |
 | 024 | 紫袈裟 | The Purple Robe | |

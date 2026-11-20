@@ -209,3 +209,12 @@
 | 弹筝峡 | the Tanzheng Gorge | 首次出现加释义 “the water of the plucked zither”。 |
 | 坊正 | the warden（of the ward） | |
 | 县尉／书吏 | sheriff / scribe | |
+| 何婆婆 | Granny He | 第二十一章（v0.4）起 |
+| 米老汉 | Old Mi | |
+| 康寡妇 | Widow Kang | |
+| 王店主（西市药铺） | Shopkeeper Wang | |
+| 卢小吏（留守府管仓） | Clerk Lu | |
+| 底野迦 | *diyejia*, theriac | 首次出现加释义 |
+| 米囊 | *minang*, the poppy | |
+| 护寺的弟兄 | the guard brothers | 第二十二章（v0.4）起；唐人叫“僧兵”，他们自己不这么叫 |
+| 荐饼礼 | the Offering of the Bread | |

@@ -6,340 +6,294 @@
 >
 > —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
 
-Official Pei was baptised in the seventh month.
+It was in the seventh month that Official Pei said he wanted to be baptized.
 
-It was four months after that day at the Qujiang Pool. In those four months he had come to the Yining Ward a dozen and more times. The first few times it was on official business—how the gruel was given, how the registers were drawn up, how the rice was shared. Later he stopped speaking of business. He came, stood a while under the jujube tree and listened to Gabriel expound the scripture. When it was over, he drank a bowl of broth with Yisi, and went.
+Four months had passed since that day at the Qujiang. In those four months he had come to the Yining Ward a dozen times and more. The first few times it was on public business: he asked how the gruel was given out, how the registers were drawn up, how the rice was shared. Later he no longer talked business. He came, stood a while under the jujube tree, listened to Gabriel expound the scripture, and when he had listened, drank a bowl of broth with Yisi and went.
 
-He never sat at the front. He stood at the very back, against the wall, in the spot where Old Duan usually stood. When Old Duan came and found him in it, he did not mind, and stood beside him. The two of them, one in an official's robe, one in old homespun, leaned side by side against the wall, each standing straighter than the other.
+He never sat at the front. He stood at the very back, leaning against the wall, in the place where Old Duan usually stood. When Old Duan came and found him in it, he did not mind, and stood next to him. The two of them, one in an official's robe and one in old homespun, leaned side by side against the wall, each standing straighter than the other.
 
-At the end of the sixth month Official Pei told Yisi he wanted to be baptised.
+One evening at the end of the seventh month, when he had listened to the scripture, he did not leave, but waited until everyone had gone, and told Yisi that he wanted to be baptized.
 
 Yisi asked him why.
 
-Official Pei thought a long time and said: "That day at Qujiang, I sat down on the grass. As I sat down I thought: so this is what it is to sit down."
+Official Pei thought a long time and said: "I can't say. I've been thinking about it for months."
 
-Yisi asked no more.
+Yisi asked no more. He said that by the monastery's rule, one who wished to be baptized first learned the Way, for a year or half a year; when the Great Fast came, he fasted with them for fifty days, one meal a day; and when the fast was over, on the day of the Lord's rising, before it was light, he was washed at the well.
 
----
+"Next spring," said Yisi, "you keep the Great Fast. When it's over, on that day, I'll wash you."
 
-The baptism was done in the back courtyard.
-
-Water drawn from the well was poured into a bronze basin. The basin was new, from a *hu* shop in the West Market, with a ring of vine leaves chased round the bottom. Ishaq said it was too fancy; Sabrisho said the rule said nothing about a basin not being fancy; so they used it.
-
-Official Pei knelt under the jujube tree. He had taken off his official cap and set it to one side; his hair was bound up, showing his high brow ridges.
-
-Yisi cupped water in his hands and poured it on his head. Once, twice, three times. The water ran down his forehead, over his brow ridges, into the hollows of his eyes, and dripped from his chin onto that blue official's robe, spreading in dark patches.
-
-Yisi recited in Syriac. He came to the Father, came to the Son, came to the Pure Wind.
-
-As he cupped the third handful, his hands paused.
-
-Only for a moment. Very brief; the people standing by did not notice. In that moment he thought of another time. That time there had been no bronze basin, no jujube tree, no one standing by to watch. That time there had been only a basin of water, the army kind, bronze, with a dent knocked in its rim.
-
-He poured the third handful.
-
-Official Pei stood up, did not wipe the water from his face, and bowed deeply to Yisi with his hands clasped.
-
----
-
-That night Official Pei did not leave.
-
-He sat with Yisi in the side room, the lamp lit, the door shut. He spoke differently from usual; usually he spoke slowly, sentence by sentence, but that night he spoke fast, as if he had been holding it in a long time.
-
-"Master Yi," he said, "this monastery of yours has no tablet."
-
-Yisi looked at him.
-
-"In the Zhenguan years Emperor Taizong gave a tablet. The tablet's gone," said Official Pei. "In the Tianbao years Emperor Xuanzong gave one too, and had the portraits of five former emperors sent to the monastery to be honoured. The portraits are gone too. Now, of the men at court, no more than a dozen know this monastery exists. Of those who know it, no more than three or five remember any good of it."
-
-"You gave out gruel all winter. At Qujiang you gave out rice to six thousand people, and not one died. The government saw it. While the government has a use for you, it remembers you; when it has none, it forgets. And one day someone will say you're a *hu*, that this is a *hu* monastery, that you gather crowds, that you're in league with the enemy—and on that day, no one will speak for you."
-
-Yisi said: "Lord Guo will speak."
-
-"Lord Guo will speak," said Official Pei. "But Lord Guo can't speak for you all his life. There'll be times when even Lord Guo can't get a word in."
-
-He paused.
-
-"You need something. Something the court gives, written in the registers, that no one can rub out."
-
-"What?"
-
-"The purple robe."
-
-Yisi said nothing.
-
-Official Pei said: "For eminent Buddhist monks the court to grant the purple is a common thing. Once granted the purple, the court has acknowledged the man. Acknowledge the man and you acknowledge his monastery. After that, whoever wants to lay hands on the monastery has to think first: this is a man the Son of Heaven has granted the purple."
-
-Yisi said: "I'm not a Buddhist monk."
-
-"I know you're not," said Official Pei. "The court doesn't know. The court knows only robes."
-
----
-
-That night the seven teachers argued a long time.
-
-They argued in the tent. The main hall was still being repaired, the side rooms could not hold everyone, and the seven lived in one big tent brought from Xizhou, its felt thick and airtight, so that in summer it was as stifling as a steamer. The seven sat in a circle with a lamp lit in the middle. Yisi sat by the door. Jingjing sat behind Yisi hugging his knees; no one told him to go out, so he did not.
-
-Yisi first told them what Official Pei had said.
-
-When he had finished, the tent was very quiet.
-
-The first to speak was Narsai.
-
-Narsai's brow ridges were high and his eyes were like stones. He never spoke fast; he knocked the words out one at a time, as if driving nails.
-
-"And the soldiers," he said, "clothed him with purple."
-
-Everyone knew whom he meant.
-
-"And platted a crown of thorns, and put it about his head. And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him. And when they had mocked him, they took off the purple from him, and put his own clothes on him."
-
-What he recited was the scripture of the Dharma King Mojuci. When he had finished, he looked at Yisi.
-
-"Our Lord wore a purple robe once," he said. "Others put it on him. They put it on him to mock him."
-
-No one spoke.
-
-After a while Sabrisho spoke. Sabrisho's beard was like a piece of felt, spread from his chin down to his chest. He kept the rule, and when he said *won't do*, it would not do.
-
-"The Patriarchate has a rule," said Sabrisho. "For a priest to accept robes of rank from a foreign king requires the Patriarch's leave. The Patriarch is in Ctesiphon. There and back, a year."
-
-"Then write," said Haddad.
-
-Haddad was dark, from the southern sea coast, spoke several languages, and of the seven had charge of dealings with the outside. He had been to more places than any of them.
-
-"In Persia, among the Arabs, on the coast of India," said Haddad, "where our churches have stood, it's been on the strength of a paper from the palace. Without that paper, today they pull down one of your rooms, tomorrow they pull down a church, the day after they drive your people into the desert. I've seen it."
-
-Ishaq spoke too. He was fat, and when he spoke his belly rose and fell.
-
-"The rice for those six thousand at Qujiang," said Ishaq, "the government gave it. We had no rice. All we had was a hundred and twenty men, a hundred and twenty mouths, to tell people to sit down. Only because they gave the rice did we have anything to do. From now on there'll be need of rice again, and land, and timber to rebuild the hall."
-
-Narsai said: "So we take the Lord's name and trade it for timber?"
-
-Ishaq said: "I didn't say that."
-
-"That's what you meant."
-
-Neither of them said any more.
-
-Babai had been turning over an old record all the while. It had been dug out from under the ruins of the monastery, one corner burned, still readable. He came to a page, stopped, and raised his head.
-
-"When Alopen came," said Babai, "in the ninth year of Zhenguan, Emperor Taizong sent the minister Fang Xuanling to the western outskirts to meet him. Three years later an edict was issued to build him a monastery in the Yining Ward and ordain twenty-one monks. There's a sentence in the edict. I'll read it to you."
-
-He read it in Tang, very slowly, matching word to word against the characters on the paper:
-
-"It benefits creatures and profits men, and ought to be practised throughout the world."
-
-When he had read it he put the record down. "When we came," he said, "there was a tablet already. We didn't beg for it; it was given us. The tablet's gone because the war took it."
-
-Narsai said: "Alopen didn't wear a purple robe."
-
-Babai opened his mouth, and no words came.
-
----
-
-Gabriel had said nothing all along.
-
-He sat beside the lamp with the burned left half of his face towards it, the wrinkled skin shining in the firelight. When everyone had stopped speaking, he spoke.
-
-"Let me tell you a story," he said.
-
-Narsai frowned, but did not stop him.
-
-"The king of Babylon, called Belshazzar," said Gabriel, "one night gave a feast for a thousand of his lords. Halfway through the drinking, a hand came forth on the wall and wrote on the plaster. Four words it wrote, and no one could read them. The king was so frightened his face changed and his knees smote one against another. He said: whoever can read this writing shall be clothed with purple, and have a chain of gold about his neck, and be the third ruler in the kingdom."
-
-"No one could read it. Then someone remembered Daniel. Daniel came."
-
-"The king said to him: read it, and the purple is yours."
-
-"Daniel said: let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation."
-
-Gabriel paused.
-
-"He read it. When he had read it, the king had him clothed with purple all the same, and put the chain of gold about his neck, and proclaimed him the third ruler in the kingdom."
-
-"In that night," said Gabriel, "the king was slain."
-
-He had finished, and said no more.
-
-The tent was very quiet. The lamp wick spat, the flame leapt and sank. Jingjing, sitting behind Yisi, saw Narsai with his head bowed, his two hands clasped on his knees, the knuckles white.
-
-Ishaq asked in a low voice: "Is that the end?"
-
-Gabriel said: "That's the end."
-
-Ishaq said: "So the purple—did he take it or didn't he?"
-
-Gabriel said: "What do you think?"
-
-Ishaq thought a long while and said: "I'm muddled."
-
-Someone laughed once. It was Haddad. When Haddad had laughed he felt it had been out of place himself, and coughed.
-
----
-
-The last to speak was Yonan.
-
-Yonan sat furthest from the lamp, his face in shadow; all that could be seen were those two hands like an old man's, folded on his knees.
-
-"I was bishop in Chang'an," he said.
-
-He said it in Tang. He had studied most of a year in Xizhou and still spoke it stiffly, but this sentence he said very steadily.
-
-"In those days the monastery had a tablet, had portraits, had land the court gave it. Every day I saw officials. When officials saw me, they were all courteous."
-
-He paused.
-
-"A tablet doesn't protect a man," he said. "When a man does wrong himself, a tablet doesn't protect him."
-
-No one in the tent took him up. Jingjing looked at Yonan's hands. They were clasped very tight, as tight as that night in Xizhou, beside the oil saucer.
-
-"But without a tablet," said Yonan, "the man who does right hasn't even a place to stand."
-
-He had finished. He lowered his head and spoke no more.
-
-Yisi looked at him, looked a while.
-
-Narsai raised his head and looked at Yonan too. He looked differently from Yisi. He looked a long time, and then took his eyes away.
-
----
-
-In the end it was Sabrisho who decided.
-
-"Ask, we may," said Sabrisho. "Write to the Patriarchate and explain. To wear it, we must wait for the Patriarchate's answer."
-
-Narsai said: "And if the Patriarchate doesn't allow it?"
-
-"If it doesn't allow it, it's put away in a chest and never worn in his life."
-
-Narsai thought, and said no more.
-
-Ishaq said: "So in the end are we asking or not?"
-
-Sabrisho said: "Asking."
-
-Yisi had said nothing all along. The seven had argued all night, and he had not said one word. At the end, everyone looked at him.
-
-He said: "I don't want it."
-
-Sabrisho said: "Whether you want it is not in the rule."
-
-Yisi nodded.
-
----
-
-The memorial asking for it was written by Official Pei, written at great length—it told of Yisi at Changshan, at Xiangji Temple, gathering the dead south of the city, giving gruel in the Yining Ward, giving rice at Qujiang. When it was written, Official Pei could not present it himself. His rank was too low; even if he presented it, it would never reach the Son of Heaven.
-
-He went to Guo Ziyi.
-
-Guo Ziyi read the memorial, said nothing, and put it away in his sleeve.
-
-What came after, Yisi did not know.
-
----
-
-What happened in the hall that day was this.
-
-That autumn, when Guo Ziyi and Governor Li had just come to court, the Son of Heaven gave the banquet, bestowed offices, and then summoned the two governors to the hall to discuss affairs. When the army's affairs had been discussed, Guo Ziyi did not withdraw, but took that memorial from his sleeve, held it in both hands and said: your servant has a matter—to ask a reward for a man under his command.
-
-The Son of Heaven had the memorial taken from him and read it.
-
-When he had read it, the Son of Heaven said nothing, and handed the memorial to those beside him to pass round. It went round once, and then voices were raised in the hall.
-
-The first to speak said the purple was granted to eminent Buddhist monks, and only great masters of virtue and conduct who expounded the scriptures, preached the Law and prayed for the realm had ever been worthy of it. A *hu* monk, believing a *hu* teaching—grant him the purple, and what would the Buddhists think? What would the realm think?
-
-Another said there were enough *hu* at court already. An Lushan was a *hu*, Shi Siming was a *hu*; the overturned cart ahead was a warning, and they must be on their guard.
-
-Then another man spoke. This man did not raise his voice; he spoke very slowly, sentence by sentence, as if smiling as he spoke.
-
-"Lord Director Guo goes to such trouble for a *hu* monk," the man said. "The whole court knows the Lord Director is a Tang man. Can it be that the Lord Director himself has come to believe in his *hu* teaching?"
-
-The hall went silent.
-
----
-
-Guo Ziyi did not answer at once.
-
-He stood there, his beard more than half white, his face red—whether from the heat or by nature, there was no telling. He looked at the man who had spoken, looked a while, then turned round and looked at the Son of Heaven.
-
-"What your servant believes," said Guo Ziyi, "your servant tells Heaven himself, morning and evening, every day. He would not dare bring it into this hall and soil Your Majesty's ears. In this hall, only Your Majesty's affairs should be spoken of."
-
-"At Changshan, Yisi watched the roads for Your Majesty's soldiers. Twelve riders went out and he came back alone. At Xiangji Temple he watched the roads for Your Majesty's soldiers, three arrows in him, pulled one out himself and tore off a flap of skin. The sixty thousand dead south of the city—he buried them. The six thousand starving souls at Qujiang—he gave them rice. All these are Your Majesty's affairs."
-
-He paused.
-
-"As for *hu*," said Guo Ziyi, "under your servant's command there are Uighurs, Tongluo, Tiele, Khitan—all of them. Li Guangbi is a Khitan too, and is standing right beside your servant. If using *hu* meant your servant believed in *hu* teachings—"
-
-He turned his head and glanced at Li Guangbi. Li Guangbi stood there, his eyelids half lowered, nothing at all in his face.
-
-"Then the teachings your servant believes in," said Guo Ziyi, "must be more than there are men in this hall."
-
-Someone in the hall laughed aloud, and hastily held it in.
-
-The Son of Heaven laughed too. When he had laughed, he looked at Guo Ziyi a while and said: granted.
-
----
-
-The decree came down in the ninth month.
-
-The purple robe granted. Appointed Grand Master of the Golden Seal and Purple Ribbon, Acting Director of the Palace Administration, Associate Deputy Military Governor of Shuofang.
-
-Grand Master of the Golden Seal and Purple Ribbon was a prestige title, of the first class of the third rank, with no duties—only a grade. Acting Director of the Palace Administration had no duties either; it was an empty title. Associate Deputy Military Governor of Shuofang—this one had duties, but what duties the decree did not say. Official Pei said: all three are tablets for you; a tablet has no duties, it just has to hang there.
-
-When the palace envoy proclaiming the decree reached the Yining Ward, Yisi was in the back courtyard repairing the hall. He came down the ladder, his hands covered in mud, his head covered in dust, and knelt on the ground to hear it. When the envoy had finished reading he handed Yisi a wooden box.
-
-Yisi opened the box.
-
-The robe was purple, a very deep purple, like a grape gone fully ripe. The cloth was silk, very light, cool to the touch, with a smell of new dye.
-
-He lifted the robe out and shook it open.
-
-It was a little big. At the shoulders, there was room to spare.
-
-Ishaq, beside him, said: "Put it on and try it."
-
-Sabrisho said: "No. The Patriarchate hasn't answered yet."
-
-Yisi folded the robe, folded it very neatly, and put it back in the wooden box. He took the box into the side room, opened the cupboard in the corner, and put it in, beside the old leather armour.
-
-Jingjing stood at the door and watched him shut the cupboard door.
-
----
-
-Early the next morning Yisi went to Guo Ziyi's mansion.
-
-Guo Ziyi was eating gruel. Millet gruel, a dish of pickles, a steamed bun. The parrot with the Youzhou accent still hung in the gallery, and seeing Yisi come in it flapped its wings and gave its cry—the same one sentence, which no one could understand.
-
-Yisi sat down across from Guo Ziyi.
-
-"The decree came down," said Yisi.
+Official Pei counted and said: "That's most of a year away."
 
 "Mm."
 
-"In the hall," said Yisi, "did anyone speak?"
-
-Guo Ziyi broke the bun open and soaked it in the gruel.
-
-"Someone always speaks in the hall."
-
-"What did they say?"
-
-Guo Ziyi did not answer. With his chopsticks he pressed the softened bun down to the bottom of the gruel, pressed it a while, then picked it up and ate it.
-
-Yisi waited.
-
-He waited a long time. Guo Ziyi finished half the bun, drank half the bowl of gruel, took two mouthfuls of pickles. In the gallery the parrot cried again.
-
-"Lord Guo," said Yisi, "I owe you."
-
-Guo Ziyi put down his chopsticks.
-
-He looked at Yisi. What he looked at was the scar on Yisi's face, from a little left of the middle of his brow up onto his forehead; it was no longer red, but had turned white. Half his left eyebrow was missing, and would never grow back.
-
-"You don't owe me," said Guo Ziyi. "You have to have a tablet of your own."
-
-He picked up his chopsticks again, bent his head, and went on with his gruel.
+Official Pei nodded, put on his cap, and went. He still walked a little lopsided, the sole of one shoe worn thin.
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.4)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
+In the eighth month Guo Ziyi came to court, and watched a game of polo in the Forbidden Park. At the beginning of the ninth month, someone came from the palace.
+
+That day Yisi was in the side room grinding medicines. They had come on credit from Shopkeeper Wang in the West Market—dried ginger, coptis, and a few others—ground to powder and wrapped in little packets, one by one, for the people of the ward who had the flux. He had ground till his hands were yellow when someone shouted at the door that people had come from the palace.
+
+The man who came was a palace envoy, forty or so, in a green robe, and behind him were two young eunuchs, one carrying a wooden case, one carrying a roll of yellow paper. The ward warden ran ahead of them all, ran till his cap was askew.
+
+Yisi wiped his hands twice on the front of his robe, could not get them clean, and stopped wiping. He came out of the side room and stood in the middle of the courtyard, facing north.
+
+Everyone in the monastery had come out and stood in a crowd behind him. The seven teachers stood in the front row, the guard brothers behind, and Granny He, Old Mi and the other old believers squeezed in by the courtyard gate.
+
+The warden said low at his side: "Bow."
+
+Yisi bowed twice. The people behind him bowed twice too. Old Duan did not know whether he should bow, stood watching a while, saw the warden bow too, and bent once at the waist with them.
+
+The envoy unrolled the yellow paper and read it out. He read very fast, word hard on word, and Yisi caught only a few phrases: the monk Yisi of the Daqin monastery, having served the army with merit, is fit to be generously rewarded: let him be granted one purple robe, one glass bowl, fifty bolts of silk.
+
+When he had finished, Yisi bowed twice more, and only then stepped forward and received the edict in both hands.
+
+The young eunuch held out the wooden case. Yisi took the case, did not open it, and held it in his hands. The envoy said the silk was to be drawn from the Left Treasury on presentation of the certificate. And with that he gave him a certificate too.
+
+Official Pei was there that day. He had heard the news early and come hurrying, in his official robe, and stood beside the warden. Now he went over, took a cloth bundle from his sleeve, and pressed it into the hands of the young eunuch beside the envoy. The envoy did not even look, turned and went.
+
+Only afterwards did Yisi learn that in the bundle was a bolt of silk, Official Pei's own. When someone came from the palace to proclaim an edict, the one receiving the gift by custom thanked the messenger. Yisi had not known the custom; Official Pei had.
+
+Yisi wanted to give him back a bolt. Official Pei would not take it.
+
+---
+
+The wooden case was opened that night.
+
+The seven teachers were all in the side room. Yisi sat by the door, and Jingjing sat behind him hugging his knees; no one told him to leave, so he did not leave. Yisi set the case on the table and lifted the lid.
+
+The robe was purple, a very deep purple, like grapes fully ripe. The cloth was silk, very light, cool to the touch, with a smell of new dye.
+
+Yisi lifted the robe and held it against himself. It was too big.
+
+Ishaq said beside him: "Put it on and try it."
+
+Yisi did not put it on. He folded the robe up again.
+
+Beneath the robe, at the bottom of the case, something else lay, wrapped in silk floss. Babai reached in and lifted the floss away. It was a bowl.
+
+The bowl was of glass, clear, its sides ground into row upon row of little round facets, crowded close against each other like a honeycomb. Where the lamplight passed through it, the tabletop under the bowl shone too.
+
+Everyone in the room looked at it.
+
+"This came from the west," said Haddad. He picked the bowl up and turned it against the lamp. "Persian craftsmanship. I've seen it at the Patriarchate. Things like this, the Tang have only in the palace."
+
+He put the bowl down, very gently.
+
+---
+
+That night the seven talked in the side room a long time.
+
+What they talked about was not whether to accept. The edict had come down, and an imperial gift could not be refused; everyone knew that. What they talked about was whether to wear it.
+
+Narsai spoke first. He never spoke fast, but knocked his words out one at a time.
+
+"A priest's vestment," he said, "is received from the bishop's hands on the day hands are laid on him. A vestment from anywhere else, he does not wear."
+
+Sabrisho nodded. He kept the rule; when he said *no*, it was no.
+
+"The Patriarchate has a rule," said Sabrisho. "For a priest to accept robes of rank from a foreign king, the Patriarch must give leave. We write to the Patriarchate. If the Patriarch gives leave, he wears it; if not, he keeps it put away."
+
+"There and back, a year," said Haddad.
+
+"Then we wait a year."
+
+Ishaq asked: "And in that year, when people ask why you don't wear the purple the Son of Heaven gave you, what do you say?"
+
+Sabrisho said: "Say we're waiting for a letter."
+
+Ishaq thought, and said: "Will the Tang understand that?"
+
+No one answered him.
+
+Gabriel had been sitting by the lamp all this while, the burned left half of his face toward it. Now he spoke, and said he would tell a story.
+
+He told of the king of Babylon who gave a feast at night, and a hand came forth on the wall and wrote a few words, and no one could read them. The king said: whoever can read it shall be clothed with purple, and have a chain of gold about his neck, and be the third ruler in the kingdom. And a man came, called Daniel. Daniel said: let thy gifts be to thyself, and give thy rewards to another; the writing I will read for you. And he read it. When he had read it, the king still had him clothed with purple, and a chain of gold put about his neck.
+
+What became of that king afterwards, Gabriel did not tell. He came to there, and told no more.
+
+The side room was very quiet. The lamp wick spat; the flame jumped up and sank again.
+
+Ishaq said softly: "I'm muddled."
+
+Someone laughed. It was Haddad.
+
+Yisi sat by the door, and had said nothing all along.
+
+Sabrisho looked at him once and said: "Write."
+
+Babai wrote the letter, in Syriac, two sheets, and the next day it went with a Sogdian caravan from the West Market bound west.
+
+The robe Yisi folded, put back in the case, and locked in the cupboard in the corner of the side room.
+
+The glass bowl he did not lock away.
+
+---
+
+When an edict came down, a memorial had to be sent up giving thanks.
+
+Yisi did not know how to write a memorial. He could write Tang characters, slowly, stroke by stroke, as if carving them; but a memorial had its own way of being written—how it was addressed at the start, how one gave thanks in the middle, how one ended—and he knew none of it.
+
+Official Pei wrote it for him.
+
+A day later Official Pei came in the evening, spread paper in the side room, ground ink a long while, wrote an opening, crumpled it, wrote another opening. By nearly the third watch he had a page. He read it to Yisi, read it very slowly, and where Yisi did not understand he stopped and explained. Yisi listened; some lines he understood, and some he did not.
+
+When he heard the line *bathed in extraordinary grace*, Yisi said: "That line—could it be left out?"
+
+Official Pei said: "No. Memorials are all written like this."
+
+So Yisi said no more.
+
+When the memorial was written, Yisi signed his name at the end. His hand shook a little; the first time he spoiled it, changed to a fresh sheet, and only the second time wrote it properly.
+
+Official Pei folded the memorial, tucked it into his coat, and said he would take it to Lord Guo's household tomorrow; Lord Guo's household had people who would send it up.
+
+---
+
+It was Guo Ziyi who had sent up the memorial asking for the reward.
+
+This too Yisi learned only afterwards. A few days later an old bodyguard from Guo Ziyi's household came to the monastery bringing a commission scroll, which he said had come down from the Ministry of Personnel, appointing Yisi Acting Director of the Palace Administration. The old bodyguard was thirsty from the walk; Yisi brought him a bowl of hot broth, and he squatted by the well, blowing on it and drinking, and told him a few things.
+
+He said that in the days when Lord Guo came to court, he had sent up a memorial saying that under his command there was a *hu* monk who had served in the army three years and done good service finding the way, and asking that he be rewarded. Lord Guo had dictated it and an officer of his staff had written it; it ran to a page and more, and not one word of it spoke of a monastery, nor one word of scripture.
+
+Yisi asked: "In the hall—did anyone speak?"
+
+The old bodyguard thought and said: "I heard someone did. I heard someone said something with a laugh. Lord Guo didn't take him up."
+
+"What did he say?"
+
+The old bodyguard said: "How would I know that? I wasn't in the hall."
+
+He finished his broth, set the bowl on the rim of the well, and went.
+
+Yisi did not ask anyone else.
+
+---
+
+On the second seventh day, the monastery held the Offering of the Bread.
+
+It was held under the jujube tree in the back courtyard. The main hall had not yet been touched; the table was carried out of the side room and spread with a white cloth. The cup that usually held the wine was of coarse earthenware, with a crack at its lip, dug out of the rubble after the city fell.
+
+That morning Yisi brought out the glass bowl in both hands and gave it to Sabrisho.
+
+Sabrisho did not use it at once. First he anointed its rim with oil, held the bowl in both hands and recited a long passage in Syriac, and when he had recited it, made the sign of the cross over it, and only then set it on the table.
+
+He poured the wine into the bowl. The wine was red, the bowl was clear, and the sun came down through the jujube leaves onto the bowl, so that the wine in it shone like a red stone. Granny He, sitting at the back, craned her neck and looked a long time, and said to Widow Kang beside her: same colour as blood. Widow Kang told her to keep her voice down.
+
+When the rite was done, the bowl was washed clean and put away in the side room, together with the scriptures. From then on, every seventh day at the Offering, it was used.
+
+The earthenware cup Sabrisho wrapped in a white cloth, and put it away in the scripture cupboard too, at the very bottom.
+
+---
+
+The fifty bolts of silk, drawn from the Left Treasury on the certificate, were fetched by Xu Jing with two of the guard brothers, driving a cart. Yisi kept not one bolt.
+
+First he went to the West Market. Shopkeeper Wang's shop was open; Shopkeeper Wang sat behind the cabinet weighing out some medicine, and when he saw him come in, put down his steelyard.
+
+Yisi laid two bolts of silk on the counter.
+
+"The medicines I took on credit last winter," said Yisi, "this humble monk kept count—forty-seven times in all. I don't know if this is enough."
+
+Shopkeeper Wang looked at the two bolts, and at him, and said: "You kept count?"
+
+"I did."
+
+Shopkeeper Wang drew his account book from under the cabinet, leafed through some pages, stopped at one place, and drew a line across it with his brush. When he had drawn it, he pushed one bolt back.
+
+"One's enough," said Shopkeeper Wang. "This one, count it as left with me. When people from the ward come for medicine, I'll take it off this."
+
+Yisi did not argue, and left that bolt there.
+
+The old man south of the city, Old Duan went to. Old Duan carried two bolts on his shoulder, walked thirty *li*, and came to the edge of those fields. The old man was turning the soil, saw him, straightened his back, and asked him what he was carrying.
+
+Old Duan said: it's from the *hu* monk, for you and your two sons.
+
+The old man chewed his wheat straw and looked at the two bolts, looked a long time, and said: "When we buried them, the government paid nothing."
+
+"This time it's from him."
+
+The old man said nothing more. He spat out the straw, wiped his hands on his trousers, and took them.
+
+The rest, Yisi divided among several places.
+
+Fifteen bolts he gave to Sabrisho, for repairing the main hall. Ten he gave to Ishaq, for the pots at the monastery gate. To Granny He, Old Mi, Widow Kang and the others, one bolt each. For the old soldiers who had helped at the burying south of the city and the giving out of rice at the Qujiang, Hou Siyuan drew up a list; it came to eight bolts in all, cut up, so that each man got a few feet. Yisi had Hou Siyuan share it out, and did not go himself.
+
+Shi Six's family was in Lingzhou. Yisi wrapped two bolts and sent them by a caravan going to Lingzhou, to be given to the people at the Lingzhou monastery, so that they could make inquiries in the city for the Shi family.
+
+Five more bolts he entrusted to the Sogdian owner of the silk shop in the West Market. In a while the owner was going to Luoyang, and Yisi asked him to take them to the Xiushan Ward and give them to that old deacon keeping watch over his heap of ash.
+
+He also asked the owner to take a message. The message he made up himself, and had Babai write it in Syriac on a small wooden board:
+
+Next year at the Great Fast, come to Chang'an, and we will keep it together.
+
+Three bolts remained. He kept them, and did not say for whom.
+
+---
+
+At the end of the ninth month, Guo Ziyi left the capital.
+
+Nine military governors were joining their forces to go to Xiangzhou against An Qingxu. Guo Ziyi's main army was on the river; he took his bodyguard out of the Chunming Gate and went east to join it. That day the people of the city stood along the street again to watch.
+
+Yisi was there too. He stood by the road outside the Chunming Gate with the few attendants the Guo household had left in the capital. The wound in his back had still not quite healed, and tightened when he rode long; this time Guo Ziyi had not had him come.
+
+Guo Ziyi rode out of the gate passage on that dappled grey of his. When he came level with the attendants he checked his horse, looked this way once, and saw Yisi.
+
+Yisi bowed.
+
+Guo Ziyi said: "Mend that back."
+
+Yisi said: "Yes."
+
+Guo Ziyi shook the reins, and the horse moved on. The bodyguard followed behind, rider after rider, and it was a good while before they had all passed.
+
+---
+
+At the beginning of the tenth month, Yisi went out to the south of the city.
+
+He went with Old Duan. The two of them rode out of the Mingde Gate before light and went south, rode most of the morning.
+
+First they came to a village, twenty *li* south of the city, with a jujube tree at its entrance. Yisi got down from his horse, asked two old men sunning themselves at their door, and found a house. Its courtyard wall was of earth, fallen in at one corner, and at the door sat an old woman twisting hemp cord.
+
+Yisi stopped at the door and said that he had been the one who went with Wei Three to find the way.
+
+The old woman raised her head and looked at him. She looked a long time: at the scar on his face, at his grey robe, at Old Duan behind him. When she had looked, she put down the cord in her hands.
+
+"Where is he buried?" she asked.
+
+Yisi told her. The third channel, the north end, by the sluice-gate, under the crook-necked willow.
+
+The old woman nodded and said: "He used to go there when he was little. Catching loaches."
+
+Yisi laid three bolts of silk on her threshold. The old woman did not look at the three bolts, nor say whether she wanted them or not. She picked up the cord again, twisted it twice, stopped, and said: "You go on. My legs are bad. I can't walk that far."
+
+---
+
+From the village east, a little further, were the channels.
+
+A year had gone by. The water in the channels was shallower than it had been then, and the willows on the banks were half yellow. The wheat had been sown in the fields, a thin layer of green; you could not tell a battle had been fought here.
+
+At the north end of the third channel the sluice-gate was still there, built of stone, the cracks between the stones grown full of grass. The willow beside the sluice-gate still leaned, stretching slantwise out over the channel.
+
+Under the willow, a stick of wood was planted.
+
+The wood was old now, gone black, roughened by the rain. Two names were carved on it. One was Shi Six, carved fairly straight; one was Wei Three, and the character *Wei* was carved all crooked, a stroke across and a stroke down, as if copied stroke by stroke.
+
+Old Duan looked at the stick from his horse and said: "This is it."
+
+Yisi got down.
+
+He unloaded a stone from his horse's back. He had bought it from a stonemason in the West Market: bluestone, a foot or so high, polished, with characters cut on its face. He had written the characters himself on paper and had the mason cut them from that:
+
+SHI SIX, OF LINGZHOU. WEI THREE, OF SOUTH OF THE CAPITAL. FELL IN BATTLE IN THE NINTH MONTH OF THE SECOND YEAR OF ZHIDE. BURIED HERE.
+
+He and Old Duan dug a hole under the willow, stood the stone in it, filled in the earth, and trod it firm.
+
+The stick of wood he did not pull up. He let it stand beside the stone.
+
+Old Duan squatted and looked at the stone a while, and at the stick a while, and said: "This time that *Wei*'s carved straight."
+
+Yisi said nothing. He stood under the willow a while, bent down, and pulled out the few blades of grass in front of the stone.
+
+---
+
+**Version** v0.2 (translated from Chinese v0.5)　**Last modified** 2026-11-20（美国中部时间）　**Status** 英译样稿

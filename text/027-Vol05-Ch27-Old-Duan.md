@@ -12,7 +12,7 @@ Guo Ziyi had gone the autumn before. In the ninth month the Son of Heaven had is
 
 The nine governors had no marshal set over them. The Son of Heaven said Guo and Li were both men of the highest merit and neither could well be put under the other. The Son of Heaven sent a eunuch, with the title Commissioner for Overseeing the Army, Pacification and Disposition; his name was Yu Chao'en.
 
-Yisi had stayed in Chang'an repairing the monastery until the twelfth month. In the first month men came from the camp saying the siege had gone on more than three months, there were not enough winter clothes, not enough medicine for wounds, and Chang'an was to send another load. Yisi was Associate Deputy Military Governor of Shuofang, and the task fell to him.
+Yisi had stayed in Chang'an repairing the monastery until the twelfth month. In the first month men came from the camp saying the siege had gone on more than three months, there were not enough winter clothes, not enough medicine for wounds, and Chang'an was to send another load. Yisi was the man who served at Lord Guo's headquarters, and the task fell to him.
 
 He took thirty carts. Winter clothes, medicines, arrow shafts, and some salt.
 
