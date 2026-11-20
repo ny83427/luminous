@@ -10,35 +10,42 @@ body{background:radial-gradient(ellipse 70% 60% at 50% 30%,#4a1c10 0%,#2c0f08 55
 .floor{position:absolute;left:0;right:0;top:858px;bottom:0;background:linear-gradient(#1c0805,#140503)}
 .floor::before{content:"";position:absolute;left:0;right:0;top:0;height:1px;background:rgba(255,190,140,.08)}
 .stage{position:absolute;left:0;top:0;width:1600px;height:1000px}
-.book{position:absolute;top:388px;height:470px;display:flex;filter:drop-shadow(0 22px 26px rgba(0,0,0,.55))}
-.book .front{width:332px;height:470px;background-size:cover;position:relative}
-.book .front::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.28),rgba(0,0,0,0) 4%,rgba(255,255,255,.05) 8%,rgba(255,255,255,0) 40%)}
-.book .spine{width:60px;height:470px;display:flex;flex-direction:column;align-items:center;justify-content:space-between;
-  padding:22px 0 20px;box-sizing:border-box;position:relative;
-  background-image:linear-gradient(90deg,rgba(0,0,0,.35),rgba(255,255,255,.07) 30%,rgba(0,0,0,0) 60%,rgba(0,0,0,.45))}
+.cam{position:absolute;top:340px;width:360px;height:510px;perspective:1700px;perspective-origin:50% 25%}
+/* a box: front 360×510, depth 64; turned so the spine faces the viewer, as in the Chinese mockup */
+.book{position:absolute;left:0;top:0;width:360px;height:510px;transform-style:preserve-3d;transform:rotateY(34deg)}
+.book>div{position:absolute;backface-visibility:hidden}
+.book .front{left:0;top:0;width:360px;height:510px;background-size:cover;transform:translateZ(32px)}
+.book .front::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.35),rgba(0,0,0,0) 3%,rgba(255,255,255,.06) 6%,rgba(255,255,255,0) 30%,rgba(0,0,0,.12))}
+.book .spine{left:148px;top:0;width:64px;height:510px;transform:rotateY(-90deg) translateZ(180px);
+  display:flex;flex-direction:column;align-items:center;justify-content:space-between;padding:22px 0 20px;box-sizing:border-box;
+  background-image:linear-gradient(90deg,rgba(0,0,0,.42),rgba(0,0,0,.18) 50%,rgba(0,0,0,.3))}
+.book .pages{left:148px;top:0;width:64px;height:510px;transform:rotateY(90deg) translateZ(180px);
+  background:repeating-linear-gradient(90deg,#e9e1cf 0 2px,#d8cdb5 2px 3px)}
+.book .top{left:0;top:223px;width:360px;height:64px;transform:rotateX(90deg) translateZ(255px);
+  background:repeating-linear-gradient(0deg,#e3dac6 0 2px,#cfc3a9 2px 3px)}
 .spine .v{writing-mode:vertical-rl;white-space:nowrap}
-.spine .t{font-weight:700;font-size:19px;letter-spacing:5px}
+.spine .t{font-weight:700;font-size:20px;letter-spacing:6px}
 .spine .p{font-weight:500;font-size:13px;letter-spacing:3px;opacity:.92;flex:1;display:flex;align-items:center;justify-content:center}
 .spine .a{font-weight:500;font-size:9px;letter-spacing:1px;line-height:1.5;text-align:center;opacity:.85}
-.shadow{display:none}
+.shadow{position:absolute;top:832px;width:520px;height:46px;border-radius:50%;background:radial-gradient(ellipse at center,rgba(0,0,0,.7),rgba(0,0,0,0) 70%)}
 </style></head>
 <body>
 <div class="floor"></div>
 <div class="stage">
-  <div class="shadow" style="left:250px"></div>
-  <div class="shadow" style="left:680px"></div>
-  <div class="shadow" style="left:1110px"></div>
-  <div class="book" style="left:170px">
+  <div class="shadow" style="left:150px"></div>
+  <div class="shadow" style="left:560px"></div>
+  <div class="shadow" style="left:970px"></div>
+  <div class="cam" style="left:220px"><div class="book">
     <div class="spine" style="background:#3d140c;color:#f7dcae"><span class="v t">LUMINOUS</span><span class="v p">I · ALAHA</span><span class="a">LAO TIE<br>&amp;<br>CLAUDE</span></div>
-    <div class="front" style="background-image:url(../../cover/Vol1.jpg)"></div>
-  </div>
-  <div class="book" style="left:604px">
+    <div class="pages"></div><div class="top"></div><div class="front" style="background-image:url(../../cover/Vol1.jpg)"></div>
+  </div></div>
+  <div class="cam" style="left:630px"><div class="book">
     <div class="spine" style="background:#132150;color:#f2d48a"><span class="v t">LUMINOUS</span><span class="v p">II · MESSIAH</span><span class="a">LAO TIE<br>&amp;<br>CLAUDE</span></div>
-    <div class="front" style="background-image:url(../../cover/Vol2.jpg)"></div>
-  </div>
-  <div class="book" style="left:1038px">
+    <div class="pages"></div><div class="top"></div><div class="front" style="background-image:url(../../cover/Vol2.jpg)"></div>
+  </div></div>
+  <div class="cam" style="left:1040px"><div class="book">
     <div class="spine" style="background:#b42e1e;color:#f4e7d0"><span class="v t">LUMINOUS</span><span class="v p">III · WIND</span><span class="a">LAO TIE<br>&amp;<br>CLAUDE</span></div>
-    <div class="front" style="background-image:url(../../cover/Vol3.jpg)"></div>
-  </div>
+    <div class="pages"></div><div class="top"></div><div class="front" style="background-image:url(../../cover/Vol3.jpg)"></div>
+  </div></div>
 </div>
 </body></html>
