@@ -14,7 +14,7 @@
 | `cover/` | `封面/` | 英文版封面：总封面 `Main.jpg`，三部封面 `Vol1–3.jpg`；`cover/source/` 是 PNG 原图（1680×2380）。 |
 | `tools/cover/` | `工具/封面设计/` | 封面生成脚本 `make_covers.py`，在中文版 `final_main.html` 的画面上换成英文字。 |
 | `images/` | `图片/` | 正文插图（与中文版相同）。 |
-| `trailer/` | `预告片/` | 英文版预告片 `Luminous_trailer.mp4`（32.6 秒，1920×1080）。 |
+| `trailer/` | `预告片/` | 英文版预告片 `Luminous_trailer.mp4`（48 秒，1920×1080）。 |
 | `tools/trailer/` | `工具/预告片/` | 预告片生成脚本 `trailer.py`（画面）与 `sound.py`（配乐），由中文版改写，字幕换成英文。 |
 | `tools/site/` | `工具/build_site.py`、`工具/site/` | 阅读网站生成脚本 `build_site.py` 与 `style.css`、`app.js`，版式与中文版相同，界面改英文。 |
 | `docs/` | `docs/` | GitHub Pages 阅读网站（由 `tools/site/build_site.py` 生成，勿手改）。 |

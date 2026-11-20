@@ -248,7 +248,7 @@ def main():
   </section>
   <section class="trailer">
     <video src="trailer.mp4" poster="img/Mockup.jpg" controls preload="none" playsinline></video>
-    <p>Trailer · 33 seconds</p>
+    <p>Trailer · 48 seconds</p>
   </section>
   <section class="vols">
     <a href="#p1"><img src="img/Vol1.jpg" alt="Book One"><span>Book One · Alaha</span></a>

@@ -5,7 +5,13 @@ from scipy.signal import butter, sosfilt
 from scipy.io import wavfile
 
 SR = 48000
-DUR = 32.6
+# Scene starts of the Chinese trailer (32.6 s) and of this slower English cut (48.0 s);
+# every event time below is written on the old clock and mapped through W().
+OLD_T = [0, 4.0, 8.2, 12.2, 16.2, 20.4, 24.2, 27.6, 32.6]
+NEW_T = [0, 6.0, 11.8, 17.8, 23.8, 30.2, 35.8, 41.0, 48.0]
+def W(t):
+    return float(np.interp(t, OLD_T, NEW_T))
+DUR = 48.0
 N = int(SR * DUR)
 L = np.zeros(N); R = np.zeros(N)
 rng = np.random.default_rng(1)
@@ -16,10 +22,10 @@ def lp(x, f, order=2):
 def bp(x, lo, hi):
     return sosfilt(butter(2, [lo, hi], "band", fs=SR, output="sos"), x)
 def env_curve(points):
-    ts = [p[0] for p in points]; vs = [p[1] for p in points]
+    ts = [W(p[0]) for p in points]; vs = [p[1] for p in points]
     return np.interp(T, ts, vs)
 def add(sig, t0, gain=1.0, pan=0.0):
-    i = int(t0 * SR)
+    i = int(W(t0) * SR)
     if i >= N: return
     sig = sig[: N - i]
     L[i:i + len(sig)] += sig * gain * (1 - max(pan, 0))
@@ -49,11 +55,11 @@ def pad(freqs, dur, cutoff=900):
     s = lp(s, cutoff, 2) / (len(freqs) * 3)
     a = np.minimum(1, np.arange(n) / (SR * 1.2)) * np.minimum(1, (n - np.arange(n)) / (SR * 1.5))
     return s * a
-add(pad([73.4, 110, 146.8, 174.6], 8.6, 700), 8.0, 0.5, pan=-0.15)        # D 小调 8.2–16.2
-add(pad([65.4, 98, 130.8, 155.6], 4.6, 800), 16.0, 0.5, pan=0.15)          # C 小调 碑
-add(pad([58.3, 87.3, 116.5, 146.8], 3.8, 1000), 20.2, 0.55)                 # 会昌 降B
-add(pad([73.4, 110, 146.8, 220, 293.7], 3.6, 1200), 24.0, 0.5)               # 西出 D
-add(pad([73.4, 110, 146.8, 174.6, 220], 4.8, 900), 27.9, 0.6)                # 片名
+add(pad([73.4, 110, 146.8, 174.6], W(8.0 + 8.6) - W(8.0), 700), 8.0, 0.5, pan=-0.15)        # D 小调 8.2–16.2
+add(pad([65.4, 98, 130.8, 155.6], W(16.0 + 4.6) - W(16.0), 800), 16.0, 0.5, pan=0.15)          # C 小调 碑
+add(pad([58.3, 87.3, 116.5, 146.8], W(20.2 + 3.8) - W(20.2), 1000), 20.2, 0.55)                 # 会昌 降B
+add(pad([73.4, 110, 146.8, 220, 293.7], W(24.0 + 3.6) - W(24.0), 1200), 24.0, 0.5)               # 西出 D
+add(pad([73.4, 110, 146.8, 174.6, 220], W(27.9 + 4.8) - W(27.9), 900), 27.9, 0.6)                # 片名
 
 # 钟
 def bell(f0, dur=5.0):

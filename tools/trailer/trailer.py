@@ -4,7 +4,7 @@ Adapted from jing/工具/预告片/trailer.py; all on-screen text is English, ex
 用法: python3 trailer.py [scene_index ...]   不带参数则渲染全部
       python3 trailer.py still <scene> <t>   导出单帧检查
 """
-import math, os, subprocess, sys
+import math, os, re, subprocess, sys
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -104,12 +104,16 @@ def paste_alpha(base, layer, xy, alpha=1.0):
 def crop_pan(layer, offx, offy=0):
     return layer.crop((int(offx), int(offy), int(offx) + W, int(offy) + H))
 
+def is_latin(s):
+    return not re.search(r"[\u3000-\u9fff\uff00-\uffef]", s)
+
+
 def text_img(s, size, path=SERIF, color=IVORY, spacing=0.35, shadow=True):
-    if s.isascii() and path.endswith(".ttc"):
+    if is_latin(s) and path.endswith(".ttc"):
         path = {SERIF: ROMAN, SERIF_B: ROMAN_B}.get(path, ROMAN)
     f = font(path, size)
     chars = list(s)
-    if s.isascii():
+    if is_latin(s):
         widths = [f.getlength(c) for c in chars]
     else:
         widths = [f.getbbox(c)[2] - f.getbbox(c)[0] if c.strip() else size * 0.6 for c in chars]
@@ -121,9 +125,9 @@ def text_img(s, size, path=SERIF, color=IVORY, spacing=0.35, shadow=True):
     x = 20
     for c, wd in zip(chars, widths):
         if c.strip():
-            bb = f.getbbox(c) if not s.isascii() else (0, 0, 0, 0)
+            bb = f.getbbox(c) if not is_latin(s) else (0, 0, 0, 0)
             d.text((x - bb[0], size * 0.25), c, font=f, fill=color + (255,))
-        x += wd + (gap if (c.strip() or not s.isascii()) else 0)
+        x += wd + (gap if (c.strip() or not is_latin(s)) else 0)
     if shadow:
         sh = Image.new("RGBA", im.size, (0, 0, 0, 0))
         sh.putalpha(im.getchannel("A").filter(ImageFilter.GaussianBlur(size * 0.18)).point(lambda v: int(v * 0.85)))
@@ -278,13 +282,13 @@ def scene(dur):
         return fn
     return deco
 
-def dip(img, t, dur, fin=0.5, fout=0.45):
+def dip(img, t, dur, fin=0.9, fout=0.8):
     k = min(ease(t / fin) if fin else 1, ease((dur - t) / fout) if fout else 1)
     if k < 0.999:
         img = Image.blend(Image.new("RGB", img.size, (0, 0, 0)), img, k)
     return img
 
-def finish(img, t, dur, fin=0.5, fout=0.45, g=8):
+def finish(img, t, dur, fin=0.9, fout=0.8, g=8):
     img.alpha_composite(VIG)
     letterbox(img)
     out = grain(img, t, g)
@@ -317,10 +321,10 @@ class S1:
         d.polygon([(cx - 9, cy + 30), (cx + 9, cy + 30), (cx + 2 + sway, cy + 30 - fh), (cx - 2 + sway, cy + 30 - fh)], fill=(255, 236, 190, int(255 * k)))
         d.ellipse((cx - 9, cy + 20, cx + 9, cy + 38), fill=(255, 220, 150, int(255 * k)))
         s.dust.draw(img, t, k)
-        draw_text(img, s.t1, 400, fade(t, 1.2, dur - 0.3, 0.9, 0.5), -12 * ease((t - 1.2) / 3))
-        draw_text(img, s.t2, 500, fade(t, 2.2, dur - 0.3, 0.9, 0.5))
+        draw_text(img, s.t1, 400, fade(t, 1.2, dur - 0.9, 1.0, 0.7), -12 * ease((t - 1.2) / 3))
+        draw_text(img, s.t2, 500, fade(t, 2.2, dur - 0.9, 1.0, 0.7))
         return finish(img, t, dur, fin=0.01)
-scene(4.0)(S1)
+scene(6.0)(S1)
 
 # 2 烽火 大军
 class S2:
@@ -357,9 +361,9 @@ class S2:
                 ban = (150, 26, 20, 255) if i % 9 == 4 else ((28, 20, 16, 255) if i % 9 == 0 else None)
                 soldier(d, sx, y, 1.25, col, t * 7 + i * 1.3, banner=ban, t=t)
         s.embers.draw(img, t, 1, flicker=True)
-        draw_text(img, s.t1, 300, fade(t, 1.0, dur - 0.35, 0.8, 0.5))
+        draw_text(img, s.t1, 300, fade(t, 1.0, dur - 0.9, 1.0, 0.7))
         return finish(img, t, dur)
-scene(4.2)(S2)
+scene(5.8)(S2)
 
 # 3 一人一骑 在山脊
 class S3:
@@ -391,10 +395,10 @@ class S3:
         if z > 1.001:
             cw, ch = W / z, H / z
             img = img.crop((int((W - cw) / 2), int((H - ch) * 0.6), int((W + cw) / 2), int((H - ch) * 0.6 + ch))).resize((W, H), Image.BILINEAR)
-        draw_text(img, s.t1, 300, fade(t, 0.7, dur - 0.35, 0.7, 0.5))
-        draw_text(img, s.t2, 395, fade(t, 1.9, dur - 0.35, 0.7, 0.5))
+        draw_text(img, s.t1, 300, fade(t, 0.7, dur - 0.9, 1.0, 0.7))
+        draw_text(img, s.t2, 395, fade(t, 1.9, dur - 0.9, 1.0, 0.7))
         return finish(img, t, dur)
-scene(4.0)(S3)
+scene(6.0)(S3)
 
 # 4 长安夜 大秦寺 门口灯
 class S4:
@@ -457,10 +461,10 @@ class S4:
         d = ImageDraw.Draw(img)
         d.rectangle((lx - 12, ly - 16, lx + 12, ly + 16), fill=(255, 205, 130, 255))
         d.rectangle((lx - 3, ly + 16, lx + 3, ly + 40), fill=(14, 14, 20, 255))
-        draw_text(img, s.t1, 290, fade(t, 0.6, dur - 0.35, 0.7, 0.5))
-        draw_text(img, s.t2, 385, fade(t, 1.8, dur - 0.35, 0.7, 0.5))
+        draw_text(img, s.t1, 290, fade(t, 0.6, dur - 0.9, 1.0, 0.7))
+        draw_text(img, s.t2, 385, fade(t, 1.8, dur - 0.9, 1.0, 0.7))
         return finish(img, t, dur)
-scene(4.0)(S4)
+scene(6.0)(S4)
 
 # 5 立碑：碑文逐行显现
 STELE_TEXT = ["粤若常然真寂", "先先而无元", "窅然灵虚", "后后而妙有", "总玄枢而造化", "妙众圣以元尊"]
@@ -527,12 +531,12 @@ class S5:
         img.alpha_composite(s.base, (int(600 - 380), int(y0 + s.sh - 90)))
         s.dust.draw(img, t)
         # 字幕放画面左侧，竖立的碑在中间
-        a1 = fade(t, 1.0, dur - 0.3, 0.7, 0.5)
-        a2 = fade(t, 2.0, dur - 0.3, 0.7, 0.5)
+        a1 = fade(t, 1.0, dur - 0.9, 1.0, 0.7)
+        a2 = fade(t, 2.0, dur - 0.9, 1.0, 0.7)
         draw_text(img, s.t1, 480, a1, cx=1320)
         draw_text(img, s.t2, 570, a2, cx=1320)
         return finish(img, t, dur)
-scene(4.2)(S5)
+scene(6.4)(S5)
 
 # 6 会昌：火光，碑入土
 class S6:
@@ -593,10 +597,10 @@ class S6:
         d.rectangle((0, 930, W, H), fill=(12, 6, 4, 255))
         s.ash.draw(img, t)
         s.emb.draw(img, t, 1, flicker=True)
-        draw_text(img, s.t1, 270, fade(t, 0.5, dur - 0.3, 0.5, 0.5))
-        draw_text(img, s.t2, 360, fade(t, 1.6, dur - 0.3, 0.6, 0.5))
+        draw_text(img, s.t1, 270, fade(t, 0.5, dur - 0.9, 1.0, 0.7))
+        draw_text(img, s.t2, 360, fade(t, 1.6, dur - 0.9, 1.0, 0.7))
         return finish(img, t, dur, fin=0.15)
-scene(3.8)(S6)
+scene(5.6)(S6)
 
 # 7 西出玉门：落日驼队
 class S7:
@@ -623,10 +627,10 @@ class S7:
             y = s.p2[int(min(max(gx + 600, 0), 2999))] + 8
             camel(d, sx, y, 1.15, (18, 10, 6, 255), t * 5 + i * 0.9, rider=(i % 2 == 0))
         s.sand.draw(img, t)
-        draw_text(img, s.t1, 300, fade(t, 0.5, dur - 0.3, 0.7, 0.5))
-        draw_text(img, s.t2, 400, fade(t, 1.5, dur - 0.3, 0.7, 0.5))
+        draw_text(img, s.t1, 300, fade(t, 0.5, dur - 0.9, 1.0, 0.7))
+        draw_text(img, s.t2, 400, fade(t, 1.5, dur - 0.9, 1.0, 0.7))
         return finish(img, t, dur)
-scene(3.4)(S7)
+scene(5.2)(S7)
 
 # 8 片名
 class S8:
@@ -650,8 +654,8 @@ class S8:
         draw_text(img, s.sub, 812, fade(t, 2.4, 99, 0.8, 0.1), cx=1250)
         draw_text(img, s.url, 905, fade(t, 3.0, 99, 0.8, 0.1))
         s.dust.draw(img, t, a)
-        return finish(img, t, dur, fin=0.01, fout=0.9, g=6)
-scene(5.0)(S8)
+        return finish(img, t, dur, fin=0.01, fout=1.6, g=6)
+scene(7.0)(S8)
 
 # ---------- 渲染 ----------
 def render_scene(i):
