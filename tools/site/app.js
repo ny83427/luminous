@@ -6,9 +6,9 @@
     b.addEventListener('click',function(){
       var a=b.getAttribute('data-act');
       if(a==='dark'){var d=document.body.classList.toggle('dark');set('lum-dark',d?'1':'0');return}
-      var cur=parseInt(getComputedStyle(root).getPropertyValue('--fs'))||19;
-      cur=Math.max(14,Math.min(28,cur+(a==='bigger'?1:-1)));
-      root.style.setProperty('--fs',cur+'px');set('lum-fs',cur);
+      var cur=parseInt(getComputedStyle(root).getPropertyValue('--fs'))||27;
+      cur=Math.max(16,Math.min(44,cur+(a==='bigger'?1:-1)));
+      root.style.setProperty('--fs',cur+'px');set('lum-fs2',cur);
     });
   });
   var reader=document.querySelector('.reader');

@@ -87,7 +87,7 @@ def page(title, content, extra_head="", body_class=""):
 {extra_head}
 </head>
 <body class="{body_class}">
-<script>try{{if(localStorage.getItem('lum-dark')==='1')document.body.classList.add('dark');var fs=localStorage.getItem('lum-fs');if(fs)document.documentElement.style.setProperty('--fs',fs+'px');}}catch(e){{}}</script>
+<script>try{{if(localStorage.getItem('lum-dark')==='1')document.body.classList.add('dark');var fs=localStorage.getItem('lum-fs2');if(fs)document.documentElement.style.setProperty('--fs',fs+'px');}}catch(e){{}}</script>
 {content}
 <script src="app.js?v={ASSET_V}"></script>
 </body>
