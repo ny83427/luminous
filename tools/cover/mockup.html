@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<!-- Three-book mockup for LUMINOUS, after the Chinese edition's 封面/Mockup.jpg.
+     Rendered by make_covers.py at 1600×1000 CSS px, device scale 2 → 3200×2000. -->
+<link rel="stylesheet" href="node_modules/@fontsource/cinzel/500.css">
+<link rel="stylesheet" href="node_modules/@fontsource/cinzel/700.css">
+<style>
+html,body{margin:0;width:1600px;height:1000px;overflow:hidden}
+body{background:radial-gradient(ellipse 70% 60% at 50% 30%,#4a1c10 0%,#2c0f08 55%,#1a0704 100%);font-family:Cinzel,serif}
+.floor{position:absolute;left:0;right:0;top:858px;bottom:0;background:linear-gradient(#1c0805,#140503)}
+.floor::before{content:"";position:absolute;left:0;right:0;top:0;height:1px;background:rgba(255,190,140,.08)}
+.stage{position:absolute;left:0;top:0;width:1600px;height:1000px}
+.book{position:absolute;top:388px;height:470px;display:flex;filter:drop-shadow(0 22px 26px rgba(0,0,0,.55))}
+.book .front{width:332px;height:470px;background-size:cover;position:relative}
+.book .front::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.28),rgba(0,0,0,0) 4%,rgba(255,255,255,.05) 8%,rgba(255,255,255,0) 40%)}
+.book .spine{width:60px;height:470px;display:flex;flex-direction:column;align-items:center;justify-content:space-between;
+  padding:22px 0 20px;box-sizing:border-box;position:relative;
+  background-image:linear-gradient(90deg,rgba(0,0,0,.35),rgba(255,255,255,.07) 30%,rgba(0,0,0,0) 60%,rgba(0,0,0,.45))}
+.spine .v{writing-mode:vertical-rl;white-space:nowrap}
+.spine .t{font-weight:700;font-size:19px;letter-spacing:5px}
+.spine .p{font-weight:500;font-size:13px;letter-spacing:3px;opacity:.92;flex:1;display:flex;align-items:center;justify-content:center}
+.spine .a{font-weight:500;font-size:9px;letter-spacing:1px;line-height:1.5;text-align:center;opacity:.85}
+.shadow{display:none}
+</style></head>
+<body>
+<div class="floor"></div>
+<div class="stage">
+  <div class="shadow" style="left:250px"></div>
+  <div class="shadow" style="left:680px"></div>
+  <div class="shadow" style="left:1110px"></div>
+  <div class="book" style="left:170px">
+    <div class="spine" style="background:#3d140c;color:#f7dcae"><span class="v t">LUMINOUS</span><span class="v p">I · ALAHA</span><span class="a">LAO TIE<br>&amp;<br>CLAUDE</span></div>
+    <div class="front" style="background-image:url(../../cover/Vol1.jpg)"></div>
+  </div>
+  <div class="book" style="left:604px">
+    <div class="spine" style="background:#132150;color:#f2d48a"><span class="v t">LUMINOUS</span><span class="v p">II · MESSIAH</span><span class="a">LAO TIE<br>&amp;<br>CLAUDE</span></div>
+    <div class="front" style="background-image:url(../../cover/Vol2.jpg)"></div>
+  </div>
+  <div class="book" style="left:1038px">
+    <div class="spine" style="background:#b42e1e;color:#f4e7d0"><span class="v t">LUMINOUS</span><span class="v p">III · WIND</span><span class="a">LAO TIE<br>&amp;<br>CLAUDE</span></div>
+    <div class="front" style="background-image:url(../../cover/Vol3.jpg)"></div>
+  </div>
+</div>
+</body></html>

@@ -115,6 +115,14 @@ def main():
             im = Image.open(png).convert("RGB")
             im.save(ROOT / "cover" / f"{name}.jpg", quality=88)
             print("wrote", name)
+        # three-book mockup (after the Chinese edition's 封面/Mockup.jpg); uses the Vol covers just written
+        mp = b.new_page(viewport={"width": 1600, "height": 1000}, device_scale_factor=2)
+        mp.goto((HERE / "mockup.html").as_uri())
+        mp.wait_for_timeout(800)
+        png = ROOT / "cover" / "source" / "Mockup.png"
+        mp.screenshot(path=str(png))
+        Image.open(png).convert("RGB").save(ROOT / "cover" / "Mockup.jpg", quality=88)
+        print("wrote Mockup")
         b.close()
 
 

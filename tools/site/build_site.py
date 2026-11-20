@@ -118,7 +118,6 @@ def main():
     for p in COVER.glob("*.jpg"):
         shutil.copy(p, OUT / "img" / p.name)
     shutil.copy(HERE / "icon.png", OUT / "img" / "icon.png")
-    shutil.copy(HERE / "poster.jpg", OUT / "img" / "poster.jpg")
     shutil.copy(HERE / "style.css", OUT / "style.css")
     shutil.copy(HERE / "app.js", OUT / "app.js")
     (OUT / ".nojekyll").write_text("")
@@ -248,7 +247,7 @@ def main():
     </div>
   </section>
   <section class="trailer">
-    <video src="trailer.mp4" poster="img/poster.jpg" controls preload="none" playsinline></video>
+    <video src="trailer.mp4" poster="img/Mockup.jpg" controls preload="none" playsinline></video>
     <p>Trailer · 33 seconds</p>
   </section>
   <section class="vols">
@@ -260,13 +259,16 @@ def main():
     <h2 class="toc-head">Contents</h2>
     {''.join(toc)}
   </section>
+  <section class="mock">
+    <img src="img/Mockup.jpg" alt="The three books">
+  </section>
   <footer class="foot">English edition, first draft · <a href="https://github.com/ny83427/luminous">source</a> · <a href="https://ny83427.github.io/jing/">中文版《景》</a></footer>
 </main>
 """
     (OUT / "index.html").write_text(page("Luminous | Lao Tie & Claude", index), encoding="utf-8")
 
-    items = [("Main", "Cover"), ("Vol1", "Book One · Alaha"), ("Vol2", "Book Two · Messiah"), ("Vol3", "Book Three · Wind")]
-    g = "".join(f'<figure><a href="img/{k}.jpg"><img src="img/{k}.jpg" alt="{t}" loading="lazy"></a><figcaption>{t}</figcaption></figure>' for k, t in items)
+    items = [("Main", "Cover"), ("Vol1", "Book One · Alaha"), ("Vol2", "Book Two · Messiah"), ("Vol3", "Book Three · Wind"), ("Mockup", "The three books")]
+    g = "".join(f'<figure class="{"wide" if k == "Mockup" else ""}"><a href="img/{k}.jpg"><img src="img/{k}.jpg" alt="{t}" loading="lazy"></a><figcaption>{t}</figcaption></figure>' for k, t in items)
     gallery = f"""
 <header class="bar">
   <a href="index.html" class="brand">Luminous</a>
