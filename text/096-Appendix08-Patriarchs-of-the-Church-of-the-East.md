@@ -27,7 +27,7 @@ This appendix first lists the patriarchs of the seventh to ninth centuries relev
 | 823–828 | Ishoʿ bar Nun | |
 | 828–831 | Gewargis II | |
 | 831–835 | Sabrisho II | Sabrisho, one of the Seven Teachers in the book, shares his name |
-| 837–850 | Abraham II | In office during the Huichang proscription; the old patriarch whom Salang and the others meet in Chapter 66 |
+| 837–850 | Abraham II | In office during the Huichang proscription; the patriarch who, ill, does not receive Elijah and Salang in Chapter 83 |
 | 853–858 | Theodosius | |
 
 The histories often differ by a year or two in their dates; the usual ones are given here.
@@ -65,8 +65,6 @@ The book's Hnanisho is mostly invented:
 
 These are a novelist's inventions.
 
-In Chapter 66, the old patriarch in Baghdad reads that line of Syriac on the side of the stele and says: "When the stele was raised, Hnanisho was already dead." That line is written from the facts on the stele.
-
 ## 5. Timothy I (r. 780–823)
 
 Timothy I was one of the most famous patriarchs in the history of the Church of the East, and reigned for more than forty years.
@@ -84,7 +82,7 @@ He lived past ninety, died in 823, and was buried in Baghdad.
 Some of the book's Timothy is invented:
 
 - In Chapter 44 he reads the life of Nestorius and concludes that "one must choose the man who can keep the church alive";
-- In Chapter 53 he writes to Jingjing about the arrangements for the province of China, and Jingjing thinks of making one more journey west, and in the end does not go.
+- In Chapter 58 he writes to Jingjing about the arrangements for the province of China, and Jingjing thinks of making one more journey west, and in the end does not go.
 
 That he consecrated a metropolitan for China is documented; the letter in the book is imagined on that basis.
 
@@ -92,7 +90,7 @@ That he consecrated a metropolitan for China is documented; the letter in the bo
 
 When the Luminous Religion was banned in Chang'an in the fifth year of Huichang (845), the patriarch in Baghdad was Abraham II. Here too the sources say little: only that he reigned thirteen years and died in 850, after which the seat was vacant for three years.
 
-In Chapter 66, Salang, Elijah and their party reach Baghdad in the spring of the fourth year of Dazhong, that is, 850, and meet a patriarch old and ill. They report to him the end in Chang'an and hand over their copy of the Syriac names from the side of the stele. That summer the old patriarch dies. The book does not give his name; reckoning by the year, it is Abraham II.
+In Chapter 83, Elijah and Salang reach Baghdad in the autumn of the fourth year of Dazhong, that is, 850. The patriarch has been ill all summer and is no better in autumn; he does not see them. They are received by the patriarch's scribe, Matthew. Elijah tells him, thing by thing, how it ended in Chang'an; from the Patriarchate's book of events they find the old entry on Guangzheng, and the year of his death is written into the empty line. The book does not give this patriarch's name; reckoning by the year, it is Abraham II, who died that same year.
 
 ## 7. Two after the Epilogue
 
@@ -163,4 +161,4 @@ Note: each item is marked with the nature of the source, to make checking easier
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译初稿
+**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译初稿

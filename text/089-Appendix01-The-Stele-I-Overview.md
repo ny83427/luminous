@@ -1,6 +1,6 @@
 # Appendix 1　The Stele, I: An Overview
 
-The stone that keeps appearing in this book is known in full as *The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom* (大秦景教流行中國碑). Today it stands in the second gallery of the Forest of Stelae Museum in Xi'an. Yisi, Jingjing, Hnanisho and Lü Xiuyan, who appear in the novel, are all named on it. It is dug up in the Prologue and goes into the ground in Chapter 58, and most of what happens in the decades between grows out of what is written on it. This appendix gives the basic facts about the stele and its fate. The full text and an English translation are in Appendix 2; the great benefactor Yisi is discussed in Appendix 3; the other people on the stele in Appendix 4; and the honours Alopen received on entering Chang'an in Appendix 5.
+The stone that keeps appearing in this book is known in full as *The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom* (大秦景教流行中國碑). Today it stands in the second gallery of the Forest of Stelae Museum in Xi'an. Yisi, Jingjing, Hnanisho and Lü Xiuyan, who appear in the novel, are all named on it. It is dug up in the Prologue and goes into the ground in Chapter 75, and most of what happens in the decades between grows out of what is written on it. This appendix gives the basic facts about the stele and its fate. The full text and an English translation are in Appendix 2; the great benefactor Yisi is discussed in Appendix 3; the other people on the stele in Appendix 4; and the honours Alopen received on entering Chang'an in Appendix 5.
 
 ## 1. The stele in brief
 
@@ -20,7 +20,7 @@ Yisi's Syriac name is generally read by scholars as Yazdbōzīd. The stele says 
 
 Jingjing's Syriac name was Adam. The stele calls him priest, chorepiscopus, and "papash of Sinistan," father of the church of China. He is the author of the inscription.
 
-The patriarch named in the Syriac is Ḥnanīšōʿ II, and the "Ningshu" (宁恕) in the last line of the Chinese inscription—"at that time the Lord of the Law, the monk Ningshu, oversaw the Luminous congregations of the East"—refers to him as well; the novel's Patriarch Hnanisho is taken from here. In fact he had died the year before the stele was raised, and Timothy I had already succeeded him, but the news had not yet travelled from Baghdad to Chang'an. So one stele carries the name of a patriarch who was no longer living. Chapter 48 of the novel is about exactly this.
+The patriarch named in the Syriac is Ḥnanīšōʿ II, and the "Ningshu" (宁恕) in the last line of the Chinese inscription—"at that time the Lord of the Law, the monk Ningshu, oversaw the Luminous congregations of the East"—refers to him as well; the novel's Patriarch Hnanisho is taken from here. In fact he had died the year before the stele was raised, and Timothy I had already succeeded him, but the news had not yet travelled from Baghdad to Chang'an. So one stele carries the name of a patriarch who was no longer living. Chapter 49 of the novel is about exactly this.
 
 Among the Chinese names on the stele there is also a "monk Jingfu." Jingfu of the novel's third generation, Jingjing's disciple, bears the same name.
 
@@ -34,4 +34,4 @@ The full text of the inscription, notes on the readings, and a translation are i
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译初稿
+**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译初稿

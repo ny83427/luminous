@@ -313,7 +313,7 @@ Delegates':
 
 (The Wenli Union text of this verse has not yet been found; the Delegates' Version is given instead.)
 
-### Chapters 32, 55, 59, 62: "In the highest heavens, deep reverence and praise"
+### From Chapter 38 on, throughout the book: "In the highest heavens, deep reverence and praise"
 
 This is the Luminous scripture that appears most often in the book: the hymn Jingjing translated is being sung. This line does survive in the Luminous original; it is the opening of the *Sanwei mengdu zan*:
 
@@ -329,7 +329,7 @@ KJV (Luke 2:14):
 
 Set side by side, "in the highest heavens, deep reverence and praise" is "Glory to God in the highest," and "on the great earth, peace and harmony everywhere" is "on earth peace." The Luminous translator made it into seven-character verse.
 
-### Chapter 59, *Packing*
+### Chapter 76, *Packing*
 
 KJV (John 18:36):
 
@@ -424,4 +424,4 @@ Markings as in Appendices 6–8: [Web] checked against a public online text whil
 
 ---
 
-**Version** v0.1 (translated and adapted from Chinese v0.2)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译初稿
+**Version** v0.1 (translated and adapted from Chinese v0.2)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译初稿
