@@ -32,9 +32,9 @@
 | 七 | 阿莲 | A-Lian |
 | 八 | 大秦寺 | The Daqin Monastery |
 | 九 | 译场 | The Translation Hall |
-| 十 | 会昌 | Huichang |
-| 十一 | 玉门关 | Jade Gate |
-| 十二 | 巴格达 | Baghdad |
+| 十 | 晨课 | Morning Praises |
+| 十一 | 会昌 | Huichang |
+| 十二 | 玉门关 | Jade Gate |
 
 ## 章名
 
@@ -68,46 +68,64 @@
 | 025 | 哭与笑 | Weeping and Laughing | |
 | 026 | 岑参 | Cen Shen | |
 | 027 | 段老七 | Old Duan | |
-| 028 | 拔阿罗 | Ba'aluo | 叙利亚话“保罗”在唐人耳中的音，正文自有解释。 |
+| 028 | 拔阿罗 | Baaluo | |
 | 029 | 柳珩 | Liu Heng | |
 | 030 | 杜环 | Du Huan | |
 | 031 | 沙布尔 | Shapur | |
-| 032 | 洗尘 | Washing Off the Dust | |
-| 033 | 宫辩 | The Palace Debate | |
+| 032 | 手令 | The Order | |
+| 033 | 凉粥 | Cold Gruel | |
 | 034 | 浑释之 | Hun Shizhi | |
-| 035 | 仆固怀恩 | Pugu Huai'en | |
+| 035 | 仆固怀恩 | Pugu Huaien | |
 | 036 | 单骑 | A Single Rider | |
 | 037 | 水与灯 | Water and Lamp | |
 | 038 | 译经 | Translating the Scriptures | |
 | 039 | 重逢 | Reunion | |
-| 040 | 来书 | The Letter | |
+| 040 | 来书 | The Letter Comes | |
 | 041 | 婚礼 | The Wedding | |
 | 042 | 约南 | Yonan | |
 | 043 | 纳尔赛 | Narsai | |
-| 044 | 僧宁恕 | Hnanisho | 牧首宁恕二世（Ḥnanīšōʿ II）。 |
+| 044 | 僧宁恕 | Hnanisho | |
 | 045 | 立碑之议 | A Stele Is Proposed | |
 | 046 | 阿罗本 | Alopen | |
-| 047 | 吕秀岩 | Lü Xiuyan | |
-| 048 | 立碑 | Raising the Stele | |
-| 049 | 郭子仪 | Guo Ziyi | 与卷一同名，首尾呼应，英文照样。 |
-| 050 | 伊斯 | Yisi | |
-| 051 | 般若 | Prajna | |
-| 052 | 米继芬 | Mi Jifen | |
-| 053 | 提摩太 | Timothy | 牧首提摩太一世。 |
-| 054 | 景净 | Jingjing | |
-| 055 | 三代 | Three Generations | |
-| 056 | 摩尼先灭 | The Manichaeans Go First | |
-| 057 | 敕书所及 | As Far as the Edict Reaches | |
-| 058 | 埋碑 | Burying the Stele | |
-| 059 | 收拾 | Packing | |
-| 060 | 押送 | Under Escort | |
-| 061 | 陇山 | The Long Mountains | |
-| 062 | 约瑟 | Joseph | |
-| 063 | 何老人 | Old He | |
-| 064 | 粟特 | Sogdiana | |
-| 065 | 景福 | Jingfu | |
-| 066 | 萨朗 | Salang | |
-| 067 | 尾声　草原 | Epilogue: The Steppe | |
+| 047 | 耀森文 | Yaosenwen | |
+| 048 | 吕秀岩 | Lü Xiuyan | |
+| 049 | 立碑 | The Stele Is Raised | |
+| 050 | 郭子仪 | Guo Ziyi | |
+| 051 | 伊斯 | Yisi | |
+| 052 | 般若 | Prajna | |
+| 053 | 裴官人 | Official Pei | |
+| 054 | 纳尔赛 | Narsai | |
+| 055 | 十一娘 | Shiyiniang | |
+| 056 | 米继芬 | Mi Jifen | |
+| 057 | 拔阿罗 | Baaluo | |
+| 058 | 提摩太 | Timothy | |
+| 059 | 李素 | Li Su | |
+| 060 | 景净 | Jingjing | |
+| 061 | 定额 | The Quota | |
+| 062 | 光正 | Guangzheng | |
+| 063 | 泗州 | Sizhou | |
+| 064 | 安氏 | Lady An | |
+| 065 | 七娘 | Qiniang | |
+| 066 | 思圆 | Siyuan | |
+| 067 | 三代 | Three Generations | |
+| 068 | 何七 | He Qi | |
+| 069 | 牙帐 | The Royal Tent | |
+| 070 | 阿依 | Ayi | |
+| 071 | 去甚 | Qushen | |
+| 072 | 日进 | Rijin | |
+| 073 | 阿奴 | A-Nu | |
+| 074 | 三日 | Three Days | |
+| 075 | 埋碑 | Burying the Stele | |
+| 076 | 收拾 | Packing | |
+| 077 | 老祝 | Old Zhu | |
+| 078 | 约瑟 | Joseph | |
+| 079 | 何老人 | Old He | |
+| 080 | 分路 | Parting Ways | |
+| 081 | 四娘 | Siniang | |
+| 082 | 灵宝 | Lingbao | |
+| 083 | 萨朗 | Salang | |
+| 084 | 净风 | Pure Wind | |
+| 085 | 尾声　草原 | Epilogue: The Steppe | |
 | 089–093 | 附录一至五　景教碑之一至五 | Appendix 1–5: The Stele, I–V | 大略 / 碑文对照 / 伊斯考 / 碑中人物 / 宾礼与贞观朝的外来宗教 → Overview / Text and Translation / Yisi / The People of the Stele / The Reception of Alopen and Foreign Religions under Taizong |
 | 094 | 附录六　异端之名 | Appendix 6: The Name of Heresy | |
 | 095 | 附录七　年表 | Appendix 7: Chronology | |
@@ -122,4 +140,4 @@
 
 ---
 
-**Version** v0.1　**Last modified** 2026-11-19（美国中部时间）　**Status** 模拟稿，待作者定
+**Version** v0.2　**Last modified** 2026-11-25（美国中部时间）　**Status** 模拟稿，待作者定

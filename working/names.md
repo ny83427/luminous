@@ -170,9 +170,6 @@
 - 年号纪年：叙述中“天宝十四载”作 the fourteenth year of Tianbao，章附注给公元年；对话中照用。
 - 农历月份照中文“正月、二月……腊月”作 the first month … the twelfth month，不换成公历月份。
 
----
-
-**Version** v0.1　**Last modified** 2026-11-19（美国中部时间）　**Status** 模拟稿，待作者定
 
 ## 七、第二十一章以后新增（2026-11-19）
 
@@ -188,7 +185,7 @@
 | 李素 | Li Su | |
 | 罗好心 | Luo Haoxin | |
 | 景福 | Jingfu | 法名意为“景福”（Luminous blessing），出碑文“家殷景福”。 |
-| 阿福 | A-Fu | 景福俗名；营中绰号“胡饼”作 Flatbread。 |
+| 阿福 | A-Fu | 景福俗名。景福之父在神策营的绰号“胡饼”，第 28 章以后的新译作 Sesame Cake（早先曾拟 Flatbread）。 |
 | 安延 | An Yan | |
 | 萨朗 | Salang | 萨尔吉斯之孙。 |
 | 小满 | Xiaoman | |
@@ -202,12 +199,12 @@
 | 薛让 | Xue Rang | |
 | 克姆丹（长安的叙利亚名） | Kumdan | 碑侧叙利亚文。 |
 | 耶兹德卜兹 | Yazdbozid | 伊斯的叙利亚名，只在引碑侧文字时出现。 |
-| 穆护 | the Muhu | 不意译。 |
+| 穆护 | the Magi | 制书“大秦、穆护、祆”译作 the Daqin, the Magi and the Zoroastrians；附录同。 |
 | 节儿（吐蕃城主） | the *jie'er* | 斜体音译。 |
 | 克烈 | the Kerait | 尾声。 |
 | 莫贺延碛 | the Moheyan Desert | |
 | 弹筝峡 | the Tanzheng Gorge | 首次出现加释义 “the water of the plucked zither”。 |
-| 坊正 | the warden（of the ward） | |
+| 坊正 | the ward headman | 早先几章作 the warden；第 28 章以后统一作 ward headman，刘坊正作 Headman Liu。 |
 | 县尉／书吏 | sheriff / scribe | |
 | 何婆婆 | Granny He | 第二十一章（v0.4）起 |
 | 米老汉 | Old Mi | |
@@ -218,3 +215,55 @@
 | 米囊 | *minang*, the poppy | |
 | 护寺的弟兄 | the guard brothers | 第二十二章（v0.4）起；唐人叫“僧兵”，他们自己不这么叫 |
 | 荐饼礼 | the Offering of the Bread | |
+
+## 2026-11-25 新稿（第 52–85 章）新增
+
+| 中文 | 英文 | 说明 |
+|---|---|---|
+| 巴拜 | Babai | 本部来的抄经长老。 |
+| 哈达德 | Haddad | 七人中管对外的。 |
+| 加百列 | Gabriel | |
+| 萨布里舒 | Sabrisho | 七人中管规矩的。 |
+| 大卫 | David | 木鹿人，提摩太所遣中国都主教。 |
+| 哈南 | Hanan | 宝应二年自西州来的老修士。 |
+| 老曹 | Old Cao | |
+| 光正 | Guangzheng | 教名以诺 Enoch。 |
+| 史家大郎、二郎 | the Shi eldest / the Shi Second | |
+| 罗家十二郎 | the Luo Twelfth | |
+| 何四娘 | He Siniang | 教名马利亚 Maryam；景福等称“四娘婆婆” Granny Siniang。 |
+| 何七 | He Qi | |
+| 康守信（康胡奴） | Kang Shouxin (Kang Hunu) | |
+| 康大、康大娘 | Kang Da / Old Mother Kang | |
+| 日进 | Rijin | 康日进。 |
+| 清素、玄应、玄庆、志通 | Qingsu, Xuanying, Xuanqing, Zhitong | 洛阳经幢人物；威仪大德 Great Worthy of Deportment，九阶大德 Great Worthy of the Nine Grades。 |
+| 少诚、安少连、昌儿、崔行本 | Shaocheng, An Shaolian, Chang'er, Cui Xingben | |
+| 七娘 | Qiniang | 米家七娘。 |
+| 郑二郎 | Zheng Second | |
+| 去甚 | Qushen | |
+| 伊灵宝 | Yi Lingbao | 立户时的姓名。 |
+| 吕绍 | Lü Shao | 吕四郎之孙。 |
+| 狗儿 | Doggy (Gou'er) | |
+| 卢守冲、通真观 | Lu Shouchong, the Tongzhen Temple | |
+| 杨守素（杨翁、阿奴） | Yang Shousu (Old Yang, A-Nu) | |
+| 刘坊正 | Headman Liu | |
+| 小满 | Xiaoman | |
+| 阿依 | Ayi | |
+| 赵归真 | Zhao Guizhen | |
+| 曹头人 | Headman Cao | |
+| 老祝 | Old Zhu | 醴泉坊祆祠守火人。 |
+| 明远（多马）、道明（西缅） | Mingyuan (Thomas), Daoming (Simeon) | |
+| 吴和尚 | Monk Wu | 沙州释门都教授。 |
+| 康真 | Kang Zhen | 西州城北寺。 |
+| 法赫德 | Fahd | 缚喝寺执事。 |
+| 约翰（缚喝司铎） | the priest John | |
+| 马太（本部书记） | the scribe Matthew | |
+| 老萨 | Old Sa | 草原上的回鹘景教徒。 |
+| 主客（司） | the Office of Receptions | |
+| 功德巡院 | the Commissioners of Merit's inspectorate | |
+| 少府 | Shaofu | 县尉的称呼。 |
+| 石头城 | the Stone Tower | |
+| 量为处置 | as he judges fit | 巡院牒文语。 |
+
+---
+
+**Version** v0.2　**Last modified** 2026-11-25（美国中部时间）　**Status** 模拟稿，待作者定

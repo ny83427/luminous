@@ -32,6 +32,27 @@ SHOW_CHAPTER_NOTES = False
 BOOKS = {"Book One": ("p1", "Vol1", "ALAHA"), "Book Two": ("p2", "Vol2", "MESSIAH"), "Book Three": ("p3", "Vol3", "WIND")}
 
 
+def nianbiao(body_html):
+    """Chronology: tables whose header starts "AD", "Reign period" get a class, and cells get data-label for the mobile card layout."""
+    def fix(m):
+        t = m.group(0)
+        heads = re.findall(r"<th[^>]*>(.*?)</th>", t)
+        if not (heads[:2] == ["AD", "Reign period"]):
+            return t
+        t = t.replace("<table>", '<table class="nianbiao">', 1)
+        def row(rm):
+            cells = re.findall(r"<td[^>]*>(.*?)</td>", rm.group(0), flags=re.S)
+            out = []
+            for i, c in enumerate(cells):
+                lab = heads[i] if i < len(heads) else ""
+                cls = ' class="e"' if not c.strip() else ""
+                out.append(f'<td data-label="{lab}"{cls}>{c}</td>')
+            return "<tr>" + "".join(out) + "</tr>"
+        t = re.sub(r"<tr>\s*(<td.*?)</tr>", row, t, flags=re.S)
+        return t
+    return re.sub(r"<table>.*?</table>", fix, body_html, flags=re.S)
+
+
 def parse(path):
     lines = path.read_text(encoding="utf-8").splitlines()
     part = vol = title = None
@@ -106,7 +127,7 @@ def main():
             cur_vol = d["vol"]
         num = f.name[:3]
         d["num"], d["slug"] = num, f"{num}.html"
-        if num == "000" or num >= "067":
+        if num == "000" or num >= "085":
             d["group_part"] = d["group_vol"] = None
         else:
             d["group_part"], d["group_vol"] = cur_part, cur_vol
@@ -135,9 +156,10 @@ def main():
         body_html = md.convert(c["body"])
         if not SHOW_EPIGRAPH:
             body_html = re.sub(r"\A\s*<blockquote>.*?</blockquote>\s*", "", body_html, count=1, flags=re.S)
-        if not SHOW_CHAPTER_NOTES and c["num"] <= "067":
+        if not SHOW_CHAPTER_NOTES and c["num"] <= "085":
             body_html = re.sub(r"<hr\s*/?>\s*<p>(<strong>)?Notes?[:：.].*\Z", "", body_html, flags=re.S)
         body_html = body_html.replace('src="../images/', 'src="img/fig/')
+        body_html = nianbiao(body_html)
         body_html = re.sub(r'<p><img alt="([^"]*)" src="([^"]+)" ?/?></p>',
                            r'<figure class="fig"><a href="\2" target="_blank"><img src="\2" alt="\1" loading="lazy"></a><figcaption>\1</figcaption></figure>',
                            body_html)
@@ -242,7 +264,7 @@ def main():
       <p class="subtitle">A Novel of the Church of the East in Tang China</p>
       <p class="by">Lao Tie &amp; Claude</p>
       <p class="blurb">In 1623, outside the walls of Xi'an, workmen dig up a Tang stele with rotted hemp cloth still clinging to its face. The Jesuit fathers read the inscription and claim the men on it as their brothers, not knowing that the Western church had long ago branded them heretics. The stone holds some seventeen hundred characters. It cannot hold the people behind them: a monk who scouted the road for Guo Ziyi, a son who translated scripture and raised the stele, and a grandson-in-the-faith who buried it with his own hands.</p>
-      <p class="stat">Three books · twelve volumes · sixty-six chapters, with prologue, epilogue, afterword and ten appendices · about {round(total / 1000):,} thousand words · translated from the Chinese 《景》</p>
+      <p class="stat">Three books · twelve volumes · eighty-four chapters, with prologue, epilogue, afterword and ten appendices · about {round(total / 1000):,} thousand words · translated from the Chinese 《景》</p>
       <p class="cta"><a href="000.html" class="btn">Begin with the Prologue</a><a href="#" class="btn ghost" id="resume" hidden>Continue reading</a></p>
     </div>
   </section>

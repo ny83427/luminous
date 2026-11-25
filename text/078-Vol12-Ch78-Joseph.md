@@ -50,7 +50,7 @@ Joseph's illness did not mend. Past Ganzhou the fever came again—a few days bu
 
 They reached Shazhou in the seventh month. Shazhou was the last great city of Hexi; going west was out by the Yang Pass; going north, one must first turn back to Guazhou and go out by the Jade Gate, and further north was the sand desert. The town of Shazhou too was in Tibetan hands; there were more Tang in the town than in Liangzhou, and more monasteries; southeast of the town was a hill with sand at its foot, and on the cliff were cut row upon row of caves, with Buddhas painted in the caves; the townspeople said those were the Mogao caves; men had begun cutting caves there in the time of the Former Qin, cut them for hundreds of years, cut hundreds of them.
 
-Headman Cao said his caravan went no further than Shazhou; further west, across the Mohoyan desert, to Yizhou, to Xizhou—that stretch of desert his men wouldn't travel; they must wait for a caravan coming from the west and go with the westerners. He said this year the west was in turmoil; since the Uighurs scattered, over toward Xizhou it wasn't peaceful either; few caravans came; you'll have to wait.
+Headman Cao said his caravan went no further than Shazhou; further west, across the Moheyan desert, to Yizhou, to Xizhou—that stretch of desert his men wouldn't travel; they must wait for a caravan coming from the west and go with the westerners. He said this year the west was in turmoil; since the Uighurs scattered, over toward Xizhou it wasn't peaceful either; few caravans came; you'll have to wait.
 
 They settled in Shazhou, lodging under the colonnade of a small Buddhist monastery east of the town; the old monk of the monastery, seeing a crowd of *hu*—some sick, one blind, children—sighed and let them stay.
 
