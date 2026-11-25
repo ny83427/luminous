@@ -8,358 +8,128 @@
 
 In the first month of the second year of Qianyuan, Yisi left Chang'an and went east to Xiangzhou.
 
-Guo Ziyi had gone the autumn before. In the ninth month the Son of Heaven had issued an edict for nine military governors to join their forces and attack Ye. Ye was the city of Xiangzhou, where An Qingxu had been holed up ever since he fled from Luoyang. Nine governors—Guo Ziyi, Governor Li, Wang Sili, Li Siye and several more—each led his own troops, more than two hundred thousand, closing in from four sides, until Ye was surrounded so tight not a drop of water could get through.
+Guo Ziyi had gone in the ninth month of the year before. That time the Son of Heaven had issued an edict for nine military governors to join forces against An Qingxu. Since losing Luoyang, An Qingxu had fallen back on Xiangzhou—called Ye in old times, its walls high and its moat deep—and shut himself up in it and would not come out. The nine armies closed in from every side, camp joined to camp for dozens of *li*. Of the nine military governors, Guo Ziyi and Li Guangbi were both great ministers of the restoration, and the Son of Heaven said neither could well be put under the other; so he appointed no marshal at all, but only sent a eunuch to be Commissioner for Observing the Army, Pacifying and Managing—Yu Chao'en, the man who had called the tallies on the viewing tower in the Forbidden Park that year.
 
-The nine governors had no marshal set over them. The Son of Heaven said Guo and Li were both men of the highest merit and neither could well be put under the other. The Son of Heaven sent a eunuch, with the title Commissioner for Overseeing the Army, Pacification and Disposition; his name was Yu Chao'en.
+Yisi's back had not healed, and he had not gone with them, but stayed in Chang'an repairing the monastery, right up to the twelfth month. In the first month someone came from the camp to say that Xiangzhou had been besieged more than three months, it was cold, there were not enough winter clothes, nor enough medicines for wounds, and Chang'an was to send another lot. Yisi was the man who served at Lord Guo's headquarters, and the errand fell to him. He took thirty carts loaded with winter clothes, wound medicines and arrow shafts, and a few cartloads of salt; the Public Revenue office sent twenty soldiers to escort the carts, and Old Duan and Xu Jing went with him too.
 
-Yisi had stayed in Chang'an repairing the monastery until the twelfth month. In the first month men came from the camp saying the siege had gone on more than three months, there were not enough winter clothes, not enough medicine for wounds, and Chang'an was to send another load. Yisi was the man who served at Lord Guo's headquarters, and the task fell to him.
-
-He took thirty carts. Winter clothes, medicines, arrow shafts, and some salt.
-
-Old Duan went with him. Xu Jing came too.
-
-The morning they left, Jingjing saw them off as far as the Chunming Gate. Jingjing said nothing, and Yisi said nothing. Yisi mounted, looked at him once and said: "Cold water."
-
-Jingjing said: "I won't."
-
-Old Duan laughed once beside them, and rode on ahead.
+When Jingjing heard his Pa was going to Xiangzhou, he pestered him two days, saying he wanted to go, that keeping accounts on the road and checking the carts, he could do all that. Yisi would not allow it. Jingjing went to beg Old Duan instead, and Old Duan laughed and rubbed his head and said: this trip was to a place where there was fighting, not to the west; a child would have nowhere to stand there; when they came back they'd bring him a bag of Xiangzhou jujubes. On the morning they left, Jingjing still came to see them off outside the Chunming Gate. He did not say again that he wanted to go; he only stood by the road watching the carts go past one by one. Before mounting, Yisi as usual gave him a few instructions: do as Sabrisho says, eat your meals on time, don't drink the cold water from the vat at night. Jingjing said yes to each. Old Duan, listening beside them, could not help laughing aloud, and said: "These few words of your Pa's I've been hearing from Lingzhou to Xizhou and from Xizhou to Chang'an, till I've grown calluses on my ears." With that he rode off to the head of the column.
 
 ---
 
-They were a month on the road.
+They were on the road more than a month.
 
-All the way Old Duan rode in front. He walked half a step fast and rode half a step fast, and with a column of thirty carts he was always ahead of the very first cart, stepping out the way for those behind. Yisi watched his back from the rear.
+Old Duan was in front the whole way. He walked half a step faster, and rode half a step faster too; in a column of thirty carts he was always ahead of the first cart, trying the road first for those behind. Watching his back from the rear, Yisi often thought of the line Jingjing had written about him in his journal. These two years Old Duan's back had grown a little bent. He was forty-seven or -eight, more than twenty years in the army, and had taken arrows and blades in the back; when it turned cold his waist would not straighten. Yet on horseback he still held himself up, held himself bolt upright, as if afraid the men behind would see.
 
-He thought of that line in Jingjing's journal. *His back is always ahead. Going slow, but always there.*
+At night when they camped he still slept with one eye open. Xu Jing said Old Duan had picked up the habit long ago in the north. That year he had held a little garrison town, and slept like the dead one night, and the rebel *hu* crept up; when he opened his eyes, the four men who shared his room were all gone, and only he was left. Since then he had slept with one eye open. Yisi asked whether Old Duan had told him that himself, and Xu Jing said no, it was other people in camp who said so; Old Duan never spoke of it.
 
-Old Duan's back nowadays was a little bent. He was past fifty, thirty years in the army, had taken arrows in the back and sword cuts, and when the cold came in winter he could not straighten up. But in the saddle he still held himself up, held himself bolt upright, as if afraid the men behind would see.
+One night, when the carts had stopped outside a post station and they were all eating round the fire, Old Duan, having eaten his fill, was stirring the fire with a stick when something came to him, and he asked Yisi: "Master Yi, year before last at the campfire at Fengxiang, I told about that Dharma King Mingtai of yours, said he was a tax-collector and struck the pressure points with a judge's brush, and those lads in camp listened with their eyes popping. That brush I made up on the spot, and you didn't give it away at the time. I've wanted to ask you ever since—that brush, did it strike pressure points or didn't it? What did he do with it, in the end?"
 
-At night when they made camp, Old Duan still slept with one eye open.
+Yisi was stumped. He thought, and said it was a long story, not to be told in a moment or two; when they got back to Chang'an, some night when there was time, he would tell Old Duan from the beginning.
 
-Xu Jing told Yisi that this habit of Old Duan's he had picked up in the north in his early days. That year he was holding a garrison town, slept like the dead one night, the rebel *hu* crept up, and when he opened his eyes, the four men sharing his room were all gone. From then on he slept with one eye open.
-
-Yisi asked: "He told you?"
-
-Xu Jing said: "Other men in the camp told me. He doesn't tell it himself."
-
-One night Yisi could not sleep, and got up to look at the carts. Coming back from the carts he passed Old Duan's bedroll and saw him lying on his side, one eye shut, one eye open, and the open one bright in the firelight, gazing into the dark.
-
-Yisi stood a while.
-
-"Go to sleep," he said under his breath.
-
-Old Duan said: "I am asleep."
+Old Duan said: "All right—but mind you remember: when we're back in Chang'an, you owe me one." With that he threw the stick into the fire and lay down to sleep, one eye shut, one eye open, and the open one shone in the firelight.
 
 ---
 
-At the end of the second month they reached Ye.
+At the end of the second month the carts reached Xiangzhou.
 
-Yisi had never seen so many troops.
-
-More than two hundred thousand men, their camps stretching dozens of *li*, from north of the city to south of it, from east of the city to west. Tent against tent, banner against banner, the banners of nine governors in different colours and different devices, so that when the wind blew they filled the sky. Between camp and camp ditches had been dug and ramparts built, two or three lines of them. Ye was in the middle, its walls black and heavy, like a well with a ring round it.
-
-The Zhang River outside the city had been diverted to flood it. Inside, the water was over the knee, the houses had collapsed from the soaking, and the people lived on the rooftops.
-
-The men in camp said there was no grain left in the city. A rat would sell for four thousand cash.
+Yisi had never in his life seen so many soldiers. The tents ran from north of the city to south of it, from east of the city to west, and between camp and camp moats were dug and ramparts built, one line after another; the banners of the nine military governors, each of a different colour and a different device, filled the whole sky when the wind blew. The River Zhang outside the city had been dammed and led in to flood the city; the wells inside had all overflowed, many houses had collapsed from the soaking, and it was said the people inside had to build wooden frames on the eaves to live on. The men in camp said the city had long had no grain left; a rat sold for four thousand cash.
 
 But the city still had not fallen.
 
-The siege had gone on more than four months. Nine governors, nine plans. You say attack, I say wait, he says dig another ditch. Yu Chao'en was in the middle, and took up no one's plan, and rejected no one's. The old soldiers in camp said among themselves that so many men besieging one city was like a crowd carrying one cauldron: everyone has put out a hand, and no one is lifting.
+Four months and more of siege, and nine military governors with nine plans: some wanted to attack, some to wait, some said dig another moat. Yu Chao'en sat in the middle, adopted no one's plan and rejected no one's. The old soldiers in camp said in private that so many men besieging one city was like a crowd lifting a great pot: everyone had a hand on it, and no one was lifting.
 
-In the first month Li Siye had died.
+Shi Siming had rebelled again in Fanyang last summer, and this time he had taken Weizhou and was coming south with tens of thousands to relieve Xiangzhou; but he did not come to fight it out. He camped fifty *li* north of the city, and every day sent out a few hundred light horse to ride round the Tang camps; once round, they seized a little grain, burned a little fodder, and turned and went. When the Tang went out of their camps to pursue, they could not catch them; when they did not pursue, the horse came again the next day. A dozen days on end of this, and the firewood, fodder and grain in camp grew tighter day by day.
 
-He had been struck by a stray arrow while attacking the city. The arrow came down from the top of the wall—who shot it, no one knew—and hit him. He made nothing of it, went back to camp to rest a few days, and when the wound was a little better heard the drums beating under the walls, leapt up to go to the front, the wound burst open, and the blood ran all over the ground. He died that night.
+On his first day in the camp Yisi heard that Li Siye was dead. He had been hit by a stray arrow in the first month, attacking the city; the arrow had come down from the wall, no one knew whose. He had thought nothing of it, gone back to camp and lain a few days; the wound had only just begun to mend when he heard the drums beating below the wall, gave a great roar and sprang up to go to the front, and the wound burst open all at once, the blood ran all over the ground, and that same night he was gone.
 
-When Yisi heard, he stood by the carts a long time.
-
-He thought of Xiangji Temple. That roar in the fog, so loud it seemed to heave up from under the ground. General Li bare-chested, his long blade in his hand, cutting down into the rebels. Behind him the blade companies, coming on like a wall.
-
-He thought too of the eleven men he had seen that day. Six were deserters, five were rebels.
-
-He thought no further.
+When Yisi heard it, he stopped where he stood by the carts. He thought of that day at the Xiangji Temple, that roar in the fog so loud it seemed to heave up from under the earth, General Li bare-shouldered, going to meet them with his long blade, and the long-blade companies behind him advancing like a wall. He thought too of the six men running back that day whom the rear rank of the long-blade companies had cut down. When his thoughts came to that, he thought no further.
 
 ---
 
-At the beginning of the third month, Shi Siming came.
+On the sixth day of the third month, the two sides drew up north of the Anyang River.
 
-Shi Siming had rebelled again at Fanyang. He led fifty thousand men south from the north to relieve Ye.
+On the Tang side, the troops of Li Guangbi, Wang Sili, Xu Shuji, Lu Jiong and others were in front, and engaged Shi Siming first; they fought most of the day, very fiercely, and word came back from the front in waves—now that they had killed so many of the enemy, now that they had lost so many of their own; the losses were about even. Later another word came back: Lu Jiong had been hit by a stray arrow and been carried off. Guo Ziyi's Shuofang army was behind, and was just then moving forward to form its line. Yisi was with the central army, Old Duan on his left, Xu Jing on his right.
 
-Fifty thousand against more than two hundred thousand. The men in camp all said Shi Siming had come to his death.
+Before the line had formed, the wind rose.
 
-Shi Siming camped fifty *li* north of the city, and neither advanced nor withdrew. Every day he sent out a few hundred light horse to circle round outside the Tang camps, circle once, carry off a little grain, burn a little fodder, and turn and go. When the Tang troops came out after them, they could not catch them. When the Tang troops did not come out, they were back the next day.
+It came from the west. The first gust was not strong, and blew the banners eastward; the second was strong, and whipped up the sand and dust off the ground so that it stung the face; when the third came, the sky went black. It was daytime, the sun still in the sky, and yet all at once the sky went dark: yellow sand, grey dust, broken grass, snapped branches, all rolled up in the wind and hurled at them together. Yisi put up his arm to shield his face and looked out between his arm and his face, and could see nothing; he stretched out his hand and could not see his own fingers. The wind roared in his ears, roared so that he could hear nothing clearly. Horses screamed, men shouted, the drums beat a while longer, and as they beat they fell into disorder, and then stopped.
 
-A dozen days and more of it.
+Such a wind and sand was afterwards written into the histories: it blew up sand and tore up trees, heaven and earth went dark by day, and men a foot apart could not make each other out. The Tang troops thought the rebels were upon them, and fled south; the rebels thought the Tang were upon them, and fled north; the armour, weapons and baggage both sides threw away were heaped like mountains on the roads. All this was only known afterwards. At the time, those in the wind knew only that everyone around them was running.
 
-On the sixth of the third month, the two sides drew up their lines north of the Anyang River.
+Yisi's horse was knocked by someone and spun round once. He reined it in and shouted into the wind for Old Duan, for Xu Jing. Someone answered on his left—Old Duan—calling him over this way. Yisi turned his horse toward him, had gone only a few steps when the horse's hooves tripped on a man lying on the ground, and he jumped down and led it. Old Duan was right in front of him; through a layer of yellow sand only a blurred back could be seen, still half a step ahead. Yisi asked where Xu Jing was; Old Duan turned and shouted that Xu Jing was behind, and Yisi was to keep close to him and not get separated.
 
-That day was the first time Yisi went into battle at Xiangzhou. He was with Guo Ziyi's centre, standing behind the line. Old Duan was on his left, Xu Jing on his right, with a squad of crossbowmen, their crossbows spanned.
+There were people on every side, some running south, some running north, some going round in circles where they stood. Someone fell, and those behind trod over him; a riderless horse trailing its reins charged past them and nearly knocked Yisi down. Somewhere ahead a crossbow went off, and another—no knowing whose, or at what; perhaps the rebels', perhaps their own, perhaps some crossbowman who had lost his head in the wind and pulled the trigger without knowing himself where it went.
 
-The troops of Governor Li, Wang Sili and the others were in front, and engaged Shi Siming first.
-
-They fought half the day, and fought hard. The news sent back from the front said now we had killed so many, now they had killed so many; the losses were even. One of the governors was struck by a stray arrow and carried off.
-
-Guo Ziyi's troops were following behind, just about to move up and form their line.
-
-Just then, the wind rose.
+Old Duan had just turned his head and was cursing this devil of a wind at Yisi when, halfway through the curse, he jerked backward and pitched off his horse.
 
 ---
 
-The wind came from the west.
+Yisi threw himself at him and dragged him behind an overturned cart. The body of the cart lay on its side, one wheel to the sky, and the wind was still turning it, creaking. The cart-boards kept off some of the sand. Yisi set Old Duan sitting against the boards, and only then saw the crossbow bolt clearly. It had gone in under the collar of his leather armour, into the chest on the right, a little below the collarbone; the shaft was short and thick, only a stub of it outside. Blood was seeping out all round the shaft, not fast, but seeping and seeping, and had stained a great patch of his old homespun black across his chest.
 
-First one gust, not strong, blowing the banners over towards the east. Then a second, stronger, lifting the sand and earth off the ground and hurling it in men's faces, stinging. Then a third.
+Yisi knelt to press the wound, and Old Duan raised a hand and pushed him away. Yisi had seen wounds like this at Changshan, and at the Xiangji Temple; he knew pressing would not hold it. He turned and shouted for Xu Jing; the wind scattered his voice at once, and no one answered.
 
-When the third came, the sky went dark.
+Old Duan leaned against the cart-boards, took a few breaths, and squinted up at the sky. The sky was still yellow, and the wind roared over the top of the boards. When his breath had steadied a little he swore: "Damn it—half a lifetime fighting, and a wind like this…" Here his breath failed him, and he stopped.
 
-Not that it was growing late. It was day, afternoon, the sun still in the sky, and suddenly the sky was dark. Yellow sand, grey earth, broken grass, snapped branches, all rolled up in the wind and smashing down on men together. Yisi put up his arm to shield his face and looked out through the gap under it, and could see nothing. He put out his hand and could not see his own fingers.
+Yisi took his hand. The hand was very cold, colder than the wind.
 
-Like the fog that day at Xiangji Temple.
+After a while Old Duan spoke again, his voice lower, so that Yisi had to bring his head close to hear. He said: "Master Yi, I won't get back to Chang'an. That Dharma King Mingtai—how did he strike the points, then? Tell me now."
 
-But fog is still. This wind was not still. The wind roared, roared until nothing was left in a man's ears but a humming. Horses screamed, men shouted, drums beat, and as they beat the drumming went ragged, and stopped.
+For a moment Yisi did not know how to answer, and after a moment, he actually smiled. In all these years he had seldom smiled; the times Old Duan had seen him smile could be counted on one hand. He opened his mouth to tell it from the beginning, to tell him that once the tax-collector followed the Lord, that brush was used to write a book, and what it wrote was the Lord's story…
 
-Yisi tilted his head, trying to listen.
+Before the words were out, Old Duan's hand went slack in his.
 
-He could make out nothing.
+Old Duan leaned against the cart-boards, his head fallen to one side, one eye shut and one eye open, the open one looking out at the yellow sand beyond the boards. Yisi knelt in the wind, knelt until it dropped a little, and only then raised his hand and with his thumb gently closed that eye.
 
-What he heard came in swathes. Fighting goes stroke by stroke; a rout goes swathe by swathe.
-
----
-
-Afterwards the histories said that the wind that day blew up the sand and tore up the trees, heaven and earth went dark in the daytime, and men a foot apart could not see each other. The Tang army took fright and broke south; Shi Siming's troops took fright too and broke north. The armour, weapons and baggage both sides threw away were piled like mountains along the roads.
-
-That was all afterwards. The men in the wind at the time knew nothing.
-
-All Yisi knew was that the men around him were running.
-
-Someone collided with his horse and it spun round. He reined it in and shouted into the wind: "Old Duan! Xu Jing!"
-
-Someone answered on his left. It was Old Duan.
-
-"Over here!"
-
-Yisi rode that way. A few steps on, his horse's hoof caught on something—a man lying on the ground, whether dead or alive he could not tell. He jumped down and led the horse on foot.
-
-Old Duan was ahead; he could see the back. In all that yellow sand, a blurred back, walking half a step ahead of him.
-
-"Where's Xu Jing?"
-
-"Behind!" shouted Old Duan. "Follow me!"
-
-They went on through the wind. They did not know where they were going. On every side there were men, all running, some south, some north, some east, some turning in circles where they stood. Someone fell, and the men behind trampled over him. A riderless horse, trailing its reins, charged past them and nearly knocked Yisi down.
-
-Ahead, a crossbow went off.
-
-The sound of a crossbow Yisi could tell; it was not like a bow—a *thung*, short and hard. Whose crossbow, he did not know, nor which way it shot. Perhaps it was the rebels', perhaps it was their own, perhaps some crossbowman had panicked in the wind and pulled the trigger and did not know himself where the bolt had gone.
-
-Another one.
-
-Old Duan, ahead, suddenly jerked backward.
-
-He did not fall. He staggered, fell back half a step, back to Yisi's side, his back striking Yisi's chest.
-
-Yisi caught him.
+In all his life—on the ice flats of the river bend, the rebel scouts had chased him twenty *li* and not caught him; on the road west, he had taken an arrow and Xu Jing had dug the head out for him; crossing the Pamirs, when the wind was strong enough to blow a man into the gorge, he had walked in front the whole way; that day at the Xiangji Temple, he had given his own horse to Yisi. This time he never even saw the enemy's face.
 
 ---
 
-The bolt had struck Old Duan in the chest, right of centre, a little below the collarbone. The shaft was short and thick, only a stub of it showing; its flights were iron, and did not stir in the wind.
+It was nearly dark when Xu Jing found them. By then the wind had stopped, and everywhere between heaven and earth lay things thrown away: armour, shields, spears, banners, overturned carts, upset cooking pots, rice scattered over the ground. The dead and the living lay together; the living slowly got up, and the dead did not move. Far off, men were shouting their own units' names until their voices went.
 
-Old Duan looked down at it.
+Xu Jing was covered in dust, and in the hand that was missing two fingers he still gripped his crossbow. He came round behind the cart, saw Yisi, and then saw Old Duan leaning against the boards, and stood still. He stood a long time, then squatted down, put out a hand and pressed Old Duan's shoulder once, said "Old Duan," straightened his fallen head, and brushed the dust from his collar.
 
-"Huh," he said.
+That night Guo Ziyi's order came down: the whole Shuofang army to withdraw south and hold Heyang, to protect the Eastern Capital.
 
-Yisi dragged him aside. There was an overturned cart beside them, the bed on its side, its wheels to the sky, and one wheel still turning, turned by the wind, creaking round and round. Yisi dragged Old Duan behind the cart bed and sat him down leaning against the boards.
-
-The wind was a little less there. With the boards in the way, the sand did not strike their faces.
-
-Old Duan leaned against the boards, breathing hard. With every breath the stub of the bolt moved. Blood seeped out round the shaft, not fast, but without stopping, and stained the old homespun on his chest black.
-
-Yisi knelt before him and reached to press the wound.
-
-Old Duan pushed his hand away.
-
-"Don't press," said Old Duan. "You can't stop it."
-
-Yisi looked at him.
-
-He had seen many wounds like this. He had seen them at Changshan, at Xiangji Temple, in those fields south of the city. He knew it could not be stopped.
-
-"Xu Jing—" he shouted over his shoulder.
-
-The wind scattered his voice. No one answered.
+Yisi's chestnut horse had been hurt in the hindquarters the year of the Xiangji Temple and could not run fast, but could still carry one man at a walk. He laid Old Duan across the saddle and bound him fast with rope, and led the horse himself, Xu Jing steadying it beside him. They walked three days and came to the bank of the Yellow River. The Heyang bridge was still there; the Shuofang troops were crossing it company by company, a great many men, yet in good order. Guo Ziyi stood at the bridgehead watching them cross. He saw Yisi, and saw the man bound with rope across the horse's back. Old Duan had followed him since the Tianbao years, a dozen and more years; of course he knew him. He looked a while, took the helmet off his head and held it against his chest, and waited until Yisi had led the horse past the bridgehead before he put it on again. When all the Shuofang troops were across, he had the Heyang bridge broken down, and held the south bank.
 
 ---
 
-Old Duan leaned against the cart boards, his eyes narrowed, looking up at the sky.
+They dug the grave on the south bank of the river, choosing a piece of ground a little higher, not far from the river, where the water could be heard. Xu Jing dug, and Yisi dug too; the old wound in Yisi's back began to hurt again, and he paid it no mind. That winter south of the city, the old man had snatched the spade out of Old Duan's hands and said he was digging too shallow—too shallow and the wild dogs would dig them out. Yisi remembered those words, and spade by spade dug until it was chest-deep. They laid Old Duan down, and Yisi took off his felt cap and laid it over the hole in his chest; then spade by spade they filled in the earth, filled it level, and heaped it into a small mound.
 
-The sky was still yellow. The wind tore over the top of the boards, roaring. That wheel was still turning.
+Xu Jing found a stick of wood, shaved one side flat, and with a knife cut characters on it. He cut the character *Duan*, stopped, and turned and asked Yisi what Old Duan's proper name was.
 
-"Yisi."
+Yisi could not answer. He thought a long time and did not know. Xu Jing said everyone in camp called him Duan Laoqi, Old Seventh Duan; he was the seventh son, and his six elder brothers had all died in the north, it was said; and his proper name—all these years Xu Jing had been with him, and never once asked. Nor had Yisi. Three years and more, most of those days eating from one pot, walking one road, Old Duan in front and Yisi behind, and he had never asked him his name. Xu Jing looked at the stick a while, cut the two characters *Old Seventh* under *Duan*, and planted it before the grave.
 
-"Mm."
+Xu Jing went down to the river to wash his hands. Yisi knelt alone before the grave and wanted to pray for Old Duan, opened his mouth, and did not know what to say.
 
-"I go in front," said Old Duan. "I'm used to it."
+Old Duan had never been baptized. Every morning he had come to the jujube tree and stood in the last row, leaning against the wall, to hear the fun, he said. He had heard of the five loaves and two fishes, heard the book of Ezra, and by the campfire at Fengxiang had heard Yisi tell of those men who wrote the scriptures running away and coming back; but he had never knelt, never made the sign of the cross, never once said *I believe*. The words of scripture Yisi could say by heart: except a man be born of water and of the Spirit, he cannot enter into the kingdom of Alaha. He had recited it after his father as a boy in Balkh, had preached it in Chang'an, and never once doubted it. But kneeling before this grave today, he could not say it through.
 
-Yisi said nothing.
+He thought too of when he was a boy in Balkh, and his father Milis had read to the brothers at night from the book of Isaac of Nineveh. Isaac had been a monk some decades before, living in the mountains, and had written what a merciful heart is like. He said such a heart prays for men, prays for the birds and the beasts, and even for those who are enemies of the truth prays with tears, because it sees that all creatures are suffering. Yisi had been young then, and had heard it and set it aside. Now both these sayings were in his heart together, and he could set neither of them down, and did not dare settle the matter for the Lord.
 
-Old Duan drew a breath, and another. His face had gone white, and the scar on it, slanting from his left brow bone to the corner of his mouth, looked especially red in a white face.
+He knelt there with his head bowed and said: "Lord, I do not know where he is now. Wherever he is, I pray thee, look after him. His name is Duan, the seventh son, and his proper name I do not know. He had a son once, who died before him. He walked half a step fast, slept at night with one eye open, and every morning stood in the last row under the jujube tree. Thou knowest him."
 
-"The boy," said Old Duan, "wrote about my back."
-
-"Mm."
-
-"Didn't write it…" Old Duan thought. "Didn't write it pretty."
-
-Yisi said: "He wrote it well."
-
-Old Duan laughed once. Only half his face moved. When he laughed, his chest hurt, hurt so that he took the laugh back and clenched his teeth and breathed hard a good while.
-
-Yisi held his hand. It was very cold, colder than the wind.
-
-After a while Old Duan spoke again. His voice had dropped, and Yisi had to bring his head close to hear.
-
-"Yisi," he said. "Let me ask you something."
-
-"Ask."
-
-Old Duan's eyes moved, and looked at Yisi. There was a light in those eyes—the light of that night by the campfire, the light when he had dabbed at the air with a burned twig.
-
-"The Dharma King Mingtai's pressure points," said Old Duan. "How did he do them?"
-
-Yisi was taken aback.
-
-Then he laughed.
-
-He never laughed much. In more than three years, the times Old Duan had seen him laugh could be counted on one hand. This time he laughed, laughed so the corners of his mouth curved up and his eyes curved too, and the white scar on the left moved with them. He opened his mouth to answer.
-
-Before he had made a sound,
-
-Old Duan's hand, in his, went slack.
+When he had said it, he knelt on before the grave until Xu Jing came back from washing his hands. The river ran not far off, rushing loud; a bird flew across the sky, going north.
 
 ---
 
-The wind was still blowing.
+When the defeated army had fallen back to Heyang, Lord Guo kept Yisi on the south bank to help gather the wounded and check the carts and horses, and it was the end of the third month before he let him go back to Chang'an. In the middle of the fourth month, Yisi got back to the Yining Ward.
 
-Yisi knelt there holding that hand, held it a long time.
+When he arrived, the day of the Lord's rising had been past twenty days or so. That year's Great Fast, Old Jacob of the Xiushan Ward in Luoyang had not gone home, and had sent word for several other households of the Xiushan Ward to come too; Old Master Jiao of Lingzhou had sent two men driving a cart of wool and hides, who arrived just in time for the Fast; and the old Persian monastery in the Liquan Ward of Chang'an, which had only a few households of old believers left after the city fell, had all come to the Yining Ward this time too. With the monastery's own people, people from four places came together for the first time, and fasted fifty days. On the day of the rising, before light, Official Pei was baptized at the well; Sabrisho baptized him. What Yisi had promised him, in the end he did not do.
 
-Old Duan leaned against the boards, his head fallen to one side. One eye was shut, one eye open. The open one gazed out past the boards at the yellow sand, gazed at somewhere very far away.
+When Official Pei saw Yisi he folded his hands in salute and said that Elder Sabrisho had baptized him very well that day; the well water was cold, but he had not felt cold. Yisi returned the salute.
 
-Yisi raised his hand and with his thumb, gently, closed that eye.
+Jingjing met his Pa at the monastery gate. He ran out, looked first behind his Pa, looked and looked again, and did not see the man who walked half a step fast. Yisi told him what had happened to Old Duan, and he stood at the gate a long while without moving.
 
-"Go to sleep," he said.
+Those few days Jingjing said very little. At night he spread his Pa's mat for him, but sat by the lamp himself a long time without going to sleep. Yisi asked him what was wrong, and only then did he say that a couple of days before, copying scripture in the side room, he had heard Narsai talking to Babai, and they spoke of Uncle Duan, and Narsai said: a pity—one who had not been baptized; the scripture and the canons both say plainly, he cannot enter paradise.
 
-This time no one answered.
+Jingjing asked him: "Pa, Uncle Duan wasn't baptized. Now that he's dead, where has he gone? What Elder Narsai said—is it true?"
 
----
+Yisi sat down across from him, thought a while, and only then said: "*Except a man be born of water and of the Spirit, he cannot enter into the kingdom of Alaha*—that line is in the scripture; your Pa has read it and preached it too. But where Uncle Duan has gone now, your Pa does not know. The scripture has not told your Pa that, and your Pa dare not speak for the Lord."
 
-Xu Jing found them when it was nearly dark.
+Jingjing looked at him, waiting for him to go on. But Yisi stood up and knelt facing east. Jingjing knelt too, beside him.
 
-The wind had stopped. Everywhere between heaven and earth lay the things men had thrown away. Armour, shields, spears, banners, carts, overturned cauldrons, rice scattered all over the ground. The dead and the living lay together; the living slowly got up, the dead did not move. Far off someone was shouting his camp's number, shouting until his voice was gone.
-
-Xu Jing was covered in dirt, the crossbow still clenched in that hand missing two fingers. He came round behind the cart bed and saw Yisi, saw Old Duan.
-
-He stopped.
-
-He stood a long time, then squatted down, reached out, and pressed Old Duan's shoulder once.
-
-"Old Duan," he said.
-
-He said nothing else.
+Yisi prayed the same few lines he had said by the river. When he had finished, Jingjing took the string of knots from his coat, rolled a knot between his fingers, and spoke too, very softly, in Tang: "Lord, crossing the Pamirs, Uncle Duan walked in front of me the whole way. I pray thee, look after him."
 
 ---
 
-Guo Ziyi's order came down: the whole army to fall back south, hold Heyang, and protect the Eastern Capital.
-
-Yisi lifted Old Duan onto the chestnut. He laid him across the saddle, tied him fast with rope, and led the horse himself. Xu Jing walked beside, steadying him.
-
-They walked two days and two nights and came to the Yellow River.
-
-The Heyang bridge was still standing. The Shuofang troops were crossing, company after company, a great many men, but in good order. Guo Ziyi stood at the bridgehead watching them cross. He saw Yisi, and saw the man tied across the horse's back.
-
-Guo Ziyi knew him. Old Duan had followed him a dozen years and more, since the Tianbao years.
-
-Guo Ziyi looked a while, and said nothing at all. He took the helmet off his head and held it against his chest, and waited until Yisi had led the horse past the bridgehead before he put it on again.
-
----
-
-The grave was dug on the south bank of the river.
-
-A piece of slightly higher ground, not far from the river, where you could hear the water. Xu Jing dug, and Yisi dug too. The old wound in Yisi's back hurt again; he paid it no heed, and dug spade after spade. He remembered what the old man south of the city had said: too shallow, and the dogs dig them out. He dug very deep, as deep as his chest.
-
-They lowered Old Duan into it.
-
-The bolt Yisi had not pulled out. He thought about it, and pulled it out after all. Pulled it out and threw it aside.
-
-He laid Old Duan's felt cap on his chest, covering the hole.
-
-The earth went in spade by spade. When it was filled level, they heaped it up, into a small mound.
-
-Xu Jing found a piece of wood, planed one face flat, and meant to carve words on it. He took out his knife and carved the character 段, *Duan*. When he had carved it, he stopped.
-
-"Master Yi," said Xu Jing. "What was his name?"
-
-Yisi said nothing.
-
-He thought a long time.
-
-He did not know.
-
-"Everyone in the camp called him Old Duan—Duan the Seventh," said Xu Jing. "He was seventh among his brothers. The six above him, they say, are all dead. What his given name was, I never asked."
-
-Yisi had never asked either.
-
-More than three years—eating in the same camp, walking the same road, he in front, Yisi behind. Yisi had never once asked him his name.
-
-Xu Jing looked at the piece of wood a while, and under 段 carved two more characters: 老七, *the Old Seventh*. When he had carved them he planted it at the head of the grave.
-
----
-
-Xu Jing went off to the river to wash his hands.
-
-Yisi knelt alone before the grave.
-
-The river ran not far off, very loud, *hua-la*, *hua-la*, like many people talking a long way off.
-
-He wanted to pray.
-
-He opened his mouth and did not know how to say it. Old Duan had never been baptised. Every morning he had come under the jujube tree and stood at the very back against the wall, to hear the fun, he said. He had heard of the five loaves and two fishes, heard the Book of Ezra, heard of the four men who wrote the books, who ran away and came back. He had never knelt, never made the sign of the cross, never said one *I believe*.
-
-Yisi did not know where he was.
-
-He thought of a man. That man too had been nailed to wood, nailed beside the Lord. That man had never done one good thing in his life, and when he was dying said only one thing: Lord, remember me when thou comest into thy kingdom.
-
-The Lord said to him: To day shalt thou be with me in paradise.
-
-Yisi knelt there, his head bowed.
-
-"Lord," he said, "he didn't know you."
-
-He paused.
-
-"You know him."
-
-"His name was Duan, seventh of his brothers. He walked half a step fast and slept with one eye open. He took an arrow for me. He kept the wind off Jingjing the whole road."
-
-"Let him be in paradise."
-
-When he had said it, he knelt there a long time and did not get up.
-
-The river still ran. A bird flew over and went off to the north.
-
----
-
-Afterwards Yisi stood up and brushed the earth off his knees.
-
-He looked at the piece of wood, at the three characters on it: 段, 老, 七. Xu Jing had carved them crooked; the last stroke of 老 trailed too long, down onto the top of 七.
-
-He thought of that night by the campfire, Old Duan holding up a burned twig, dabbing the air once, and again, dabbing very slowly and very seriously, as if looking for something. And at the last dabbing Hou Siyuan under the ribs, and Hou Siyuan yelping and leaping up.
-
-*Got him.*
-
-Yisi spoke to the grave. His voice was very level and very slow, biting each word clear, as if afraid of biting one wrong.
-
-"The Dharma King Mingtai didn't do pressure points," he said. "He kept accounts."
-
-He took up a handful of earth from the grave, held it in his fist a while, and then, gently, scattered it back.
-
----
-
-**Version** v0.1 (translated from Chinese v0.3)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
+**Version** v0.4 (translated from Chinese v0.4)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿

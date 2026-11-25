@@ -362,21 +362,21 @@ After a while, snoring came from under the cap.
 
 Yisi turned the wick down a little and opened the first roll.
 
-The characters were written crooked and lopsided; where he could not write a character, he drew a circle. The first page said:
+The characters were written crooked and lopsided, in the plain written style a child picks up; where he could not write a character, he drew a circle. Yisi knew only so many Tang characters, and read it a line at a time: where he understood, he stopped and looked longer; where he did not, he turned on. The first page said:
 
-"Left Lingzhou. Wind strong. Camels slow. The scar on Uncle Duan's face goes red when the wind blows."
+"Left Lingzhou. Great wind; camels go slow. The scar on Uncle Duan's face reddens when the wind blows on it."
 
 He looked at it a while and glanced at Old Duan beside him. Old Duan had the cap over his face; the scar could not be seen.
 
 He turned on.
 
-"Crossed the Yellow River. Walked on the ice. Uncle Xu says you mustn't stop on the ice, if you stop you go through. I didn't stop."
+"Crossed the River, went upon the ice. Uncle Xu saith one must not stop upon the ice; who stops goes through. I stopped not."
 
-"Uncle Xu's fingers—he gave them to the beacon fire."
+"Uncle Xu lacks two fingers; saith himself he gave them to the beacon fire."
 
-"The elder Ahad says if you hold the scriptures in your arms you're not so afraid."
+"The elder Ahad saith, hold the scriptures and one fears less."
 
-"Uncle Duan got an arrow. He says it grazed him. I saw the arrowhead was still in. Uncle Xu dug it out. He didn't cry out. I didn't cry out either. Last night I was so scared I nearly wet myself, but I didn't."
+"Uncle Duan took an arrow; saith himself it grazed him. I saw the head still in the flesh; Uncle Xu dug it out. Uncle Duan cried not out, nor did I. Last night I was sore afraid and near wet myself, but did not."
 
 At this Yisi paused. He glanced again at the felt cap beside him.
 
@@ -386,7 +386,7 @@ He came to a page with a line of curving letters traced on it, Syriac, traced ve
 
 Below there was a line in Tang characters:
 
-"Grandfather's and Grandmother's graves. Behind the church in Balkh. Grandfather's cross and my cross are the same on the back. I came and saw them for Pa."
+"Grandfather's and Grandmother's graves, behind the church in Balkh. Grandfather's cross and mine are alike on the back. I came and saw them for Pa."
 
 Yisi looked at that page.
 
@@ -398,23 +398,25 @@ Then he turned the page over.
 
 The second roll was about the Patriarchate, about Ctesiphon, about his uncle.
 
-"Uncle's eyes are like Pa's."
+"Uncle's eyes are as Pa's."
 
-"Uncle asked: is the road still open? I said: it's open. I've walked it once."
+"Uncle asked: is the road yet open? I said: it is open; I have walked it once."
 
-"Every day Uncle ties a knot in his sleeve. He ties it very tight."
+"Uncle's right sleeve is empty, knotted at the elbow…"
 
-"The elder Ahad isn't coming back. He's staying in Balkh to watch over Grandfather and Grandmother for Pa. He gave me a cord. One knot, one prayer."
+After that came several more lines, the characters crowded together. Yisi could not make them all out; he looked them over twice, and turned the page.
 
-"The elder Ahad says *wan* for *fan*. I taught him to say *fan*. He says once we get to Xizhou, it'll be just me teaching."
+"The elder Ahad returns not; he stays in Balkh, to watch over Grandfather and Grandmother for Pa. Gave me a cord of knots, one knot, one word."
 
-"The elder Gabriel told about Joseph. One of the monk-soldiers cried. I didn't cry. I thought of Pa."
+"The elder Ahad says *fan* as *wan*. I taught him to say *fan*. The elder saith: at Xizhou it will be you alone teaching."
+
+"The elder Gabriel told of Joseph. One of the guard brothers wept. I wept not. I thought of Pa."
 
 Then came Xizhou. The church, the grass, the dust on the cross. Seven men kneeling in the grass.
 
 The last page was written more neatly than all the rest, as if he had thought a long time before setting down the brush:
 
-"Pa, I've reached Xizhou. Uncle Duan is going back. I've asked him to bring you this. I'm very well. My stomach's well too. I haven't drunk cold water."
+"Pa: your son has reached Xizhou. Uncle Duan goes back, and I ask him to bring you this. Your son is very well, the stomach well too. Have not drunk cold water."
 
 Below, after a line's gap, one more sentence had been added, the characters a size smaller:
 
@@ -482,4 +484,4 @@ He reached over and laid his hand on the oilcloth packet.
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.4)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
+**Version** v0.2 (translated from Chinese v0.5)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿

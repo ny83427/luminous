@@ -128,6 +128,8 @@ He did not say how many.
 
 That day, the five of them buried a hundred and thirty.
 
+The old man said that to bury men you dug a trench a row at a time and laid them flat side by side; dug deep, the dogs could not get at them, and dug in good order, if anyone came looking one day, they could be found. Yisi said good, and had Old Duan plant a tally at each man's head, with a number cut in it—which row, which place. For those who could not be told for either side, and whom no one claimed, they took some small thing from the body—a length of sash, a wooden comb, a few copper coins; and if characters were found sewn inside the hem of a coat, they cut that piece out—tied on a wooden tag cut with the same number, and put them away in a few earthenware jars brought from the old man's house. Old Duan asked what they were keeping these for. Yisi said: in case, one day, someone comes to claim them. He knew few Tang characters, and of the characters on those hems he could not read one; he only had Old Duan keep them.
+
 On the third day a dozen came. On the fifth day, more than forty. Some were farmers, some were from the city, some were from no one knew where; they came, took up a spade, and did not talk. Yisi asked one young man where his home was. The young man said the Changle Ward. Yisi asked him why he had come. The young man said: my elder brother was with the rebels, they took him, I don't know where he died. I've come to look.
 
 He came every day, and every day he looked. He looked for half a month, and did not find him.
@@ -538,11 +540,11 @@ In the twelfth month, the Metropolitan Prefecture put up gruel sheds in the East
 
 ---
 
-That evening, the Sogdian owner of the silk shop in the West Market came to the monastery to bring the last of the money for the silk, and mentioned one thing in passing. He said that someone at his shop had come back from Luoyang and said that the *hu* monastery in Luoyang's Xiushan Ward had been burned when the rebels held the city, its people scattered, no one knew where.
+That evening, the Sogdian owner of the silk shop in the West Market came to the monastery to bring the last of the money for the silk, and mentioned one thing in passing. He said that someone at his shop had come back from Luoyang and said that of the *hu* monastery in Luoyang's Xiushan Ward, the hall had burned the year the rebels took the city, and only a few rooms in the back courtyard and the wall round it were left. In the three days the Uighur troops were in the city, some people had hidden in that back courtyard; there was a placard pasted on the gate, and he'd heard they came to no harm.
 
-Yisi asked: "Not one of them left?"
+Yisi asked: "How many hid in there?"
 
-"They say there's still one old one," said the shopkeeper, "keeping watch over the heap of ash, who won't leave."
+"That I don't know," said the shopkeeper. "I hear there's still one old one at the monastery, keeping watch over the heap of ash, who won't leave."
 
 Yisi said nothing. He thought of the monastery in Lingzhou, whose roof leaked every year, and whose elder said every year that it must be mended, and every year could not afford to mend it.
 
@@ -566,4 +568,4 @@ Then he went in.
 
 ---
 
-**Version** v0.2 (translated from Chinese v0.4)　**Last modified** 2026-11-20（美国中部时间）　**Status** 英译样稿
+**Version** v0.3 (translated from Chinese v0.6)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿

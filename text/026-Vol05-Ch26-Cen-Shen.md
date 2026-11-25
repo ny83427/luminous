@@ -6,282 +6,134 @@
 >
 > —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
 
-It was Gabriel who first could not bear to read any more of Jingjing's essays.
+After winter set in, in the first year of Qianyuan, the monastery laid out Jingjing's lessons for the whole day, from morning till night, without a moment free.
 
-That winter the monastery set Jingjing a course of lessons. At first light he read the Law with Narsai, in Syriac; at the hour of *si* he copied scripture with Babai; in the afternoon he taught a few monk-soldiers and children from the ward to read Tang characters; in the evening Yisi had him write a piece in Tang, about anything at all, and when it was written, take it to Gabriel.
+At first light he chanted the Law with Narsai, in Syriac; Narsai chanted a line and he followed, and if he got one sound wrong, Narsai tapped once on the table with a finger, tapped so that Jingjing's heart tightened. After the hour of *si* he copied scripture with Babai. Babai's fingernails were always black with ink, and when he copied scripture not a stroke was careless; if Jingjing copied one character wrong, the whole page had to be copied again. After the midday meal it was his turn to be the teacher. A few of the guard brothers wanted to learn Tang characters, and some families in the ward had sent their children too, and seven or eight of them crowded into a felt tent that had been freed in the back courtyard, round a wooden board smeared with whitewash; Jingjing wrote a character on the board with charcoal and read it once, and they all read it after him. And at night, Yisi made him write a piece in Tang, about anything he liked, and when he had written it, take it to Gabriel to look at.
 
-Gabriel's spoken Tang was the best of the seven, but written Tang he could not read well. He read a few pieces, and could not tell good from bad; he could tell only one thing: every piece was full of *ought*.
+The two felt tents had come from Xizhou. Until autumn the guard brothers had lived in them; then the sheds in the back courtyard were finished, one tent was freed, and it became the place where Jingjing taught.
 
-He took one to Yisi.
+Teaching people their characters, Jingjing did well enough. *Rice*, *meal*, *water*, *fire*: he drew a grain of rice on the board, a bowl of rice, a stream of water, a heap of fire, and the children of the ward saw it at once, and asked two days later, every one remembered. Sargis was the oldest and learned slowest; he spent half a month on the character *keep*, and when he wrote it, it still looked like a dog squatting. But he was not in the least impatient: when he spoiled it he rubbed it out with his sleeve, and when he had rubbed it out he wrote it again, and when the children beside him laughed at him, he laughed with them.
 
-"Look," said Gabriel, pointing at the paper. "This line has three *oughts*."
+The pieces Jingjing wrote at night, Gabriel looked at for more than a month. Gabriel spoke the best Tang of the seven teachers, but could not read Tang writing well; holding a piece, he knew half of it and guessed the other half. After he had looked at a good many, even he could see one thing: in every piece of Jingjing's there were a great many of the word *ought*. One day he brought one to Yisi and counted them out for him line by line. That piece was about giving out gruel, and the first few lines went:
 
-Yisi took it and looked. He did not know a great many Tang characters, but the two characters for *ought* he knew.
+*The hungry ought to be fed; the cold ought to be clothed. Those who serve the Lord ought to pity all men; ought not to divide* hu *from Han; ought not to ask whether official or rebel…*
 
-The piece was about giving out gruel. Jingjing wrote: the hungry ought to be fed, the cold ought to be clothed, those who believe in the Lord ought to have compassion on all, ought to make no distinction between *hu* and Han, ought not to ask whether a man was Tang army or rebel, ought to do this and that. It was very neatly written, one line matched against the next, like bricks laid on a city wall.
-
-Yisi counted. One piece, eleven *oughts*.
-
-"Is it written wrong?" asked Yisi.
-
-Gabriel thought, and using the kind of hard word he loved best, said: "It's written perfectly correctly. Only there's nobody in it."
+A piece not long at all, and eleven *oughts* in it; the sentences were neatly made, one balanced against the next, as if someone were laying bricks one by one in a city wall. Yisi did not know many Tang characters, but *ought* he knew. He asked Gabriel: is it written wrong? Gabriel thought a long time, trying to find the right way to say it, and in the end said only that the words of scripture were none of them wrong, but he had read it three times, and of those people standing by the pot, there was not one in it. Yisi held the piece and sat under the lamp a good while. He too felt something was wrong with it, but if he had been asked to say where, he could not have said.
 
 ---
 
-Yisi went to Official Pei.
+A few days later Official Pei came to the monastery, and Yisi told him about it and asked whether he knew anyone who could write, whom he could ask to give the boy some guidance.
 
-Official Pei heard him out, smiled a little and said: "You want someone who can write."
+Official Pei laughed and said: "In the city of Chang'an you can pick up any number of men who can write parallel prose and examination poems by the handful—but that's probably not the kind Master Yi wants." He thought a moment and said: "There is one man you might try. He's Right Rectifier of Omissions in the Secretariat now. In past years he went beyond the frontier twice, first as secretary on Gao Xianzhi's staff in Anxi, then as an assistant on Feng Changqing's staff in Beiting, and spent several years all told in the west. I have a clansman who passed the examination in the same year as he did; I'll ask my clansman to have a word. Whether he'll come, I daren't promise for him."
 
-"Mm."
+Yisi asked his name. Official Pei said: Cen Shen.
 
-"There are plenty in Chang'an who can write," said Official Pei. "But the kind you want—there aren't many."
-
-"What kind?"
-
-Official Pei did not answer directly. He said: "I know a man who's a Right Rectifier in the Chancellery. A few years back he was out west—Anxi, Beiting—for a good many years. The poems he wrote, your people in Xizhou have probably all heard."
-
-"What's his name?"
-
-"Cen Shen."
-
-Yisi had never heard the name. He went back and asked Jingjing. When Jingjing was in Xizhou he had heard a garrison captain in the city recite a poem, said to be by a secretary from Chang'an, about snow falling at Luntai. He remembered only two lines.
-
-"*The north wind rolls the earth and snaps the white grass,*" said Jingjing, "*and under the* hu *sky in the eighth month the snow flies.*"
-
-Yisi said: "In Xizhou it doesn't snow in the eighth month."
-
-Jingjing said: "It does at Luntai. Luntai is north of the Tianshan."
+Yisi had never heard the name, but Jingjing remembered it. In Xizhou he had heard a garrison captain in the city, drunk, recite a poem, which he said had been written by an assistant on the Beiting staff, about snow falling at Luntai. Jingjing had remembered only the first two lines: *The north wind rolls the earth and snaps the white grass; under the* hu *sky in the eighth month the snow already flies.* The captain had said he had held Luntai two years, and in the eighth month when he got up in the morning the tent tops were white.
 
 ---
 
 Cen Shen came in the twelfth month.
 
-He rode a dun horse, very thin, its saddle old too, with a page behind him carrying a bundle. He was a little past forty, his face dark—the kind of dark that comes from many years in the wind and never goes pale again. He dismounted, stood at the monastery gate and looked up at the lintel. That cross-shaped hollow on the lintel had not yet been filled in, and snow had gathered in it.
+That twelfth month Chang'an was quieter than in other years. In the ninth month nine military governors had joined forces to attack Xiangzhou, and they were besieging it still; many of the city's able-bodied men had gone, the wards shut their gates early at night, and there were more charcoal sellers' carts in the streets than other years. Cen Shen rode a dun horse, very thin, with an old saddle, and behind him came a page boy with a bundle on his back. He was a little over forty, not tall, in a green robe washed faded. His face was dark—the dark of years in wind and sand that will never be fair again—and on the backs of both hands were the old scars of frost-cracks. He had passed the examination in the third year of Tianbao, served some years in minor posts in Chang'an, had no success, and gone twice beyond the frontier to the west; last year, at the travelling court at Fengxiang, Reminder Du and a few others had recommended him, and only then had he got this post of Right Rectifier of Omissions. It was not a high post, the seventh rank, but it was a clear and important one that could speak in the Son of Heaven's presence, and ordinary people did not easily get to see him.
 
-"This," he asked Yisi, who had come out to meet him, "someone chiselled it away?"
+He got down at the monastery gate and did not hurry in, but first looked up at the lintel. The cross once carved there had been chiselled off the year the city fell, its four rounded ends chiselled flat, leaving only a shallow cross-shaped hollow, with a layer of snow in it.
 
-"The rebels did."
+Yisi came out of the gate to meet him, folded his hands in salute and said: "This humble monk is Yisi. Your honour does us too much kindness in coming."
 
-Cen Shen nodded, looked a while longer, and said: "Neatly done, at least."
+Cen Shen returned the salute and said with a laugh: "Master Yi is a man who has received the imperial favour and been granted the purple, and he calls himself a humble monk before me—how am I to bear it?" And he pointed at the lintel and asked whether that had been someone's chisel. Yisi said it had been done the year the rebels entered the city. Cen Shen looked a while longer and said that the first time he went to Anxi, passing through Xizhou, there had seemed to be a *hu* monastery in the north of the city too, and what was carved over its door had probably looked like this; only he had been travelling fast then, and had not gone in to see. Yisi said his son had lived in that very monastery north of Xizhou only last year. Cen Shen said "Oh," looked once at Jingjing, and followed him into the courtyard.
 
-Yisi invited him in.
+The main hall had not been built yet, and the side rooms were piled full of timber and scriptures, so Yisi invited him into the felt tent in the back courtyard. Cen Shen stooped and went in, stood in the middle of the tent, looked up at the smoking skylight overhead, reached out and pressed the felt wall, and said that the tents at Beiting were exactly like this; he had lived in one there for three years, and at night when the wind was high the tent bellied in and out as if someone outside were pushing. And with that he sat down cross-legged on the felt. The page boy went to spread a cushion for him; he waved his hand and said he was used to sitting like this.
 
-The main hall had not yet been rebuilt, and the side rooms were piled full of timber and scrolls. Yisi took him into the tent in the back courtyard.
-
-The tent had been brought from Xizhou, made of felt, thick and heavy, round-topped, held up by one pole in the middle, with a smoke hole open at the top. The seven teachers had lived in it in summer, and when winter came moved into the repaired side rooms, so the tent stood empty and had become the place where Jingjing had his lessons. There was a brazier burning in it, a few felts spread on the ground, a low table, and on the table an inkstone, brushes, a pile of paper.
-
-As soon as Cen Shen came into the tent, he stopped.
-
-He looked up at the smoke hole, looked at the pole, looked down at the felt under his feet, and reached out to touch the felt wall of the tent.
-
-"The tents in Beiting," he said, "are just like this."
-
-He sat down on the felt and crossed his legs, quite at his ease. The page made to spread a cushion for him, and he waved it away. "No need. I'm used to sitting like this."
+Old Duan had been helping split firewood in the courtyard. Hearing that an official from the court had come, he poked his head in at the tent door and drew it back again. After a while he came in all the same, sat on the felt by the door with his back against the tent wall, and said not a word.
 
 ---
 
-Jingjing sat across from him, very stiff.
+Jingjing sat across from Cen Shen, so ill at ease he did not know what to do with his hands. Those two lines about the snow at Luntai he had said over in Xizhou more times than he could count, and now the man who wrote them was sitting before him, his face dark, his hands all frost-scars—not so different from the old man south of the city who had helped dig the pits. He could think of nothing to say, so he held out the piece about giving gruel in both hands.
 
-He had heard this man's poems, and now the man was sitting in front of him, dark-faced, with cracks in his hands from the cold, not much different from the old man who had dug pits south of the city. Jingjing did not know what to say, so he held out the essay on giving gruel in both hands.
+Cen Shen took it and read it very fast, and when he had read it, read it again from the start. The second time, the corner of his mouth moved, as if he were holding back a laugh. He laid the piece on the low table, put a finger on the first line, and asked Jingjing who had said *The hungry ought to be fed*. Jingjing said it was in the scripture. Cen Shen said that if it was in the scripture, then copy out that line of scripture and be done; why write it over again? What he wanted to know was which line in this piece was Jingjing's own. Jingjing could not answer, and went red all at once to the roots of his ears.
 
-Cen Shen took it and read it.
+Cen Shen did not press him, but turned and said to Yisi: "Master Yi, has the boy written anything else? Not done like this for people to look at—something he jotted down for himself, that he never meant to show anyone."
 
-He read very fast, and when he had finished said nothing, and read it again from the beginning. As he read it the second time, the corner of his mouth moved.
-
-"Eleven," he said.
-
-Jingjing went red.
-
-Cen Shen laid the essay on the low table and tapped a line with his finger. "*The hungry ought to be fed,*" he read. "Who says so?"
-
-Jingjing said: "The scripture says so."
-
-"If the scripture says so, you need only copy it out," said Cen Shen. "What did *you* write?"
-
-Jingjing could not answer.
-
-Cen Shen did not press him. He turned and asked Yisi: "Has the boy written anything else? Not like this—something he just wrote down for himself."
-
-Yisi thought, stood up and went out of the tent. After a while he came back with two rolls of paper in his hands, wrapped in oilcloth. The oilcloth had worn furry.
-
-He untied the oilcloth and handed the two rolls to Cen Shen.
-
-"These he wrote on the road," said Yisi. "From Lingzhou to Ctesiphon, and from Ctesiphon back to Xizhou."
-
-Jingjing sat bolt upright.
-
-"Pa—"
-
-Yisi gave him a look. He said no more.
+Yisi thought, got up and went out of the felt tent. After a while he came back holding two rolls of paper, wrapped in a piece of oilcloth worn rough. He untied the oilcloth and handed the paper to Cen Shen, saying it was what the boy had written on the road—from Lingzhou to Ctesiphon, and from Ctesiphon back to Xizhou, more than a year in all. Jingjing sat bolt upright and said "Pa"; Yisi looked at him once, and he swallowed what he had been going to say.
 
 ---
 
-Cen Shen unrolled the first roll.
+The two rolls were made of several kinds of paper joined together: hemp paper from Lingzhou, yellow paper begged at post stations, and coarse bark paper from who knew where, thick and thin, pasted together sheet by sheet. Nor were the characters all of a kind: at the beginning they were written very upright, and the further on, the more crooked, and in some places they had probably been written on camelback, a line running slantwise right to the edge of the paper. Where he could not write a character, he had drawn a circle.
 
-The paper was several kinds of paper joined together. There was hemp paper from Lingzhou, yellow paper begged at post stations, bark paper from who knew where—coarse, fine, thick, thin—pasted together sheet by sheet. The writing was several kinds of writing too. At the beginning it was upright, and the further on the more crooked; some had been written on camelback, and a line slid off to the edge of the paper.
+Cen Shen read very slowly. When he had read a stretch, he rolled it back a little and unrolled a little more. In the tent there was nothing to be heard but the occasional crack of charcoal in the brazier, and in the courtyard the guard brothers still splitting wood. In the second roll he stopped at one place, pressed it with his finger, and read it out:
 
-Cen Shen read a long time.
+*Uncle's right sleeve is empty, knotted at the elbow. At night he unties it, and in the morning he ties it again. One hand tying, his teeth gripping the end of the sleeve. He ties it very fast, and when it is tied presses it with his hand, and only when it is pressed flat does he go out. I watched three days; every day he tied, every day he pressed. I dared not ask how his arm was ○.*
 
-The tent was very quiet. Now and then the charcoal in the brazier crackled. Outside in the courtyard the monk-soldiers were splitting wood, stroke after stroke, very regular.
+At the circle he paused, and did not fill in the character for Jingjing, but went straight on to tell the passage to Old Duan: the uncle's right sleeve was empty, and tied in a knot at the elbow; at night he untied it, and in the morning when he got up tied it again; he had only one hand, so he gripped one end of the sleeve in his teeth, tied it very fast, and when it was tied still had to press it with his hand, and only when it was pressed flat would he go out. The boy had watched three days—tied every day, pressed every day—and never dared ask him how the arm was lost.
 
-Yisi sat and did not move. Jingjing kept his head down, looking at his knees.
+Cen Shen asked Jingjing whether he had asked afterwards. Jingjing said he had not dared ask his uncle; he had asked other people at the Patriarchate, and they said that one year someone had been contending for the throne and hired an assassin, and his uncle had taken a blade on his right arm. Cen Shen pressed the roll slowly flat with his palm and said: "That blade you didn't see, and you didn't write it. You wrote only that every morning he ties a knot, and when it's tied, he still has to press it. But reading this, it's as if I'd seen the blade too. That piece of yours about the gruel is *ought* this and *ought* that all over the page—eleven *oughts*, and I didn't see a single person. From now on, when you write, don't write only what ought to be. Write what you saw."
 
-The tent flap opened a crack, and Old Duan put half his head in, looked, and drew it back. After a while the flap opened again, and this time he came in, sat down on the felt by the door with his back against the felt wall, and said nothing.
+Yisi sat to one side and had not opened his mouth all along. The first line of this passage he had read last summer in the camp at Fengxiang; the characters after it he could not all make out, and at the time he had not read on. What his brother had been like after losing his arm, he had never known; and now, hearing it read out line by line, hearing of that knot tied once a day and pressed once a day, he bowed his head.
 
-Cen Shen unrolled the second roll.
+Old Duan said from the door: call that tying a knot? In camp, men who'd lost an arm just tucked the sleeve into their belt; who'd make all that fuss? Cen Shen said: he wouldn't tuck it—he would tie a knot, and press it flat besides before he went out. Old Duan thought a moment, felt something in it, and said no more.
 
-He came to a place and stopped. He held the line down with his finger and read it out.
+Cen Shen turned further on, to where they crossed the Pamirs on the way back, and read out another passage:
 
-"*Crossing the Pamirs*," Cen Shen read, "*the path is narrow. On one side mountain, on the other a gorge, can't see the bottom. Wind strong, enough to blow a man away. I don't dare look down, only at Old Duan's back ahead of me. His back is always ahead. Going slow, but always there.*"
+*Over the Pamirs. The path narrow, mountain on one side, gorge on the other, its bottom out of sight. Great wind, near enough to blow a man away. I dared not look down, only looked at Uncle Duan's back. Uncle Duan's back was always ahead, going slow, but always there.*
 
-When he had read it, he said nothing.
+Old Duan heard the words *Uncle Duan* and understood nothing else, and craned his neck and asked: "Your honour, what does that say about me? Have I done something shameful again for this boy to write down?" So Cen Shen told it to him: the path narrow, mountain on one side and a gorge you couldn't see the bottom of on the other, the wind so strong it nearly blew people away, and the boy hadn't dared look down, but all the way kept his eyes on Old Duan's back in front; and that back went slowly, but was always there ahead.
 
-Old Duan, sitting by the door, went rigid all at once. He opened his mouth, and the scar on his face went red, red going purple, more frightening than usual. He looked at Cen Shen, looked at Jingjing, looked at Yisi, and in the end looked at his own feet.
-
-"What's that he's written?" he said. "What's he writing about my back for? What's there on my back worth writing?"
-
-No one paid him any attention.
-
-Cen Shen raised his head and looked at Jingjing.
-
-"This passage," he said. "You wrote it?"
-
-Jingjing said: "Yes."
-
-"This passage is better than that essay."
-
-Jingjing looked at him, not understanding. "That essay," he said in a small voice, "is explaining things. This passage is just… just what I saw."
-
-"Yes," said Cen Shen.
-
-He turned on. After a while he stopped again, and read out another passage.
-
-"*Uncle's right sleeve is empty. At the elbow he ties a knot. At night he unties it, and in the morning when he gets up he ties it again. He ties it with one hand, holding one end of the sleeve in his teeth. He ties it very fast, and when he's tied it he presses it with his hand, presses it flat, and only then goes out. I watched for three days, he ties it every day, presses it every day. I didn't ask him how he lost his arm.*"
-
-When Cen Shen had read it, he raised his head and asked Jingjing: "Did you ask later?"
-
-Jingjing said: "I asked someone else."
-
-"What did they say?"
-
-"They said someone was fighting over the succession and hired an assassin. He put up his right arm against a blow."
-
-Cen Shen nodded. He rolled the paper back a little, opened it again, and pressed it flat with his palm.
-
-"That blow," he said, "you didn't see. You only saw the knot being tied."
-
-Jingjing said: "Mm."
-
-"You write the tying of the knot," said Cen Shen, "and whoever reads it sees the blow."
-
-Yisi sat beside them, and had said nothing all along. He had left Balkh at seventeen and never seen his brother again. What his brother was like after he lost his arm, he did not know. He listened to that passage, listened to that knot tied once a day, and when it was over, lowered his head.
-
-Old Duan said from the door: "You call that tying a knot? In our camp, men who've lost an arm all tuck the sleeve into their belt."
-
-Cen Shen said: "He doesn't tuck it in. He ties a knot."
-
-Old Duan thought, and said no more.
-
-Cen Shen put the roll down, laid it on the low table beside the essay on giving gruel.
-
-"Don't just write *ought*," said Cen Shen. "Write what you see."
+When Old Duan had heard it, the scar on his face flushed red all at once, red going purple, more frightening even than usual. He looked at Cen Shen, looked at Jingjing, looked at Yisi, and last looked down at his own two feet, and muttered: "What's he writing about my back for? Those days it was all sweat and dirt, I never even changed my clothes; what's on that back worth writing?"
 
 ---
 
-That afternoon Cen Shen sat in the tent a long time.
+That afternoon Cen Shen sat a long time in the felt tent, and all he talked of were the things he had seen in the west.
 
-He did not explain things. He told of what he had seen in the west.
+He said that at Luntai the snow fell in the eighth month, and in a single night the branches of every tree on the mountains were hung full, so that when you pushed open the tent flap in the morning it was as if a spring wind had blown through in the night and a thousand trees, ten thousand trees, had burst into pear blossom. The red flag planted outside the camp gate, tugged by the north wind, froze into a board, and however hard the wind blew could not flap; the men in camp wore fox furs and slept under brocade quilts and still could not sleep for the cold. He had seen off an assistant named Wu returning to Chang'an, seen him a long way off through the snow, right to where the mountain road turned, and when the man was out of sight and nothing was left on the snow but a line of hoofprints, he had stood there a long while. The poem he had written that same night. When he had written it, he took it and read it to an old soldier who fed the horses at the post station. The old soldier could not read a single character; whichever line made the old soldier look blank, he knew that line was badly written, and went back and changed it; when he came to the line about the red flag frozen stiff, the old soldier swore and said that was just how the flags were in that devil's place, and he knew that line was right.
 
-He said that at Luntai it snowed in the eighth month, and overnight every branch on the mountain was hung with snow, as if the trees had burst into pear blossom, tree after tree. When you got up in the morning the tent flap had frozen stiff and would not open, and you had to beat it with the back of a sword. The general's bow was so cold it would not draw, his iron armour so cold he could not bear to put it on.
+He spoke of the Fire Mountain too. He had seen it the first time he went to Anxi, passing Xizhou, east of the town of Puchang: a scarlet mountain without a blade of grass on it, so that when the sun shone the whole mountain looked as if it were on fire. He had gone in the depths of winter, the ground frozen everywhere, and yet at the foot of that mountain the wind blew hot, and men and horses passing by all ran with sweat.
 
-Jingjing asked him: then how did you write it?
+When Jingjing heard this he could not help breaking in: he had been past that mountain too; going east out of Xizhou it was winter as well, the water in the ditches by the road had frozen, and as soon as they came to the foot of the mountain the horses began to sweat, and the sheepskin coat his uncle had given him, he had taken off after a stretch. Cen Shen heard him, looked at him with a smile, and said nothing.
 
-Cen Shen said: "I wrote that the flap had frozen stiff and wouldn't open. Wrote that the bow wouldn't draw and the armour couldn't be put on. I didn't write *cold*."
+Old Duan had been sitting against the tent wall at first; as he listened he edged forward bit by bit, and at some point had edged up to the brazier, both hands stretched out to the fire, listening with his mouth hanging open.
 
-He said he had been to Xizhou, and passed the Flaming Mountains. The Flaming Mountains were east of Puchang, red as fire, not a blade of grass on them, and when the sun shone on them it was as if the mountains were burning. He had gone in winter, and in winter at the foot of the mountains there was still a hot wind, and men and horses passing came out drenched in sweat.
+Later they talked of friends. Cen Shen said he had an old friend called Gao Shi, courtesy name Dafu, a dozen and more years older than he. When young he had been poor and farmed land round Liang and Song; only in his forties did he get a post as a county sheriff, and later he went to Hexi as secretary on Geshu Han's staff. In the autumn of the eleventh year of Tianbao a few of them had climbed the pagoda of the Ci'en Temple south of the city together, Reminder Du among them, and each had written a poem. "I was in my thirties then, and Dafu was nearly fifty; when we got to the top of the pagoda, he was the one puffing hardest." Gao Shi had since governed a whole region as military governor, and his office was high now; but it was said that this year someone had spoken ill of him before the Son of Heaven, and he had been moved to an idle post, and was not much in favour either.
 
-Jingjing said: "I've been to the Flaming Mountains. In summer, even the birds won't fly that way."
+He recited too four lines Gao Shi had written long ago, seeing off a friend. The friend was called Dong Tinglan, who played the zither beautifully and was famous in his day, but in those years had fallen on hard times and had to travel far, short of money too, and Gao Shi wrote these four lines to see him off:
 
-Cen Shen looked at him and smiled. "There—you saw it too."
+*A thousand* li *of yellow cloud, the white sun dimmed; the north wind drives the geese, the snow falls thick. Do not grieve that on the road ahead you will have no friend—who under heaven does not know you?*
 
-Old Duan had sat by the door all this while saying nothing. As he listened he had slowly shifted forward, shifted until he was by the brazier.
+When he had recited it, Cen Shen paused a while and said he had heard that these two years Dong Tinglan had met with misfortune again: the year before last, when Minister Fang was dismissed, there had been people who brought Dong into it. These were all court matters; he said one sentence about it and went no further.
 
----
-
-Later they came to friends.
-
-It was Yisi who asked. He asked whether, in all those years in the west, there had been anyone he wrote poems with.
-
-Cen Shen said there had. He named a few names, none of which Yisi had heard. When he came to the last, he paused.
-
-"Gao Dafu," said Cen Shen. "Gao Shi."
-
-He said Gao Shi was a dozen years older than he, and poor when young; he had farmed and fished round Liang and Song, and was past forty before he got even a small post. Later he went to Hexi and served as secretary on Geshu Han's staff. Now he held high office, but it was said he was not much content.
-
-"He wrote a poem," said Cen Shen, "seeing off a friend. The friend was called Dong the Eldest, a lute player, setting out on a long journey with no money and no one who knew him. Gao Dafu saw him off and wrote four lines."
-
-He recited them:
-
-"*A thousand* li *of yellow cloud, the white sun dim; the north wind blows the geese through the driving snow. Do not grieve that on the road ahead there is no one who knows you—under heaven, who is there that does not know you?*"
-
-For a moment the tent was silent.
-
-Yisi asked: "*One who knows you*—what is that?"
-
-Cen Shen thought and said: "It's someone who knows you."
-
-Yisi nodded.
-
-Old Duan, by the brazier, was saying it over after him: "*Do not grieve that on the road ahead… under heaven, who is there…*" He said it twice and could not get it smooth, and only the third time got it smooth. When he had it smooth he gave a snort of a laugh, and only half his face moved.
-
-"*Under heaven, who is there that does not know you,*" said Old Duan. "That's talking big. The ones who know me are a handful in the camp."
-
-Cen Shen looked at him and smiled too.
-
-"A handful in the camp," said Cen Shen, "is enough."
-
-Old Duan was taken aback, and did not take him up. He said the four lines over once more, very slowly this time, and when he had said them, he was not smiling.
+Old Duan, by the brazier, recited the four lines after him. The first two times he could not get them smooth, and the third time he got them smooth, and having got them smooth gave a chuckle to himself, and when he laughed only half his face moved. He said: "*Who under heaven does not know you*—that's putting it too big. The ones who know me, add them all up, it's those few old mates in the camp." Cen Shen laughed too, and did not take him up.
 
 ---
 
-When it was nearly dark, Cen Shen was ready to go.
+When the light had gone, Jingjing asked Cen Shen something.
 
-He stood up, stooped out of the tent, stopped in the courtyard, and turned to say to Jingjing, who had followed him out: "Write one line for me to see. Write it now. No *ought*—write what you've seen."
+He said that many of the names in the scripture came from Syriac: the One who made heaven and earth was called in the Patriarchate's tongue *Alaha*, and the Lord's name was *Meshiha*. The old people of the monastery had heard them for decades and could say them; but new people from the ward who came to hear the teaching only looked blank when they heard them. He asked Cen Shen how such names should be written in Tang, for Tang people to understand.
 
-Jingjing stood there, a little flustered.
+Cen Shen thought, and said: "Your scriptures I've never read a line of, and I daren't give you advice. But since you say the ward people look blank when they hear them, do what I did at Beiting: when you've written it, go and read it to someone who can't read. If they understand, it's Tang; if not, come back and change it again." And he pointed out of the tent door.
 
-"Write what?"
+In the courtyard, over by the stove platform, Granny He was bent over scouring the pot, scouring it so the rim rang. Narsai stood by the well washing his hands in cold water; every day at dusk before the prayers he washed them once.
 
-"Anything," said Cen Shen. "Whatever you saw today, write that."
+Jingjing went out of the felt tent and up to the stove platform, thought a moment, and said to Granny He in Tang: "Granny, Alaha made heaven, made earth, made man."
 
-Jingjing went back into the tent, knelt at the low table, took up the brush, dipped it in ink, and for a long time faced the white paper without setting brush to it.
+Granny He straightened up, the pot-scrubbing whisk still in her fist, looked at him once, and smiled, and said: "That, Granny knows. The old folks always said it so. Forty years I've been saying *Alaha*, and when I say it, what I'm thinking of is just the Lord of Heaven."
 
-He wanted to write the tent, wanted to write the brazier, wanted to write Old Duan unable to get the poem smooth. He wanted to write that chiselled hollow on the lintel, with snow gathered in it. He thought of many things, and wrote none of them.
+Jingjing stood there and for a moment did not know how to answer. Over by the well, Narsai's hands had stopped on the bucket; he turned his head and looked once at Granny He, and once at Jingjing, his brows drawn together, and said nothing, shook the water off his hands, and went indoors.
 
-He raised his head and looked out through the door of the tent.
-
-His father was standing in the courtyard talking with Cen Shen. It was nearly dark, and the snow in the courtyard had gone blue. His father had his face turned aside, listening to whatever Cen Shen was saying, listening very intently, without moving, as on the battlefield he had listened for sounds from the east.
-
-Jingjing looked a while, bent his head, and wrote one line.
-
-When he had written it he took it out and handed it to Cen Shen.
-
-Cen Shen took it and held it close to his eyes. It had grown dark, and he had some difficulty reading it; when he had read it he said nothing, folded the paper and handed it back to Jingjing. Then he swung up onto that dun horse, cupped his hands to Yisi, and went.
-
-Yisi watched him out of the courtyard gate before he turned and looked at the paper in Jingjing's hand.
-
-"What did you write?"
-
-Jingjing handed him the paper.
-
-Yisi took it and looked at it a long time. He knew about half the characters on it. He knew *Pa*, knew *left*, knew *half*.
-
-He gave the paper back to Jingjing, and did not ask.
-
-Jingjing put the paper away inside his coat, with the knotted cord.
-
-What the paper said was: *Half of Pa's left eyebrow is gone.*
+At the tent door, Cen Shen watched it all and laughed aloud.
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
+When Cen Shen was leaving, it was nearly dark. He stooped out of the felt tent, stood in the courtyard, turned back and told Jingjing to write him one line now, to see—about what he had seen today; one line was enough.
+
+Jingjing went back into the tent, knelt at the low table, dipped his brush, faced the white paper, and for a long time could not bring the brush down. He wanted to write the tent and the brazier, wanted to write Old Duan not getting the poem smooth, wanted to write the chiselled hollow over the gate and the snow in it, wanted to write Granny He clutching her whisk saying *the Lord of Heaven*; he thought round and round, and could not make a sentence of any of it. He raised his head and looked out of the tent door. His Pa was standing in the courtyard talking with Cen Shen; it was nearly dark, the snow in the courtyard gave off a bluish light, and his Pa had his face turned aside, listening very intently, not moving at all, as if listening at the front line for sounds from the east. The scar a little left of the middle of his brow, running right up onto his forehead, showed plainly in the snow-light.
+
+Jingjing looked a while, lowered his head, wrote one line, and took it out and handed it to Cen Shen. Cen Shen held it close to his eyes; the light had gone, and he read it with some effort. When he had read it he folded the paper and gave it back to Jingjing, swung up onto the dun horse, cupped his hands to Yisi, and went out of the courtyard gate with his page.
+
+Yisi saw him to the gate, watched until he was far off, and only then turned back and held out his hand for the paper. Of the characters on it he knew half: he knew *Pa*, knew *left*, knew *half*. He looked, and understood, and gave the paper back to Jingjing.
+
+Jingjing put the paper away in his coat, with the string of knots.
+
+What the paper said was: *Pa's left eyebrow, half of it gone.*
+
+---
+
+**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿

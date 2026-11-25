@@ -218,7 +218,7 @@ Yonan sat at the far end of the table. He reached his ladle across the table and
 
 Yisi saw. He lowered his head and drank from his own bowl, drank twice, and raised his head again. Yonan was already talking to Babai, and Jingjing was blowing on his bowl.
 
-Halfway through the meal, Haddad told of something he had heard in the West Market. Since Luoyang had been recovered, a Sogdian merchant had come from there, bringing word from that old deacon in the Xiushan Ward: the monastery had burned, but the people were still there, ten or so of them, worshipping in a believer's house.
+Halfway through the meal, Haddad told of something he had heard in the West Market. Since Luoyang had been recovered, a Sogdian merchant had come from there, bringing word from that old deacon in the Xiushan Ward: the monastery had burned, but the people were still there, a dozen-odd households, worshipping in those few rooms in the back courtyard.
 
 Yisi asked: "From Luoyang to here—how many days?"
 
@@ -580,4 +580,4 @@ Then he sat down on the grass.
 
 ---
 
-**Version** v0.2 (translated from Chinese v0.4)　**Last modified** 2026-11-20（美国中部时间）　**Status** 英译样稿
+**Version** v0.3 (translated from Chinese v0.5)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿
