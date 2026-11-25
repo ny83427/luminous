@@ -1,0 +1,85 @@
+# Volume Twelve　Jade Gate
+
+## Chapter 82　Lingbao
+
+> Behold: the Eternal, true and still, before all firsts and Himself without beginning.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+They reached Balkh in the tenth month of that year. Down from the Pamirs, through Wakhan, through the old lands of Tokharistan, ever westward and downward; the mountains grew lower, the rivers wider; by the rivers there were trees, and fields, and wheat sown in the fields; the wheat had been cut, and the fields were left with stubble, and frost lay on the stubble. The speech of people on the road Salang could not understand; Elijah understood half—it was Persian, mixed with other tongues; Elijah said they spoke this over by Merv too; he had spoken it as a child, hadn't spoken it in decades, had forgotten the greater part, and as he spoke it, it came back. Lingbao sat in the sheepskin pannier on the yak's back listening to the people on the road talk; after some days of listening, one day he told Salang: listen—that line that man just said is the country speech of Balkh.
+
+Salang could not tell. Elijah could not tell either. Lingbao said it was; he could tell; Pa spoke it when he was small; when Pa was angry it was this speech he spoke, and when Pa was glad, this speech too; the night Pa died he talked half the night with Brother, and it was this speech; he listened outside the door and couldn't understand it, but that tune he remembered all his life.
+
+The day they entered the city of Balkh was a fine day; the city wall was of yellow earth, very high, very old; the gateway very deep; under it stood a few soldiers in pointed caps—Tazi soldiers—who asked where the caravan came from; the caravan's headman said from the east, from Kashgar; the soldiers asked who was sitting on the yak's back; the headman said an old man from the east, come to see his family's graves. The soldiers looked once into the pannier, saw a blind old man holding a felt bundle, waved their hands, and let them in.
+
+---
+
+The church was in the south of the city. Elijah asked along three streets in the city before he found it: in the south of the city was a small church of the believers in Daqin, with a cross carved on its door. They went to look and found it in a narrow lane; at the lane's end a mud wall, and in the wall a door, not large, with a cross carved on it, its four ends rounded like four leaves. The door was open.
+
+In the courtyard was a mulberry tree. It was very old, its trunk so thick two men could not reach round it, its bark cracked into plates, half its leaves fallen and the rest yellow. Under the tree sat a man of about fifty, splitting firewood. He heard the door and looked up, and saw at the door a *hu* leading a yak, an old brother in a black robe, and on the yak's back a blind old man holding a felt bundle; he put down his axe and stood up.
+
+Elijah spoke first, in Syriac; he said they came from the east, from Sinistan, from Chang'an; the church at Chang'an had been abolished; they had been sent back, travelled four years, and come here. He said this one on the yak's back is a priest of the Daqin Monastery at Chang'an, called Adam; his father went out from Balkh, called Yazdbozid; his grandfather was once a priest of this church, called Milis.
+
+The man splitting wood stood under the mulberry tree listening, and when he heard *Milis* he put down the axe handle in his hand. He said: Milis? He said he knew of Milis; his grandfather had told him; as a child his grandfather pulled weeds in this church, and every time he pulled them the elder gave him a piece of bread; the church's elder then was called Ahad, come from the east, from Lingzhou in Sinistan; the elder was old and sat under the mulberry tree expounding scripture, and when he had expounded told his grandfather to go behind the church and pull weeds—the weeds on the grave of the priest Milis. He said his grandfather said that one year a young man came from the east who looked like a Tang man, fifteen or sixteen, and said he was the grandson of the priest Milis, and knelt before the grave reciting the evening praises, the elder sitting beside him reciting along; his grandfather, done pulling weeds, stood by watching; the young man stood up, turned and saw him, and gave him a piece of bread.
+
+Lingbao on the yak's back listened to Elijah translate sentence by sentence, and when he had heard it said: that was Brother. He said that young man was his brother, Jingjing; that year was the second year of Shangyuan; Brother was fifteen, going to the Patriarchate, passing through Balkh.
+
+The man splitting wood came over to the yak, looked up at Lingbao, and said: you're of Milis's family. Lingbao said yes. The man said: of Milis's family—no one has come back in more than eighty years.
+
+---
+
+The graves were behind the church, past a low wall with a little gate in it. Salang carried Lingbao over on his back. With Lingbao on his back he walked past the mulberry tree, through the little gate; beyond the gate was an open piece of ground with a dozen-odd graves on it, all earthen mounds, stones set before the mounds carved with crosses and names. The man who had been splitting wood led the way; he was called Fahd, a deacon of the church; he led them to the row by the wall, stopped, and said: here.
+
+Two graves lay side by side, their stones worn white by wind and rain, the crosses still visible, the names hard to make out. Beside them was another—the old cobbler-deacon's—and beside that, Elder Ahad's; Elder Ahad died in the third year after Brother passed through Balkh the second time; when he died Fahd's grandfather was beside him; the grandfather said the elder at the last clutched a knotted cord, one he had twisted himself later; the elder said the one he had before, he'd given years ago to a child come from the east.
+
+Salang set Lingbao down before the graves. Lingbao knelt, knelt before his grandfather's and grandmother's graves, reached out and felt the stone, felt the cross carved on the stone, felt the few Syriac letters beneath, felt them one by one, felt them out—*Milis*—felt that name once over, and again.
+
+He said Brother told him there was a mulberry tree beside the graves. Fahd said the mulberry was in the courtyard and the graves outside the wall, with a wall between; the mulberry's branches reached over the wall, and in summer the shadows of its leaves fell on the graves. Lingbao heard and laughed; he said what Brother told him was probably a mulberry tree in the courtyard and a few graves behind the church, and he himself heard it as one place, remembered it all his life, remembered it mixed up all his life; he told Siniang too that there was a mulberry tree beside the graves, and Siniang thought to her death it was beside the graves.
+
+He untied that felt bundle from the yak's back and held it in his arms. He told Fahd: this is his wife, a Chang'an woman, née He, baptismal name Maryam, who died on the Pamirs; he took her up from the Pamirs and brought her; he promised her he would bury her beside his grandparents, and later when he died be buried beside her. He asked Fahd: is there still room here?
+
+Fahd said there was. He pointed beside the grandmother's grave and said that side was empty; long ago the old cobbler-deacon wanted to be buried beside the priest Milis and was buried on this side, and that side had always stayed empty; his grandfather said Elder Ahad had said: keep that side; of Milis's family's sons, one went to the Two Rivers and one went to Sinistan, and neither came back; keep that side, and wait.
+
+---
+
+He Siniang was buried three days later. The church of Balkh had a priest, past seventy, sent from Merv, who had lived thirty years in Balkh, called John; he presided. A dozen-odd came to the church, households of Balkh who still believed—Persians, Tokharians, Sogdians; they had heard someone of Milis's family had come from the east, and all came, and stood on that open ground behind the church, beside the grandmother's grave. Salang and Fahd dug the pit, dug it long; the felt bundle was lowered; Elijah recited scripture, the priest John blessed, Salang filled in the earth; Fahd brought a stone from the church and set it before the grave; on the stone Elijah cut Syriac letters and Salang wrote Tang characters.
+
+Lingbao knelt before the grave. From his robe he took that piece of hem—blue cotton, frayed at the edge, and on its inner lining, in red thread, the character *ling*. He felt the strokes of that character, and tucked it back into his robe. He said this piece he would keep; when he died, it would be buried with him.
+
+---
+
+That winter Lingbao lived in the church at Balkh, in a little room behind the mulberry tree—the very room Elder Ahad had lived in long ago. That winter was the calmest of all his winters. He coughed, but more lightly than on the road; he said the wind of Balkh was dry, and dry wind doesn't hurt the lungs. Every day before light he rose and had Salang help him to the middle of the courtyard, to stand a while, telling his own knotted cord—Brother's he had given to Jingfu; he had one of his own, twisted when he was young, twisted badly, the knots loose; he told it, one knot, one name—he came to Siniang, came to Joseph, came to Jingfu, came to Ayi, came to Xiaoman, came to Rijin, came to those few households at the south end of the ward in Chang'an, came to Lü Shao, came to Qushen, came to Judge Yang; he said Judge Yang didn't believe; those who don't believe he names too. When he had told it through, he stood till light, and Salang helped him back.
+
+At the offering once in seven the priest John presided, and he stood beside the priest John, two old men, one of Balkh and one of Chang'an, blessing the bread together. The priest John recited in Syriac, and he recited in Syriac too; halfway through, what he was reciting was the Chang'an tune, and what the priest John recited was the Merv tune; the two tunes were not the same; the priest John stopped and listened to him recite, and when he had heard it said: the Chang'an tune is beautiful.
+
+The glass bowl he gave to the church at Balkh. He said this bowl was bestowed by the Son of Heaven on his Pa in the first year of Qianyuan; his Pa was a man of Balkh; the bowl went with his Pa and was used in Chang'an more than eighty years; the Chang'an church is gone, and the bowl came out, and went with him four years, and has come to Balkh; Pa couldn't come back; the bowl has come back. He said: from now on, at the offering once in seven in the church at Balkh, use this bowl; the ring of round facets on the bowl's bottom—look at it against the light, and the light comes through the facets and casts rings of shadow on the table; Pa said the Sasanians ground it, ground it all their lives to make it so even.
+
+He had Salang bring his oilcloth bundle, the one He Siniang sewed shut in Chang'an, carried on his back from Chang'an to here; he had Salang open it; inside were Samaan's nine account books, the sheet Luo Haoxin copied, Brother's slip with the wrong *shi*, Official Pei's register, and his own little book he carried. He said: these things, Salang, you take with you; take them to the Patriarchate and give them to the Patriarch. He said Elder Samaan kept accounts all his life, and what he kept account of was the Chang'an church; the Chang'an church is gone, and the accounts remain; give the accounts to the Patriarchate, and the Patriarchate will know that there was once such a church in Chang'an, and such people; the stele is buried in the earth, and the accounts are at the Patriarchate. He had Elijah bring out those few bark-skin cases too, the scriptures Elder Alopen had brought from the Patriarchate, and said: these few rolls came from the Patriarchate; take them back to the Patriarchate.
+
+Salang asked him: that little book—the one with Guangzheng going to the Patriarchate for a bishop—give that too? Lingbao said: that too. He said under Guangzheng's line there's an empty line; he's kept it empty twenty-seven years; he can't see; he can't write any more; take it; at the Patriarchate, if you can learn what became of Guangzheng, have someone write it in under that line; once it's written, that line won't be empty; if you can't learn it, leave it empty; empty, those who come after will see it and know that here was a man who went and did not come back.
+
+---
+
+After the opening of spring, his body failed day by day. He knew it himself. In the third month the mulberry put out its buds; he had Salang help him to sit under the tree, on the stone Elder Ahad had sat on long ago; he sat with his face up, the sun shining on it, and said it was warm. He told Salang he wanted to go and see the city's east gate. Salang asked what was at the east gate; he said when Pa went out of Balkh long ago, he left by night with a caravan, and it was the east gate he went by.
+
+Salang and Fahd helped him there. Under the east gate people came and went—camels, donkeys, horses—caravan after caravan going in and out, some going east, some come from the east. Lingbao had them help him stand in the gateway, in the gateway against the wall; he stood listening to the camel bells pass beside him beat by beat, pass, and go east. He stood till one eastbound caravan was all out of the gate and its bells could no longer be heard. He asked Fahd where Milis's family's house had been. Fahd said his grandfather had told him: inside the east gate, not far from here; but that whole quarter was torn down thirty years ago by the Tazi officials and built into barracks; there was a watchtower on the barracks wall; he could see it if he looked up. Lingbao said he couldn't see. He stood in the gateway facing into the city; those barracks were before him; he could not see; he could hear; in the barracks someone was shouting words of command in Tazi—a shout, a burst of footsteps; a shout, another burst of footsteps. He listened to a few commands and said: Pa was born there; Uncle was born there; the night Pa was seventeen he came out of there and walked to this gate with a bundle on his back and the wooden cross Grandfather gave him round his neck; Grandfather stood at the door; Pa didn't look back. He said he has come back; Pa's home is gone; he can't see either; come back, and he still can't see anything. He said: let's go back.
+
+He died on the seventh of the fourth month, the fourth year of Dazhong. That night Salang was keeping watch in his room, and Elijah too. He lay breathing very shallowly; in the middle of the night he woke and called Salang. Salang leaned close. He asked Salang: is the road still open?
+
+Salang said: it's open. I've travelled it once. Lingbao said: that's good, then. He said: go on travelling it. Before daybreak, he was gone. Elijah dressed him in his black robe; that piece of blue cotton hem Salang laid on his breast; his two hands Salang put together, together over that piece of hem.
+
+---
+
+He was buried beside Siniang, on that side of the grandmother's grave, the side Elder Ahad had said to keep. The priest John presided; the dozen-odd households of the church at Balkh all came and stood on that open ground behind the church. That day the mulberry's leaves had come out; its branches reached over from the other side of the wall, and the shadows of the leaves fell on the newly filled earth, fell on Siniang's grave, fell on his grandfather's and grandmother's graves.
+
+The stone was cut by Fahd. Elijah carved Syriac letters: *Adam, grandson of Milis, son of Yazdbozid, priest of the Daqin Monastery at Chang'an; born at Chang'an in the year of the Greeks one thousand and seventy-eight; died at Balkh in one thousand one hundred and sixty-one.* Salang wrote Tang characters beside them; he thought, and wrote three characters: *Yi Lingbao*.
+
+When Salang had written them, he tucked the charcoal into his robe. He stood up and went to the wall; a branch of the mulberry reached over the top of the wall, hanging very low, its leaves new and tender green; he reached up and picked one leaf, and pressed it in the little book Lingbao had given him, under Guangzheng's line, on that empty line.
+
+---
+
+Note: Balkh (modern Balkh in Afghanistan) was, in the mid-ninth century, part of Khurasan under the Tahirid dynasty. For the small church south of the city of Balkh and the graves of Milis and Ahad see Chapters 10, 11 and 30. For Yisi's leaving Balkh eastward at seventeen see Chapter 51. For "Is the road still open?" see Chapters 31 and 51.
+
+---
+
+**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿
