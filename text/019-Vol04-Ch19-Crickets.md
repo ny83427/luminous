@@ -216,7 +216,7 @@ The guard sent to the Marshal's tent came back too. He brought His Highness's wo
 
 Only then did Guo Ziyi send men to Pugu Huai'en's camp and to Hun Shizhi's.
 
-The man sent to Pugu's camp found him gone. Pugu Huai'en had gone back to the Marshal's tent and was still asking for those two hundred horse. The man fetched him back from the Marshal's tent.
+The man sent to Pugu's camp found him gone. Pugu Huai'en had gone back to the Marshal's tent—the third time that night—and was still asking for those two hundred horse. The man fetched him back from the Marshal's tent.
 
 Pugu Huai'en took the Shuofang horse, their hooves wrapped in cloth, out of the west of the camp, round south in a great circle, round to the outside of that gully mouth by the Jue. Hun Shizhi took his foot soldiers, bent double, one behind another, and laid them up inside the laager at the southwest corner.
 
@@ -276,7 +276,7 @@ When Old Duan came back it was nearly dawn. His sword had not left its scabbard;
 
 Yisi nodded.
 
-Old Duan sat down beside him, laid the sword on his knees, and looked at the gap in the tent curtain. The sky beyond the gap turned from black to grey.
+Old Duan sat down beside him, laid the sword on his knees, and looked at the gap in the tent curtain. The sky beyond the gap turned from black to grey. He said that Pugu, when this fight was done, hadn't even wiped off the blood but had ridden off again to the Marshal's tent; he'd watched him go past from the door of Lord Guo's tent; that made four times tonight at the least. He said the Prince wouldn't let him pursue, and what he said was that the men were spent, and the men were spent, true enough; but he'd followed Lord Guo more than ten years and seen plenty of how things go in a camp, and he'd make a blind guess—if it was wrong, Master Yi could pretend he hadn't heard it. The Uighurs had put in great strength on the field by day, and the court had promised them long ago that on the day the city fell, the land and the people would go to the Tang, the gold, silk, women and children to the Uighurs; that much was already a foreigners' merit. If General Pugu tonight brought in An Shouzhong and Li Guiren in ropes as well, then afterwards, when people spoke of it, who would it be that took Chang'an back? The Prince was the Son of Heaven's eldest son, and what the Son of Heaven wanted was for the house of Tang to take Chang'an back itself. Foreign generals had to be used, and had to be rewarded too; only the first merit couldn't be let go to them. Old Duan said he'd say this to Master Yi and no one else; once outside this tent, he'd said nothing at all. Yisi listened and did not answer. He thought of the day at Xiangji Temple, when the Uighur horse came round from the east, and of the faces of the men in the central command; he thought too how at every council, when Pugu spoke, Lord Guo always heard him out first, and then said something else. He thought Old Duan had probably guessed right, near enough.
 
 "Lord Guo told me to tell you something," said Old Duan.
 
@@ -302,6 +302,10 @@ Old Duan went round the camp, came back, sat down by Yisi and said: "They're say
 
 "Lord Guo did foresee it," said Yisi.
 
+Just then the shouting outside changed its pitch. Old Duan lifted a corner of the curtain to look out, and Yisi too propped himself up and edged to the door. Along the road on the west side of the camp a troop of horsemen was coming from the direction of the Marshal's tent, the cloth not yet taken off their horses' hooves, and at their head rode Pugu Huai'en; it was the fifth time that night he had come out of the Marshal's tent. He wore no helmet; it hung from his saddle; the blood splashed on his face had dried black. The men of the camp shouted "General Pugu!" at him, and he did not answer. Coming up to the tent of the wounded he reined in and looked once toward the east, where Chang'an was, a line of white light at the sky's edge; then he turned and looked back toward the Marshal's tent, and there was nothing on his face, only the corners of his mouth pressed down, pressed very tight. A guard behind him asked him something in Tiele, and he answered in Tang, not loudly, but the two at the tent door heard it plainly: "Tomorrow." When he had said it he smiled, only with his mouth; his eyes did not smile. As his horse passed the tent door he looked down and saw Yisi by the door, and his eyes rested a moment on Yisi's face, as if he had recognized him as that foreign monk who attended on Guo Ziyi; then he went by, the cloth on the hooves dragging in the mud.
+
+Old Duan let the curtain fall, said "Heh," and said Pugu was holding his anger in; won the battle and wore a face like he'd lost it; all the generals in camp were like that—have the merit cut off from under them, curse for two days, drink for two bouts, charge forward just the same in the next battle, and forget it after a while. Yisi did not answer. That was not what he had seen. When that look fell on his face, he felt it was two foreigners looking at each other once in a Tang camp, and in that look was hatred, pressed down very deep, under a face with nothing on it, like a man entering one item in an account book, and having entered it, closing the book. He thought: this item, Pugu Huai'en will not forget.
+
 Old Duan said "Mm," and said nothing more. After a while he stood up.
 
 "Those two," he said. "They're still on the canal bank. I've had men from General Hun's camp watching them."
@@ -320,4 +324,4 @@ It chirped again.
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.3)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
+**Version** v0.2 (translated from Chinese v0.4)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿

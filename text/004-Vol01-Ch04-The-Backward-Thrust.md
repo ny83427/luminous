@@ -156,13 +156,7 @@ The whole edge of the ground burst out laughing.
 
 "How many in this camp have seen General Hun's thrust with their own eyes? And what if they have—can they learn it?"
 
-The soldiers all talked at once, laughing in a heap. And it was not all mockery. Of the officers in the Shuofang army, plenty had tried themselves against Hun Shizhi, and plenty had taken that thrust, and not one had learned it. Anyone could put on the look of a man in flight; the hard part was the turn. With the horse still running forward and the man thrusting backward, both feet must first be braced hard in the stirrups, braced as if nailed to the horse's sides, or else when the upper body twisted the man would be flung off with the lance. The waist must twist from the hips, not the shoulders; a thrust from the shoulders has no force in it, while a thrust from the hips has the other man's horse adding force behind it. The shaft must be laid early against the right hip, pressed there tight, so that at the turn it is only driven out, never pulled back—pull it back, and it is too slow. And then the moment itself: a step too early, and the other man has not closed and you cannot reach him; a step too late, and his lance is in your back first. Early or late differed by only one or two strides of a horse, and all depended on listening to the hoofbeats behind you, hearing where he had got to.
-
-None of these secrets could be seen by watching. The watchers saw only that he suddenly turned and the lance was there; how the feet were braced, how the waist twisted, when to twist—without someone teaching you hand over hand, without falling off a horse dozens of times, it could not be learned. And even knowing he would turn, the pursuer had no good answer: if you did not chase, he got away, and got away to set himself and come again; if you chased, then at those one or two strides your horse could not stop. So Hun Shizhi never feared to use this move on the parade ground. In battle, though, he did not use it lightly. The backward thrust was a killing stroke to snatch life out of defeat; to feign flight was to sell your back to the enemy. If he chased too slowly, you turned and thrust at nothing; if he chased too fast and you turned a fraction slow, you died under his horse. In more than twenty years of fighting, he had used it in earnest in battle only a handful of times, each time when he had met an enemy too strong to beat and too fast to escape, at the very edge of life and death, gathering everything into one stroke and plucking the man off his horse with one thrust. Each time, afterwards, when he lay down at night, he broke out in a cold sweat.
-
-The parade ground was different; nobody died there, and in ordinary bouts with the officers he used it often enough. Only he was a general, and what common soldier would dare go up and spar with him? So of the men in camp, many had heard of the backward thrust and few had seen it. Today, after the first two passes, he had seen that the monk's lance work was ordinary and that he himself had room to spare, and only then had he brought it out—partly to give the monk a shake, and partly because, before Guo Ziyi and the generals, he had wanted to show it off a little.
-
-He had taught it hand over hand to only one man, his son Hun Jian, and while he taught it he had warned him again and again: don't use it lightly in battle; one slip, and you're a corpse under a horse.
+The soldiers all talked at once, laughing in a heap. And it was not all mockery. Of the officers in the Shuofang army, plenty had tried themselves against Hun Shizhi, and plenty had taken that thrust, and not one had learned it.
 
 And today Yisi had charged straight into it.
 
@@ -340,9 +334,41 @@ Hun Jian squatted down beside him. "The whole camp's talking about those three a
 
 "It does run in the family." Hun Shizhi looked at him sidelong. "You shoot straighter. A copper coin at a hundred paces—your pa can't match you. But the day you can loose three arrows in one breath at a gallop, every one of them where it's meant to go, and still catch a lance in your hand when you're done—then come and talk to your pa."
 
-Hun Jian was not convinced and muttered something, then remembered something. "Pa, didn't you warn me over and over not to use the backward thrust lightly? Today in front of several hundred people you used it as if it were nothing."
+Hun Jian was not convinced and muttered something, then remembered something, and his face darkened. "Pa, that backward thrust of yours—the camp says you've used it twenty years. I've learned the lance from you ten years, and you've never once taught it to me. And today, in front of several hundred people, you go and show it to that monk first."
 
-"Nobody dies on the parade ground," said Hun Shizhi. "Battle is battle. In battle, when that thrust goes out, either he dies or I do. Every time your pa uses it, it takes a year off his life. You remember this: till you're at that point, don't do what your pa did today."
+"Show it to him? I stuck him with it."
+
+"Sticking him is teaching him. He's had it once; next time he'll know you're going to turn."
+
+Hun Shizhi laughed out loud and set his wine bowl down on the ground by his foot. "You want to learn it?"
+
+"I do."
+
+"Then first I'll tell you: this move can't be seen by watching. Several hundred pairs of eyes at the edge of the ground today, and all they saw was me suddenly turning and the lance being there," said Hun Shizhi. "Anyone can put on the look of a man in flight; the hard part is the turn. With the horse still running forward and the man thrusting backward, both feet must first be braced hard in the stirrups, braced as if nailed to the horse's sides, or else when the upper body twists the man is flung off with the lance. Where does the waist twist from? From the hips, not the shoulders. A thrust from the shoulders has no force in it; a thrust from the hips has the other man's horse adding force behind it. The shaft must be laid early against the right hip, pressed there tight, so that at the turn it's only driven out, never pulled back—pull it back, and it's too slow."
+
+Hun Jian listened, and without knowing it his two hands began to work the motions on his knees.
+
+"And then the moment itself. A step too early, and the other man hasn't closed and you can't reach him; a step too late, and his lance is in your back first. Early or late differs by only one or two strides of a horse, and it all depends on your ears—on listening to the hoofbeats behind you, hearing where he's got to," said Hun Shizhi. "That's what can be said, and that's all of it. What can't be said takes falling off a horse dozens of times."
+
+"That's all?"
+
+"Too little for you?" Hun Shizhi pointed to his own left ear. "This half an ear—do you know how it went?"
+
+"Ma says the Tibetans cut it off."
+
+"The Tibetans cut it off. In the eighth year of Tianbao, when Commissioner Geshu attacked the city of Shibao, the Shuofang troops were sent too. Under the walls there was a Tibetan officer with a long sabre; I fought him twenty-odd bouts, couldn't beat him, couldn't get away either, so I wheeled my horse and rode back, feigning flight. He came after me, I turned and thrust, and plucked him off," said Hun Shizhi. "But that time I turned half a step late. His sabre got there first, went past my ear, and took off half of it. Half a step later still, and what it took off would have been your pa's head, and you wouldn't be here asking me for the backward thrust."
+
+Hun Jian's hands stopped.
+
+"The backward thrust is a killing stroke to snatch life out of defeat. To feign flight is to sell your back to the enemy. If he chases too slowly, you turn and thrust at nothing; if he chases too fast, and you turn a fraction slow, you die under his horse," said Hun Shizhi. "In more than twenty years of fighting, I've used it in earnest in battle only a handful of times, every time when I'd met an enemy too strong to beat and too fast to escape, at the very edge of life and death—only then did I gather myself and use it. Each time, afterwards, when I lay down at night, I broke out in a cold sweat. I haven't taught you because I'm afraid that once you've learned it, you'll want to use it."
+
+"Then why did you use it today?"
+
+"Nobody dies on the parade ground. After the first two passes I could see the monk's lance work was ordinary and I had room to spare. Partly to give him a shake; and partly," Hun Shizhi stroked his beard, "in front of Lord Guo and the generals, your pa wanted to show it off a little too."
+
+Hun Jian could not help laughing. "Then from now on—will you teach me or not?"
+
+"I will. From tomorrow, you go to the stables first and work the stirrups for a month, till your legs won't hold you up; then come and find me," said Hun Shizhi. "But you remember this: in battle, when that thrust goes out, either he dies or I do. Every time your pa uses it, it takes a year off his life. Till you're at that point, don't do what your pa did today."
 
 Hun Jian pursed his lips and did not dare talk back again. He asked instead: "The second bout—did you let him in, Pa?"
 
@@ -364,4 +390,4 @@ Hun Shizhi drank again, and did not answer at once. The clouds at the edge of th
 
 ---
 
-**Version** v0.1 (translated from Chinese v0.7)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译样稿
+**Version** v0.2 (translated from Chinese v0.8)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿

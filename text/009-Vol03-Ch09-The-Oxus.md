@@ -150,7 +150,7 @@ The elder thought about it. "That year someone from the Patriarchate came to the
 
 He said he went to the Patriarchate at twenty and studied the scriptures there three years. At twenty-three he went east with a party of men, along this same road, only the other way. They travelled more than a year and reached Chang'an. In those days the one who had charge of the monastery in Chang'an was the Great Virtue Jilie; there were more people in the monastery then than now, and more incense burned.
 
-"In the ninth year of Zhenguan, the Great Virtue Alopen came by this road too," said the elder. "With the scriptures, with the images, all the way to Chang'an. In those days your pa's pa's pa had not been born."
+"In the ninth year of Zhenguan, the Great Virtue Alopen came by this road too," said the elder. "With the scriptures, with the images, all the way to Chang'an. In those days not even your family's great-grandfather had been born."
 
 Jingjing counted on his fingers, could not make it come out, and gave up.
 
