@@ -4,156 +4,122 @@
 >
 > —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
 
-In the third year of Tianqi, in the Great Ming, a family in the western outskirts of Xi'an Prefecture set out to build a house.
+In the spring of the third year of Tianqi, in the Great Ming, a family named Song in the western outskirts of Xi'an Prefecture set out to build a house.
 
-The place was not far from the city wall. You went out through the west gate and walked two or three li to the southwest, and there by the road stood a Buddhist temple, neither large nor small, called Chongren Temple. Around it, in front and behind, lay a few dozen households who grew wheat, grew vegetables, and in the slack season went into the city to sell their strength. The old people thereabouts said that in the Tang dynasty all of this had been inside Chang'an: wards inside the city, streets inside the wards, houses and shrines along the streets. A thousand years had gone by. The city had shrunk back, shrunk into the square, upright Xi'an Prefecture of the present day, and the wards were gone and the streets were gone, and nothing was left but broken brick and shattered tile under the ground. Whenever anyone dug a well or laid a foundation, the first spadeful would as often as not bring up half a grey brick, or a roof-tile end stamped with a pattern, and the children would carry it off to grind against a wall for fun.
+The place was easy to reach: out through the west gate and two or three li to the southwest. By the road there stood a Buddhist temple, neither large nor small, called Chongren Temple, and around it, in front and behind, lay a few dozen households who grew wheat, grew vegetables, and in the slack season went into the city to sell their strength. The old people thereabouts all said that in the Tang dynasty this stretch had been inside Chang'an: wards inside the city, streets inside the wards, houses and shrines along the streets. A thousand years had gone by. The city had shrunk back, shrunk into the square, upright Xi'an Prefecture of the present day; the wards were gone, the streets were gone too, and nothing was left but broken brick and shattered tile under the ground. Whenever anyone dug a well or laid a foundation, the first spadeful would as often as not bring up half a grey brick, or a roof-tile end stamped with a pattern, and the children would carry it off to grind against a wall for fun.
 
-So that spring, when the family's workmen had dug the foundation four feet or so deep and a spade struck something hard with a clang, nobody thought much of it. The master mason swore, said it was another rotten brick from some dynasty or other, took up a mattock instead, and told his apprentice to dig around the side. They dug for a good while. What came up was a straight, level edge of stone that ran off to the east and ran off to the west as well, and when the sun had tilted toward evening they still had not found the end of it.
+So when the workmen the Song family had hired dug the foundation four feet or so deep and a spade struck something hard with a clang, nobody thought much of it. The master mason was surnamed Zhong, fifty-odd, who had spent half his life building houses west of the city; everyone called him Old Zhong. He drove his spade into the earth and swore: "Another rotten brick from some dynasty or other, and it's nicked my spade. Shunzi, take the mattock and dig round the side. Get it out and we'll use it for the pigsty."
 
-Only then did the mason sense that something was wrong, and he sent someone for the master of the house. The master came, squatted at the edge of the pit and looked for a while, then sent someone for the neighbours. The neighbours came and sent someone for the monks at the temple. By nightfall several dozen people were standing round the pit with torches, all talking at once. Some said it was the lid of an ancient tomb, some said it was a stone trough, some said it was a relic of some prince's palace.
+His apprentice Shunzi took the mattock and dug for a while, then straightened his back. "Master, I can't find the edge of this brick. It's a ledge of stone, level, straight, and it goes on east."
+
+"If it goes on east, dig east."
+
+Shunzi dug east, dug ten feet or more without finding the end, turned round and dug west, dug till the sun slanted toward evening, and the west end had no end either. The master of the house squatted at the edge of the pit and watched all afternoon, and the longer he watched the yellower his face grew. "Master Zhong, what is this you've dug up? Am I building my house or not?"
+
+Old Zhong jumped down into the pit and rubbed his palm along the ledge a few times, rubbing clear a patch of bluish-black stone, smooth and cold. As he rubbed, his hand stopped. "Sir, go and call some of your neighbours, and go and ask the monks at the temple too. This isn't something I can take on myself."
+
+By nightfall several dozen people stood round the pit holding torches, all talking at once. Some said it was the lid of an ancient tomb, with gold and silver underneath, likely as not; some said it was a stone trough, the kind great households once watered their horses at; some said it was a relic of some prince's palace, and once dug out it would have to be reported to the authorities, and once reported, he could forget about building his house. When the master of the house heard this last, he sat down on the edge of the pit and said nothing for a long while.
 
 Early the next morning a dozen men set to together and cleared the earth from all around the stone.
 
 It was a stele.
 
-It was very large. It lay flat at the bottom of the pit, face up, longer by a good stretch than a tall man. Its face was coated with something black, thin and brittle, that crumbled to grit at a touch, and in the grit you could still make out fine threads, like cloth rotted through. An old workman pinched up some and held it under his nose and said: this is hemp; it was wrapped. Someone asked him who, with nothing better to do, would wrap a stele in hemp and bury it in the ground. The old workman thought about it, could not say, and so said nothing.
+It was very large. It lay flat at the bottom of the pit, face up, longer by a good stretch than a tall man. Its face was coated with something black, thin and brittle, that crumbled to grit at a touch. Shunzi pinched up some and said it was rotten hempcloth. Old Zhong pinched up some, rubbed it between his fingers, held it under his nose, and shook his head. "Hemp comes in threads. This comes in clumps. It's felt—the felt people spread on a kang. Two layers of it."
 
-They drew a few buckets from the well and washed the mud and rotten cloth off the face of the stele bit by bit. When they had washed as far as the top, a triangular head appeared, and on it nine large characters, three to a column, running downward. Those who could read crowded close and read them out one character at a time:
+"Who'd wrap a stele in kang felt?"
+
+Old Zhong did not answer. He squatted and scraped away some more of the earth at the stele's side; when he scraped to the bottom, the earth changed colour: sand, fine sand, a layer of it, bedded under the stele. He took a handful of the sand, and a handful of the yellow earth from the pit wall, and opened both hands to show the master of the house. "Look. Yellow earth on every side, and sand only under the stele. This ground doesn't give sand. The sand was carried in."
+
+Digging on toward the foot of the stele, they dug out another great stone, square and true, wider than the stele, with a deep groove cut down its middle.
+
+"This is the base," said Old Zhong. "The stele stood in this groove once."
+
+He walked round the base and stopped at its southeast corner, and told Shunzi to bring the torch. In that corner was a stone the size of a fist, the same bluestone as the base, set into a gap, break against break, fitting seamlessly; without looking closely you could not see it was two pieces. With the torch held close, they saw an old white mark along the edge of that break.
+
+"Hammer," said Old Zhong, running his fingernail along the white mark. "Somebody knocked this corner off once, and somebody picked up the piece and set it back."
+
+Shunzi said: "Then somebody smashed it, and somebody looked after it."
+
+"This stele didn't fall over," said Old Zhong, standing up and clapping the sand from his hands. "It was let down into the ground, bit by bit. Sand underneath, felt on top, the base buried with it, and the missing corner put back. Whoever laid it here was afraid it would get knocked."
+
+"Who laid it here? What for?"
+
+Old Zhong thought, could not say, and so said nothing.
+
+They drew a few buckets from the well and washed the mud and rotten felt off the face of the stele bit by bit. When they had washed as far as the top, a triangular head appeared, and on it nine large characters, three to a column, running downward. Those who could read crowded close and read them out one character at a time:
 
 *The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom.*
 
-When they had finished reading, the people standing round looked at one another. Daqin—nobody had heard of it. The Luminous Religion—still less. The old monk from Chongren Temple squeezed to the front, looked for a while, and shook his head: not one of ours, not of the Buddha's gate. Higher still, in the peak of the stele's head, something else was carved. At the bottom was a lotus flower, and standing on the lotus was a cross, and on each of the cross's four ends were three small round beads, like flowers, or like stars.
+When they had finished reading, the people standing round looked at one another. Daqin—nobody had heard of it. The Luminous Religion—still less. The old monk from Chongren Temple squeezed to the front and bent over it a good while: "Not one of ours." Higher still, in the peak of the stele's head, something else was carved: at the bottom a lotus flower, and standing on the lotus a cross, and on each of the cross's four ends three small round beads, like flowers, or like stars, with clouds all round. The old monk looked at the lotus, murmured the Buddha's name once, and said no more.
 
-The old monk looked at the cross for a long time, and shook his head again.
-
----
-
-The news travelled into the city, and into the yamen of Xi'an Prefecture.
-
-The prefect came out of the city in a sedan chair with a few of his subordinates. He was a scholar. At the edge of the pit he stepped down from the chair, had the face of the stele washed cleaner, and walked along it holding up the hem of his robe, reading one column after another. The characters were in regular script, upright and strong, sixty-odd to a column, thirty-odd columns, dense as rain, running from right to left. The calligraphy was good and the prose was good too, parallel and balanced, full of allusion; it was plainly the work of a Tang hand. But of the things the prose told, the prefect had never heard a single one. It said there was one called *Alaha* who had made heaven and earth. It said there was one called *the Luminous Lord Mishihe*, born in Daqin, and that the one who bore him was "a virgin." It said that in the ninth year of Zhenguan a monk of Daqin named Alopen had come to Chang'an, and that the Emperor Taizong had sent his chief minister, Fang Xuanling, with an honour guard to the western outskirts to welcome him.
-
-At the end of the inscription and down both sides was carved another kind of writing. It curled and wound, strung together in chains, like earthworms, or like waterweed. The prefect could not read one letter of it, and though he asked everyone around him, there was not one who could.
-
-He stood at the edge of the pit and thought for a while, then gave his orders. This stele was of great age and must not be carelessly destroyed. It was to be moved into Chongren Temple and set upright, and a pavilion built over it against wind and rain. He also had several rubbings taken and carried back to the yamen.
-
-So the stele was set up again. From the day it had been laid down to the day it stood again, more than seven hundred and seventy years had passed.
+The news travelled into the city; officials of Xi'an Prefecture came out to look, and having looked, said the stele was of great age and must not be carelessly destroyed; they had it moved into Chongren Temple and set upright, a pavilion built over it against wind and rain, and several rubbings taken back to the yamen. So the stele was set up again. From the day it was laid down to the day it stood again, more than seven hundred and seventy years had passed.
 
 ---
 
-For some time after it was set up, not many people paid it any mind.
+In the autumn of the first year of Chongzhen, a man from the Western Ocean came in at the gate of Chongren Temple.
 
-Xi'an was an ancient capital, and there were plenty of stelae in its ground—Han stelae, Tang stelae, Wei stelae. A scholar who wanted to look at one could go into the city and look at the Forest of Stelae; there was no call to trek out of town to a little temple to see a peculiar stone that talked about "Daqin." The monks of Chongren Temple treated it as one of the temple's antiques. When pilgrims came, they would point it out and say it was from the Tang. The pilgrims looked at it, and that was that.
+His Chinese name was Zeng Dezhao. He was Portuguese, a father of the Society of Jesus. This was his second Chinese name. More than ten years earlier, preaching in Nanjing, the name he used had been Xie Wulu. That year a vice-minister of the Nanjing Ministry of Rites had sent up memorial after memorial saying that the Westerners were gathering crowds to preach, privately making calendars and plotting rebellion; the church of the Lord of Heaven in the city was sealed, its people arrested, and two Western fathers were shut in wooden cages, carried all the way from Nanjing to Guangdong, and driven out of the country; he was one of them. He lived some years in Macao, waited till the wind had died down, changed his name, and came back in through Guangdong. Believers who had known him called him Master Xie at first, and then little by little corrected themselves and called him Master Zeng. If anyone asked, he would smile: "The name has changed; the man is the same man."
 
-The ones who truly paid it mind were a few people a thousand li away.
+What the men who denounced them said most, in those days, was: a depraved teaching of barbarians, unknown in antiquity, of no known origin. That was why Li Zhizao was so glad when a rubbing of this stele reached Hangzhou. Li Zhizao had passed the palace examination in the Wanli reign and been baptized by Matteo Ricci; in those years he lived in a hut between the Lingyin and Tianzhu temples at Hangzhou. A scholar of Qiyang, Zhang Gengyu, had taken a rubbing and sent it to him, asking in his letter: "This teaching we have never heard of before—can it be the holy teaching that Master Ricci brought?" Li Zhizao read it through, took up his brush, and wrote an essay, *After Reading the Luminous Stele*, and at its very beginning answered him: "I have read it; it is indeed so." He said that the Luminous Teaching of the stele was the very holy teaching the Western gentlemen brought today; nine hundred and ninety years ago it had come to Chang'an, had received an edict from the Emperor Taizong, and the chief minister Fang Xuanling had gone to the western outskirts with an honour guard to welcome it. Unknown in antiquity? It was already there in Zhenguan. From Hangzhou the rubbing was copied and sent on to Beijing and to Macao, and went to Europe by ship; later a father named Nicolas Trigault put the inscription into Latin.
 
-In Qiyang in Shaanxi there lived a scholar named Zhang Gengyu. He was a Catholic, and in those years he was studying with missionaries who had come from the Western Ocean, and keeping their faith. He heard that a Tang stele had been dug up outside Xi'an with a cross carved on it, and that same night he sent someone to take a rubbing. When the rubbing reached him he unrolled it and read it through once, and his hands began to shake. He could not make out all of its meaning, but a few things he recognised. The cross at the top of the head, he recognised. The first part of the inscription, which spoke of where heaven and earth and the ten thousand things had come from, of how man had fallen into sin, of a holy one who came down from heaven and was born—that sounded familiar to him, familiar as the prayers he said himself every morning and evening.
+The same welcome, a hundred-odd years later, reached France, and Voltaire read it quite otherwise. He said the stele claimed the monk had come riding the blue clouds, watching the winds all the way, and that the Son of Heaven sent a grand secretary out of the city to meet him and promptly built him a church—what foreign monk ever had such a reception? Even the name Alopen, he found, sounded like the name of some old Spaniard. This, he said, was plainly a pious fraud. Li Zhizao never imagined that, and neither did Zeng Dezhao.
 
-He rolled the rubbing up carefully, wrapped it in oilpaper, and sent it to Hangzhou, to a certain man.
+But of all the fathers in China, not one had yet seen the stele with his own eyes. Zeng Dezhao set out from the south, travelled several months, reached Xi'an, and early the next morning went out through the west gate.
 
-That man was Li Zhizao.
+A monk of the temple led him to the rear courtyard. The stele stood beneath a newly built little pavilion, tall and broad, its bluish-black face glowing darkly in the pavilion's shade. Zeng Dezhao stopped before the stele and looked first at the lotus cross in the peak of its head. In Europe he had seen a great many crosses—on church roofs, on altars, hanging on friars' breasts—and not one sitting on a lotus.
 
-Li Zhizao had passed the palace examination in the Wanli reign. He had served as vice-director in the Nanjing Ministry of Works and as junior minister of the Court of the Imperial Stud; he had studied astronomy, mathematics and geography with Matteo Ricci; he was one of the first scholar-officials of the Great Ming to be baptised into the faith, and his name was spoken in the same breath as Xu Guangqi's. In those years he had been dismissed from office and was living quietly at home in Hangzhou, where several Western missionaries lodged with him, and every day he translated books with them.
+Then he read the inscription. His Chinese he had learned in Nanjing and Hangzhou; the classics and histories were still hard going for him, and parallel prose like this was harder still; each sentence he had to read two or three times. When he read *the true Lord without beginning, Aluohe*, his lips began to move, following the characters on the stele, murmuring in Latin; when he read *the Triune Wonder*, his voice sank; when he read *a virgin bore the Holy One in Daqin*, he raised his hand and made the sign of the cross on his breast.
 
-The rubbing arrived in the spring of the fifth year of Tianqi.
+The monk who had led him there watched him a good while beside him, and asked: "What scripture is the gentleman reciting?"
 
-Li Zhizao hung the rubbing on the wall and read it from beginning to end, and it took him a whole day. When he had finished, he asked the Western fathers living in his house to come and look at it with him. The fathers spoke Mandarin and could read characters, and they stood under the rubbing making it out one character at a time. When they had made out the four characters *san yi miao shen*, the Triune Wonder, one of the fathers gave a low cry and made the sign of the cross on his breast. When they had made out *a virgin bore the Holy One in Daqin*, several people in the room went down on their knees.
+"Only the characters on this stele."
 
-Li Zhizao did not kneel. He sat beneath the rubbing, looking and writing as he looked, and he wrote an essay. He called it *After Reading the Luminous Stele*.
+"The characters on this stele—the gentleman understands them?"
 
-In the essay he said that the "Luminous Religion" of the stele was none other than the Lord of Heaven's teaching that the Western gentlemen were now bringing; that the stele's *Alaha* was the Lord of Heaven; that the stele's *Mishihe* was Jesus, the Lord of Heaven born as a man; that the great virtues and Luminous scholars of the stele were priests of a thousand years ago. He said that as early as the Zhenguan reign of the Tang, the Lord of Heaven's teaching had already come to China; it had received an edict from the Emperor Taizong, had built a monastery in Chang'an, had ordained monks; "the Law flowed through the ten circuits, the monasteries filled a hundred cities." Then somehow it had broken off, broken off for nearly a thousand years, and only now, with the Western scholars coming east, had it been joined again.
+Zeng Dezhao thought. "Half I understand and half I don't. The half I understand is what I've recited since I was a child. The half I don't—I don't know who it was that recited it."
 
-When he had written that far he put down his brush, and sat under the lamp for a long time.
+The monk did not follow, put his palms together, and went away.
 
-He had his own worries.
-
-Nine years earlier a vice-minister in the Nanjing Ministry of Rites had sent up three memorials in a row, saying that the Westerners in Nanjing were gathering crowds to preach, privately making calendars, stirring up the people and plotting rebellion. The court approved. In Nanjing the church of the Lord of Heaven was sealed and its people arrested, and two Western fathers were shut in wooden cages, carried all the way from Nanjing to Guangdong, and driven out of the country. The fathers in Beijing and elsewhere had no choice but to hide in Hangzhou, in the houses of men like Li Zhizao and Yang Tingyun. That time, the thing their attackers said most often was this: it is a depraved teaching of barbarians, unknown in antiquity, of no known origin.
-
-And now this stele was standing outside Xi'an. It said in plain words that the Emperor Taizong had called this teaching one that "benefits creatures and profits men, and ought to be practised throughout the world." Unknown in antiquity? It was here in Zhenguan. Of no known origin? Fang Xuanling had gone to the western outskirts in person to welcome it in.
-
-Li Zhizao finished the essay, looked over the rubbing once more, and only then blew out the lamp and went to bed.
+He stayed before the stele the whole day and copied the inscription from beginning to end. When he had copied it, he went round to the stele's sides and foot to look at those curling foreign letters. They ran together in chains, like earthworms, or like waterweed, dozens of lines, each line headed by a name, and under the name another chain of letters. He could not tell what script it was. It was not Hebrew, nor Greek; he had seen both in the schools of Europe. He guessed that these letters probably wrote out again the names of the people on the stele, so that strangers who could not read Chinese, coming here, could still make out a few names. He traced them on paper stroke by stroke as they were. He traced till dark, folded up the tracings, and the next day had them sent to Beijing, to a German father, Johann Schreck—Terrentius. Terrentius had read many old books of the East in Europe; perhaps he would know them.
 
 ---
 
-The rubbing went the rounds of the church in Hangzhou. The fathers copied it again and again and sent the copies to Beijing, to Macao, to Goa, to Rome. A Flemish father named Nicolas Trigault put the Chinese of the stele into Latin and sent it back to Europe.
+Terrentius's reply came at the opening of spring the next year.
 
-Yet of all the fathers in China, not one had seen the stele with his own eyes.
+Zeng Dezhao opened the letter in his lodging and read it by the lamp. The letter was not long. Terrentius said that the letters on the sides and foot of the stele were Syriac, the script the churches of the East used for their scriptures. He had read them: they were a string of names, with titles hung before them—bishop, chorepiscopus, elder, priest, deacon—some seventy in all; the foot of the stele also gave the year it was raised, the year one thousand and ninety-two of the Greeks, and named the patriarch of the Church of the East who held the see that year, Hnanisho. Then the letter went on with one sentence:
 
-Around the first year of Chongzhen, a Portuguese father, Álvaro Semedo, set out from the south, travelled for several months, and came to Xi'an.
+"This patriarch is not in Rome."
 
-His Chinese name was Zeng Dezhao.
+When Zeng Dezhao had read that far he put the letter down, and sat a good while before he took it up again and read on.
 
-That was his second Chinese name. Some ten years earlier, when he was preaching in Nanjing, the name he used had been Xie Wulu. In the year of the Nanjing persecution, of the two Western fathers who were shut in wooden cages, carried all the way to Guangdong and driven out of the country, he was one. He lived some years in Macao, waited until the wind had died down, changed his name, and came back in through Guangdong. Chinese believers who had known him before called him Master Xie at first, and then little by little corrected themselves and called him Master Zeng. He did not much talk about it himself. If someone asked, he would smile and say: the name has changed; the man is the same man.
+Terrentius said there was one passage at the foot of the stele, longer than anywhere else, which he had translated from the original and copied out at the end: "In the year one thousand and ninety-two of the Greeks, Yazdbozid, priest and chorepiscopus of Kumdan the royal city, son of the late priest Milis, of the city of Balkh in Tokharistan, set up this stone."
 
-When he reached Xi'an he did not linger in the city. Early the next morning he went out through the west gate to Chongren Temple.
+That night Zeng Dezhao did not sleep well. Before light the next day he went out through the west gate again and into Chongren Temple; the monks were not yet up, and it was the old gatekeeper who let him in.
 
-A monk of the temple led him to the back courtyard. The stele stood under a small, newly built pavilion, with a stone tortoise beneath it, the body of the stele riding on the tortoise's back, tall and broad, its blue-black face giving off a dark gleam in the pavilion's shade.
+He stood before the stele and searched from the end of the inscription backward. He remembered a long string of official titles there; copying them had tired his hand: Grand Master of Splendid Happiness with Gold and Purple, Vice-Commissioner of the Shuofang Circuit, acting Director of the Palace Administration, granted the purple kasaya. He found them; under the titles was the name of a monk, only two characters: Yisi.
 
-Zeng Dezhao stopped in front of the stele.
+He put out his hand and pressed it on those two characters.
 
-First he looked at the cross at the top. A lotus held up the cross; each of its four ends bore three beads; cloud patterns were carved around it. In Europe he had seen a great many crosses, on church roofs, on altars, hanging on the breasts of friars, and not one of them had sat upon a lotus. He looked at it for a long time, until his eyes ached, and only then did he lower his gaze.
+Then he went round to the foot of the stele and matched, line by line, the few letters copied in Terrentius's letter; at the third line they matched. He put out his hand again and pressed it on that chain of curling Syriac letters.
 
-He read the inscription. His Chinese had been learned in Nanjing and Hangzhou; reading the classics and histories was still hard for him, and reading parallel prose like this was harder still, so that every sentence took him two or three readings. When he came to the opening lines—of the eternal true stillness, first of firsts and without beginning; of the making of the ten thousand things; of the Triune Wonder, the beginningless true Lord Alaha—his lips began to move, following the characters on the stone, murmuring in Latin. At *He set out the cross to fix the four quarters* he stopped for a moment. At *a virgin bore the Holy One in Daqin; a luminous star announced the blessing* he stopped again. At *at high noon He ascended to the Truth* he lifted his hand and made the sign of the cross on his breast.
+One name was on the face of the stele, in the characters of the Tang; one name was at the foot of the stele, in the letters of Balkh. With his two hands, one on each, he pressed them, pressed them till the sun shone into the pavilion. He thought of the wooden cage in Nanjing, of Macao, of the believers who had known him calling him Master Xie at first and later Master Zeng.
 
-The monk stood beside him watching, with no idea what this Westerner was doing.
-
-That day, standing before the stele, he felt like a man who has wandered for many years in strange lands and suddenly, by the roadside, recognises the grave of his own ancestors. When he had finished reading the inscription, there was only one thought in his heart: so before us, brothers of ours had already come here; so we were not the first to come.
-
-He stayed in front of the stele the whole day. He copied out the inscription from beginning to end, and when he had finished he went round to the sides of the stele to look at the curling foreign letters. He recognised them as a Syriac script, the one the Church of the East used. He could not read it himself; he only traced it stroke by stroke, meaning to take it back and ask someone who knew that writing to look at it.
-
-It was dark when he left. Before he went out through the temple gate he looked back once more. In the dusk there was only a tall black shape under the pavilion, and the characters could no longer be seen.
+The old gatekeeper stood outside the pavilion watching this man from the Western Ocean stretch out his two arms, one hand pressing the face of the stele and one hand pressing its foot, as if he meant to take the whole great stone into his arms.
 
 ---
 
-What Zeng Dezhao did not see was written on the stele all the same.
+Notes:
 
-He saw the cross, he saw the Trinity, he saw the virgin who bore a son, he saw that these people believed in the same Lord as he did. What he did not see was where these people had come from.
+1. Two years are given for the unearthing of the Luminous stele, the third (1623) and fifth (1625) of Tianqi, and two places, west of Xi'an and Zhouzhi (modern Zhouzhi); William Hung wrote *A Refutation of the View That the Luminous Stele Was Unearthed at Zhouzhi* (1932). Chapters 39 and 71 of this book have believers at Zhouzhi; the book follows the view that the stele was unearthed west of Xi'an, without discarding the Zhouzhi view. The names of those who unearthed it are not recorded; the Song family, the mason Old Zhong and Shunzi are invented; the details of the stele's head, base, felt and sand follow the night of the burial in Chapter 75. The stele now stands on a tortoise base, whether original or not is unknown.
 
-The stele said "Daqin." Zeng Dezhao took Daqin to be Rome, to be Judaea, to be the West where the Pope sat. The stele said the Syriac letters were carved by the church of the East. He took the church of the East to be the Roman church too, a branch sent out by the Pope. He did not know—or rather, at that time he did not yet wish to think—that the people on the stele and the Roman church over his head had parted ways twelve hundred years before.
+2. Zhang Gengyu sent a rubbing from Qiyang to Li Zhizao, who in the fifth year of Tianqi wrote *After Reading the Luminous Stele*; the original and a translation are in Appendix 11, *Li Zhizao's "After Reading the Luminous Stele": Translation and Related Studies*. Xu Guangqi also wrote a *Record of the Stele of the Luminous Church*. Nicolas Trigault (a Fleming) translated the inscription into Latin.
 
-That was in the year 431. At Ephesus, on the shore of the Mediterranean, an ecumenical council was held, and at that council a bishop of Constantinople was declared a heretic. That bishop's name was Nestorius. His disciples and followers could no longer keep their footing in the church of the Roman Empire, and they went east, one band after another, across the Euphrates and into Persia. In the Persian lands there had long been a church of the East, which set up its own patriarch, ordained its own bishops, and read the scriptures in its own Syriac. This church took them in, and took in their theology as well, and from then on, in the mouths of Westerners, it became the Nestorians. Later the people of this church went on east from Persia, across the deserts, across the Pamirs, all the way to Chang'an.
+3. Álvaro Semedo (Zeng Dezhao, 1585–1658), Portuguese Jesuit, at first named Xie Wulu, was escorted out of the country together with Alfonso Vagnone (Wang Fengsu, later Gao Yizhi) in the Nanjing persecution of the forty-fourth year of Wanli (1616), and later re-entered China under a new name. The year he saw the stele himself is variously given as the fifth of Tianqi or the first of Chongzhen; this chapter takes the first of Chongzhen. Semedo wrote that before the stele he could not read the foreign letters on its sides, thinking them neither Hebrew nor Greek, perhaps a second record of the names on the stele so that strangers who could not read Chinese might recognize them; later, passing through Cochin in India on the way to Cranganore, he asked his confrère Antonio Fernandes, who knew the literature of the St Thomas Christians, and learned that they were Syriac.
 
-What the stele recorded were these people, the ones who had been driven out.
+4. Johann Schreck (called Terrentius, 1576–1630), German Jesuit, worked on the calendar in Beijing in the second year of Chongzhen and died there the following year. Terrentius's reading of the Syriac on the stele, his letter to Semedo, and Semedo's return to the stele to match the letters are all the novel's arrangement. The Syriac colophon at the stele's foot runs roughly: "In the year one thousand and ninety-two of the Greeks, Yazdbozid, priest and chorepiscopus of Kumdan the royal city, son of the late priest Milis of the city of Balkh in Tokharistan, set up this stone." That Yazdbozid and the Chinese "monk Yisi" are one man is the finding of later scholars; Terrentius need not have made that judgement at the time, and this chapter has Semedo go and match them himself. Hnanisho is the book's "Ningshu."
 
-In the eyes of Zeng Dezhao's church, they were heretics.
-
-The fathers who came later worked that out, little by little. In the second year of Chongzhen there was a German father in Beijing who knew Syriac, Johann Schreck, and he read the curling letters aloud. What he read out was a string of Syrian names, with the titles of bishop, elder and priest hung before them, and at the foot of the stele it was written plainly which patriarch had held the see in the year it was raised. When the fathers had read that far, they knew where they stood.
-
-Knowing, they did not much say so. Some said that was a matter of the Tang, when the church of the East had not yet fallen into heresy. Some said the stele's teaching was on the whole correct, and not one heretical word had been carved on it. Some simply did not mention it. In Hangzhou a Portuguese father named Manuel Dias spent years annotating the inscription line by line, and made a book of it, *A True Explanation of the Hymn on the Tang Luminous Stele*. In that book he explained every line of the inscription as Catholic doctrine, and explained it seamlessly, without a single heretical word.
-
-As for why these people called themselves "the Luminous Teaching," why they called the Lord of Heaven by a name as strange as *Alaha*, why a thousand years later there was not one of their monasteries left in Chang'an, not one of their descendants to be found—the fathers each had their own account, and talk as they might, none of them could make it clear.
+5. The Church of the East on the stele was the branch regarded by the Western church, after the Council of Ephesus in 431, as "Nestorian"; the Jesuits were at first mostly unwilling to admit this, and Manuel Dias's *A True Explanation of the Hymn on the Tang Luminous Stele* (1644) interpreted the inscription line by line according to Catholic doctrine. See Appendix 6, *The Name of Heresy*. Athanasius Kircher's *China Illustrata* (1667) printed copperplates of the inscription's Chinese and Syriac with a Latin translation. In the second chapter of his *Essai sur les mœurs* Voltaire held incredible the stele's account of Alopen arriving on the blue clouds, the Son of Heaven sending a grand secretary out to meet him and building him a church, found the name "Alopen" like an old Spanish name, and called the whole a "pious fraud" (*fraudes pieuses*).
 
 ---
 
-When word of the stele reached Europe, it was another scene altogether.
-
-Some were wild with joy and called it iron proof that the Lord of Heaven's teaching had spread through the East. In Rome there was a Jesuit father of enormous learning named Athanasius Kircher, who had the Chinese characters and the Syriac letters of the stele engraved on copper plates one by one and printed them, together with a Latin translation, in a great book about China, and so the readers of Europe saw for the first time what a whole page of Chinese characters looked like.
-
-Some sneered.
-
-In the eighteenth century there was a French man of letters famous for his sharp tongue, called Voltaire. He heard of this stele, and what he said, more or less, was that the Jesuit fathers, wanting to get a footing in China, had carved a stele themselves, buried it in the ground, and then pretended to dig it up, so that the Chinese would believe their religion had been there since ancient times. A trick like that might fool the Chinese; it would not fool the Europeans.
-
-Once he said it, a great many people believed it. From then on the stele was, in Europe, a holy relic one moment and a fraud the next, and the quarrel went on for more than a hundred years.
-
----
-
-Of all this, the stele in Chongren Temple knew nothing.
-
-It stood under its little pavilion. In spring the blossoms fell on it, in summer the rain, in autumn the leaves, in winter the snow. The pavilion fell down and was mended, was mended and fell down again. Those who came to see it were Western fathers, Chinese believers, craftsmen who took rubbings to sell, and idlers passing by who gave it a glance. Some made the sign of the cross before it, some put their palms together before it, some reached up to touch the lotus cross on its head, and touched it so often that that patch of stone shone brighter than the rest.
-
-Some said it was Catholic, some said it was heretic, some said it was a fake.
-
-It said nothing.
-
-On its body were carved more than seventeen hundred Chinese characters and several dozen Syrian names. Beneath those names there had once been living people, each and every one. Someone had ridden a camel from the land of the two rivers to Chang'an; someone had fought beside the Yellow River in Guo Ziyi's army; someone had lit a lamp at the gate of the monastery in the Yining Ward for a whole lifetime; someone had taken up a brush and written out this inscription character by character on a sheet of rough paper; and someone else, sixty-odd years later, had watched it wrapped in three layers of hemp and laid down in a pit deeper than a man is tall.
-
-The words on the stele—Zeng Dezhao read them, Li Zhizao read them, Manuel Dias read them; Voltaire did not read them, and spoke anyway. But the people behind the words—how they came, how they lived, how they quarrelled, how they made it up, how they knelt down, how they stood up again, how they packed their bundles under an imperial edict, how they were driven out through the city gate—of these things the stele does not say a word.
-
-There was no room for them on the stele.
-
-So let me tell them.
-
-Our story begins twenty-six years before this stele was raised. That year was the fourteenth year of Tianbao in the Great Tang. That winter, the war drums of Fanyang began to sound.
-
----
-
-**Version** v0.1 (translated from Chinese v0.2)　**Last modified** 2026-11-19（美国中部时间）　**Status** 英译初稿
+**Version** v0.4 (translated from Chinese v0.4)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿
