@@ -6,68 +6,238 @@
 >
 > —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
 
-Rijin lived twenty years in that hermitage south of the city. The hermitage was torn down in the autumn of the fourth year of Huichang; the inspectorate's men came, took one look, said: no name-board, fewer than two hundred bays, tear it down; on the day it was torn down, the old monk of the hermitage sat on the threshold and would not get up; he was past eighty and long since deaf; the inspectorate's men spoke to him and he could not hear, only shook his head; at last two clerks hoisted him up, carried him out of the gate and set him on a stone by the road; he sat on the stone and watched those few mud rooms pushed down, the Buddha images carried out and smashed, the clay figures in pieces all over the ground. Rijin stood beside him holding him up; that night he carried the old monk on his back to a village south of the city in Wannian county, where the old monk had a grandnephew farming; the grandnephew was not very willing, but for the sake of the string of cash Rijin pressed on him, took him in; the old monk lived a winter in the grandnephew's cowshed and died at the opening of spring; when he was dying, Rijin went to see him once; he no longer knew anyone; his mouth was chanting scripture; what it was, Rijin never did understand.
+Rijin lived twenty years in that hermitage in the south of the city.
 
-Rijin himself, with that certificate from Sizhou, entered a small monastery south of the city that had a name-board. That certificate had been given on the platform at Sizhou in the fourth year of Changqing; it said *such-and-such monastery of Sizhou*; at the purge of the ninth year of Dahe the judge of Wannian county called it spurious and drew a cross; afterwards the dispatch never came, and the cross just hung there, and nobody bothered with it. In the fourth year of Huichang, when the hermitages were torn down, the monasteries of the city with name-boards took in some of the monks turned out; the Three Officers of that small monastery looked at Rijin's certificate and said: a Sizhou certificate—Chang'an's monasteries shouldn't take it, by rights; but the certificate is genuine, and the platform was once allowed by the Son of Heaven; take it, and it's just one name. So he lived in that small monastery, drawing water, splitting firewood, sweeping the courtyard, the same as in the hermitage; in the morning he went to the hall and moved his mouth along with the others, and said his own prayers in his heart.
+The hermitage was torn down in the autumn of the fourth year of Huichang. The inspectorate's men came into the yard, went round once, and asked the clerk, "Does it have a name-board?"
 
----
+"No."
 
-On the first of the fourth month of the fifth year of Huichang, the edict came down. All monks and nuns of the empire under forty were to be returned to lay life, each to go back to his native place and be entered on the household registers. People in the city said this edict was forced on the Son of Heaven by the palace Daoists; they said the Son of Heaven wanted to build a Terrace for Awaiting the Immortals and refine the elixir of long life, and Zhao Guizhen said that so long as the monks in the Buddhist monasteries were not removed, the immortals would not come. They said too the Son of Heaven had long wanted to do it; last year's tearing down of hermitages was a first trial; this year it was in earnest. In the days after the edict came down, inspectorate men stood at the gates of every monastery in the city with registers, calling them one by one; whoever was called and found under forty was made to take off his *kasaya* on the spot, put on lay clothes, and make his mark on the register; and once he had made his mark, he was no longer a monk. In those days the shops in the West Market selling *futou* caps did a roaring trade; monks returned to lay life came out of the monastery gates with bare heads and went first to the West Market to buy a *futou* and put it on; but even with it on, it could not hide them; the ring of blue scalp at the back of the head showed, and the people of the wards could tell at a glance and said: that one's just come back to lay life. Rijin was thirty-nine that year.
+"How many bays?"
 
----
+"Five."
 
-The monastery's people heard the news first from the inspectorate. The inspectorate's men came to the Daqin Monastery on the third of the fourth month. It was a judge who came, young, a little past thirty, his face showing little; he brought scribes and a register; Jingfu met them at the gate; the judge said that by edict he was to check the ages of monks and nuns, and those under forty were to return to lay life. He had the scribe read from the register; for each name read, one stepped out and gave his age; two old brothers on the register were ill in bed, and a scribe went in to see them, came out, and ticked the register. When they had finished, the youngest on the register was the Shi Second, forty-one; Salang, Rijin and such were not on the register; Joseph and Elijah were both past fifty. The judge closed the register and said: none under forty—this monastery's clean enough. He said further: Leader, this edict is the first; it's said in the city that in half a month there'll be another, for under fifty; he asked Jingfu how old he was; Jingfu said fifty. The judge said: fifty—then it depends whether the edict's *under fifty* counts fifty in or not; he said he didn't know either; they'd see then what the commissioners' office said.
+"Tear it down."
 
-He said further: your monastery isn't wholly like the Buddhist monasteries either; Daqin, the Magi, the Zoroastrian shrines—foreign teachings; the edict speaks of monks and nuns; whether your monks count as these monks the commissioners' office isn't sure either; they told him to come and count first. When he had said it he left with his scribes. Jingfu stood at the gate; Salang asked him what the judge had said; Jingfu said: this time, nothing; Salang said: and in half a month? Jingfu said: in half a month it's fifty.
+On the day it was torn down, the old monk of the hermitage sat on the threshold and would not get up. He was past eighty and had long been deaf; the inspectorate's men spoke to him and he couldn't hear, only shook his head. In the end two clerks lifted him under the arms, carried him outside the gate, and set him on a stone by the road. He sat on the stone and watched those few mud rooms pushed over, and the Buddha image carried out and smashed, its clay body broken all over the ground.
 
----
+Rijin stood beside him, holding him up.
 
-Rijin returned to lay life on the fifth of the fourth month. In that small monastery there were nine under forty; the inspectorate's men set a table in the middle of the monastery's courtyard and called them one by one; the nine stood in a row under the colonnade, some weeping, some not; one, a little novice of only nineteen, who had come in last year with his master after the hermitage was torn down—his master, past sixty, stood behind a pillar of the colonnade clutching his hand and would not let go. When Rijin was called, the judge picked up his Sizhou certificate—the paper gone yellow, its edges worn furry—looked at it, then turned up the old register of the ninth year of Dahe and saw the cross under his name, and said: this certificate should have been taken back in the ninth year of Dahe, and you've hung on in Chang'an another ten years; Rijin said yes. The judge told him to take off his *kasaya*; he took it off, folded it, laid it on the table; underneath he wore an old short coat of coarse cloth, brought from home, worn twenty years, patched who knew how many times. The judge had him make his mark, and he made it; the judge asked the usual things one by one, and he answered one by one: native place, Yining Ward, Chang'an county; at home only a mother left, eighty-one. The judge looked up at him once and wrote in the register: *Kang Rijin, of Yining Ward, Chang'an county, aged thirty-nine, returned to lay life, sent back to native place, mother living.* That Sizhou certificate the judge took then and there and tossed into a bamboo basket; there were already several dozen in the basket, collected from the monasteries these few days, one on top of another—some from the Bureau of Sacrifices, some from various prefectures; Rijin's landed on top, face up, the two characters *Sizhou* showing, while a scribe beside it stood holding a fire-striker, waiting to light it.
+That night Rijin carried the old monk on his back to a village south of Wannian County. The old monk had a grand-nephew farming there, not very willing; Rijin pressed a string of cash on him, and only then did he take him in. The old monk lived a winter in the grand-nephew's cattle shed, and died when spring came. Before he died Rijin went to see him once. He no longer knew anyone, and was reciting scripture under his breath; what it was, Rijin never did understand.
 
-After returning to lay life, the papers for his household registration had to be moved from Wannian county to Chang'an county, and the county said it would take ten-odd days. Rijin did not go back to Yining Ward; he lived ten-odd more days under the colonnade of that small monastery, by day drawing water for the old monks of the monastery who had not been returned to lay life, by night sleeping under the colonnade; he said he should have returned to lay life twenty years ago; ten days more or less made no difference.
+Rijin himself, holding that Sizhou certificate, went into a small monastery in the south of the city that had a name-board.
 
----
+That certificate had been given on the platform at Sizhou in the fourth year of Changqing. At the purge of the ninth year of Dahe the assistant of Wannian County had called it false and improper and drawn a cross in the register; later no one ever came to collect it, and the cross just hung there. In the fourth year of Huichang, when the hermitages were torn down, the monasteries in the city with name-boards took in some of the monks turned out of them. The Three Officers of that small monastery held Rijin's certificate and turned it over and over.
 
-On the sixteenth of the fourth month the second edict came down: all under fifty to return to lay life. That day the inspectorate's men came to Yining Ward again. It was the same young judge; he went first to another small Buddhist monastery in the ward, and when he had finished counting came to the Daqin Monastery; it was already past noon. Jingfu met him at the gate; the judge came in, did not have the scribe read the register, but asked Jingfu first: Leader, you're fifty. Jingfu said: fifty. The judge said the edict said under fifty; he'd asked the inspectorate's people, and the inspectorate's people said it counted fifty in; under fifty includes fifty.
+"A Sizhou certificate—Chang'an monasteries really oughtn't to take it," said the officer. "But the certificate is genuine, and the platform was one the Son of Heaven allowed. Take him; it's only a name."
 
-Jingfu said he understood. He said he had thought it over last night; if fifty was counted in, he'd take off his robe today. He turned and went into the hall; the glass bowl stood on the table in the hall; he did not touch it; he went to the little room behind the hall, took off the black robe he wore, folded it, laid it on the bed, and put on an old short coat he had worn some years back picking over rice in the West Market, with a torn cuff. When he had changed, he came out and stood before the judge and said he had changed; he was no longer a monk on the register; the leader's charge—whom he'd hand it to, the monastery would discuss and report. He said he had only one thing to ask of the judge: the monastery's lamp he would still light; morning devotion he would still stand; with his robe off he was a registered householder of the ward; a householder coming to the monastery to stand—the edict didn't say it wasn't allowed.
-
-The judge stood there, looked at the short coat he wore, looked at the few old brothers standing under the colonnade—Joseph, Elijah, and the Shi brothers—looked at the blind old man under the jujube tree; Lingbao was there that day too, He Siniang holding him up; he could not see, and leaned his head forward, listening. The judge said: Leader, don't be in such a hurry. He said: he asked the inspectorate's people, and the inspectorate's people said under fifty counts fifty in—that's for the Buddhist monasteries; your Daqin Monastery—he said it last time—the commissioners' office isn't sure about; whether a foreign teaching counts as the monks and nuns of the edict; before coming today he asked again, and the commissioners' office still says the same: await a separate edict for disposal. He said: you took off that robe too early.
-
-Jingfu stood there in that short coat with the torn cuff. The judge said: put it back on; he came today to count, not to make you take it off; he said: in all these days of counting, several hundred monasteries in the city, several thousand people, what he'd seen was all people who wouldn't take it off—clutching their robes and weeping, kneeling and begging; this was the first time he'd seen one take it off himself before being told. He said: Leader, he'd heard of the people of your monastery—that you don't lie; today he believes it; but that robe of yours—wait for that edict to come down before you take it off; when that time comes, he doesn't know who'll come to count, and whoever comes may not tell you to put it back on.
-
-He left. Jingfu went back to the little room behind the hall, picked up the black robe, shook it out, and put it on. Joseph, watching him from the doorway, said: Leader, you thought it over last night—why didn't you tell us? Jingfu said: if he'd told you, you'd have argued; argued, he wouldn't have been able to take it off. Lingbao, under the colonnade, had He Siniang help him over, reached out and felt Jingfu's sleeve, felt that it was the black robe, and said: put back on. Jingfu said: put back on. Lingbao said: wear it, then; wear it till whatever day.
+So he settled in that small monastery, carrying water, splitting wood, sweeping the yard, just as in the hermitage. In the mornings he went up to the hall and moved his mouth along with the others, and in his heart recited his own.
 
 ---
 
-Rijin came back to Yining Ward on the seventeenth of the fourth month. His registration papers had been moved; a county clerk gave him a sheet of paper and told him to take it back to his own ward and find the ward headman. He came out of that small monastery at dusk, bareheaded; he did not go to the West Market to buy a *futou*; he walked north from the south of the city, past the Qujiang Pool, past that waste garden where Baaluo and the others had lived long ago—the waste garden was long gone, built over with people's houses; he walked past without stopping, went northwest ward by ward, through one ward street after another, and reached Yining Ward as its gate was about to close, the drum at its last few rounds; the ward watchman knew him, hadn't seen him in twenty years and still knew him, and said: Rijin of the Kangs—that head of yours—and did not finish, and let him in at the gate.
+On the first of the fourth month of the fifth year of Huichang the decree came down: all monks and nuns of the realm under forty were without exception to return to lay life, each to his native place, and be entered on the registers as households.
 
-He did not go to the monastery. He went to the south end of the ward, to the stretch by the ward wall, to the three low rooms of the Kangs; the jujube tree in the yard was still there, taller than when he left, its branches over the yard wall and reaching into the ward street. The yard gate was shut; through its crack came a little light—the fire in the stove; his mother was not yet asleep. He stood outside the yard gate and raised his hand to knock; he raised it up to the gate board, stopped, and did not knock.
+People in the city said this decree had been forced on the Son of Heaven by the Daoists in the palace. The Son of Heaven wanted to build a Terrace for Gazing on the Immortals, wanted to compound the elixir of long life, and Zhao Guizhen said that so long as the monks of the Buddhist monasteries were not got rid of, the immortals would not come. Others said the Son of Heaven had long wanted to do it; tearing down the hermitages last year had been a first trial, and this year it was in earnest.
 
----
+Those days, at the gate of every monastery in the city stood the inspectorate's men with registers, counting one by one. Those found to be under forty were made to take off their *kasaya* on the spot, change into lay clothes, and put their mark in the register. Once they had made their mark, they were no longer monks.
 
-That night Old Mother Kang did not sleep. She was eighty-one; her ears were still good, her eyes dim; but whatever stirred in the ward, she could hear it sitting at the stove's mouth. She heard the drum stop over by the ward gate, heard the watchman say something, heard a man's footsteps along the ward street, coming from the north, walking slowly, walking up to her gate, stopping. She sat at the stove's mouth with the tongs gripped in her hand. She knew who it was; she had listened to his footsteps eighteen years, from when he learned to walk till the twenty-third of the twelfth month of his eighteenth year when he went to Sizhou on the empty grain barge—eighteen years; she knew those footsteps.
+The shops in the West Market selling turban caps did a roaring trade those days. Monks returned to lay life came out of the monastery gate bare-headed and went first to the West Market to buy a cap to put on. Even with it on it hid nothing; the ring of blue scalp at the back of the head showed, and people of the ward knew at a glance that here was one just returned to lay life.
 
-She did not go to open the gate. She sat at the stove's mouth and put a handful of wood on the fire; the fire rose high; the water in the pot boiled; she ladled out a bowl and set it on the stove top to cool, and put on another handful of wood. She heard that the man outside did not leave but stood, stood till the second watch, shifted his feet once, stood till the third watch, sat down leaning against the gate board, and the gate board creaked. She heard him cough once outside the gate, cough very lightly, as if afraid of disturbing someone. She picked up that bowl of water, cooled now, and set it at the end of the stove top nearest the gate, a little closer to the gate.
-
-She told Lingbao later that that night she wanted to open the gate, but she had to wait for him to knock himself. She said: back then when he left, it was he who wanted to go; she pawned the silver hairpin for him, she saw him to the West Market, watched him board the boat; that was what she agreed to; now that he's come back, she couldn't open the gate for him; he shut the gate himself, and he must knock it open himself. She said she sat listening to him cough outside the gate, and counted over and over in her heart how many times he coughed, how many times he shifted his feet; she thought, if he knocks, she'll open; if he doesn't knock, but sits till light and leaves, she won't blame him either.
-
-Rijin did not knock. He sat all night leaning against the gate board. When the sky was nearly light, there were sounds in the ward street; the people of the few believer households at the south end of the ward had risen and were going to the monastery; their footsteps passed the gate, one, and another. Old Mother Kang heard the man outside stand up; stand up, and not leave, and stand there again. She stood up, went to the yard gate, and drew the bar.
-
-The gate opened. Rijin stood outside, bareheaded, in that short coat patched who knew how many times, his face grey, his eyes red; seeing his mother, he opened his mouth and said: Ma. Old Mother Kang looked at him, at his head, at his face, at the short coat on him; she reached out and felt his head; on it was a layer of stubble grown since it was last shaved, prickly to the touch. She said: come in; there's a bowl of water on the stove; it's cold; drink it. Rijin came in, picked up that bowl of water, and drank it.
-
-Old Mother Kang said: when you've drunk it, go to the monastery. She said: your Pa's been dead ten years; in his last years he stood every morning in the last row, by the gate; when he died, she went to stand in his place; she's eighty-one; she can't stand many more years; you go; you go and stand.
+Rijin was thirty-nine that year.
 
 ---
 
-That morning those at morning devotion came one after another. Jingfu stood in the middle of the courtyard; it was still dark; he heard those behind him come in at the gate one by one, stamp their feet, rub their hands, go to stand in their places. Salang, inside the gate, moved the low stool aside, stood up, and went to stand under the colonnade.
+The inspectorate's men came to the Daqin Monastery on the third of the fourth month.
 
-When the sky greyed, Jingfu looked back and counted. He began under the jujube tree: under the jujube tree, Lingbao; beside Lingbao, He Siniang; by the well curb, the Shi Second; at the hall door, Joseph and Elijah; under the colonnade, Salang and the Shi eldest; on the women's side, Old Mother Kang, Xiaoman, Ayi, and the few old women of the ward. He counted to the last row; in the last row, in the place by the gate, stood a man, bareheaded, in a short coat, both hands folded in his sleeves, his head bowed. The lamp at the gate was still burning, its flame shrunk to the size of a bean, lighting the threshold; outside the threshold, there was no one. When Jingfu had finished counting, it was nineteen.
+The one who came was an administrative assistant in his early thirties, his face showing nothing, with a clerk and a register. Jingfu met them at the gate.
+
+"By decree, the ages of monks and nuns are to be checked; those under forty return to lay life," said the assistant. "Read."
+
+The clerk read from the register, one name at a time, and had each called step out and give his age. Two old monks on the register were ill in bed; the clerk went into their rooms to look, came out, and made marks in the register. When it was done, the youngest on the register was the younger Shi brother, forty-one. Salang, Rijin and such were not on the register; Joseph and Elijah were both past fifty.
+
+The assistant closed the register.
+
+"No one under forty. This monastery's clean, anyway." He turned. "Director, this decree is the first. In the city they say that in half a month there'll be another—under fifty. How old is the Director?"
+
+"Fifty."
+
+"Fifty," said the assistant. "Then it depends whether the decree's 'under fifty' counts fifty in or not. I don't know either. We'll see what the Commissioner's office says then."
+
+He handed the register to the clerk.
+
+"There's another thing. Your monastery isn't quite the same as the Buddhist ones either. Daqin, the Magi, the fire-temples—these are foreign teachings. The decree speaks of monks and nuns. Whether your monks count as those monks, the Commissioner's office isn't sure either, so they had me come and count first."
+
+He left with the clerk.
+
+Salang came over from inside the gate. "What did that assistant say?"
+
+"This time, nothing's wrong."
+
+"And in half a month?"
+
+"In half a month, it's fifty."
 
 ---
 
-Note: From the first of the fourth month of the fifth year of Huichang (845), monks and nuns of the empire under forty were ordered back to lay life, and from the sixteenth those under fifty; see Ennin's *Record of a Pilgrimage to China in Search of the Law*, book 4; Ennin himself, as a foreign monk without a certificate from the Bureau of Sacrifices, was ordered back to lay life in the fifth month of that year and sent home to his own country. The Terrace for Awaiting the Immortals was built in the fifth year of Huichang; see the *Old Book of Tang*, annals of Wuzong. The dates of the various edicts differ slightly among the sources; the novel follows their general outline.
+Rijin returned to lay life on the fifth of the fourth month.
+
+In that small monastery there were nine under forty. The inspectorate's men set a table in the middle of the courtyard, and the nine stood in a row in the gallery; some wept, some didn't. One was a little novice of nineteen who had come in last year with his master when the hermitage was torn down. His master, past sixty, stood behind a gallery pillar gripping his hand and wouldn't let go.
+
+When Rijin was called, the assistant picked up his Sizhou certificate. The paper had yellowed and its edges were frayed. The assistant also turned up the old register of the ninth year of Dahe, found his name, and under the name a cross.
+
+"This certificate should have been taken in the ninth year of Dahe," said the assistant. "You've hung on in Chang'an ten years more."
+
+"Yes."
+
+"Take off the *kasaya*."
+
+Rijin took it off, folded it, and laid it on the table. Underneath he was wearing an old short coat he had brought from home, worn twenty years and patched more times than he knew.
+
+"Native place?"
+
+"Chang'an County, Yining Ward."
+
+"Who is there still at home?"
+
+"Only my ma. She's eighty-one."
+
+The assistant's brush stopped on the paper. He raised his head and looked at him. After a while he lowered his head and wrote: *Chang'an County, Yining Ward. Kang Rijin, age thirty-nine, returned to lay life, sent to native place; mother living.*
+
+The Sizhou certificate the assistant took on the spot and tossed into a bamboo basket. There were several dozen in the basket already, collected from the monasteries these days, one on top of another—some from the Bureau of Sacrifices, some from the provinces. Rijin's landed on top, face up, the two characters *Sizhou* showing. A clerk beside it held a flint and steel, waiting to light it.
+
+After returning to lay life, the documents for his registration had to be transferred from Wannian County to Chang'an County, and the county said it would take ten days or so. Rijin did not go back to the Yining Ward. He lived another ten days or so in the gallery of that small monastery, carrying water by day for the old monks who hadn't been returned to lay life, sleeping in the gallery at night.
+
+"I should have returned to lay life twenty years ago," he said to the master of the little novice. "Ten days more makes no difference."
 
 ---
 
-**Version** v0.2 (translated from Chinese v0.2)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿
+On the sixteenth of the fourth month the second decree came down: all under fifty, without exception, to return to lay life.
+
+That day the inspectorate's men came to the Yining Ward again, and it was the same young assistant who came. He went first to another small Buddhist monastery in the ward, and by the time he had counted there and came to the Daqin Monastery it was past noon.
+
+The assistant came in at the gate and, without having the clerk read the register, first asked Jingfu, "Director, you're fifty."
+
+"Fifty."
+
+"The decree says under fifty. I asked the inspectorate, and they say fifty is counted in. Under fifty means fifty is included."
+
+"I understand," said Jingfu. "I thought about it last night. If fifty is counted in, I take off my robe today."
+
+He turned and went into the hall. The glass bowl stood on the table in the hall; he did not touch it, but went into the little room at the back of the hall, took off the black robe he wore, folded it, laid it on the bed, and changed into an old short coat—the one he had worn picking over rice in the West Market a few years back, torn at the cuffs.
+
+He came out and stood before the assistant.
+
+"I've changed. I'm not a monk on the register any more. Who the directing of the monastery goes to, the monastery will deliberate and then report," said Jingfu. "I ask the assistant one thing only. The monastery's lamp—I'll still light it. The morning—I'll still stand it. With the robe off, I'm a registered householder of the ward. The decree doesn't say a householder may not come to the monastery and stand."
+
+The assistant stood there looking at his short coat, and then at the old monks in the gallery—Joseph, Elijah—and the Shi brothers, and then at the blind old man under the jujube tree. Lingbao was there that day too, with He Siniang holding his arm. He couldn't see; he leaned his head forward, listening.
+
+"Director, don't be hasty," said the assistant. "Fifty counted in for under fifty—that's what the inspectorate says for the Buddhist monasteries. Your Daqin Monastery—I said it last time: the Commissioner's office isn't sure whether a foreign teaching counts as the monks and nuns of the decree. Before I came today I asked once more, and the Commissioner's office still says the same: await separate disposition by decree."
+
+He paused.
+
+"You've taken that robe off too soon."
+
+Jingfu stood still and did not move.
+
+"Put it back on. I've come today to count, not to make you take it off," said the assistant. "These days I've counted several hundred monasteries in the city, several thousand people, and what I've seen is all those who won't take it off, those who cling to their robes weeping, those who kneel and beg. It's the first time I've seen one who took it off himself before he was told."
+
+He tucked the register under his arm.
+
+"You people of this monastery, I've heard of you—they say you don't lie. Today I believe it. But that robe of yours—wait till that decree comes down before you take it off. When it does, I don't know who'll come to count, and whoever comes won't necessarily tell you to put it back on."
+
+He left.
+
+Jingfu went back into the little room at the back of the hall, took up the black robe, shook it out, and put it on.
+
+Joseph, at the door, watched him. "Director, you thought about it last night. Why didn't you say a word to us?"
+
+"If I'd said, you'd have tried to talk me out of it. If you'd talked, I couldn't well have taken it off."
+
+Lingbao came over with He Siniang's help, reached out and felt Jingfu's sleeve, and felt that it was the black robe.
+
+"It's back on."
+
+"It's back on."
+
+"Keep it on," said Lingbao. "Keep it on till whatever day comes."
+
+---
+
+Rijin came back to the Yining Ward on the seventeenth of the fourth month.
+
+The registration papers had been transferred; the county clerk gave him a sheet of paper and told him to take it back to his own ward and find the ward headman. He came out of that small monastery at dusk, bare-headed. He did not go to the West Market to buy a cap. From the south of the city he walked north, past the Qujiang Pool, past that waste garden where Baaluo's people had lived in their day. The garden had long since gone; houses had been built on it. He walked past and did not stop, and went north-west ward by ward.
+
+When he reached the Yining Ward, the ward gate was about to close; the drum was on its last few rounds. The ward guard knew him—hadn't seen him in twenty years, and still knew him.
+
+"Rijin of the Kangs?" The guard stared at his head. "That head of yours…"
+
+He didn't finish, and let him in at the gate.
+
+Rijin did not go to the monastery. He walked to the south end of the ward, to the stretch by the ward wall, up to the Kangs' three low rooms. The jujube tree in the yard was still there, taller than when he had left; its branches reached over the yard wall into the ward street. The yard gate was shut, and a little light showed through the crack in the gate—the fire in the stove. His ma had not gone to bed yet.
+
+He stood outside the yard gate and raised his hand, raised it to the gate plank, and stopped.
+
+---
+
+Mother Kang did not sleep that night.
+
+She was eighty-one, her eyes dim, but her ears still good; whatever stirred in the ward she could hear, sitting at the mouth of the stove. She heard the drum stop over at the ward gate, heard the ward guard say something, heard one man's footsteps in the ward street coming from the north, walking slowly, walking to her gate, and stopping.
+
+She sat at the mouth of the stove with the tongs gripped in her hand.
+
+She knew who it was. From when he learned to walk until the twenty-third of the twelfth month the year he was eighteen, when he went off to Sizhou on the empty grain barge—eighteen years she had known that step.
+
+She did not go to open the gate. She put a handful of wood in the stove, the fire rose, the water in the pot came to the boil. She ladled out a bowl and set it on the stove ledge to cool, and put in another handful of wood.
+
+The man outside the gate did not leave. He stood until the second watch and shifted his feet once; stood until the third watch, and sat down leaning against the gate plank, and the plank creaked. She heard him cough outside the gate, cough very softly, as if afraid of disturbing someone.
+
+She picked up the bowl of cooled water and moved it to the end of the stove ledge nearest the door, a little closer to the gate.
+
+Later she told Lingbao about that night.
+
+"I wanted to open the gate. But I had to wait for him to knock himself," said Mother Kang. "When he left in his day, it was he who wanted to go. I pawned my silver hairpin for him, saw him to the West Market, watched him board the barge—that was my saying yes. Now that he's come back, I can't open the gate for him. He shut the gate himself; he has to knock it open himself."
+
+"That night, you just sat like that?"
+
+"I sat and counted, again and again—counted how many times he coughed, counted how many times he shifted his feet. I thought: if he knocks, I'll open. If he doesn't knock, and sits till daylight and goes, I won't blame him."
+
+Rijin did not knock. He sat all night leaning against the gate plank.
+
+Toward dawn there were stirrings in the ward street. The people of the few believing households at the south end of the ward had got up and were going to the monastery; their footsteps passed the gate, one went by, another went by. Mother Kang heard the man outside the gate stand up; stand up, and not leave, but go on standing.
+
+She got up, went to the yard gate, and drew back the bar.
+
+Rijin stood outside the gate, bare-headed, in that short coat patched more times than he knew, his face grey, his eyes red.
+
+"Ma."
+
+Mother Kang looked at him—at his head, at his face, at the short coat on him. She reached out and felt his head. It had not long been shaved; a layer of stubble had grown, and it pricked her hand.
+
+"Come in. There's a bowl of water on the stove ledge, gone cold. Drink it."
+
+Rijin came in at the gate, picked up the bowl of water, and drank it.
+
+"When you've drunk it, go to the monastery," said Mother Kang. "Your Pa's been dead ten years. The years before he died, every morning he stood in the last row, by the door. When he died, I went and stood there, in his place. I'm eighty-one; I can't stand many more years. You go. You go and stand."
+
+---
+
+That morning those at the morning came one after another.
+
+Jingfu stood in the middle of the courtyard while it was still dark. He heard the people behind him come in at the gate one by one, stamp their feet, rub their hands, and go to stand in their places. Salang, inside the gate, moved aside his low stool, stood up, and went to stand in the gallery.
+
+When the sky greyed, Jingfu looked back and counted.
+
+Under the jujube tree was Lingbao, and beside Lingbao, He Siniang. By the well curb was the younger Shi brother; at the hall door, Joseph and Elijah; in the gallery, Salang and the elder Shi brother. On the women's side, Mother Kang, Liu'er, Ayi, and a few old women of the ward.
+
+He counted to the last row. In the last row, by the door, stood a man, bare-headed, in a short coat, hands tucked in his sleeves, head bowed.
+
+Nineteen.
+
+Jingfu turned back to face the hall and began the first line.
+
+---
+
+Note: From the first of the fourth month of the fifth year of Huichang (845) a decree ordered all monks and nuns of the realm under forty returned to lay life, and from the sixteenth all under fifty—see Ennin's *Record*, juan 4; Ennin himself, as a foreign monk without a certificate from the Bureau of Sacrifices, was ordered back to lay life in the fifth month of the same year and sent home to his own country. The Terrace for Gazing on the Immortals was built in the fifth year of Huichang; see the *Jiu Tangshu*, "Annals of Wuzong." The dates of the several decrees differ somewhat among the sources; the novel follows them in outline.
+
+---
+
+**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿

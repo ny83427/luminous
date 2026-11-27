@@ -6,68 +6,200 @@
 >
 > —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
 
-In the second year of Huichang the Uighurs began fighting in the north. The band that had come south had camped over a year outside the walls of the Tiande garrison; the Son of Heaven had given them grain and given them cloth and silk, but would not give them a city or give them land; their khagan said the Son of Heaven was his uncle, and the Son of Heaven said: first send the princess back; the two sides sent envoys back and forth, sent them a year, and could produce no outcome. That autumn the Uighurs plundered southward—plundered Yunzhou, plundered Shuozhou, plundered as far as north of Taiyuan; it was rumoured in the city that several thousand of the frontier's people had been carried off by the Uighurs and tens of thousands of cattle and sheep seized. The Son of Heaven sent down an edict ordering the troops of Hedong, Zhenwu and Tiande to attack.
+In the second year of Huichang, the Uighurs began fighting in the north.
 
-For the Uighurs in Chang'an, that year was harder than any. Of the Uighur warehouses in the West Market, those that remained either closed their doors or were sealed by men sent from the Jingzhao prefecture, which said that since the Uighur khagan had violated the frontier, the Uighurs in the capital were to be entered one by one in a register to await disposal. People in the ward said the Uighurs' Manichaean monastery was sealed too; the Manichaean teachers inside were forbidden to go out, and soldiers of the Jinwu guard stood at the monastery gate.
+The branch that had come south had been camped more than a year outside the walls of the Tiande garrison. The Son of Heaven had given them grain and given them cloth and silk, but would not give them a city or land. Their khagan said the Son of Heaven was his uncle; the Son of Heaven said, first send the princess back. Envoys went to and fro for a year, and no conclusion came of it. That autumn the Uighurs went raiding south—raided Yunzhou, raided Shuozhou, raided as far as north of Taiyuan; it was rumoured in the city that the Uighurs had carried off several thousand people from the frontier and several tens of thousands of cattle and sheep. The Son of Heaven issued an edict ordering the troops of Hedong, Zhenwu and Tiande to attack them.
 
-That year morning devotion numbered nineteen. An Yan was ill all winter; he was seventy-one; the foot that had lost half a toe to frost was so swollen he could not get a shoe on it; he had himself helped in to stand by the pillar of the colonnade till light, and then helped back; Jingfu told him not to come; he would not hear of it, saying that long ago in the south of the city he'd gone a dozen-odd years without standing morning devotion, and since Jingjing went to the south of the city and brought him back he hadn't missed a single day; if he missed one, it would be the day he died.
+For the Uighurs in the city of Chang'an that year was harder than any year. Of the Uighur warehouses left in the West Market, some shut their doors, and some were sealed by men sent from the Metropolitan Prefecture, who said that since the Uighur khagan had violated the frontier, the Uighurs in the capital must all be entered in a register and await disposition. People in the ward said the Uighurs' Manichaean temple had been sealed too; its Manichaean teachers were not allowed out, and soldiers of the Jinwu Guard stood at its gate.
 
----
+That year nineteen stood at the morning. An Yan had been ill all winter. He was seventy-one, and the foot that had lost half a toe to the cold swelled so that he couldn't get a shoe on. He had himself helped there, stood by the gallery pillar until it was light, and had himself helped back.
 
-In the first month of the third year of Huichang there was a victory in the north. It was said that a general named Shi Xiong had led several thousand horsemen by night, breached the wall, and charged into the Uighur camp; the Uighur khagan was wounded and fled, and the Taihe Princess was brought back by Shi Xiong. When the news reached Chang'an, the city hung lanterns for three days, and the people of the ward went out into the streets to look, saying the Uighurs were truly finished this time.
+"Uncle An Yan, don't come any more," said Jingfu.
 
-The Son of Heaven sent down an edict that the Uighur business should be settled all at once. It was in the fourth month. First the Jingzhao prefecture's men went to the Manichaean monastery, carried out its scriptures and images and burned them at the monastery gate; they burned a whole day, and the black smoke drifted over from the West Market across half the city. Then the Manichaean teachers. People in the city said the Son of Heaven's edict had come down: of the Manichaean teachers of the empire, not one was to be left; the Manichaean teachers in Chang'an, men and women, were all led out under guard; where they were led to, people in the city told it differently—some said outside the city, some said in the very courtyard of the Jingzhao prefecture; they said they were first made to shave their heads and put on monks' robes, dressed up to look like Buddhist monks, and then killed. They said there were seventy-two women Manichaeans in Chang'an, and not one was left.
-
-Those few days, the Uighurs of the West Market, whoever was still in Chang'an, all hid at home and dared not go out. The Sogdians did not go out much either; some Sogdians believed in Mani and some did not, and the young Tang men of the West Market, seeing a high nose, did not ask what it believed.
+"In my day in the south of the city I didn't stand the morning for ten-odd years. Since Master Jingjing went to the south of the city and brought me back, I haven't missed one day," said An Yan. "If I miss one, it'll be the day I die."
 
 ---
 
-Lingbao was seventy-six that year and nearly blind. Every day before light he had He Siniang help him to the monastery to stand morning devotion, and when he had stood it sat a while at the scripture room door while Qushen read him the accounts, and when they were read, He Siniang helped him back to the south end of the ward. One day in the fourth month He Siniang meant to go to the West Market to buy medicine, medicine from the Wangs' shop, and Lingbao said he'd go too; he hadn't been to the West Market for many years; he wanted to go and smell the West Market's smell. He Siniang held him up; they went out by the south gate of Yining Ward, went east, past Jincheng Ward, and in at the north gate of the West Market. As soon as he was inside he smelled it: the West Market's smell was the same smell—the sesame of the cake ovens, the frankincense of the Persian hostels, the angelica drying at the doors of the drug shops, the horse dung over by the livestock market, mixed in one; as a child, coming with his Ma to buy cloth, his Ma holding his hand, this was what he smelled. But the sounds of the street were different. Once, on the streets of the West Market, Sogdian, Persian and Uighur were mixed in with the Tang—crying wares, haggling, quarrelling, a dozen-odd tongues stirred together; he could listen with his eyes shut and tell where each shop's people were from; that day he walked half the North Street and heard only Tang, and now and then a line or two of Sogdian, spoken very low, as if afraid of being heard. He asked He Siniang: and the Uighurs' warehouses? He Siniang said they were closed, with the Jingzhao prefecture's seals pasted on the doors. He asked again: and the Persian who sold grape wine? Pa used to buy wine from him when he was alive, to wash patients' wounds. He Siniang said that family had been gone over ten years.
+In the first month of the third year of Huichang there was a victory in the north. It was said a general named Shi Xiong led a few thousand horsemen by night, breached the city wall, and charged into the Uighur camp; the Uighur khagan was wounded and fled, and Shi Xiong brought the Princess Taihe back. When the news reached Chang'an the city hung lanterns for three days, and people of the ward went into the streets to look, and said the Uighurs were really finished this time.
 
-They came along the North Street of the West Market; by the roadside squatted a few young Tang men watching a cockfight. Lingbao walked slowly, one hand on He Siniang's arm, one hand feeling forward; the young men saw him, and one stood up and came over and blocked his way, looking at his face. Lingbao could not see, only sensed someone in front of him, and stopped. The young man leaned close to look at his eyes, at his nose, and said: you're a Uighur. Lingbao said he was not. The young man asked what he was then, and Lingbao, standing there, said he was of the Daqin Monastery in Yining Ward. The young man said: Daqin Monastery—a *hu* monastery; the *hu* of a *hu* monastery are the same litter as the Uighur *hu*; and as he said it he spat in Lingbao's face.
+The Son of Heaven issued an edict that the affairs of the Uighurs were to be settled once and for all.
 
-The spittle struck Lingbao's left cheek and hung in his beard. He Siniang cried out and meant to go at them; Lingbao's hand pressed her arm. The young men laughed and squatted back down to watch the cockfight. Lingbao stood there, raised his hand, and wiped the spittle from his face with his sleeve, wiped it twice, wiped it clean, and said to He Siniang: let's go; let's buy the medicine.
+It happened in the fourth month. First men from the Metropolitan Prefecture went to the Manichaean temple, carried out its scriptures and images, and burned them at the temple gate. They burned for a day, and the black smoke drifted over from the West Market and hung over half the city. Then the Manichaean teachers. People in the city said the Son of Heaven's decree had come down: not one Manichaean teacher in the realm was to be left; the Manichaean teachers of Chang'an, men and women, were all marched off, and where they were marched to, people in the city told it differently. Some said it was right in the courtyard of the Metropolitan Prefecture: first their heads were shaved and they were dressed in monks' robes, got up to look like *śramaṇa*, and then they were killed. They said there had been seventy-two women Manichaeans in Chang'an, and not one was left.
 
-That day they bought the medicine and went back to the south end of the ward; He Siniang drew a basin of water for him to wash his face; he washed, and when he had washed sat under the pomegranate tree; Xiaoman was five; she ran over, leaned on his knee, and asked where Grandpa had gone today. He said: to the West Market. Xiaoman asked what was in the West Market. He said: in the West Market there are people selling medicine, people selling cakes, people fighting cocks, and people. Xiaoman asked again: Grandpa, what's a Uighur *hu*? Lingbao asked whom she'd heard it from. Xiaoman said the children of the ward said it; they said my Grandpa is a Uighur *hu*. Lingbao stroked her head, from her forehead to the back of her head, and said: the Uighurs are people of the steppe in the north; they raise horses, raise sheep, believe in Mani; Grandpa's Pa was a man of Balkh; Balkh is west of the Pamirs; Grandpa's Ma was a Chang'an woman; Grandpa was born in Chang'an, grew up in Chang'an, has lived seventy-six years, and never gone outside the Guannei circuit. Xiaoman asked: then what is Grandpa? Lingbao thought, and said: Grandpa can't rightly say either.
-
----
-
-Ayi came at the end of the fourth month. On the day the Manichaean monastery's scriptures were burned, the Shi Second was pushing his cart north of the West Market. He had gone to collect an old beggar who had died by the livestock market, and when he had collected him and was pushing the cart back, at the mouth of the lane of the Manichaean monastery he was blocked; the lane was packed with sightseers. He stood at the back of the crowd holding the shafts, and saw a heap of things piled at the monastery gate: scrolls of scripture, painted images, white banners, wooden scripture stands; clerks of the Jingzhao prefecture stood by with torches; an official in a green robe read a few lines of an edict, and when he had read them, the torches were thrown on, and the fire leapt up at once, crackling and popping; the people painted on the images, dressed in white, round-faced—at one lick of the flames their faces curled up and went black. Some sightseers cheered, some clapped, a few threw stones into the fire. The Shi Second did not cheer; he backed his cart away, backed to the other end of the lane, where the back wall of the Manichaean monastery was; the fire under the back wall had leapt out from the courtyard and caught a few small rooms at the back; people in the rooms shouted, shouted a few times, and then there was no sound. He stood under the back wall and waited for the fire to die, waited for the sightseers to scatter, waited for the Jingzhao clerks to leave; the sky was nearly dark; he pushed his cart into the back lane.
-
-That evening the Shi Second came back from the West Market pushing the corpse cart, with no dead on the cart; hanging on the cart's shaft was a child, a girl of eight or nine, in a white garment, the garment smoke-blackened, so dirty its colour could not be told, both hands gripping the shaft for dear life; the Shi Second pushed a step and she followed a step, not crying, not making a sound. The Shi Second said he had collected two dead in the lane behind the Manichaean monastery, burned to death in the fire the day the scriptures were burned, charred so they could not be recognized; he lifted them onto the cart, looked back, and this child was standing at the lane's mouth, looking at the two on the cart; he asked whose she was, and she wouldn't say; he pushed the cart off and she followed, followed all the way; he told her to go back and she wouldn't, and gripped the shaft and wouldn't let go.
-
-Jingfu squatted down and asked her; she pressed her lips together and at first said only her own name, Ayi; where her home was she would not say; only when asked about her Ma did she speak, squeezing it out line by line: her Ma was in the Manichaean monastery; her Ma washed clothes and cooked for the Manichaean teachers in the monastery; every morning her Ma chanted scripture facing the sun; her Ma said she was a Hearer; that day the Jingzhao prefecture's men came and took her Ma away; before she was taken her Ma told her to hide in the woodshed at the back and not come out; she hid three days, was hungry, came out, and there was no one in the monastery, and they were burning things at the monastery gate. When she had told it, she looked at the Shi Second's cart again and asked: those two on the cart—is one of them Ma?
-
-The Shi Second said no; the two on the cart were men. When Ayi heard it, the hands gripping the shaft loosened a little. Jingfu kept her at the monastery that day. He Siniang came, washed her face, put on her an old garment Xiaoman had outgrown, and fed her a bowl of gruel; she ate very fast, and when she had eaten fell asleep hugging the bowl.
-
-That night the monastery's people sat in the small room in the back courtyard, and Lingbao came too. Joseph spoke first; he said this child was of the Manichaeans; Mani, at the Patriarchate, in Merv, was a heresy, and had been for hundreds of years; the canons of the Church say Mani's books are to be burned, and Mani's people are not to be let in at the church door. He said he wasn't driving this child away; he was only saying that Chang'an's people had just burned the Manichaean monastery and killed the Manichaean teachers; if we take in a Manichaean child and the Jingzhao prefecture learns of it, they'll say the Daqin Monastery is in league with Mani; Mani's end we've seen.
-
-Jingfu said he knew. He said this child's Ma was a woman working in the Manichaean monastery, taken away by the Jingzhao prefecture's men, most likely dead; this child is of the Manichaeans, and also a child without a mother. He said: the canons Brother Joseph speaks of, he accepts; Mani's books he won't take in, Mani's images he won't enshrine; but this child is not a book, not an image; she's a child of eight or nine who went hungry three days and followed the corpse cart all the way, followed it to our monastery gate; if the Shi Second had left her at the lane's mouth when he pushed the cart off, then tomorrow morning when the Shi Second pushed the cart out there'd be one more on it. He said: when Master took him in long ago, his Pa was a soldier in the Shence Army who died in Huaixi, his Ma he didn't know; Lord Mi handed him to Master, and Master didn't ask what his Pa believed.
-
-Joseph said: your Pa was baptized. Jingfu said: when he was five, he didn't know whether his Pa was baptized or not. Lingbao had sat in the corner all along, listening. At this he said: this child—he'll enter her. He said: enter her in the accounts, as an orphan girl taken in by the monastery. Jingfu asked whether to enter that she was of the Manichaeans. Lingbao said: enter it. He said the monastery's accounts since Elder Samaan's day had all been entered as the truth; he wouldn't enter what was false; he'd enter: *orphan girl Ayi, about nine years old, her mother a Hearer of the Manichaean monastery; fourth month of the third year of Huichang, mother deceased; the Shi Second took her up in the back lane of the Manichaean monastery; taken in by the monastery*. He said this line would be written in the accounts; the accounts are in the scripture cabinet; the cabinet is locked; if the Jingzhao prefecture's men don't come to search it, no one will know; if they come and search it, they'll know, and knowing, it's still the truth.
-
-He Siniang had stood at the door all along holding a lamp; when Joseph had finished she said she'd put in a word. She said she'd never read the canons; she knew only that when the child fell asleep she still clutched the corner of her garment, clutched it tight; she tried several times to prise it loose and couldn't, so she let her clutch it, and sat by the bed till she was fast asleep before she came out. She said: Elder Joseph is afraid of the Jingzhao prefecture; so is she; but the child has already come in at the gate, eaten the monastery's gruel, slept in the monastery's bed; send her out now—send her to whom, send her where?
-
-Joseph argued no more. He stood up and said he'd go and see whether the child was asleep; at the door he turned back and said: those canons he spoke of just now are right; but he had also seen, in Merv, Manichaean children come begging to the church, and the church's elders gave them bread and didn't ask whose they were.
+In those days the Uighurs of the West Market, those still in Chang'an, all hid at home and dared not go out. The Sogdians did not go out much either. Some Sogdians believed in Mani and some did not; the young Tang men of the West Market, seeing a high nose, did not ask what anyone believed.
 
 ---
 
-The ward headman came on the third day. The ward headman was surnamed Liu, past fifty, and had been headman of Yining Ward twenty years; not a bad man, but not easy to deal with either; the monastery's affairs he had always left alone when he could, and when he did take something up he would not bear a single character's worth of risk for anyone. That day he came and stood at the monastery gate without going in, called Jingfu out, and said the Jingzhao prefecture had ordered every ward to check whether any Uighurs were hidden in the ward, whether any had run out of the Manichaean monastery. He said he'd heard people of the ward say the monastery had taken in a child the day before yesterday, a girl, who was said to have followed the corpse cart from over by the West Market; he'd come to ask where this child came from.
+Lingbao was seventy-six that year, and his eyes could see almost nothing. Every day before light he had He Siniang help him to the monastery to stand the morning; when he had stood it, he sat a while at the scripture-room door while Qushen read him the accounts; when they were read, He Siniang helped him back to the south end of the ward.
 
-Jingfu stood at the gate. He said this child followed the cart from the lane behind the Manichaean monastery; her Ma was of the Manichaean monastery and was taken away by the Jingzhao prefecture's men. Headman Liu looked at him, rolled up the register in his hand, and unrolled it again. He said: Leader, these words of yours—he's heard them; if he reports them, the Jingzhao prefecture's men will come today. Jingfu said he knew. Headman Liu said: then why don't you say she's a child of some household in the ward—say she's from outside the city fleeing famine, say she was picked up by the roadside—say anything, and he'll record just that, report it, and no one will come to check. Jingfu said: the monastery's rule is not to lie; the headman asks, so he tells it as it is.
+One day in the fourth month He Siniang was going to the Wang family's shop in the West Market to buy medicine.
 
-Headman Liu stood there, slapped the register twice against his palm, sighed, and said: you people of this monastery, ever since Great Worthy Jing's day, have been like this; he'd been ward headman twenty years and seen how many monasteries, how many temples, how many abbots—ask one thing and they answer ten, and of the ten not one true; only your house: ask one thing, answer one thing, and the one thing answered is the one that puts people in a fix. He said: what he asks is whether there are Uighurs, whether any ran out of the Manichaean monastery; this child is eight or nine and ran out of the Manichaean monastery; but is she Uighur or Tang—does the leader know? Jingfu said he didn't; her Ma was a Hearer in the Manichaean monastery; in the Manichaean monastery there were Uighurs, and Sogdians, and Tang too; who her Pa was she couldn't say herself. Headman Liu said: there you are; he'll record: *the Daqin Monastery of Yining Ward takes in one orphan girl, eight or nine, mother dead, father unknown*; he asked the leader: recorded so, is there one character false? Jingfu thought, and said there was not. Headman Liu said: then that's how he'll report it. He tucked the register under his arm and said: Leader, this time he's recorded it for you, and recorded the truth, and he bears no risk; but next time, if your monastery takes in another like this, he won't record it for you; he'll record it as the Jingzhao prefecture asks; if the Jingzhao prefecture asks for Uighurs, he'll write Uighur; weigh it for yourselves. He left, and at the corner of the ward street he did not look back.
+"I'll come too," said Lingbao. "I haven't been to the West Market for a good many years. I want to go and smell the West Market."
+
+He Siniang held his arm, and they went out by the south gate of the Yining Ward, east past the Jincheng Ward, and in at the north gate of the West Market. As soon as he was inside the gate he could smell it: the West Market's smell was still the same smell—sesame from the flatbread ovens, frankincense from the Persian hostels, angelica root drying at the doors of the medicine shops, horse dung from the livestock market, all mixed together. As a child he had come with Ma to buy cloth, Ma holding his hand, and this was what he had smelled.
+
+But the voices in the street were different. Before, in the streets of the West Market, Tang had been threaded with Sogdian, Persian, Uighur—hawkers crying, people haggling, people quarrelling, a dozen-odd tongues stirred together—and with his eyes shut he could hear which house was from where. That day he walked half the North Street and heard only Tang, now and then a sentence or two of Sogdian, spoken very low, for fear of being heard.
+
+"Those Uighur warehouses?"
+
+"Shut. The Metropolitan Prefecture's seals are on the doors."
+
+"That Persian who sold grape wine? When Pa was alive he often went there to buy wine for washing the sick people's wounds."
+
+"That one was gone ten-odd years ago."
+
+They came along the North Street. A few young Tang men were crouched at the side of the street watching a cockfight. Lingbao walked slowly, one hand on He Siniang's arm and one hand feeling out ahead. The young men saw him, and one stood up, came over, and stood in front of him, looking at his face. Lingbao could not see; he felt only that someone was in front of him, and stopped. The young man leaned close to look at his eyes, to look at his nose.
+
+"You're a Uighur."
+
+"No."
+
+"Then what are you?"
+
+Lingbao stood there. "I'm from the Daqin Monastery in the Yining Ward."
+
+"The Daqin Monastery—a *hu* temple. The *hu* in a *hu* temple are the same nest as the Uighur *hu*." With that the young man spat in Lingbao's face.
+
+The spittle landed on Lingbao's left cheek and hung in his beard. He Siniang cried out and moved forward, and Lingbao's hand pressed down on her arm. The young men laughed and crouched back down to watch the cockfight. Lingbao raised his hand and wiped the spittle from his face with his sleeve, wiped it twice, and wiped it clean.
+
+"Come. Let's go and buy the medicine."
 
 ---
 
-Ayi settled in at the monastery. By day she went with He Siniang to the south end of the ward and played with Xiaoman under the pomegranate tree; at night she came back to the monastery and slept in the room in the back courtyard where Siyuan used to live; He Siniang, uneasy, had an old woman of the ward sleep with her. At first she would not say a word; whatever she was asked, she only shook her head or nodded; after half a month she spoke, and what she spoke was Uighur, mixed with a few words of Tang; Xiaoman couldn't understand Uighur, so she taught Xiaoman, and Xiaoman taught her Tang. He Siniang said these two children—one doesn't know who either parent was, one doesn't know who her Pa was—get on well enough.
+That day they bought the medicine and came back to the south end of the ward, and He Siniang drew a basin of water for him to wash his face. When he had washed he sat under the pomegranate tree. Liu'er was five; she ran over and lay across his knees.
 
-Her first morning devotion was in the fifth month. That day while it was still dark He Siniang brought her and Xiaoman from the south end of the ward, brought them into the courtyard, to stand on the women's side beside Old Mother Kang. She stood, looking at the man standing in the middle of the courtyard, at the blind old man standing under the jujube tree, at the white-haired people under the colonnade, looked all round, leaned to Xiaoman's ear, and asked in the few words of Tang she had just learned: what are they doing, what are they standing for? Xiaoman leaned over too and whispered that she didn't know either; everyone stands, so she stands; and as she said it she folded her two hands into her sleeves, the same as Old Mother Kang. That year, counting her, morning devotion numbered twenty. Ayi looked at Xiaoman's sleeves, looked at Old Mother Kang's sleeves, and folded her own two hands into her sleeves as well.
+"Where did Grandpa go today?"
+
+"To the West Market."
+
+"What's in the West Market?"
+
+"People selling medicine, people selling flatbread, people watching cockfights. And people."
+
+Liu'er asked again, "Grandpa, what's a Uighur *hu*?"
+
+"Who did you hear that from?"
+
+"The children in the ward said it. They said my Grandpa's a Uighur *hu*."
+
+Lingbao stroked her head, from her forehead to the back of her head.
+
+"Uighurs are people of the grasslands in the north. They raise horses, raise sheep, believe in Mani. Grandpa's Pa was a man of Balkh, and Balkh is west of the Pamirs; Grandpa's Ma was a woman of Chang'an. Grandpa was born in Chang'an and grew up in Chang'an."
+
+"Then what is Grandpa?"
+
+Lingbao thought. "Grandpa can't rightly say either."
 
 ---
 
-Note: In the second year of Huichang (842) the Uighur Ügä Khagan raided Yunzhou and Shuozhou; in the first month of the third year Shi Xiong, a general of Hedong, made a night attack on the Uighur royal tent at Shahu Mountain; Ügä was wounded and fled, and the Taihe Princess was brought home; see the Uighur chapters of both *Tang Histories* and the *Comprehensive Mirror*, chapter 247. In the fourth month of the same year an edict ordered the killing of the Manichaean teachers of the empire, who were shaved, made to wear kasaya and given the form of Buddhist monks, and killed; see Ennin's *Record of a Pilgrimage to China in Search of the Law*; seventy-two women Manichaeans of the capital died, per Zanning's *Brief History of the Sangha under the Great Song*. Among the Manichaeans the Elect kept celibacy, while Hearers were permitted to marry. The Church of the East regarded Manichaeism as a heresy. Ayi and Headman Liu are the novel's invention.
+Ayi came at the end of the fourth month.
+
+On the day the Manichaean temple's scriptures were burned, the younger Shi brother was pushing the cart north of the West Market, going to collect an old beggar who had died at the edge of the livestock market. When he had collected him and was pushing the cart back, he was blocked at the mouth of the lane where the Manichaean temple stood; the lane was packed with onlookers. Holding the shafts, he stood at the back of the crowd and saw a heap of things piled at the temple gate—scriptures, pictures, white banners, wooden scripture stands—and clerks of the Metropolitan Prefecture standing beside it with torches. An official in a green robe read out a few lines of the decree, and when he had read them the torches went in, and the fire rose all at once, crackling and snapping. The people in the pictures wore white, their faces round; at the lick of a flame a face curled up and went black. Among the onlookers some cheered, some clapped, and a few threw stones into the fire.
+
+The younger Shi brother did not cheer. He backed the cart away, back to the other end of the lane. There was the back wall of the Manichaean temple, and at the foot of the back wall the fire had leapt out of the courtyard and caught a few small rooms at the back. Someone in the rooms was shouting; they shouted a few times, and then there was no more sound. He stood at the foot of the back wall waiting for the fire to die, for the onlookers to disperse, for the Metropolitan Prefecture's clerks to go. It was nearly dark when he pushed the cart into the back lane.
+
+That evening he pushed the cart for the dead back, and on its shafts hung a child.
+
+It was a girl of eight or nine in a white dress blackened by smoke, so dirty you couldn't tell its first colour, both hands gripping the shafts tight. When the younger Shi brother pushed a step, she followed a step, not crying, not making a sound.
+
+"I picked up two dead in the lane behind the Manichaean temple, burned to death, burned black, no telling who they were," the younger Shi brother said to Jingfu. "I lifted them onto the cart and looked round, and this child was standing at the mouth of the lane looking at the two on the cart. I asked whose she was, and she wouldn't say. I pushed the cart off, and she followed, followed all the way. I told her to go back, and she wouldn't, gripped the shafts and wouldn't let go."
+
+Jingfu crouched down and asked her. She pressed her lips together and at first said only her own name, Ayi. Where her home was, she would not say. Only when he asked about her mother did she open her mouth, squeezing it out sentence by sentence.
+
+"Ma was in the Manichaean temple. Ma washed the clothes for the Manichaean teachers and cooked. Every morning Ma recited scripture facing the sun. Ma said she was a hearer. That day the Metropolitan Prefecture's people came and took Ma away. Before she was taken, Ma told me to hide in the woodshed at the back and not come out. I hid three days, and I was hungry, and came out, and there was no one in the temple, and they were burning things at the temple gate."
+
+When she had said it she looked at the younger Shi brother's cart again. "Those two people on the cart—is one of them Ma?"
+
+"No," said the younger Shi brother. "The two on the cart were men."
+
+Ayi's hands gripping the shafts loosened a little.
+
+That day Jingfu kept her at the monastery. He Siniang came, washed her face, changed her into an old dress Liu'er had grown out of, and fed her a bowl of gruel. She ate very fast, and when she had eaten fell asleep hugging the bowl.
 
 ---
 
-**Version** v0.2 (translated from Chinese v0.2)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿
+That night the monastery's people sat in the small room in the back courtyard, and Lingbao came too. Joseph spoke first.
+
+"This child is of a Manichaean house. Mani, at the Patriarchate, at Merv, has been a heresy for hundreds of years. The church's canons say: Mani's books to be burned, Mani's people not to come in at the church door," he said. "I won't turn the child out. I'm only saying: the people of Chang'an have just burned the Manichaean temple and killed the Manichaean teachers. If we take in a Manichaean child and the Metropolitan Prefecture hears of it, they'll say the Daqin Monastery is in league with the Manichaeans. What came to the Manichaeans, we've seen."
+
+"I know," said Jingfu. "This child's mother was a woman who worked in the Manichaean temple, taken away by the Metropolitan Prefecture's people; most likely she's dead. This child is of a Manichaean house, and she's also a child without a mother. The canons Brother Joseph speaks of, I accept. Manichaean books I won't take in; Manichaean images I won't venerate. But this child isn't a book or an image; she's a child of eight or nine who's gone hungry three days and held on to the cart for the dead all the way, all the way to our monastery gate. If the Shi Second had left her at the mouth of that lane, tomorrow morning, when he pushed the cart out, there'd have been one more on it."
+
+He paused.
+
+"When the Master took me in, my Pa was a soldier in the Shence Army who died in Huaixi, and who my Ma was I don't know. Lord Mi gave me to the Master, and the Master didn't ask what my Pa believed."
+
+"Your Pa had been baptized."
+
+"When I was five, I didn't know whether my Pa had been baptized or not."
+
+Lingbao had been sitting in the corner all along. At this he spoke. "This child, I'll enter. Enter her in the accounts as an orphan girl taken in by the monastery."
+
+"Enter that she's of a Manichaean house?"
+
+"Enter it," said Lingbao. "The monastery's accounts, from Elder Samaan's time on, have recorded nothing but the truth. I won't record anything false. I'll write: *An orphan girl, Ayi, about nine years old, her mother a hearer of the Manichaean temple; fourth month of the third year of Huichang, her mother being dead, the younger Shi took her up in the lane behind the Manichaean temple; the monastery takes her in.* That line is written in the accounts, the accounts are in the scripture cabinet, the scripture cabinet is locked. If the Metropolitan Prefecture's people don't come to search, no one will know; if they come to search, they'll know. And if they know, it's still the truth."
+
+He Siniang had been standing at the door all along with a lamp in her hand.
+
+"Let me put in a word," she said. "I've never read the canons. I only know that when that child fell asleep she was still gripping a corner of my dress, gripping it tight; I tried several times to pry her fingers loose and couldn't, so I let her grip it, and sat by the bed until she was fast asleep before I came out. Elder Joseph is afraid of the Metropolitan Prefecture, and so am I. But the child has come in at the gate, eaten the monastery's gruel, slept in the monastery's bed. If we send her out now—send her to whom, send her where?"
+
+Joseph argued no more. He stood up. "I'll go and see if the child is asleep." At the door he turned back. "Those canons I spoke of—they're right. But I've seen it too: at Merv, Manichaean children came to the church begging, and the elders of the church gave them bread and didn't ask whose house they were from."
+
+---
+
+The ward headman came on the third day.
+
+The ward headman was surnamed Liu, past fifty, and had been headman of the Yining Ward twenty years. He was not a bad man, but not easy to talk to; in the monastery's affairs he had always kept out of what he could keep out of, and when he did step in, he would not take one word of blame for anyone. He stood at the monastery gate, did not come in, and had Jingfu come out.
+
+"The Metropolitan Prefecture has told every ward to check whether any Uighurs are hidden in the ward, any who've run from the Manichaean temple. I hear from people in the ward that the monastery took in a child the day before yesterday, a girl, said to have followed the cart for the dead from over by the West Market. I've come to ask where this child is from."
+
+"This child followed the cart from the lane behind the Manichaean temple. Her mother was of the Manichaean temple, taken away by the Metropolitan Prefecture's people."
+
+Headman Liu looked at him, rolled up the register in his hand, and unrolled it again.
+
+"Director, I've heard what you said. If I report it, the Metropolitan Prefecture's people will come today."
+
+"I know."
+
+"Then why don't you say she's a child of some family in the ward? Say she came from outside the city fleeing famine, say she was picked up by the roadside—say anything, and I'll record that, and report it up, and no one will come to check."
+
+"The monastery's rule: no lies. The headman asks, and I answer as it is."
+
+Headman Liu stood there and slapped the register twice against his palm and sighed.
+
+"You people of this monastery, ever since Master Jing's time, have been like this. Twenty years I've been ward headman, and I've seen I don't know how many Buddhist monasteries, how many Daoist temples, how many directors: ask one question, they answer ten, and not one of the ten is true. Only your house—ask one, they answer one, and the one they answer is the one that makes things hard for a man," he said. "What I'm asking about is whether there are any Uighurs, any who've run from the Manichaean temple. This child of eight or nine ran from the Manichaean temple. But whether she's Uighur or Tang—does the Director know?"
+
+"No. Her mother was a hearer of the Manichaean temple, and in the Manichaean temple there were Uighurs, and Sogdians, and Tang too. Who her Pa is, she can't say herself."
+
+"There you are," said Headman Liu. "I'll write: *The Daqin Monastery of the Yining Ward has taken in one orphan girl, eight or nine, mother dead, father unknown.* Director, written so—is there one false word in it?"
+
+Jingfu thought. "No."
+
+"Then that's what I'll report." Headman Liu tucked the register under his arm. "This once I've written it for you. What I've written is the truth; I'm not taking on anything. But next time, if your monastery takes in another like this, I won't write it for you. If the Metropolitan Prefecture asks about Uighurs, I'll write Uighur. Weigh it up yourselves."
+
+He left, and at the corner of the ward street did not look back.
+
+---
+
+Ayi stayed on at the monastery. By day she went with He Siniang to the south end of the ward and played with Liu'er under the pomegranate tree; at night she came back to the monastery and slept in the room in the back courtyard where Siyuan used to live, and He Siniang, uneasy, had an old woman of the ward sleep with her. At first she would not open her mouth; asked anything, she only shook or nodded her head. After half a month she began to talk, in Uighur, with a few words of Tang mixed in. Liu'er couldn't understand Uighur, so Ayi taught Liu'er, and Liu'er taught her Tang.
+
+"Those two children," said He Siniang, "one doesn't know who her Pa or her Ma is, and one doesn't know who her Pa is, and they get on together."
+
+The first time she went to the morning was in the fifth month. That day, while it was still dark, He Siniang brought her and Liu'er from the south end of the ward into the courtyard, and they stood on the women's side, beside Mother Kang.
+
+She stood and looked at the man standing in the middle of the courtyard, at the blind old man standing under the jujube tree, at the white-haired people in the gallery, looked all round, and leaned to Liu'er's ear and asked her in the few words of Tang she had just learned: "What are they doing? Why are they standing?"
+
+Liu'er leaned over too and whispered, "I don't know either. Everyone stands, so I stand."
+
+As she said it she tucked both hands into her sleeves, like Mother Kang.
+
+That year, with her added, those at the morning were twenty.
+
+Ayi looked at Liu'er's sleeves, then at Mother Kang's sleeves, and tucked her own two hands into her sleeves too.
+
+---
+
+Note: In the second year of Huichang (842) the Uighur khagan Ögä raided Yunzhou and Shuozhou; in the first month of the third year the Hedong general Shi Xiong made a night attack on the Uighur royal tent at Shahu Mountain; Ögä was wounded and fled, and the Princess Taihe was brought back—see the "Uighur" chapters of the two *Tang Histories* and *Zizhi tongjian* juan 247. In the fourth month of the same year a decree ordered the Manichaean teachers of the realm killed; they were shaved, dressed in monks' robes in the guise of *śramaṇa*, and killed—see Ennin's *Record of a Pilgrimage to China in Search of the Law*; that seventy-two women Manichaeans of the capital died is in Zanning's *Da Song seng shilüe*. Among the Manichaeans the Elect kept celibacy and the Hearers might marry. The Church of the East regarded Manichaeism as a heresy. Ayi and Headman Liu are invented.
+
+---
+
+**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿
