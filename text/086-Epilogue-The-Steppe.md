@@ -32,6 +32,8 @@ Two hundred years more, and in the royal tents of the Kerait the cross was kept 
 
 The day the king left, the old woman in that tent sat by the hearth till noon. She hung the cross back on the pole, hung it straight, and felt with her hand the dot on its back. The boy, holding his lamb, squeezed in beside her and asked whether that man would come again; she said she didn't know; the boy asked again: he's a king—why would a king get lost too? She said: when the snow is heavy, anyone gets lost. Toward evening the sky clouded over again; the wind rose from the north, and the snow on the steppe began to fly again. She came out of the tent, went up to that wooden post, took down the clay dish, tipped the burnt dregs onto the snow, dug a fresh lump of mutton fat out of a skin bag and put it in the dish, pulled a thread from the hem of her robe, rolled it in her palm into a wick, and set it in. She struck the flint, struck three times before it caught; the flame rose, blue first, then yellow, leaned in the wind and stood up again; she put the dish back on top of the post, stood and watched till it burned steady, and turned and went back into the tent.
 
+(The End)
+
 ---
 
-**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿
+**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿
