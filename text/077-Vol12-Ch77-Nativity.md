@@ -1,0 +1,233 @@
+# Volume Twelve　Jade Gate
+
+## Chapter 77　Nativity
+
+> Its jewelled adornment glittered blue-green and blazed like red clouds at dawn.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+On the evening of the day they went out of the Kaiyuan Gate, the caravan halted at the Lingao post station. Lingao was twenty *li* from the city of Chang'an, the first stage going west. In the old days, when the people of Chang'an saw a guest off beyond the passes, they saw him this far, broke a willow twig under the willows outside the station, drank a cup of wine, and turned back. That day the leaves of the willows outside the station had all fallen; the bare branches, blown by the wind, whipped against the station wall with a crack, crack. The caravan unloaded its packs on the open ground outside the station; the camels knelt to chew their fodder; Headman Cao's men lit a fire and set a pot of water on it.
+
+Those being sent back were not only the ten or so of the Daqin Monastery. The Bureau of Receptions' list had forty-odd in all—of the Daqin Monastery, of the fire-temple in the Liquan Ward, of the fire-temple in the Buzheng Ward, and a few households of the Magi—all put with this one caravan going west. Escorting them were two clerks sent by the Bureau of Receptions, one old and one young, on donkeys, with the list. As it grew dark the old clerk stood at the station gate, unrolled the list, cleared his throat, and said, "Listen well, all of you. The meaning from above is to send you back to your own countries. We two are only to see you as far as Jingzhou; west of Jingzhou you're no concern of ours. All along the road, every evening, there'll be a roll call. Whoever is called answers; whoever can't make a sound, his family answers for him. Not one may be missing. If one's missing, we two will get the cane when we go back." When he had said it he had everyone stand in a row and called them one by one, an answer for each name, and drew a tick in the list.
+
+When Yi Lingbao was called, He Siniang answered for him; Lingbao lay in the cart wrapped in two felts, coughing fit after fit. When Jingfu was called, Jingfu answered. Joseph, Elijah and Salang all answered. When the two old monks were called, one answered, and one lying in the cart could make no sound, and Elijah answered for him. When the fire-temple of the Liquan Ward was called, the first was an old man, past sixty, not tall, a little stooped, his face dark red, as if roasted by fire all his life. He answered "Here," his voice very clear, and the people at the station gate all turned to look at him. The old clerk drew his tick and read: "*Zhu, fire-keeper of the fire-temple of the Liquan Ward, a man of Kang; to be sent back to his own country.*" The old man stood and heard it out, waited until the old clerk called the next, and only then turned and went back to his family.
+
+His family were five: he, his old wife, a son, a daughter-in-law, and a grandson of ten or so. They had few packs—two chests, a few rolls of felt, a pot. The old man held in his arms a coarse earthenware jar, its mouth tied tight with oiled cloth. When he sat down he held it; when he lay down he set it on his chest. His son wanted to carry it for him, and he wouldn't let him.
+
+---
+
+That night the old man came of his own accord to the Daqin Monastery's fire. He crouched to warm his hands, looked at Jingfu, at Salang, at Lingbao lying in the cart, and began: "You're of the Daqin Monastery in the Yining Ward, aren't you? I know that big gatekeeper of yours"—he jerked his chin at Salang—"he sat at your monastery gate with a staff across his knees for years, and the Liquan Ward people going through the Yining Ward all went round him."
+
+Salang sat by the fire and made no sound. Jingfu answered for him that they were of the Daqin Monastery.
+
+"And I've heard your monastery's stele has been buried," said the old man. "The Liquan Ward people have talked of nothing else these two months. Some say you're fools—a stone that size, what did you go to all that trouble to bury it for? Some say you're clever—buried in the ground, no one can haul it away. When I heard, I thought: burying it was good. A stone buried in the earth—the stone doesn't hurt."
+
+Jingfu said yes, it was buried, buried in the place where it had stood.
+
+The old man nodded, turned his two hands over and warmed them again, and said, "My surname's Zhu. The fire-temple people all call me Old Zhu. I've kept the fire forty years, my Pa kept it forty years, and before that my great-grandfather. My great-grandfather was the fire-keeper who died beside the altar in the first year of Shangyuan. That, your monastery's people probably know about too."
+
+Jingfu did not answer at once. A stick in the fire burned through and collapsed, sending up a string of sparks. He raked the sticks together with a branch, and only then said, "We know. That year I wasn't born yet, but it's in the monastery's accounts—Elder Samaan recorded it. The next day Master Yi went to your fire-temple with money and medicine, and bowed before the old fire-keeper's family and begged pardon. Some elders went with him, and a boy of fourteen carrying a bag of money on his back. That boy was my Master."
+
+"I know. My Pa told me more than once," said Old Zhu. "That year my Pa was twelve or thirteen, standing in the yard, and a fat *hu* monk dressed the wounds of the people in the house and came out and took a dry flatbread from his bag and held it out to him. He took it, gripped it in his hand, didn't dare eat it—his granny was weeping in the inner room; he didn't dare eat. He gripped that flatbread all night until it crumbled, and the next morning, when his granny had wept herself to sleep, he sat alone by the fire and ate that handful of crumbs. He told me the flatbread was sweet; there was honey in it; in all his life till then he'd never eaten a flatbread with honey in it. When he'd eaten it he wept, wept for his grandfather, and couldn't say himself whether he was still weeping for that flatbread too. All his life when he spoke of it, it was these same few sentences, not one word changed."
+
+Jingfu said, "That fat *hu* monk was called Ishaq, an elder of the monastery. He died in the Zhenyuan years."
+
+"I know he was called Ishaq." Old Zhu laughed, the lines of his face lit stripe by stripe by the firelight. "My Pa said that man couldn't speak Tang well; telling people not to be afraid, he said *mo pa* wrong. My Pa imitated it all his life—for me, for my son—and down to my grandson he can still say *mo pa*, but doesn't know what it means any more."
+
+Salang had not spoken all this while. Now he pointed at the jar in the old man's arms and asked what he was carrying that he wouldn't let go of all the way.
+
+Old Zhu looked down at the earthenware jar and smoothed the oiled cloth over its mouth with his palm. "It's ash. In the eighth month, when the edict came down, the fire-temple was sealed, and the fire wasn't allowed to be lit any more. That brazier of fire my ancestors brought from Kang burned in the Liquan Ward more than a hundred years and never went out a single day. The year An Lushan broke into Chang'an it didn't go out; the year the Tibetans entered the city it didn't go out; the year of Zhu Ci it didn't go out either. In the first year of Shangyuan, when those men of your monastery threw water on the altar, my great-grandfather shielded it with his body and was beaten to death with a carrying pole, and the fire didn't go out. On the twenty-third of the eighth month men came from the Metropolitan Prefecture, stood before the altar, and told me to put the fire out myself. I wouldn't. They said, if you won't put it out, we'll pour water on it. I said, then I'll do it myself."
+
+He paused, as if that day's scene had come before his eyes again. "Forty years I kept the fire; I couldn't let it be put out by people pouring water on it. I took an iron plate and covered the brazier, covered it all night. The next morning I lifted it, and the fire was gone; there was a brazier of ash, still warm to the touch. I put it in this jar. If you ask what I want the ash for, I don't know. I just won't throw it away. Throw it away, and the fire's really gone; keep the ash, and though the fire's out, it's still what it burned."
+
+No one by the fire spoke. Lingbao coughed a while in the cart, and when he had finished said from under the felt, "Old man, you kept it well." Old Zhu bowed slightly toward the cart and went back, holding his jar.
+
+---
+
+The caravan went west by the road toward Jingzhou, through Xianyang, through Liquan, north-west all the way. Past Liquan there was a stretch of slope; it had rained the night before, and the yellow earth of the road was soaked to mud, sticky and slippery. Old Zhu's wife couldn't keep her feet and fell twice; at the second fall she lay a long while and couldn't get up. Salang saw from behind, came over without a word, crouched, and took her on his back, carried her step by step over that stretch of slope, set her down, and went back and carried Old Zhu's family pot across too.
+
+That night by the fire Old Zhu leaned over and asked Salang, "Big fellow, your Pa guarded the monastery too, didn't he?"
+
+Salang said, "Yes. My Pa did, and my grandfather too, who walked all the way from the Patriarchate to Chang'an with the elders. People who guard monasteries have no other skill, but they can't bear to see anyone fall."
+
+Old Zhu laughed aloud at that, and when he had laughed said, "Fire-keepers are the same; they can't bear to see a fire go out. Our two houses are both people who've kept one thing all their lives."
+
+In the eleventh month the first snow fell, not heavy, settling on the camels' backs, on the cart awnings, on the felt Lingbao was wrapped in. Every hour He Siniang brushed the snow off the felt, and when she had brushed it, put her hand in to feel his feet; if they were cold, she pushed in the little copper hand-warmer she had been keeping warm in her breast. Lingbao's cough grew worse every day; at night he coughed so that the people at the post station couldn't sleep. Headman Cao came to look once, had another layer of felt awning added to his cart, and as he went said to Jingfu, "At the old man's age, travelling like this is hard. The Director should be prepared."
+
+At Binzhou one of the two old monks failed. He was seventy-nine and had lain in the cart since leaving Chang'an, unable to eat all the way. That night they halted by the stables of the post station, and Elijah watched over him. In the middle of the night he called "Elijah" once and said in Syriac, "Elijah, I'm cold." Elijah unwrapped his own felt and covered him with it, held his hand, and said, "Elder Thomas, I'm here. It'll soon be light; when it's light it'll be warmer." The old monk said nothing more. When it grew light, Elijah's hand was still holding his, and the hand was already cold.
+
+He had come from the Patriarchate in the Yuanhe years and lived in Chang'an thirty-odd years; the monastery's people all called him Elder Thomas, and what his Tang name was no one could remember at first. Jingfu went through the ledgers Lingbao kept, found it in the pages for the Yuanhe years: Mingyuan. The caravan halted half a month at Binzhou while he was buried, and to let Lingbao's cough ease a little. The ground was frozen. Salang alone dug a whole morning in a patch of waste ground outside the city, dug until there was room to lay a man. Jingfu wrote a stake: *Mingyuan, monk of the Daqin Monastery of Chang'an; died at Binzhou, eleventh month of the fifth year of Huichang.*
+
+---
+
+Which day the Nativity fell on, Jingfu had been counting all along.
+
+Since leaving Chang'an, Elijah had kept the days by the Syriac months, day by day, kept them in his head, and sometimes marked them on the cart boards with charcoal; every few days Jingfu went to ask. Of the four Sundays of the Annunciation, the first they had kept at the foot of the Liquan slope, in the rain, reciting a few lines under the cart awnings; the other three were all at the Binzhou post station, watching over Elder Thomas. On the evening of the day they buried Elder Thomas, Elijah said to him, "Director, the day after tomorrow is the twenty-fifth of Kanun."
+
+Jingfu said he knew.
+
+He knew which day it was. He did not know how to keep it.
+
+That night he sat until the second watch by the fire beside the stables. The fire was of wet wood begged from the post-station men, and it smoked. People in the carts coughed fit after fit; someone under a cart was weeping—it was He Siniang, who wept a few times and stopped, for fear of disturbing people. Joseph had not said a word all day. Liu'er asked Ayi whether Grandpa Thomas was cold buried in the ground, and Ayi didn't answer her. The few fire-temple households sat round another fire, their heads bowed too. A month and more out of Chang'an: colder every day, the road longer every day, fewer people every day.
+
+The felt awning on the cart stirred.
+
+"Fu'er, not asleep yet?"
+
+"No." Jingfu stood and went to the side of the cart. "Uncle Lingbao, the day after tomorrow is the Nativity."
+
+"I know. Elijah told me."
+
+"I don't know how to keep it," said Jingfu. "There's no hall, no lamps, not one decent pot. Elder Thomas has just been buried; everyone's heart is ashes. Other years in Chang'an the Nativity was a day of joy. This year, at this post station, what can I give everyone to make them glad?"
+
+Inside the awning it was quiet a while.
+
+"Help me down," said Lingbao. "It's stuffy in the cart. I'll go and sit a while in the stable."
+
+---
+
+The stable was built of mud brick and thatched with straw; the north wall let in the wind, stopped with a few bundles of millet straw. In it were tied the post station's four horses and two of Headman Cao's camels; the floor was strewn with bedding straw, and under the straw was horse dung, soft underfoot. Jingfu helped Lingbao and sat him in the straw heap by the wooden feeding trough, and wrapped him well in the felt. There was only one oil dish in the stable, set on a ledge of earth at one end of the trough, its flame swaying.
+
+"Fu'er, in Chang'an, keeping the Nativity—do you remember what it was like?"
+
+"I remember." Jingfu crouched beside him. "The first Nativity I kept, I was five, just come to the monastery. Forty-odd people stood in the hall, and on the table the lamps, one against another, were all lit. The Master stood in front in that old black robe and told of the star in Tang: how in the east there were some men who watched the stars, who came from Persia, and saw the star, and followed it all the way, and arrived."
+
+He looked toward the stable door. It was dark there.
+
+"When he'd told it, a pot was added at the gruel shed in the ward street, mutton-bone broth, and the people of the ward came with bowls and queued to the corner of the ward street. The Master gave me a sesame cake with sesame scattered all over it. I held it and couldn't bear to eat it, and held it under the lamp to look at."
+
+Lingbao laughed.
+
+"The years you saw were already the plain ones," he said. "When I was small, in the Dali years, on the day of the Nativity, people came from the palace."
+
+He drew the felt up round his shoulders.
+
+"Before it was even dark there were hooves at the ward gate. A palace envoy on horseback, and a dozen-odd men behind him carrying food boxes and shouldering loads, the boxes covered in yellow silk. Pa in that purple *kasaya* led the whole monastery to kneel at the gate to receive them. The envoy read a few lines; I couldn't understand them, only heard the words *Son of Heaven*," said Lingbao. "When the food boxes were opened, they were from the imperial kitchen: steamed mutton, flaky cakes, fruits preserved in honey, layer upon layer. And heavenly incense in a little silver box—once it was lit, the whole hall was full of that smell, and it didn't go for three days."
+
+"And then?"
+
+"Then Ma shared out what was in the boxes. To the monastery's people, to the gruel shed, to the few poor households at the south end of the ward. I sat on the threshold with a flaky cake gripped in my hand, biting it bite by bite, crumbs falling all over me. Brother stood at the hall door telling everyone who came in, one by one: the Son of Heaven sent it; everyone eat."
+
+He stopped and coughed a while, and when he had finished, panted a few breaths.
+
+"In those days I thought: the Lord's being born is a great thing. Even the Son of Heaven sends food—how could it not be a great thing?"
+
+A horse snorted and shifted its hooves in the straw.
+
+"Fu'er, all that's gone," said Lingbao. "The Son of Heaven's food boxes are gone, the hall full of lamps is gone, your Master is gone. If you want to make everyone glad with those things, you can't produce them."
+
+"Then with what?"
+
+"If you can't produce them, you aren't asked to," said Lingbao. "Tonight, go and pray. Ask the Pure Wind King to help you. Tomorrow, standing before everyone, don't say your own words; say the Lord's words. Let the Lord's words give everyone joy."
+
+Jingfu crouched there and said nothing.
+
+Lingbao reached out a hand and felt beside him, felt the wooden trough, felt it from one end to the other.
+
+"What is this?"
+
+"The horses' feeding trough."
+
+"When he was born, he was laid in a trough like this," said Lingbao. "In a stable, beside the dung heap, with beasts beside him. His mother was on the road, with nowhere to stay; the inn was full, and no one would give her a room."
+
+He laid his palm flat on the trough.
+
+"In the years the Son of Heaven sent food, I never once thought of this. Seventy-eight years, and today for the first time I've touched it."
+
+That night Jingfu did not go back to the cart. He knelt before that wooden trough until the oil in the dish had burned dry.
+
+---
+
+On the day of the Nativity, before it was light, they stood the morning in the stable.
+
+The stable was crowded; there was no room to stand apart. Joseph and Elijah stood at the two ends of the trough, Ayi and Liu'er squeezed onto the straw heap, He Siniang held Lingbao's arm before the trough, Simeon sat on an upturned fodder bucket. Salang lit a fire of sticks at the stable door and stood beside it, his wooden staff planted on the ground. Jingfu stood in the middle, and when the sky greyed looked back and counted: nine.
+
+Joseph raised the hymn of the Nativity, in Syriac, and Elijah sang with him. Both their voices were hoarse; since leaving Chang'an the cold wind had been pouring into them all the way. Where the tune rose high they couldn't reach it, so they dropped low and sang it through low. Liu'er couldn't understand and hummed along, and Ayi hummed along too.
+
+When they had sung, Jingfu took the glass bowl out of his bundle, unwrapped the old cloth layer by layer, and set it in the wooden trough. He Siniang took out the flatbread she had baked on the road and laid it in the bowl. It was coarse flour, burned on one side.
+
+Jingfu stood before the trough, turned, and faced them all.
+
+"Today is the Nativity. Other years in Chang'an, on this day the lamps in the hall were all lit, and in the Dali years the Son of Heaven even sent food. This year we're in a stable at Binzhou: no hall, no lamps, and yesterday we buried Elder Thomas." Jingfu patted the wooden trough with his hand. "But on the night Mishihe was born, there was no hall either, no lamps, no Son of Heaven sending food. His mother bore him in a stable, wrapped him in cloth, and laid him in the trough the beasts ate from."
+
+Liu'er poked her head up from the straw heap to look at the trough.
+
+"That night, those watching sheep in the fields heard the heavenly spirits say from the sky: *I bring you good tidings of great joy, which shall be to all people. Ye shall find the babe wrapped in swaddling clothes, lying in a manger; and this shall be a sign unto you,*" said Jingfu. "Mark it well, all of you: the sign is the manger. Not a hall, not lamps, not food boxes—a manger."
+
+He stopped; his throat moved.
+
+"The scripture says: *though he was rich, yet for our sakes he became poor.* He came down from heaven and walked all the way down to a stable. We've walked out of Chang'an and come to a stable too," said Jingfu. "Wherever we go, however low we go, he's got there a step ahead of us and is waiting there. This year's Nativity, we're nearer to him than we've ever been."
+
+He Siniang pressed her sleeve to her eyes.
+
+When he had finished he turned back and went to stand beside Lingbao.
+
+Lingbao recited the words of consecration. His eyes could not see, and his hands shook badly; one hand held the trough and one hand rested on the bread, and he recited very slowly, sending the words out one by one. Jingfu stood beside him, his left hand holding up the foot of the glass bowl.
+
+When he had finished reciting, Lingbao broke the bread. He broke it very carefully, piece by piece, breaking one and handing one. When he handed a piece into Jingfu's hand, his hand rested in Jingfu's palm and did not draw away at once.
+
+"Fu'er, all those years of Nativities in Chang'an put together weren't as much a Nativity as today."
+
+Jingfu held that piece of bread. The wind leaking into the stable was cold, and the bread was cold; he chewed it, and tasted a little burnt, a little of the wheat's sweetness. He remembered the star the Master had told of, those star-watchers come from Persia; they had travelled west, and come to the door of a stable. Now they too were travelling west, toward Persia, and had come into a stable.
+
+He swallowed the bread. His eyes were hot, and his heart was full.
+
+The few fire-temple households were all standing outside the stable watching. Old Zhu was there too, holding his earthenware jar, standing by Salang's fire, not coming in, not going away. When Lingbao had handed bread to all the monastery's people, he turned his ear and asked, "The one standing outside—who is it?"
+
+Jingfu said it was Old Zhu of the fire-temple.
+
+"Siniang, there's still flatbread from the road in the bundle; take out a piece," said Lingbao. "The kind that hasn't been consecrated. Give it to him, and say today is the Nativity, and ask him to taste it."
+
+Jingfu took the piece of flatbread to the stable door and held it out. Old Zhu looked at the bread, then at Jingfu, and did not reach out. "Director, I'm a fire-keeper. I don't believe in your Lord. I can't hide that from you."
+
+"I know," said Jingfu. "Uncle Lingbao knows too. This is flatbread from the road, not consecrated; it's food. If you don't believe, it doesn't matter; just take it. My Master used to say, bread is for the hungry to eat; it never asked anyone what they believed."
+
+Old Zhu thought a moment, reached out one hand and took it, and held it gripped. He did not eat it and did not throw it away; he just held it, the jar in his other arm, and went back to his family.
+
+---
+
+They reached Jingzhou in the twelfth month. The city of Jingzhou stood on the Jing River—not a big city, earthen walls, soldiers on the walls, the Jingyuan military governor's inner citadel within. At the city gate a notice was posted, and the old clerk stood under it and read it out to everyone, word by word: "*The Jingyuan circuit is broad of land and thin of people, and its military farms lack able men. All vagrants, monks and nuns returned to lay life, and foreign visitors being sent back who wish to stay may be registered at Jingzhou, be given so much land, be free of tax and levy three years, and be enrolled as military-farm households.*"
+
+When he had read it he tucked his hands into his sleeves and said to everyone, "All of you, we've reached Jingzhou, and our two errands are at an end. Out of Jingzhou is Tibetan country. Where to go and how, how far you must be sent before it counts as your own country, the list doesn't say, and I don't know. Let me say something it's not my place to say: if you're willing, stay at Jingzhou. Once registered, you're registered householders of Jingzhou; farm, pay your grain, and from then on you're not people being sent back. Those willing to go west, I won't stop either. Headman Cao's caravan goes on west after the New Year. Each family talk it over yourselves, and early tomorrow give me a definite word."
+
+That night those being sent back deliberated all night at the post station. A steward of the Buzheng Ward fire-temple said that going west, out of Jingzhou, the Tibetans took tax, and once they'd taken it, whether they'd let people through, no one could say; and even if they did, further west—Liangzhou, Shazhou, Xizhou, the Pamirs—where was their own country, after all? Our ancestors came from Kang, from Persia, a hundred-odd years ago; whether the people there would still acknowledge us, who knew? A young man of a Magi household disagreed: the list said plainly *to be sent back to their own countries*; register at Jingzhou and farm, and some day the Jingzhou officials would remember and say, you're people being sent back—why are you hanging on here and not going?—and drive them out again, and where would they be driven then? Both sides argued back and forth, neither moving the other, and by the second half of the night their voices had all gone low.
+
+The few of the Daqin Monastery deliberated once too, by the cart. Jingfu began. "I want to stay. I was born and raised in Chang'an. Uncle Lingbao once left the register and was a registered householder. The notice says monks and nuns returned to lay life may also be registered. If the two of us register at Jingzhou, we're Tang men again. Jingzhou is near Chang'an. If some day a new Son of Heaven changes his mind and allows the Daqin Monastery to reopen, we can be back in a few days. Brother Joseph, Brother Elijah, Brother Salang are foreigners—the list says so—and can't stay. You three go west, and when you reach the Patriarchate tell the patriarch that there are still people in Chang'an waiting."
+
+Lingbao lay in the cart and heard him out, and only then said, "If you want to stay, stay. I won't stay. The Bureau of Receptions' list writes me down a man of Balkh, so I'll go toward Balkh. Pa came from Balkh; I'll go back and look for him. If I don't get there and die on the road, I'll have died on the road going home. I'm nearly eighty. Registered at Jingzhou, I couldn't farm, couldn't pay grain; what I'd register is an empty name, taking up someone's land. Better not to take it."
+
+He panted a few breaths and went on: "Fu'er, think. If you stay and Joseph and the others go west, who'll lead the morning on the road? Who'll stand in the middle before light and count the people? At the offering once in seven, with my hands shaking like this, who'll hold the bowl's foot for me? You're the Director. The monastery's gone, but the Director remains; where the Director is, there the morning is. The day your Master handed you the lamp, he never said the lamp was only to be lit in the Yining Ward."
+
+Jingfu stood by the cart until the fire was nearly out, and only then said, "Then I won't stay. Wherever Uncle Lingbao goes, I'll follow."
+
+---
+
+By daylight, twenty-odd were willing to stay: several households of the Buzheng Ward fire-temple, two households of the Magi, and of the Liquan Ward fire-temple, not one family went on west. The Daqin Monastery's remaining old monk, called Simeon, his Tang name Daoming, was eighty-one; jolted two months on a donkey's back, his legs were so swollen he couldn't get off the donkey. He held Jingfu's hand and said in Syriac, "Director, I can't walk any more. I won't be a burden on you. I'll stay at Jingzhou and say your names once every day for you, until the day I can't say them any more." Old Zhu, beside them, understood half and said there was an extra bed in his house; the old man could live there, and he'd look after him.
+
+Old Zhu came to find Salang at daybreak. His family had deliberated all night too. His son wanted to stay, his old wife wanted to stay; his grandson of ten couldn't understand what the grown-ups said and cried along. Old Zhu said he'd stay too. "I'm sixty-seven; I can't walk west. My ancestors came from Kang and walked a lifetime to reach Chang'an; walking back from Chang'an I'd never reach Kang. Wherever I get to, there I'll die; die at Jingzhou or die halfway, it's the same."
+
+He took the earthenware jar from his breast and held it out in both hands to Salang. Its body, held and stroked by him all the way, had a bright band worn round it.
+
+Salang's two hands hung down; he did not take it. "Old Zhu, this is your family's fire."
+
+"It's ash," said Old Zhu. "Big fellow, hear me out. I'm staying at Jingzhou. Jingzhou has no fire-temple, and never will. If I hold this jar of ash till I die, when I'm dead my son won't know what it is, my grandson still less; a jar of ash—someone will take it and spread it in a pigsty. You're going west. Your grandfather came from the Patriarchate; the Patriarchate is by the Two Rivers, and beyond the Two Rivers is Persia, and Persia still has fire, and still has people keeping it. I ask nothing else of you: when you reach a place where there's fire, give this jar of ash to the one who keeps it, and tell him: this is the fire of the Liquan Ward of Chang'an; it burned a hundred-odd years and went out on the twenty-third of the eighth month of the fifth year of Huichang; its keeper was surnamed Zhu, a man of Kang. If you don't reach a place where there's fire and die on the road, have them bury it with you. Ash going back into the earth is good too."
+
+Salang said, "I'm a man who believes in the Lord. Your fire I don't believe in. If you give it to me, aren't you afraid I'll spoil it?"
+
+"I know you don't believe; I don't believe in your Lord either," said Old Zhu. "But that year, when your monastery's people threw water all over my great-grandfather, the next day your Master Yi came, and bowed before my great-grandmother, and brought flatbread too, and there was honey in the flatbread, and my Pa ate it and remembered it all his life. Today I give you this jar of ash, and there's honey in it too. Do you understand what I mean?"
+
+Salang looked at him, and after a while reached out both hands and took the earthenware jar. It was heavy, much heavier than he had thought. He held it, held it against his breast, and said, "I understand. Wherever I go, it goes."
+
+---
+
+The caravan left Jingzhou on the twentieth of the twelfth month. As they went out of the city it was still dark. At the city gate stood a few people—the fire-temple households who were staying, and Simeon leaning on his stick. Old Zhu stood at the front, his old wife holding his arm, his grandson beside him rubbing his eyes. They did not wave; they only stood, watching the camels go one by one out through the gate passage, down to the bank of the Jing, onto the road going north-west.
+
+Salang walked beside the first camel, holding its halter. The earthenware jar he had wrapped in a felt and tied against his chest; at every step the jar swung once against his breast. When they had gone a long way he looked back. Those few people were still at the city gate, too far to make out faces, only a few dark dots. He hoisted the jar on his chest a little higher, turned, and walked on.
+
+---
+
+Note: The Lingao post station was outside the Kaiyuan Gate west of Chang'an, the first stage going west; Tang people seeing friends off often came this far. The fire-temples were abolished in the eighth month of the fifth year of Huichang; see the *Jiu Tangshu*, "Annals of Wuzong," and *Tang huiyao* juan 47. The Jingyuan military governor had his seat at Jingzhou; before the Dazhong years the lands west of the Long Mountains beyond it were held by the Tibetans. The Jingzhou invitation to register for military farms is the novel's invention. For the affair of the Liquan Ward fire-temple in the first year of Shangyuan see Chapters 28 and 29; for Ishaq's *mo pa*, Chapter 22. The Nativity of the fifth year of Huichang (25 December in the Julian calendar) falls roughly on the twenty-third of the eleventh lunar month. The Church of the East calls the Nativity *Yaldā* (Syriac, "birth"); the four Sundays before it form the season of the Annunciation (*Subbārā*), with which the liturgical year begins; the Syriac month Kanun (*Kānōn*) corresponds to December. In Daizong's reign, "on each day of the Nativity he bestowed heavenly incense to announce success, and distributed imperial food to honour the Luminous congregation," according to the stele; "the Nativity" may mean Daizong's birthday or Christmas, and the novel takes the latter reading. The "Pure Wind King" is from the *Hymn of the Three Majesties*, "the Merciful Father, the Bright Son, the Pure Wind King"—the Holy Spirit; the "heavenly spirits" are from the stele's "a heavenly spirit proclaimed the joy"—angels. The manger and the "good tidings of great joy" are in Luke 2; "though he was rich, yet for your sakes he became poor" is 2 Corinthians 8; the Magi are in Matthew 2, and the stele says "a luminous star announced the blessing; Persia saw its brightness and came to pay tribute."
+
+---
+
+**Version** v0.6 (translated from Chinese v0.6)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿

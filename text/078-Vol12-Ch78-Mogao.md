@@ -1,0 +1,229 @@
+# Volume Twelve　Jade Gate
+
+## Chapter 78　Mogao
+
+> His work being done, at high noon He ascended to the Truth.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+Past Jingzhou, it was no longer Tang country. Going north-west out of Jingzhou, by the time the caravan reached the bounds of Yuanzhou there were no more Tang beacon towers by the road; what they saw were Tibetan earth forts, one after another squatting on the ridges, with yak-tail banners stuck on them. The city of Yuanzhou was still there, half its wall fallen; in it lived Tibetans, and Tang too—Tang in Tibetan robes, their hair in Tibetan plaits, Tibetan threaded through their Tang when they spoke. When they saw the caravan they stood by the road watching, and did not go away.
+
+Jingfu asked Headman Cao whether these people were Tibetans or Tang, in the end.
+
+"They're all Tang," said Headman Cao. "After the An Lushan year, when Hexi and Longyou were lost, the people in the cities couldn't run, so they stayed. Stayed eighty years. Their grandsons' grandsons still know they're Tang, but they can't speak all of Tang any more."
+
+The Tibetan checkpoint was outside the city of Yuanzhou. A dozen-odd soldiers stood at it, and a chief sat on a felt with a small table before him and a steelyard on the table. The caravan's packs were unloaded one by one and opened; the chief looked at each and named a figure; Headman Cao's men weighed beside him, and when it was weighed paid in coin, in silk, in tea, and when they had paid, tied the packs up again. When it came to the bundles of the Daqin Monastery's few, the chief had them opened. Opened, they were scriptures, roll upon roll, some in letters written across and some in characters written down. The chief picked up a roll and turned it this way and that.
+
+"What's this?"
+
+"Scripture," said Jingfu.
+
+"What scripture?"
+
+"The scripture of our religion. Of Daqin."
+
+"What's Daqin?"
+
+Headman Cao said a few sentences beside him in Tibetan. The chief heard them and tossed the roll back into the bundle. "Scriptures are worth nothing. No tax. Tie it up."
+
+He spied the earthenware jar tied to Salang's chest and had it taken off. Salang took it off and opened the oiled cloth; the chief craned to look. There was ash in the jar, and he frowned.
+
+"What's this?"
+
+"Ash," said Salang.
+
+"You carry ash with you too?"
+
+"Someone entrusted it to me."
+
+The chief stared at that jar of ash a long while, asked no more, and waved his hand to have it tied up.
+
+---
+
+They crossed the Yellow River in the first month. The caravan crossed at Huizhou. Outside the city of Huizhou there was a crossing; in summer there was a ferry, and in winter the river froze, and when the ice was thick, carts and horses went over on it. That winter was cold and the ice was thick. Headman Cao first sent two camel-drivers with long poles to probe the ice step by step, probe to the far bank and back, and they said the ice was more than a foot thick; it would bear. He had the camels strung out one by one, far apart; when one had gone over, the next went; people went with the camels, and the carts last, their wheels wound with straw rope against slipping.
+
+Lingbao's cart was the very last. He Siniang would not ride in the cart; she said the cart was heavy, she'd get down and walk and take off one person's weight. She held the cart shaft and walked step by step on the ice. Jingfu walked on the cart's other side, and Salang in front leading the donkey that drew the cart. When they reached the middle of the river there was a sound under the ice—a crack, very dull, as if someone at the bottom of the river had struck it with a hammer. The donkey stopped, its ears pricked, and would not go on. He Siniang stood on the ice, her face white; Jingfu stopped too.
+
+"Don't stop!" Headman Cao shouted from the far bank. "Keep going! Ice cracking is common; stopping is what does the harm!"
+
+Salang tugged the donkey's halter, tugged a few times, and the donkey wouldn't move. He untied the earthenware jar from his chest and gave it to Jingfu, went in front of the donkey himself, turned his back to it, threw the halter over his shoulder, bent, and hauled forward step by step, and the donkey followed him, a step, a step, to the far bank.
+
+When they were up the bank, He Siniang sat on the river beach, her legs gone soft; she tried twice to stand and couldn't. Lingbao, in the cart, had seen nothing; he had only heard that sound.
+
+"That sound just now—what was it?"
+
+"The ice," said He Siniang.
+
+"When I was small I heard Pa say that when he crossed the ice on the Mianman in his day, he looked at the colour of the ice. Blue was new ice, white was old ice; new ice is thin and old ice thick," said Lingbao. "Today's ice—what colour was it?"
+
+"I didn't look," said He Siniang. "I was only minding my walking."
+
+Joseph fell ill after they crossed the Yellow River. As he walked on the ice he had fallen, fallen on the ice; he wasn't hurt, but he got wet, and chips of ice went down his collar. He said nothing. When he reached the far bank his clothes had frozen stiff, and he said nothing then either. That night he began to shiver, shivered all night, and the next day the fever came.
+
+---
+
+They reached Liangzhou in the second month. The city of Liangzhou was a great city, bigger than Jingzhou, bigger than Yuanzhou, its walls high, Tibetan soldiers standing at its gates. In the city half were Tibetans and half Tang, and there were Sogdians too, and Uighurs; the speech in the streets was a dozen-odd tongues stirred together. Jingfu stood in the street listening and could make out Tibetan, Sogdian, Uighur, Tang. He thought of the West Market of Chang'an, and how the Master used to say that in the West Market streets, with your eyes shut, you could hear who was from where.
+
+That year Liangzhou was in turmoil. Headman Cao asked about for two days, and came back and told everyone:
+
+"The Tibetan *btsan-po* has been dead four or five years. Since he died, the Tibetans have been fighting among themselves—two great generals, one called Lun Kongre, one called Shang Bibi, fighting back and forth across Hexi and Longyou. This year they're fighting by Liangzhou, next year by Shanzhou. The caravans on the roads are robbed once by this side and once by that." He said, "We'll have to rest at Liangzhou. When we've found out about the road, we'll go on west."
+
+They rested three months at Liangzhou, lodging at a hostel in the city kept by a Sogdian. The hostel-keeper was surnamed An, an old acquaintance of Headman Cao's. When he heard they were of the Daqin Monastery of Chang'an, he put down the counting rods in his hand.
+
+"Liangzhou used to have a Daqin monastery too," he said. "In the Tianbao years it did. When the Tibetans came, the monastery's people ran, and the Tibetans tore the monastery down and used the bricks to build barracks. Now of those in the city who believe in Daqin there are a few households left, all Sogdians. At the offering once in seven they gather in the back yard of one house. There's no bread; someone recites scripture, in Syriac, and the one reciting doesn't understand much of it himself."
+
+Those few households heard that people of the Daqin Monastery had come from Chang'an, and at the second offering once in seven they all came to the back yard of the hostel—a dozen-odd people, old and young. There was one old man, nearly ninety, his eyes clouded, leaning on a stick. He came into the back yard, saw Jingfu, saw Lingbao lying in the cart, saw Elijah, saw Joseph lying on a felt burning red with fever, and stopped, and asked in Syriac:
+
+"From Chang'an?"
+
+"From Chang'an," said Elijah.
+
+The old man did not kneel. He stood leaning on his stick.
+
+"When I was small my Pa took me to the Daqin monastery of Liangzhou. There was an elder there come from Chang'an, who broke the bread and gave it to me to eat," he said. "That was the last time in my life I received the bread. I was seven that year. Then the Tibetans came, the monastery was gone, the elder died, and for eighty years no one in Liangzhou has broken the bread."
+
+He said that in those eighty years these few households of Liangzhou had gathered at the offering once in seven just the same, recited just the same, and when they reached the offering bread, stopped.
+
+"My Pa set the rule in those days. When we stop, everyone cups both hands at his breast, and holds them cupped while one line is recited, and that counts as having received." He tucked his stick under his arm and cupped both hands at his breast to show them. "I've cupped them eighty years. I'm used to it."
+
+That day Lingbao broke the bread. He sat in the cart and couldn't get up; he had the glass bowl set on his knees, and Jingfu held the bowl's foot. He recited the words of consecration very slowly, and when he had recited them broke the bread and handed it out piece by piece to those dozen-odd people of Liangzhou. When he reached the old man of nearly ninety, the old man gave his stick to the man beside him and cupped both hands at his breast, cupped them the way he had cupped them eighty years. The bread was laid in his palm. He looked down at it, looked for several breaths, and only then remembered that this time there was something in his palm. He put the bread in his mouth, chewed, and said to the man beside him: it's flour.
+
+Joseph lay on his felt watching. His fever had gone down a little that day, and he could speak. When they had dispersed he called Jingfu over and said in Syriac:
+
+"You saw."
+
+"I saw."
+
+"In my day in Chang'an I followed Elder David in stopping the hymn in Tang for a month, and watched the back rows empty row by row, and in those days I thought the Chang'an monastery had gone too far," said Joseph. "Today I've seen these dozen-odd people of Liangzhou—eighty years without anyone breaking the bread for them, reciting Syriac they don't understand themselves, their hands still cupped. The people haven't gone far. What's gone far is anyone who can put bread into those palms."
+
+When he had said this he looked hard at Jingfu, and said no more.
+
+---
+
+The caravan left Liangzhou in the fifth month and went west. On the road they once met Lun Kongre's troops, several hundred horsemen charging down from a pass of the Qilian Mountains to the south. Headman Cao had all the camels kneel. "Crouch behind the camels! Don't run, don't make a sound!" The several hundred horsemen went by alongside the caravan. A few soldiers reined in, looked them over a while, reached out and pulled a bolt of silk off one camel's pack, threw it over a horse's back, and went. Headman Cao stood up, brushed the dust from his knees, and said that counted as lucky.
+
+In the sixth month the caravan reached Ganzhou, and a caravan from the east had just come to Ganzhou bringing news from Chang'an.
+
+"The Son of Heaven in Chang'an died in the third month," said the men of that caravan. "Died of elixirs. He took the golden elixir Zhao Guizhen's lot compounded, and the more he took the worse his temper got; he was ill a good many days, and later couldn't even speak clearly, and in the third month he was gone."
+
+The new Son of Heaven was the late emperor's uncle. On taking the throne, the first thing he did was seize Zhao Guizhen and those few Daoists and have them beaten to death.
+
+That night Jingfu sat in the back yard of the Ganzhou hostel until the second watch. Elijah came over and sat down beside him.
+
+"Director, what are you thinking about?"
+
+"Chang'an."
+
+After a while Elijah asked him, "Among those Daoists beaten to death—was there a Lu Shouchong?"
+
+"The caravan men don't know the Daoists' names," said Jingfu. "And I don't want to know."
+
+Joseph's illness did not mend. Past Ganzhou the fever came again—burned a few days, went down a few days; when it went down he could walk a few steps, and when it came he lay in the cart, crowded into one cart with Lingbao. Two old men, one blind and one sick, lying together, talking in Syriac: of Merv, of Chang'an, of Elder David, of Jingjing, of the hymn in Tang sung back again that year.
+
+"When I was small I heard Brother sing *In the highest heavens, deep reverence and praise*, and when he reached *the great earth holds the thought of peace for all* I sang along and went off the tune, and Brother didn't scold me," said Lingbao.
+
+"The first time I heard that hymn was in the twelfth month of the fourth year of Yuanhe," said Joseph. "I came in at the monastery gate following Elder David, and the hall was singing. I couldn't understand it, but I could tell: they were singing the Lord."
+
+---
+
+They reached Shazhou in the seventh month. Shazhou was the last great city of Hexi; west of it was the Yang Pass, and northward you had first to turn back to Guazhou and go out by the Jade Gate Pass, and north from there was the gravel desert. The city of Shazhou was in Tibetan hands too, but there were more Tang in it than in Liangzhou, and more monasteries. South-east of the city there was a hill with sand at its foot, and in its cliff, row upon row, were cut caves with Buddhas painted in them. The people of the city said those were the Mogao Caves; men had begun cutting caves there in the Former Qin, and had gone on cutting for hundreds of years, hundreds of caves.
+
+"My caravan goes as far as Shazhou," said Headman Cao. "Further west, over the Moheyan desert to Yizhou, to Xizhou—that stretch of desert my men don't travel. You'll have to wait for a caravan coming from the west and go with the westerners. This year the west's in turmoil. Since the Uighurs scattered, it's not peaceful over Xizhou way either, and few caravans come. You'll have a wait."
+
+They settled in Shazhou, lodging in the gallery of a small Buddhist monastery east of the city. The monastery's old monk looked at this crowd of *hu*—some sick, some blind, some children—sighed, and let them stay.
+
+That autumn a band of merchants came to the city from the east, bringing the new Son of Heaven's edict of the fifth month: in the two Streets of Chang'an more monasteries were allowed, monks and nuns were allowed to be ordained again, and some of the monasteries torn down in the Huichang years were allowed to be rebuilt. When the monastery's old monk heard, he lit a censer of incense in the hall and knelt before the Buddha, knelt until the incense had burned out before he rose, and when he rose his face was wet with tears. He came out of the hall door and, never minding that those in the gallery were *hu*, took their hands one by one.
+
+"Restored," he said. "Restored."
+
+Jingfu went to ask those merchants whether the edict said anything of Daqin.
+
+"Daqin?" The merchant thought. "Didn't hear of it. It was all Buddhist monasteries."
+
+That night Jingfu told Lingbao. Lingbao sat on his felt and heard him out, and it was a long while before he spoke.
+
+"The edict said Daqin, the Magi, the fire-temples," he said. "The new Son of Heaven's edict speaks only of Buddhist monasteries."
+
+"And even if it allowed it," said Jingfu, "the Bureau of Receptions' list says *sent back to their own countries*. Sent out, and out we are."
+
+They waited at Shazhou a year. Of caravans going west that year, not one came; people in the city said there was fighting over Xizhou way, Uighurs fighting Uighurs, and the road was cut. They lived in the gallery of that small Buddhist monastery. Jingfu carried water for the monastery; Salang carried loads for the Sogdian households of the city; Elijah taught the monastery's little novices a few Syriac letters; Ayi and Liu'er learned Tang characters from the monastery's old monk; He Siniang cooked for the monastery. At the offering once in seven they held it in the gallery, Lingbao sitting on his felt, Jingfu holding the bowl's foot. Sometimes the monastery's old monk stood watching behind a gallery pillar, and when he had watched went back to his hall to recite his scriptures.
+
+Joseph failed in the winter of the second year. He lay on a felt in the Buddhist monastery's gallery, burned with fever half a month, burned until he was a handful of bones, his eyes sunk in, the eyeballs still bright. He knew he was failing, and called Jingfu over.
+
+"The first thing is the scriptures," said Joseph. "You're carrying those Tang scriptures—Master Jingjing's old rolls, Qushen's new copies, twenty-odd rolls in all—brought out of Chang'an, tied on a donkey's back; crossing the Yellow River they nearly went into a hole in the ice; at Liangzhou the hostel rats gnawed the edge of one roll. You don't know how much further you'll have to go. Wherever you go there'll be no monastery, no scripture cabinet; rain, snow, living in other people's galleries; scrolls carried on the road will rot in three years. Leave one set here."
+
+Jingfu said nothing.
+
+"These days, lying in the gallery, I've heard the monastery's old monk say that in the monastery at the foot of that hill south-east of the city there's an old monk people call Monk Wu, the Chief Instructor of the Buddhist Order of Shazhou, who has charge of the scriptures of every monastery in Shazhou," said Joseph. "In his scripture store there are scriptures in Tang characters, in Tibetan letters, in Khotanese, in Sogdian—he takes every kind of scripture, and once he's taken them, enters them in the register and puts them in the cabinets, and throws not one roll away. Leave the set Qushen copied with him. Master Jingjing's old rolls, take with you, keep them by you; if they rot, they're yours to rot. The set Qushen copied, leave here. Someone will keep it, and some year to come, someone will open that cabinet and see them, and know that there were these scriptures on Tang soil."
+
+"Let me think about it."
+
+"Don't think too long," said Joseph. "If you think too long, I won't see it."
+
+Jingfu went to tell Lingbao. Lingbao sat in the gallery, heard him out, and shook his head.
+
+"Give the scriptures to a Buddhist monk—I'm not easy about it."
+
+"Uncle Lingbao—"
+
+"Those scriptures Brother translated character by character. Beside the borrowed words he put dots, and the dots mean *borrowed*. The monk will look at them and not know they're borrowed, take them for the same, put them in his store among his Buddhist scriptures. Those who come after will open them and see *non-action*, see *clarity and stillness*, see *peace and joy*, and think they're Buddhist things," said Lingbao. "What Brother fought for all his life was that no one should take Aluohe for the Buddha. Put the scriptures in a Buddhist monastery, and you're sending Brother's scriptures to be the Buddha's guests. I'd rather the scrolls went with you and rotted on the road. If they rot, it's our own scriptures rotting."
+
+"The set Qushen copied, the Master never saw," said Jingfu. "The old rolls are the Master's hand; the old rolls I'll take, and if they rot they're mine to rot. The set Qushen copied—beside every borrowed word there's a dot, not one missed. Those who come after will open them, see the dots, and know these words are borrowed, that the one who borrowed them belongs to another house. The Master said so himself."
+
+Lingbao said nothing.
+
+"The dots are for those who come after to see," said Jingfu. "Where those who come after are, I don't know. On the road there's no one who comes after. In a Buddhist monastery's scripture store, perhaps there is."
+
+Lingbao sat there, his fingers tapping on his knee, tapping a good while.
+
+"What you say is Brother's own words; I can't refute them," he said. "Go. But tell that monk plainly: these are scriptures of Daqin. When he enters them in his register, he must enter *Daqin*."
+
+Jingfu went back to Joseph and said he would go. Joseph shut his eyes a moment, which counted as yes.
+
+"The second thing is myself," he said. "I'm a man of Merv. I set out in the second year of Yuanhe, in my early twenties, took ship with Elder David, drifted nine months at sea. In those days I thought: once things in Chang'an are settled, I'll go back, back to Merv, and die in Merv." He panted a few breaths. "I lived in Chang'an thirty-six years, and things in Chang'an were never settled for one day. Now I've come back this way, come as far as Shazhou, and there's still half the road to Merv. I won't get there."
+
+Elijah sat down on his other side and took his hand.
+
+"You who are going west—Elijah, Salang, the Great Worthy Lingbao—if you reach Merv, outside the city there's a church, and behind the church a stretch of graves; my Pa and Ma are buried there," said Joseph. "Stand a while before the grave for me, and tell them: Joseph went half the way, and the other half, he's asked Elijah to go for him."
+
+When he had said it he closed his eyes. Elijah, holding his hand, recited the psalms in Syriac, the ninetieth—*Lord, thou hast been our dwelling place in all generations*—and when he reached *we spend our years as a tale that is told*, Joseph's lips moved and recited half the line with him; the second half he did not get out.
+
+---
+
+He died on the third of the twelfth month, the first year of Dazhong, and was buried in the sand east of the city of Shazhou. The ground of Shazhou froze in winter too, but sand freezes shallow. Salang dug from daybreak until noon and made a pit; at its bottom was yellow sand, dry, and Salang said dry was good—dry doesn't rot. Elijah washed his body and put on him a clean black robe brought out of Chang'an, one he had not been able to bear to wear all the way, saying he was keeping it to wear when he saw the patriarch. Lingbao had himself helped to the graveside. He couldn't see; he felt Joseph's face, felt it once all over.
+
+"Joseph, you argued with Brother all those years—argued about Tang, argued about the hymns, argued about the words in the scriptures," he said. "Today you've gone. Brother is waiting for you over there, and the two of you can argue again."
+
+Elijah wrote the stake in Syriac letters: *Joseph, of Merv; came east in the fourth year of Yuanhe; died at Shazhou in the twelfth month of the first year of Dazhong.* Jingfu wrote another line beside it in Tang characters.
+
+The next day Jingfu rode a donkey to the monastery at the foot of that hill south-east of the city. It was noon before he got there, and that night he stayed at the monastery. He carried a bundle on his back, and in the bundle were the eleven rolls Qushen had copied—the *Sutra of Profound Peace and Joy*, the *Scripture on Proclaiming the Origin*, the *Hymn of the Three Majesties*, the *Book of Honoured Ones*, and a few more—all in Qushen's hand, an upright regular script, and beside every borrowed word a little dot, not one missed. He saw Monk Wu. Monk Wu was past sixty, thin, long-faced, slow of speech. He heard Jingfu explain why he had come, opened the bundle, and looked at the rolls one by one, looked until the sun slanted west. When he reached the passage in the *Sutra of Profound Peace and Joy* on the four excellent laws—"*the first is without desire, the second without action*"—he stopped.
+
+"This is your scripture?"
+
+"It is."
+
+"These lines look like ours."
+
+"They're borrowed," said Jingfu. "Those with dots beside them are borrowed."
+
+Monk Wu bent his head to look at the little dot, and smiled.
+
+"Borrowed is borrowed. Borrowed and still remembering it's borrowed—that's good."
+
+He had a little novice enter the eleven rolls in the register, and when they were entered, took it and read it to Jingfu.
+
+"*Year of the Hare, winter: scriptures of the Daqin Monastery of Chang'an, eleven rolls, deposited by Jingfu, monk of the Daqin Monastery.*" He said, "Shazhou is under the Tibetans now, and the years are reckoned by the Tibetans' twelve animals. This year is the year of the Hare, and whatever year it is after, the register will put that animal."
+
+"The words *Daqin*—are they entered?" asked Jingfu.
+
+"They're entered." Monk Wu turned the register round so he could see for himself. "*Deposited* means you'll come back for them. If you don't come for them, they'll stay here, in a cabinet of the scripture store. If I die, my disciples will keep them." He closed the register. "I'm old. I mean to cut a cave for myself in this cliff, and leave a likeness of myself in it. By then, where these scriptures are kept will be their business."
+
+Jingfu thanked him with crossed hands and went out of the monastery gate. Outside the gate was that hill, row upon row of caves in the cliff, their mouths black, the winter sun shining on the cliff, the cliff yellow. He stood at the monastery gate and looked back at that row of caves, trying to see which one held the scriptures, and couldn't tell; they were all alike. He turned and walked toward the city, and came to Joseph's grave. The wind had blown a layer of sand off the grave flat; the stake still stood. He crouched and set it upright.
+
+---
+
+Note: In the second year of Huichang the Tibetan *btsan-po* Glang Darma was assassinated, and thereafter Lun Kongre and Shang Bibi fought each other in Hexi and Longyou for several years; see the "Tibet" chapters of the two *Tang Histories*. In the third month of the sixth year of Huichang Wuzong died from elixirs; Xuanzong took the throne and had the Daoist Zhao Guizhen and others beaten to death, and in the fifth month again allowed more monasteries in the two Streets and the re-ordination of monks and nuns—see the *Jiu Tangshu*, "Annals of Xuanzong," and *Zizhi tongjian* juan 248; when the edict reached Shazhou is the novel's invention. The Mogao Caves at Shazhou were first cut in the second year of Jianyuan of the Former Qin; see the Zhou-dynasty *Stele of Li Jun's Repair of the Buddha Niche of Compassion*. Monk Wu is Hongbian, lay surname Wu, who was Chief Instructor of the Buddhist Order when the Tibetans ruled Shazhou; he was still in Shazhou in the second year of Dazhong when Zhang Yichao drove out the Tibetans, and in the fifth year of Dazhong was appointed by decree Buddhist Controller of Hexi. His memorial cave is Mogao Cave 17, discovered in the twenty-sixth year of Guangxu of the Qing (1900) and known as the Library Cave; among the manuscripts from it are the Luminous *Hymn of the Three Majesties of Daqin* and the *Book of Honoured Ones* (Pelliot P.3847). Some hold that Monk Wu and Hongbian were not the same man (Su Yinghui). The manuscripts of the *Sutra of Profound Peace and Joy* and the *Scripture on Proclaiming the Origin* were formerly in Li Shengduo's collection, and their authenticity is still disputed. Jingfu's depositing the scriptures with Monk Wu is the novel's invention. The winter ice crossing of the Yellow River at Huizhou was a common thing in the Tang. Psalm 90 is often used in the funeral rites of the Church of the East.
+
+---
+
+**Version** v0.4 (translated from Chinese v0.4)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿

@@ -1,0 +1,307 @@
+# Volume Twelve　Jade Gate
+
+## Chapter 80　Different Roads
+
+> One Person came into the world, to save without limit; the sun rose, the darkness perished, and all bore witness to the deep truth.
+>
+> —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
+
+They reached the city of Xizhou in the seventh month of that year. From Yizhou to Xizhou took another half month and more. The road was easier than the Moheyan desert: there was water, grass, villages. The village people grew grapes and cotton; the houses were of mud brick, flat-roofed, and on the roofs raisins were drying, patch after patch, purple and yellow, shining in the sun.
+
+"Xizhou is hot," said He Qi from his camel's back. "In summer it's hot enough to bury an egg in the sand and roast it. In summer the city people live underground—they dig a room under the ground, and it's cool."
+
+"And in winter?" asked Liu'er.
+
+"In winter it's cold; the well mouths freeze. In winter they live underground too; it's warm."
+
+Liu'er thought about it. "Then they live underground all year round."
+
+"Near enough."
+
+The city of Xizhou stood on a plain, its walls of rammed earth, high and thick, its gate passages very deep. Inside the gate the streets were crowded—Uighurs, Sogdians, Tang, Tokharians—the speech more mixed even than at Liangzhou.
+
+"Xizhou's ruled by the Uighurs now," said He Qi. "After the royal tent fell, part of the branch that ran west came here and joined the Uighurs who were here already. The officials in the city are Uighur, the accountants are Sogdian, the farmers are Tang; everyone lives his own life, and no one much minds anyone else."
+
+---
+
+They went to that church north of the city the next day. It stood in a narrow lane north of the city with mud-brick walls on either side and grass growing on the wall tops. The church gate was not big; a cross was carved on it, its four ends rounded; the gate's lacquer had peeled, and the knocker was rusted—just as ninety-odd years before. Kang Zhen led the way and pushed the gate, and it opened with a creak. The courtyard was clean, no weeds; the main hall's door stood open, a lamp lit inside, a wooden cross hanging on the east wall.
+
+There were four people at the church: three old men—one past seventy, two past sixty—all Sogdians, the church's deacons; and an old woman, the wife of one of them, who kept the church's kitchen. When they heard from Kang Zhen that people had come from the Daqin Monastery of Chang'an, they all came out of the hall and stood in the gallery looking at the company coming in at the gate: Jingfu's black robe, the blind old man lying in the cart, Elijah and Salang, two young girls.
+
+The one past seventy came up to Jingfu and asked in Syriac, "From Chang'an?"
+
+"Yes. The Daqin Monastery of the Yining Ward of Chang'an," Jingfu answered, in Syriac too. "In the fifth year of Huichang the monastery was abolished and we were sent back. We've been three years on the road, and come this far."
+
+"In the monastery in Chang'an—is there a priest?"
+
+Jingfu turned and pointed at the man in the cart. "That is the Great Worthy Lingbao, Master Yisi's son. The last priest of Chang'an."
+
+The old man took two steps toward the cart and stopped, turned round, his lips trembling. "The church north of the city of Xizhou has had no priest for thirty years," he said. "The last died in the Yuanhe years. When he died, no one came. We three, at every offering once in seven, recite the scriptures in the hall, and when we reach the offering bread, stop, empty-handed. We've recited thirty years."
+
+---
+
+That offering once in seven was held in the hall of the church north of the city of Xizhou. The hall was not big—three bays. On the east wall was that wooden cross which, Kang Zhen said, was the very one Jingjing had stood on tiptoe holding steady underneath while the elders wiped it clean in his day. The wood had gone black and split along one crack, and someone had bound it with a strip of copper. Twenty-odd people came to the hall: the church's three old men, the old woman, Kang Zhen's family, the few Sogdian households in the city of Xizhou who still believed. He Qi came too and stood at the back.
+
+Lingbao was helped into the hall, helped to the table under the east wall. He could not stand, so Jingfu brought a folding chair, and he sat. The glass bowl was set on the table before him, and in it the flatbread He Siniang had baked that morning on the church's stove.
+
+He recited the words of consecration—the passage he had recited for nearly forty years. The year Elder David laid hands on him he was forty-three; now he was eighty-one. He recited very slowly, word by word. His hands shook badly; reaching for the bread he took two tries to grip it. Jingfu, beside him, held the bowl's foot with his left hand, and the bowl did not move.
+
+He broke the bread and handed it out piece by piece. The three old men knelt and held out their hands to receive it. The one past seventy took the bread and held it and did not eat it, held it and wept, wept aloud.
+
+"Thirty years," he said. "I thought that in this life I'd never receive it till I died."
+
+When Lingbao had handed it all out there were still a few pieces left in the bowl. "Fu'er, who hasn't received?"
+
+"He Qi, at the back."
+
+"Call him."
+
+The He family had been of the Luminous congregation of the monastery for generations. He Qi was baptized at the well of the Yining Ward monastery in the Zhenyuan years when he was three; Jingjing baptized him, and Lingbao stood beside them holding the towel. He came up from the back and knelt. Lingbao laid the bread in his palm and felt his hand.
+
+"He Qi, that time outside the Kaiyuan Gate, I blessed you. Today, I give you bread."
+
+---
+
+Those days Ayi went about the city of Xizhou asking after her mother's people. She was fourteen that year and spoke Uighur well, and Tang well too. In the streets of Xizhou, when she heard Uighurs talking, she went close to listen. After some days of listening she found an old Uighur woman selling curds at the edge of the market.
+
+"My Ma was of the Manichaean temple in Chang'an. She died in the third year of Huichang," said Ayi. "Her Ma came from beside the royal tent north of the desert."
+
+She said the name of a tribe. The ladle in the old woman's hand stopped. "I know that tribe. After the royal tent fell, they didn't go west; they went north," said the old woman. "Over the Tianshan, on the steppe to the north, following another chief. They herd sheep, herd horses; in winter they're in the valleys on the south side of the mountains, in summer on the pastures on the north side. From Xizhou north, twenty-odd days' journey."
+
+Ayi came back and told Jingfu. "Director, I want to go," she said. "I've never seen my Ma's Ma. My Ma said the steppe is green, that in summer the grass grows to a horse's belly and in winter the snow buries a man to the waist. She said in this life she'd never go back, and told me to remember: I come from the steppe."
+
+That night Jingfu sat alone in the hall.
+
+---
+
+What would come after, the church's people deliberated over several evenings. Elijah was the first to speak. "I'm going west. I'm going to Merv, to stand a while for Joseph before his Pa and Ma's grave. Joseph went half the way; the other half I'll go for him. When I reach Merv, I'll go further west, to the Patriarchate to see the patriarch. The monastery in Chang'an is gone, the people of Chang'an sent out, the stele buried, the last priest of Chang'an named Lingbao—all of this I must tell the patriarch to his face."
+
+"I'll go with Brother Elijah." Salang hoisted the earthenware jar on his chest higher. "This jar of ash has to be delivered to a place where there's fire. West, over the Pamirs, past Balkh, is the Persians' country, and Persia has fire. When I've delivered the ash, I'll go with Brother Elijah to the Patriarchate. My grandfather came from the Patriarchate; I'll go and see it."
+
+He Qi said, "I'll stay in Xizhou. My home's here, my caravans are here. I'm past fifty; from now on I'll just go back and forth on this road between Xizhou and Shazhou." He turned to He Siniang. "Sister, you stay too. In Xizhou there are He clansmen, there's a house. The Great Worthy will be at the church, and the church's people will look after him."
+
+He Siniang did not answer him, but looked at Lingbao. "I'm going west," said Lingbao. "I'm going to Balkh."
+
+The hall went quiet. "My Pa was a man of Balkh. My grandfather Milis is buried behind the church in Balkh, and my grandmother beside him. When Brother was ten he went there, and came back and told me there's a mulberry tree beside the graves," said Lingbao. "All my life the Tang have called me *hu* and the *hu* have called me Tang. The Bureau of Receptions' list says I'm of Balkh in Tokharistan, to be sent back to my own country. I've never been to Balkh, but the list says Balkh, so I'll go to Balkh."
+
+"Great Worthy," said the old deacon past seventy, "from Xizhou to Balkh you go by Karashahr, by Kucha, by Kashgar, and over the Pamirs. On the Pamirs there's snow all year; even in the seventh and eighth months people freeze to death crossing. The Great Worthy is eighty-one, can't see, can't walk. The road is half a year at least. The Great Worthy won't get there."
+
+He shuffled forward. "Let the Great Worthy stay in Xizhou. The church north of the city of Xizhou has had no priest thirty years. If the Great Worthy stays, at the offering once in seven the people of Xizhou will have bread. When the Great Worthy's hundred years are done, the church's people will see him to his end and bury him behind the church."
+
+"Great Worthy, Salang and I are young; we can walk it," said Elijah. "Your heart's wish we'll carry to Balkh for you, and stand a while for you before your grandfather's and grandmother's graves."
+
+"Brother-in-law," said He Qi, "if you die halfway, what will Sister do alone on the Pamirs?"
+
+Jingfu sat across from Lingbao, his two hands on his knees, and said not a word. Lingbao waited until they had all spoken, and smiled. "All you say, I know. I won't get there; I know. I'm eighty-one, I can't see, I need someone to hold me up to walk. The snow on the Pamirs I've never seen, but Pa told me of it, my uncle told me, Brother told me too. Brother said the snow on the Pamirs is blue," he said. "If I can get to Balkh and take one look at the place my Pa was born, one look at my grandfather's and grandmother's graves—of course that would be good. If I can't get there, and die at Karashahr, die at Kucha, die on the Pamirs—that's good too. To die on the road is still to have gone home."
+
+He put his two hands back on his knees. "All my life I never went outside the Guannei Circuit. Now I've come out, travelled three years, come as far as Xizhou. I want to go a little further."
+
+The old deacon bowed his head, rubbing his two hands on his knees. Elijah bowed his head too. He Siniang reached out and took Lingbao's hand.
+
+"I'll go with him," she said.
+
+Jingfu stood up then. "Then we won't try to persuade him any more," he said. "Let's all pray for Uncle Lingbao."
+
+Everyone in the hall knelt, knelt round Lingbao. Lingbao sat on the folding chair, He Siniang standing behind him with her hands on his shoulders. Jingfu led them in Psalm 121—*The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore*—the psalm Lingbao had recited for He Qi's caravan outside the Kaiyuan Gate. Jingfu said a line, and everyone followed. When it was done, Jingfu said in Tang: "Lord, keep Uncle Lingbao and bring him safe to Balkh. And if he doesn't get there, Lord, take him home."
+
+"Amen," said Lingbao. Everyone said Amen.
+
+---
+
+When the prayer was done, He Qi found his sister at the well curb behind the church. He Siniang was at the well washing the robe Lingbao had taken off. The moon shone on the well curb; the water was cold. He Qi crouched down and helped her wring out the robe, wrung one.
+
+"Sister, you're fifty-seven."
+
+"I know."
+
+"That time outside the Kaiyuan Gate I went and you stayed. I missed you eight years, and when at last I met you at Shazhou, you're going again," said He Qi. "This time you're going toward the Pamirs. The snow on the Pamirs I've travelled; I know what kind of place it is. If you go, I'll never see you again in this life."
+
+He Siniang put down the robe in her hands. "He Qi, when you went, it was you who wanted to go; I couldn't stop you. Today I'm going, and it's I who want to go; you can't stop me either," she said. "My first husband died at sea, and not even his body came back. I kept faith seven or eight years, and the uncles said I was keeping faith with a dead man. Then I married the Great Worthy. The Great Worthy's eighty-one and can't see; I'm keeping faith with a living man. The living man wants to go west, so I go with him; wherever we get to, that's where."
+
+He Qi crouched there wringing that robe, wringing it until the water had all dripped out, and still wringing. He Siniang reached out and pressed his hands.
+
+"Stop wringing. You'll wring the robe through."
+
+"Sister," said He Qi, "tomorrow I'll pick you the two best camels."
+
+---
+
+It was the next day that Jingfu told everyone he was going north. "Ayi wants to go north to find her mother's people. She's fourteen; she can't go alone. I'll take her," he said. "The Bureau of Receptions' list says I'm a man of An, to be sent back to my own country. My own country is An, and I won't go there. There's no one in An I know. On the steppe to the north there are Uighurs and other tribes; perhaps there are some who believe in Daqin, perhaps there aren't. I'll go and see."
+
+The old deacon past seventy, listening beside him, said, "Among the Uighurs who went north there are indeed some who believe in Daqin. When I was young I saw them at Beiting—a few households, crosses hung in their tents, who came to believe through the Sogdian merchants. At the offering once in seven they recite in their tents, in Syriac, not understanding one sentence, just reciting by the sound, and have recited decades. I asked them what they were reciting, and they said it was Aluohe's words."
+
+Elijah spoke first. "Director, come west with us. When you reach the Patriarchate and see the patriarch, the patriarch will lay hands on you—make you deacon, then priest—and then you can consecrate the bread. Then come back from the Patriarchate, back to Xizhou, back to the steppe; when you come back, there'll be bread in your hands," he said. "Guangzheng went like that in his day. Guangzheng went and didn't come back. You'll go, and come back."
+
+"I've thought of it," said Jingfu. "From Xizhou to the Patriarchate, if the caravans go well, most of a year gets you there; there and back, a year and more. But a road that goes well I haven't seen once these years. From Chang'an to Xizhou, a few months' road, and we've taken three years: three months' waiting at Liangzhou, more than a year at Shazhou, war, roads cut, waiting for caravans. And at the Patriarchate the laying on of hands isn't done just like that; you must see the patriarch, you must wait. Guangzheng was gone twenty-five years; his letter arrived, and he didn't."
+
+He looked at Elijah. "I'm fifty-three. If I go, not coming back for three years or five is the usual thing. Whether those few households in the north can wait for me, I don't know. In the years they wait, they won't receive the bread once. I'd rather go empty-handed. If I go, there'll be someone standing, someone telling the knots, someone reciting the scripture, and when they reach the offering bread, they'll stop, and everyone will know where they've stopped, and know that there was bread there. If one day someone comes from the Patriarchate on whom hands have been laid, they won't have to learn from the beginning."
+
+He Qi said, "If the Director wants to go north, I won't stop him. But Liu'er, an eleven-year-old child—on the steppe the winters are cold, the tents let in the wind. Let her stay in Xizhou. There's room in my house; my wife died the year before last, and the house is short of someone."
+
+Liu'er heard from beside them, ran over, and caught Lingbao's sleeve. "I'll go with Grandpa. Grandpa can't see; I'll lead Grandpa."
+
+"If she wants to come, she'll come," said He Siniang. "On the road there's me."
+
+Lingbao said nothing, his hand resting on Liu'er's head, resting there a good while.
+
+---
+
+That night only Lingbao and Jingfu were left in the hall. Lingbao sat on the folding chair, Jingfu on a hassock across from him; the lamp on the table burned with an unmoving flame.
+
+"Fu'er, hands haven't been laid on you," Lingbao began. "You can't consecrate the bread."
+
+"I know."
+
+"You know," said Lingbao. "Then what will you do when you get there?"
+
+"I can stand the morning, recite the scripture, speak the things the Master spoke of. I can tell them that Chang'an once had a monastery, the monastery had a stele, and what was written on the stele."
+
+"And when you've told it?" said Lingbao. "You tell it ten years, tell it twenty years, you die—and what do they have in their hands? A string of knots, a few lines of Syriac recited crooked, an empty place. Fu'er, without the laying on of hands, without bread, without the Patriarchate, without rules—inside two generations what they recite won't be Aluohe's words any more."
+
+"Then how does Uncle Lingbao say I should go?"
+
+"When you get to the north, first go and see their chief, see the khagan," said Lingbao. "Ask for a document allowing you to recite the scriptures in his country, allowing his people to believe. When Elder Alopen entered Chang'an, Emperor Taizong sent his chief minister to the western suburbs to meet him; there was an edict, and so there was a monastery; there was a monastery, and so there were people. Without that edict, Elder Alopen couldn't even have entered the gates of Chang'an."
+
+Jingfu did not answer at once. "Uncle Lingbao, the monastery in Chang'an came in by the Son of Heaven's door," he said. "And in the fifth year of Huichang, it was sent out by the Son of Heaven's door too. Set up by one edict, torn down by one edict."
+
+"That was because the Son of Heaven changed."
+
+"Sons of Heaven always change." Jingfu's voice rose. "On the stele, from Taizong to Dezong, it praises one Son of Heaven after another. Pa stood behind Lord Guo all his life; the Master wrote the Sons of Heaven into the stele. Uncle Lingbao, these two hundred years our eyes have always looked up—at the Son of Heaven, at the chief ministers, at Lord Guo, at the Commissioners of Merit. Of those in the ward who drew gruel for decades, how many received the bread? In the fifth year of Huichang, those who stood at the monastery gate fasting with us were Mother Kang and the few households at the south end of the ward. Where were the Commissioners of Merit?"
+
+"You speak of Pa?" Lingbao's hand pressed on the arm of the folding chair. "Pa never once asked Lord Guo a favour all his life."
+
+"He didn't ask, but he stood there."
+
+"He stood there, and in that battle at the Xiangji Monastery took three arrows."
+
+"I know he took three arrows," said Jingfu. "I didn't say Pa was wrong. I said that road, by Huichang, had come to its end. Uncle Lingbao, you know in your own heart it's come to its end."
+
+Lingbao's face flushed red, his chest rising and falling. "Come to its end?" he said. "Do you know who wrote the stele? Brother wrote it, and I ground the ink beside him. Did Brother write that stele for the Son of Heaven to read? He wrote it for those who come after! He wrote the Sons of Heaven because the Sons of Heaven really did issue the edicts, really did send men to the western suburbs to meet them; if he hadn't written it, it would have been a lie. Brother never changed a character all his life, Pa never lied all his life, and you sit here today and say their eyes always looked up?"
+
+"I didn't say they lied."
+
+"You say they took the wrong road."
+
+"I say that road I won't take any more."
+
+The lamp-wick sputtered in the hall. Lingbao panted and coughed a while, and when he had finished said, "If you won't take that road, what road will you take? You go empty-handed—no standing, no bread, no document either. Some day the chief takes a dislike to you; one word, and you haven't even a tent. Then you won't even have a place to stand the morning."
+
+"Then I'll stand where there's no tent," said Jingfu. "When He Qi asked me in his day, I said it: then I'll stand where there's no monastery gate; the morning, I'll stand just the same."
+
+"That was something you said to spite He Qi."
+
+"That was what was in my heart."
+
+Neither spoke. Outside the hall, Salang had been coming in to add oil to the lamp; he reached the door, heard the voices inside, and backed away. Elijah sat in the gallery; Ayi and Liu'er peered out through the crack of the west room's door; the old deacon stood in the middle of the courtyard leaning on his stick; no one went over. He Siniang came out of the kitchen, went to the hall door, stood there a while, raised her hand, lowered it again, and went back to the kitchen.
+
+Only when the wick had sputtered once more did Lingbao speak, his voice gone low. "Fu'er, you say that road has come to its end. You're not wholly wrong," he said. "Pa standing behind Lord Guo, Brother writing the Sons of Heaven into the stele—I was beside them for all of it, I went along with all of it. I went along all my life, went along until Huichang, and watched one edict come down and the monastery be gone. That I won't deny."
+
+Jingfu raised his head.
+
+"But I still say what I said," said Lingbao. "Bread without the laying on of hands isn't bread. A man without standing can't protect a flock. You go north without going to see the khagan, without asking for a document—I don't agree. Till I die I won't agree."
+
+"Uncle Lingbao, what you say I don't wholly deny either," said Jingfu. "If I go, with no bread, no standing—ten years, twenty years on, what they recite in the tents, I don't know. Perhaps I'll just be a man standing empty-handed, waiting for someone from the Patriarchate I'll never see in this life. But not leaning on any dynasty, not going to beg any khagan—that I won't change either."
+
+Lingbao reached out and felt forward, found Jingfu's face. He felt it from Jingfu's forehead to his chin, felt the beard on his face; the beard was already half white.
+
+"When you came to the monastery at five your face was round," he said. "I held you, and you cried. Your Pa had died in Huaixi, and Lord Mi gave you to Brother. That day Brother gave you a bowl of cold water to drink."
+
+"I drank it myself. The Master watched beside me and didn't stop me."
+
+Lingbao laughed, his eyes wet at the corners. "Yes, you drank it yourself. Your stomach was good, better than Brother's. Brother drank ginger broth all his life; you drank a mouthful of cold water and nothing happened at all."
+
+He took something from his breast and put it in Jingfu's hand. It was the string of knots—of wool, its knots told until they shone—which Elder Ahad had given his brother under the mulberry tree in Balkh. His brother had told it all his life and died with it gripped in his hand, and Jingfu had taken it from his hand and given it to Lingbao.
+
+"I'm going to Balkh. This string of knots came from Balkh; by rights it should go back to Balkh," said Lingbao. "But a string of knots is for telling, not for enshrining. Take it back to Balkh and enshrine it in the church, and no one will tell it any more. You take it; go north. When you stand before light, tell it, a name for each knot. When you reach me, tell a knot for me too."
+
+Jingfu gripped the string of knots. "The glass bowl—Uncle Lingbao, you take it," he said. "All along the road you'll be consecrating the bread; the bowl belongs with you."
+
+"Good."
+
+---
+
+At dusk the next day Lingbao called Liu'er to his room. Liu'er came in thinking he wanted her to lead him to the well curb to wash his hands, and reached to pull him. Lingbao took her hand and had her sit before him.
+
+"Liu'er, you go north with your Uncle Fu."
+
+Liu'er stood stock still and tried to pull her hand back; Lingbao did not let go.
+
+"No. I'm going with Grandpa. Grandpa can't see."
+
+"Grandpa's past eighty," said Lingbao. "Going west, over the Pamirs, to Balkh—whether he'll get there or not, Grandpa knows in his heart. And if he does get there, it's to go there to die. Once Grandpa's eyes close, you'll be in Balkh knowing no one, unable to speak the language, and the people there will look at you as the people of Chang'an looked at Ayi—a child from outside. And Granny Siniang is old too."
+
+"Then I'll stay in Xizhou with Great-uncle."
+
+"Your great-uncle's half the year on the desert, and there's no woman in the house," said Lingbao. "Go with your Uncle Fu, with your big sister; the three of you together. Those few households in the north still recite the scripture at the offering once in seven; stand among them, and you're still in the faith." He paused. "Besides, your Uncle Fu's a grown man and can't bake bread."
+
+Liu'er wept, wept so she couldn't speak, and pressed her head against his knee. He Siniang stood outside the door and did not come in, wiping her eyes with her sleeve. Lingbao stroked her hair, stroke after stroke, until she had wept herself out.
+
+"I'll do as Grandpa says," she said.
+
+---
+
+They parted on the first of the eighth month.
+
+That day before light, in the courtyard of the church north of the city of Xizhou, they stood the last morning with everyone together. Jingfu stood in the middle of the courtyard, and when the sky greyed he looked back and counted: Lingbao, He Siniang, Elijah, Salang, Ayi, Liu'er; the church's three old men, the old woman, Kang Zhen; He Qi.
+
+Thirteen.
+
+He read a passage of scripture and wrote on the old board with charcoal a character: *fen*, to part.
+
+Elijah watched beside him, waited until he had written it, reached out and took the board, borrowed a small knife from the old deacon, crouched by the well curb, turned the board over, and carved on its back stroke by stroke. He carved an hour, and when he had finished, gave it back to Jingfu.
+
+"Director, for the next several years, the days of the Lord's resurrection—I've reckoned them by the Patriarchate's method; the months and days of the Tang calendar are all here," said Elijah. "On the steppe there'll be no one to check the days with you; look at this."
+
+Jingfu took the board. On its back were lines, one after another; the first line was: *Third year of Dazhong, third month, eighteenth day.*
+
+It was that morning that Kang Zhen said he would stay. "Of the three old men at the church north of the city, the youngest is past sixty; after them there'll be no one to keep the church," he said. "I'll stay. I can read a few Syriac letters. I'll keep it; at the offering once in seven I'll recite the scriptures empty-handed, recite until one day a priest comes, and then receive the bread."
+
+---
+
+When the packs were all tied, Lingbao had He Siniang help him into the middle of the courtyard, and stood facing everyone. He could not stand steady; He Siniang propped him up from behind.
+
+"You're all here," he said. "I've a few words to say, while you're all here."
+
+No one in the courtyard moved. "I grew up in the monastery and never left it seventy-odd years. I kept the accounts forty years, and in the accounts, entry by entry, I recorded things as they were. You know I never hid one word from anyone," said Lingbao. "My temper's bad; the other night I quarrelled with the Director, and you all heard. What I said in the quarrel I don't take back, and the Director doesn't take back his either."
+
+Jingfu stood across from him with his head bowed.
+
+"Today I'm going west. I won't reach Balkh; I know in my heart," said Lingbao. "You here—all of you—will see my face no more."
+
+He Qi turned his back. Liu'er, gripping a corner of He Siniang's dress, wept aloud.
+
+"Fu'er, you're going north. I don't agree, and I can't stop you. I commend you to the Lord, and to the word of his grace," said Lingbao. "You go empty-handed; the Lord doesn't go empty-handed. Pa before Lord Guo's tent, Brother on the stele, Lord Mi kneeling at the camp gate, Siyuan pushing the cart for the dead—those the Lord used were never on one road. You go yours and I'll go mine; both are his road."
+
+He turned his face toward Kang Zhen and the three old men. "The church north of the city of Xizhou I commend to the Lord too. Thirty years you haven't scattered; you won't scatter hereafter."
+
+When he had said it, he went down on his knees. He Siniang could not hold him, and he knelt on the earth in the middle of the courtyard. Everyone in the courtyard knelt after him. Lingbao, kneeling, prayed, in Tang, and said it once more in Syriac, very slowly, line by line. When he had finished he held out both hands and felt forward.
+
+Jingfu went to him on his knees and bowed his head beneath his hands. Lingbao's two hands pressed on his head, pressed, and did not lift. Jingfu put his arms round him, round his neck, and wept so he could not speak. Lingbao patted his back, once, and again, as when he was five.
+
+Liu'er knelt beside them. Lingbao found her head and pressed it once.
+
+"Go," he said. "Bake bread for your Uncle Fu."
+
+---
+
+At the church gate the two parties separated. The party going north—Jingfu, Ayi, Liu'er—went with a Uighur caravan. The caravan was going north over the Tianshan to buy horses on the steppe; its headman was the son of the old woman who sold curds. Jingfu carried a bundle on his back; in it were Jingjing's old rolls and the old board from Xizhou; the string of knots was in his breast; he led a donkey, with Liu'er on its back. Ayi rode a small horse lent her by the Uighurs, and sat it very steady.
+
+"My Ma said Uighur children ride horses at three," she said.
+
+The party going west—Lingbao, He Siniang, Elijah, Salang—went with a Sogdian caravan bound for Kucha that He Qi had arranged for them. Lingbao lay in the cart with the glass bowl wrapped in his breast, He Siniang sitting beside him. Salang led the first camel, the earthenware jar tied to his chest. Elijah rode a donkey behind the cart.
+
+He Qi, Kang Zhen and the three old men saw them to the mouth of the lane, and stopped there.
+
+The party going north went first. Jingfu walked a few steps and looked back at the party going west, at that cart, at the man lying in the cart. He could not see; but he had put one hand out from under the felt and was holding it up, holding it up in the air.
+
+Jingfu stood in the road looking at that hand, and he raised his hand too, and held it up.
+
+"Director," Ayi called back to him from her horse, "we're moving."
+
+---
+
+Note: For the church north of the city of Xizhou see Chapter 12 (in the second year of Zhide Jingjing repaired it on the road east with the seven elders). In the mid-ninth century the Uighur tribes migrating west scattered north and south of the Tianshan; to whom Xizhou belonged the sources differ, and the novel takes the view that the Uighurs controlled it. Syriac and Sogdian Christian texts excavated at Turfan are evidence that the Luminous Religion survived at Xizhou into the late Tang and early Song. For Psalm 121 see Chapter 68. Lingbao's farewell echoes Paul's parting from the Ephesian elders in Acts 20 ("ye all… shall see my face no more," "I commend you to God, and to the word of his grace," "they all wept sore, and fell on Paul's neck").
+
+---
+
+**Version** v0.5 (translated from Chinese v0.5)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿
