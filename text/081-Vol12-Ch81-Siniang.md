@@ -6,82 +6,152 @@
 >
 > —The Stele of the Propagation of the Luminous Religion of Daqin in the Middle Kingdom
 
-West of Xizhou was a road that never ended. The Sogdian caravan went slowly, forty or fifty *li* a day—by Karashahr, by Kucha—passing an oasis, resting a few days, trading goods, and going on. North of the road was the Tianshan, snow on its summits, never melting all year, so white in the sun it hurt the eyes; south of the road was the sand desert, endless to the eye; when the wind rose, sand struck the cart awnings with a hiss like rain. In Karashahr there were Uighurs, and in Kucha too—the band that fled west after the royal tent fell had settled hereabouts; some Tang were still left in the towns, grandsons of the old soldiers of the Anxi Protectorate, farming, speaking Tang with a Kucha accent. He Siniang bought medicine for Lingbao in a village outside Kucha; the seller was an old Tang man, who heard she was from Chang'an and asked her what Chang'an was like now; she said when she left, Chang'an's monasteries had all been torn down; the old man said: the monasteries are torn down—is the city still there? She said the city was still there; the old man said: then that's good; if the city's still there, that's good.
+West from Xizhou was a road that would not end. The Sogdian caravan went slowly, forty or fifty *li* a day—by Karashahr, by Kucha—coming to an oasis, resting a few days, trading once, and going on. North of the road were the Tianshan, snow on their summits that never melted all year, so white in the sun it stung the eyes; south of the road was the gravel desert stretching beyond sight, and when the wind rose the sand struck the cart awnings with a rustle like rain. There were Uighurs in the city of Karashahr, and Uighurs in the city of Kucha too—the branch that had fled west after the royal tent fell, and settled in these parts. Some Tang were left in the cities, grandsons of the old soldiers of the Anxi Protectorate, farming, speaking a Tang with a Kucha twang.
 
-They reached Kashgar in the eleventh month. Kashgar was the last great city of the west; further west were the Pamirs. The caravan's headman said the Pamirs couldn't be crossed in winter; the passes were sealed with snow; they must wait for spring next year, when the snow had melted somewhat, before they could go. They spent a winter in the town of Kashgar, lodging in the back courtyard of a Sogdian family who also believed in Daqin; the family's old man said Kashgar once had a church, one east of the town, whose priest died fifty years ago; the church fell in; now in the town there were seven or eight households of believers left; at the offering once in seven they gathered in his family's back courtyard and recited scripture empty-handed.
+In a village outside the city of Kucha, He Siniang bought medicine for Lingbao. The seller was an old Tang man, and when he heard she came from Chang'an he stopped weighing on his steelyard. "What's Chang'an like now?"
 
-That winter Lingbao hardly got up at all. He lay in a little room in that family's back courtyard; a fire burned in the room, a fire of dung cakes with a smell to it; he smelled it and said it was like Xizhou. He coughed; at night he coughed badly; He Siniang sat beside him, kept watch night after night, pounded his back, fed him water, washed his body; by day she went to Kashgar's market to buy things—grain, medicine, dung cakes—haggling with Kashgar's Sogdians harder than anyone; when she had haggled she carried the things back, cooked, boiled water, washed clothes. Salang and Elijah found work in the town: Salang carried goods for people; Elijah wrote letters for a Sogdian merchant, letters in Syriac, sent off to the west.
+"When we left, the monasteries of Chang'an had all been torn down."
 
-But that winter those seven or eight households of Kashgar had bread at the offering once in seven. The first time was early in the twelfth month; the family's old man swept the back courtyard once, swept it twice, took out a bronze cross his family kept in a cabinet, polished it till the sun slanted west, polished it till it shone, and hung it on the back courtyard wall; those seven or eight households, old and young, thirty-odd souls, came from every part of the town of Kashgar—some had set out before light—crowded into that little back courtyard, and knelt on the frozen earth. Lingbao could not get up; he had himself helped to sit up, and the glass bowl was set on his knees. Once it was Jingfu who held the bottom of the bowl; Jingfu had gone north; He Siniang held it; she held the bottom of the bowl and listened to him recite, and when he came to that sentence she recited along in her heart; she didn't know Syriac; she had listened fifty years and could tell which sentence was which. Lingbao finished the consecration, broke the bread, and handed it out piece by piece; when he reached an old woman, she put out her hands, and halfway drew them back; she asked the family's old man: is this real bread? The old man said it was real, blessed by a priest from Chang'an; only then did the old woman put out her hands again, take it, hold it, hold it to her lips, lower it again, hold it, and say to those beside her: when her Ma died she told her Kashgar once had bread; her Ma had received it; she herself had never received it in all her life; she had thought her Ma was fooling her.
+"The monasteries torn down—is the city still there?"
 
----
+"The city's still there."
 
-After the opening of spring, the caravan was to go up onto the Pamirs. The old man of that family urged them not to, saying the Great Worthy's body couldn't go up the Pamirs. He said the passes on the Pamirs were so high no one could measure them; a man going up couldn't get his breath, his head ached, his heart raced; even the young and strong sometimes dropped as they walked; the Great Worthy was eighty-two, lying in a cart; carts couldn't go up; the stretch of the pass was a narrow track, and could only be ridden on a beast; a man had to sit firm by himself. He said: let the Great Worthy stay in Kashgar; Kashgar's seven or eight households have hoped fifty years and been sent a priest; if the Great Worthy stays, Kashgar will have bread at the offering once in seven.
+"Then it's well," said the old man, wrapped the medicine, and handed it to her. "If the city's still there, it's well."
 
-Lingbao said he would go. He said he had come this far; Balkh was just the other side of the Pamirs; over them, and another month and more, and he'd be there; his Pa came out of Balkh at seventeen and went east by this very road, crossed this very mountain; Pa was seventeen that year, he was eighty-two this year; Pa could get across coming, and he could get across going.
+They reached Kashgar in the eleventh month. Kashgar was the last great city of the west; further west were the Pamirs. The caravan's headman said the Pamirs could not be crossed in winter; the passes were sealed by snow, and they must wait until spring next year to go. They lived the winter in the city of Kashgar, in the back yard of a Sogdian household. That household believed in Daqin too. Its old man said Kashgar had once had a church, east of the city, and its priest had died fifty years ago and the church fallen down; now seven or eight households in the city still believed, and at the offering once in seven they gathered in his back yard and recited the scriptures, empty-handed.
 
-He Siniang said she'd go with him. She did not urge him to stay, nor say anything else. She went to Kashgar's market and bought a yak, driven down to sell by Tibetans, black, its long hair trailing to the ground; she said yaks walk steady in the mountains, steadier than camels, steadier than horses. She bought a few sheepskins too and sewed them into a pannier, which was bound on the yak's back, and Lingbao sat in the pannier with sheepskin on every side against the wind; she said this way he could sit firm. At the beginning of the third month the caravan left Kashgar going west, and up.
+That winter Lingbao hardly got up. He lay in a little room in the back yard with a fire burning, a fire of dung cakes that had a smell to it, and he smelled it and said it was like Xizhou. At night he coughed badly. He Siniang sat beside him and kept watch night after night, patting his back, feeding him water, washing him. By day she went to the Kashgar market to buy grain, buy medicine, buy dung cakes, haggling with the Sogdians of Kashgar harder than anyone, and when she had haggled, carried the things back, cooked, boiled water, washed clothes. Salang and Elijah found work in the city—Salang carrying goods for people, Elijah writing letters in Syriac letters for a Sogdian merchant, to be sent west.
 
----
+But that winter, those seven or eight households of Kashgar had bread at the offering once in seven. The first time was early in the twelfth month. The old man of the household swept the back yard twice, took out a bronze cross kept in a cabinet, polished it until the sun slanted west, and hung it on the back-yard wall. Seven or eight households, old and young, thirty-odd people, came from every quarter of Kashgar, some setting out before light, crowded into that little back yard, and knelt on the frozen mud. Lingbao could not get up; he had himself propped sitting, the glass bowl set on his knees. Before, Jingfu had held the bowl's foot; Jingfu had gone north, and He Siniang held it. She had no Syriac, but she had listened to it fifty years and could tell which line was which; when he reached that line, she recited along in her heart.
 
-The mountains went up layer upon layer. First the river valleys, with water in them, and grass, and shepherds; the sheep were black-headed and white-bodied; the shepherds wore sheepskins, their faces burned purple by the sun. Then the slopes, stony, with clumps of low grass in the cracks between stones, the grass dead, last year's, this year's not yet grown. Then snow.
+Lingbao broke the bread and handed it out piece by piece. When he reached an old woman, she held out her hand, held it halfway, and drew it back, and turned to ask the old man of the household: "Is this real bread?"
 
-The snow was blue. Jingjing had told Lingbao long ago that the snow on the Pamirs was blue; Lingbao could not see it; he asked He Siniang what colour the snow was. He Siniang said white. Lingbao said Brother said it was blue. He Siniang stood in the snow and looked, and said: in the sun it's white; in the mountains' shade, there's a little blue.
+"It's real. Consecrated by the priest from Chang'an."
 
-They travelled seven days and reached the Stone Tower. The pass was still sealed with snow; the caravan's headman said they must wait at the Stone Tower till the fifth month, when the snow had melted somewhat, before they could cross. The Stone Tower was a town on the Pamirs, on a high tableland, mountains on every side, its walls of stone, half fallen; several hundred households of mountain people lived in it, speaking a tongue no one could understand; the caravan's headman said this had once been the Tang's Pamir garrison post, where troops were stationed; later the troops were withdrawn, and the town remained. The caravan settled in at the Stone Tower to wait for the snow to melt; the beasts got their breath back, and so did the people.
-
-He Siniang fell ill at the Stone Tower. Around a month after they reached the Stone Tower, on those nights, her head began to ache, ached so she couldn't sleep; she said nothing, but sat beside Lingbao keeping watch till light. Two more days, and she got up to boil water, and as she boiled it sat down by the fire and could not get up; Salang came to help her up; her hands were cold, her lips purple; she could not get her breath, gasping one breath after another, as if climbing a very steep slope. The caravan's people said this was the Headache Mountains; everyone who crossed the mountains knew it—the Great Headache and the Little Headache; at such a height a man's body grows feverish, his face drains of blood, his head aches, he vomits; the young get over it in a few days; of the old, some don't get over it.
-
-She lay five days. Those five days Lingbao sat beside her, sat; he could not see her; he felt her hand, and as he felt it, it grew cold, so he gripped it, gripped it warm, loosened his grip, and it went cold again. He Siniang's eyes were still open; she looked at Lingbao, watched him feeling her hand; she gasped for breath and spoke very slowly, one sentence taking several gasps to finish.
-
-She said: Great Worthy, in her life she married twice. The first one she married died at sea, and not even his body came back; she doesn't know where he died—whether swept off by the waves outside the Lion Kingdom or somewhere else; she hasn't even a grave for him; she kept faith with him seven or eight years—kept faith with a man without a grave. The second time she married you; she's lived with you nineteen years; nineteen years—your eyes seeing less every year, your cough worse every year; you came out of Chang'an and she came out with you; walked four years and got here, and she can't walk any more.
-
-Lingbao said: don't talk; rest a while. He Siniang said she would talk; when she'd finished, then she'd rest. She said: when she dies, don't leave her here. She said her first man has no grave; she isn't afraid of having no grave; but she wants to follow you; you're going to Balkh, so she's going to Balkh too; your Pa's grandfather and grandmother are buried behind the church at Balkh, with a mulberry tree beside the graves—the Great Worthy Jingjing said so; you've told her several times; she remembers. She said she wants to be buried there, buried beside your Pa's grandparents; and later, when you die, you'll be buried there too; your whole family buried in one place; and she'll count as one of your family.
-
-Lingbao said: good. He said he promised her. He said when he reached Balkh he'd take her with him and bury her under that mulberry tree, and when he died, be buried beside her. He Siniang heard it and nodded. Gasping, she said one more thing: that child Xiaoman went north; she doesn't know what'll become of her; Ayi will look after her, Jingfu will look after her; but she misses her; she'd like to hear her call *Granny Siniang* once more.
-
-She went on the night of the nineteenth of the fourth month; that night a wind blew outside the Stone Tower, down from the pass, blowing so that the stone slabs on the roofs rattled. Lingbao gripped her hand, gripped it till it was cold through and could not be gripped warm, and still gripped it; Salang came and gently prised his hand loose; he said: let him grip it a while more, and Salang stopped prising, and knelt beside him; Elijah knelt on the other side reciting a psalm in Syriac, the twenty-third, *the Lord is my shepherd; I shall not want*; when he came to *yea, though I walk through the valley of the shadow of death, I will fear no evil*, Lingbao recited with him, and when he came to *for thou art with me*, his voice broke, broke, and joined again, and recited on to the end.
+Only then did the old woman hold out her hand again and take it. She raised it to her lips, lowered it again, held it, and said to the person beside her: "When my Ma died she told me Kashgar used to have bread, and she'd received it. In all my life I never received it. I thought she was fooling me."
 
 ---
 
-She was buried the next day. Outside the Stone Tower there was no earth, only stone; Salang and Elijah found a place on the mountainside outside the town, a slope of broken stone with a little earth under the stones; with a spade and a pick borrowed from the town they dug a whole day and dug a pit, not deep, just enough to lay a person in. Lingbao said it mustn't be buried deep. He said: in autumn she's to be taken up; taken up and carried away; bury her shallow, so she's easy to take up.
+When spring came the caravan was to go up onto the Pamirs. The old man of the household came to urge them: "The Great Worthy's body can't go up onto the Pamirs. The passes are so high no one can measure them. A man who goes up there can't get his breath—his head aches, his heart pounds—and even the young and strong sometimes walk along and fall down. At the passes the path is narrow; carts can't go up; you can only ride beasts, and a man has to be able to sit his seat. Let the Great Worthy stay in Kashgar. These seven or eight households of Kashgar have hoped fifty years, and a priest has come. If the Great Worthy stays, Kashgar will have bread at the offering once in seven."
 
-He Siniang was buried in her blue cotton jacket, the jacket she made in Chang'an, worn from Chang'an to the Stone Tower, patched several times—the patches her own, the stitches very close. Elijah washed her face; Salang lifted her down and laid her in the pit; on the pit's floor was spread a sheepskin, taken apart from the pannier Lingbao had sat in all the way. Lingbao had himself held up and squatted at the pit's edge, reached down, felt her face, felt her hands; he put her two hands together and laid them on her breast; he said her hands were cold in winter; put together, they'd be a little warmer.
+"I'm going," said Lingbao. "I've come this far. Balkh is just the other side of the Pamirs; over them, a month and more's walking, and I'm there. My Pa came out of Balkh the year he was seventeen, by this very road, over this very mountain. He was seventeen, and I'm eighty-two this year. He could walk across this way; I can walk across that way."
 
-Salang filled it in—a layer of earth, a layer of broken stone—filled it level, and on top heaped a pile of stones, heaped it high, heaped it to a point. Elijah, on a flat stone, cut letters with a knife-point, Syriac letters: *Maryam, née He, of Chang'an, died at the Stone Tower on the Pamirs in the year of the Greeks one thousand one hundred and sixty.* He Siniang's baptismal name was Maryam; she was baptized as a child in Chang'an, in the Zhenyuan years, by a priest of the monastery, when she was eight. Salang beside him wrote Tang characters on the stone with charcoal—*He Siniang*—wrote them badly, wrote them twice. Lingbao knelt before the pile of stones and felt with his hand the stone with the letters cut on it, felt it letter by letter, and when he had felt it all told Salang: he wasn't going on.
+The old man was going to say more, and He Siniang said, "I'm going with him."
 
----
-
-The caravan crossed the pass in the fifth month; the snow in the pass had melted somewhat, and it was open. The caravan's headman came to ask whether the Great Worthy was going; Lingbao said he wasn't. He said he'd wait till autumn, take up the bones in autumn, and carry them with him. The headman said: autumn—the pass is still open in the eighth month; after the ninth, it's sealed again; if you miss it, you'll have to wait till next year. Lingbao said he'd make it. The headman looked at him, looked at Salang, looked at Elijah, sighed, and had their things unloaded from the packs and left at the Stone Tower.
-
-That summer the three of them lived at the Stone Tower, by the sheepfold of a mountain family in the town; the family couldn't understand their speech, nor they the family's, but every morning the family brought them a bowl of sheep's milk; Lingbao drank it and said it was salty. Salang and Elijah went up the mountain to help the family herd sheep, and earned a few cakes. Every day Lingbao had Salang help him out of the town to that pile of stones and sat there till the sun was overhead, when Salang came to help him back. Sitting by the pile of stones he sometimes recited scripture and sometimes did not; Salang asked him what he was sitting there for; he said: keeping her company.
-
-That summer the grass on the Pamirs turned green once, green for a very short time: green in the seventh month, yellow by the eighth. At the offering once in seven the three of them held it by the sheepfold; Lingbao broke the bread; the bread was baked by the woman of that mountain family, hard, and would not break; Salang broke an opening in it for him, and he broke it into three, one piece each for the three of them; he held the bottom of the bowl—held it himself.
+She did not urge him to stay, nor say anything else. She went to the market and bought a yak, driven there by Tibetans to sell—black, its long hair trailing to the ground. She said a yak walks steadier on the mountains than a camel, steadier than a horse. She also bought a few sheepskins and sewed them into a pannier, bound it on the yak's back, and Lingbao sat in the pannier with sheepskin all round him against the wind. "This way you can sit your seat." Early in the third month the caravan went out of Kashgar, west, and up.
 
 ---
 
-On the first of the eighth month they took up the bones. That day before light Salang and Elijah went to the pile of stones outside the town and moved the stones one by one, moved them all morning; when they were moved, the earth beneath showed; they dug the earth open and reached that sheepskin. Lingbao sat to one side; he could not see; he listened. Salang said his grandfather went with the Great Worthy Yi to the south of the city to take up bones; his grandfather said: when you take up bones your hands must be steady; one piece at a time; don't hurry.
+The mountains rose layer upon layer. First the river valleys, with water, grass, and herdsmen—black-headed white-bodied sheep, the herdsmen dressed in sheepskins, their faces burned purple by the sun. Then the slopes—stone, with clumps of low grass in the cracks of the stones, the grass withered, last year's; this year's had not yet come. Then snow.
 
-But at the bottom of the pit it was not bones piece by piece. The Stone Tower was high, cold, dry; the earth was dry, the wind was dry; after four months He Siniang was still He Siniang; her body had dried, shrunk; her face so thin only a layer of skin was left, the skin drawn on the bones; the blue cotton jacket was still there, its colour changed; her two hands were still together on her breast. Salang squatted at the pit's edge and dared not go down. Elijah squatted too.
+"Siniang, what colour is the snow?"
 
-Lingbao said: help him down. Salang held him up and down into the pit; he knelt beside that sheepskin and reached out and felt, felt her hands, still together on her breast, where he had put them. He felt her face, felt her forehead, felt her hair; her hair was still there, dried, stiff. He said she'd grown light. He said Pa used to take his hand and make him feel Pa's own bones and say: this is the skull, this the spine, these the ribs, this the hand; everyone has this set; feel your own; today he's touching her, and can feel her bones through a layer of skin; she's grown so thin.
+"White."
 
-He had Salang bring the skin of wine and a white cloth; he poured wine on the cloth and wiped her face and hands, wiped them very gently, a wipe, a pause; Elijah at the pit's edge recited scripture, the psalms, from the first. When he had wiped them, he had Salang hand down the two felts—the two she had used to shield him from the wind all the way; he felt them, and wrapped her, with that sheepskin, in the felts, two layers, Salang holding her up beside him, wrapping layer by layer; when she was wrapped, they tied it with hemp cord, three turns.
+"Brother said the snow on the Pamirs is blue."
 
-At the second turn his hands stopped. He was feeling the hem of the jacket; on the inner lining of the hem was embroidered a character, in red thread; he felt the strokes of that character one by one, felt them out: it was *ling*, the first character of his name. He didn't know when she had embroidered it. He tore off that piece of the hem, folded it, tucked it into his robe, and went on tying.
+He Siniang stood in the snow and looked. "In the sun it's white. In the shade of the mountain, there's a little blue."
 
-Salang lifted the bundle. It was lighter than he had thought. He held it and stood at the pit's edge waiting for Lingbao. Lingbao had Elijah help him up out of the pit, stood at the pit's edge, and had Salang fill in the pit, fill it level, and set that flat stone with the letters cut on it upright on the levelled earth, set it straight. He said: she's gone; this stone stays; later, if anyone passes this way and sees it, they'll know someone from Chang'an was once buried here.
+They travelled seven days and came to the Stone City. The passes were still sealed by snow, and the caravan's headman said they must wait at the Stone City until the fifth month, when the snow had melted a little and they could get across. The Stone City stood on high ground with mountains on every side, its walls built of stone, half fallen; in it lived a few hundred mountain households speaking a tongue no one could understand. The headman said this had once been the Tang's Pamirs garrison, with soldiers stationed; later the soldiers withdrew, and the city remained. The caravan settled at the Stone City to wait for the snow to melt, the beasts catching their breath, and the people too.
+
+He Siniang fell ill at the Stone City. About a month after they reached it her head began to ache at night, aching so that she couldn't sleep. She said nothing, but sat beside Lingbao keeping watch until dawn. Two days later she got up to boil water, and as she boiled it she sat down by the fire and couldn't get up. Salang came to help her; her hands were cold, her lips purple, and she couldn't get her breath—panting mouthful by mouthful, as if climbing a very steep slope. The caravan's people said it was the Headache Mountains; everyone who crossed the mountains knew it: at such a height a man's face lost its colour, his head ached, he vomited; the young got over it in a few days, and of the old, some didn't get over it.
+
+She lay five days. Those five days Lingbao sat beside her. He could not see her, so he felt her hand; when it grew cold as he felt it, he gripped it, gripped it warm, eased his grip, and it grew cold again. He Siniang's eyes were open, watching him grip her hand. She panted, and a sentence took several breaths to finish.
+
+"Great Worthy, in this life I married twice. The first one I married died at sea, and not even his body came back. Whether he was swept off by the waves outside the Lion Kingdom or somewhere else, I don't know. I haven't even his grave. I kept faith with him seven or eight years—kept faith with a man without a grave." She panted a while. "The second time I married you. Nineteen years with you. Your eyes saw less every year, your cough was worse every year. You came out of Chang'an, and I came out with you; we've walked four years, walked as far as here, and I can't walk any further."
+
+"Don't talk. Rest."
+
+"I want to talk. When I've said it, I'll rest." She squeezed his hand. "When I'm dead, don't leave me here. I'm not afraid of having no grave; my first husband had no grave. But I want to go with you. You're going to Balkh; I'm going to Balkh too. Your grandfather and grandmother are buried behind the church in Balkh, with a mulberry tree beside the graves—Master Jingjing told of it, you've told me several times, and I remember. I want to be buried there, beside them. And when you die, you'll be buried there too. With your family all buried in one place, I'll count as one of your family too."
+
+"Good," said Lingbao. "I promise. When I reach Balkh I'll take you with me and bury you under that mulberry tree. When I die, I'll be buried beside you."
+
+He Siniang panted a few breaths and went on: "That child Liu'er has gone north. How she'll fare, I don't know. Ayi will look after her, Jingfu will look after her. But I miss her. I'd like to hear her call me Granny Siniang once more."
+
+She went in the night of the nineteenth of the fourth month. That night the wind blew outside the Stone City, blowing down from the passes, making the stone slabs of the roof clatter. Lingbao gripped her hand, gripped it until it was cold through and would not warm, and still gripped it. Salang came over and gently tried to prise his hand loose.
+
+"Let me hold it a while more."
+
+So Salang did not prise it loose, but knelt beside him. Elijah knelt on the other side and recited in Syriac the twenty-third psalm, and when he reached *Yea, though I walk through the valley of the shadow of death, I will fear no evil*, Lingbao recited with him, and when they reached *for thou art with me*, his voice broke—broke, and joined again, and recited it to the end.
 
 ---
 
-On the ninth of the eighth month they went with a caravan going west and crossed the pass. The wind on the pass was strong; the snow had not yet come; on the ground was last year's ice; Salang led the yak; Lingbao sat in the sheepskin pannier with that felt bundle bound beside him, one arm round it. Elijah walked behind. Past the pass the road went down—west, and down; down the mountains was Wakhan; past Wakhan, another month and more, and it was Balkh.
+The next day Salang and Elijah found a stretch of scree on the slope outside the city with a little earth under the stones, and with a borrowed iron spade and pick dug all day and made a pit. Lingbao would not have it dug deep. "In the autumn we'll raise her. Bury her shallow, so she'll be easy to raise." He Siniang wore her blue cotton jacket, made in Chang'an and worn from Chang'an to the Stone City, its patches put on by herself, the stitches very close. At the bottom of the pit was laid the sheepskin Lingbao had sat on all the way. Lingbao had himself helped to crouch at the edge of the pit, reached down, found her two hands, folded them together, and laid them on her breast.
 
-At the very highest point of the pass Lingbao had Salang stop a moment. Salang stopped and asked him what for. He said: nothing; he only wanted to stop a moment. He sat on the yak's back holding that felt bundle, facing west; to the west were mountains going down layer upon layer, and beyond the mountains, Balkh. He drew the felt bundle closer into his arms and told Salang: let's go.
+"In winter her hands are cold," he said. "Folded, they'll be a little warmer."
 
----
-
-Note: The mountains of the Great Headache and the Little Headache are in Du Qin's words in the Western Regions chapter of the *Book of Han*. The Pamir garrison post had its seat at the Stone Tower (modern Tashkurgan), established in the Kaiyuan years; see the geography treatise of the *New Book of Tang*. Kashgar was one of the Four Garrisons of Anxi, lost after the Zhenyuan years. The Church of the East used the Syriac psalms for burial and vigil. For the reburial of Lü Xiuyan's second elder brother in the first year of Jianzhong see Chapter 48. He Siniang's baptismal name Maryam and the character *ling* on her hem are the novel's arrangement.
+Salang filled in the earth—a layer of earth, a layer of scree—and on top heaped a cairn of stones into a point. On a flat stone Elijah carved with a knife-point Syriac letters: *Mary of the He family, of Chang'an; died at the Stone City in the Pamirs in the year of the Greeks one thousand one hundred and sixty.* Mary was her baptismal name; in the Zhenyuan years, the year she was eight, the monastery's priest had baptized her.
 
 ---
 
-**Version** v0.3 (translated from Chinese v0.3)　**Last modified** 2026-11-25（美国中部时间）　**Status** 英译样稿
+In the fifth month the snow on the passes melted, and they opened. The caravan's headman came to ask, "Great Worthy, are you going or not?"
+
+"Not going. I'll wait for the autumn; in the autumn I'll raise her bones and take her with me."
+
+"The passes are still open in the eighth month; after the ninth they're sealed again. If you don't make it in time, you'll have to wait for next year."
+
+"I'll make it in time."
+
+The headman looked at him, and at Salang, and at Elijah, sighed, and had their things unloaded from the packs and left at the Stone City.
+
+That summer the three of them lived beside the sheep pen of a mountain household in the city. That household couldn't understand their speech, and they couldn't understand the household's speech; but every morning the household sent a bowl of sheep's milk, and Lingbao drank it and said it was salty. Salang and Elijah went up the mountain to help the household herd its sheep and earned a few flatbreads. Every day Lingbao had Salang help him to that cairn outside the city and sat there until the sun was overhead, when Salang came to help him back. Sitting by the cairn, sometimes he recited the scriptures, sometimes he didn't.
+
+"What does the Great Worthy sit there for?" asked Salang.
+
+"To keep her company."
+
+That summer the grass on the Pamirs turned green once, a very short green; green in the seventh month, yellow by the eighth. At the offering once in seven the three of them held it beside the sheep pen. The bread was flatbread baked by the woman of the household, hard, impossible to break; Salang made a split in it for him, and he broke it further, into three pieces, a piece for each of the three. The bowl's foot he held himself.
+
+---
+
+On the first of the eighth month they raised her bones. That day before light Salang and Elijah went to the cairn outside the city and moved the stones away one by one; they moved them all morning, and when they had moved them all, dug open the earth beneath, and dug down to the sheepskin. Lingbao sat beside them. He could not see; he listened.
+
+"My Pa went with Master Yi south of the city to raise bones once," said Salang, kneeling at the edge of the pit. "My Pa said that when you raise bones, your hands must be steady—one piece at a time, no hurry."
+
+But what lay at the bottom of the pit was not bones, piece by piece. The Stone City was high, cold and dry, the earth dry, the wind dry; after four months, He Siniang was still He Siniang—her body dried, shrunk, her face so thin there was only a layer of skin left, the skin clinging to the bones; the blue cotton jacket was still there, its colour changed. Salang crouched at the edge of the pit and dared not go down. Elijah crouched too.
+
+"What is it?"
+
+"Great Worthy… the Mistress—she's still there."
+
+Lingbao said, "Help me down."
+
+Salang helped him down into the pit. He knelt beside the sheepskin and reached out to feel. First he found her hands, both still folded on her breast—folded by him four months before, not one finger moved. He held those two hands cupped in his, held them a good while, and only then felt upward—felt her face, felt her forehead, felt her hair. Her hair was still there, dry, stiff.
+
+"She's grown light," he said. "Pa used to take my hand and have me feel his own bones, and say: this is the head, this the spine, these the ribs, this the hand; everyone has this set; feel your own. Today I feel her, and through one layer of skin I can feel her bones. She's grown so thin."
+
+He had Salang bring the skin of wine and a white cloth, poured the wine on the cloth, and wiped her face, wiped her hands, wiped very lightly, wiped once and again. Elijah, at the edge of the pit, recited the psalms, beginning from the first. When he had wiped her, he had Salang take down those two felts—the two she had used to shield him from the wind all the way—and, feeling, wrapped her together with the sheepskin in the felts, wrapped her twice round, Salang supporting her beside him. When she was wrapped, he tied it with hemp cord, tied it three times round.
+
+At the second tie his hands stopped. He was feeling the corner of the jacket, and on the inside of the corner a character was embroidered, in red thread. He felt its strokes, felt them stroke by stroke, and made it out: it was the character *ling*, of Lingbao.
+
+"Salang, when was this embroidered?"
+
+"I don't know, Great Worthy. I never saw her embroider it."
+
+He tore that corner off, folded it, put it in his breast, and went on tying.
+
+Salang lifted the bundle. It was lighter than he had thought. Lingbao had Elijah help him up out of the pit, and had Salang fill the pit level and set the flat stone with its carved letters on the levelled earth.
+
+"She's gone; this stone stays. If someone passes this way one day and sees it, he'll know a person from Chang'an was buried here once."
+
+---
+
+On the ninth of the eighth month they went over the pass with a caravan going west. On the pass the wind was strong. Snow had not yet fallen; the ground was last year's ice. Salang led the yak, Lingbao sat in the sheepskin pannier with that felt bundle bound beside him, one arm round it. Elijah walked behind. Past the pass the road went down, westward; down the mountains was Wakhan, and past Wakhan, another month and more's walking, was Balkh.
+
+At the highest point of the pass Lingbao said, "Salang, stop a moment."
+
+Salang stopped. "What does the Great Worthy want to do?"
+
+"Nothing. I only want to stop a moment."
+
+He sat on the yak's back with his arm round the felt bundle, his face toward the west. To the west the mountains went down layer after layer, and beyond the mountains was Balkh. He drew the felt bundle closer to him.
+
+"Let's go."
+
+---
+
+Note: The mountains of the Great Headache and the Lesser Headache are in Du Qin's words in the *Hanshu*, "Western Regions." The Pamirs garrison had its seat at the Stone City (modern Tashkurgan), established in the Kaiyuan years; see the *Xin Tangshu*, "Treatise on Geography." Kashgar was one of the Four Garrisons of Anxi of the Tang, lost after the Zhenyuan years. The Church of the East uses the Syriac psalms for funerals and vigils. For the reburial of Lü Xiuyan's second brother in the first year of Jianzhong see Chapter 48. He Siniang's baptismal name Mary and the character *ling* on her jacket's corner are the novel's invention.
+
+---
+
+**Version** v0.4 (translated from Chinese v0.4)　**Last modified** 2026-11-27（美国中部时间）　**Status** 英译样稿
