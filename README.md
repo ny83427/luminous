@@ -8,7 +8,7 @@
 
 | Luminous | jing | 内容 |
 |---|---|---|
-| `text/` | `正文/` | 英译正文，一章一个文件。文件名格式「三位序号-Vol卷号-Ch章号-英文章名.md」，序号与中文版相同：序章 000，尾声 085，附录 089–098，后记 099。 |
+| `text/` | `正文/` | 英译正文，一章一个文件。文件名格式「三位序号-Vol卷号-Ch章号-英文章名.md」，序号与中文版相同：序章 000，尾声 086，附录 089–098，后记 099，附录十一起接在后记之后（100 起）。 |
 | `working/` | `工作文件/` | 翻译工作文件：`toc.md`（书名、三部、卷名、章名中英对照）、`names.md`（人名地名术语英译表）、`translation-notes.md`（译法通则与待作者决定的问题）。 |
 | `references/` | `参考资料/` | 参考资料。中文原始资料留在 jing，不重复存放；英译附录一至五已涵盖其内容。 |
 | `cover/` | `封面/` | 英文版封面：总封面 `Main.jpg`，三部封面 `Vol1–3.jpg`；`cover/source/` 是 PNG 原图（1680×2380）。 |
@@ -22,20 +22,20 @@
 
 ## 全书结构
 
-LUMINOUS — three books, twelve volumes, eighty-four chapters.
+LUMINOUS — three books, twelve volumes, eighty-five chapters.
 
 - Prologue: Unearthed
 - **Book One: ALAHA** (the book of Yisi, 755–765): Vol. 1 Guo Ziyi · Vol. 2 Li Guangbi · Vol. 3 The Pamir Road · Vol. 4 Xiangji Temple · Vol. 5 Chang'an · Vol. 6 The Shuofang Army
 - **Book Two: MESSIAH** (the book of Jingjing, 765–818): Vol. 7 A-Lian · Vol. 8 The Daqin Monastery · Vol. 9 The Translation Hall
 - **Book Three: WIND** (the book of the believers, 818–850): Vol. 10 Morning Praises · Vol. 11 Huichang · Vol. 12 Jade Gate
 - Epilogue: The Steppe
-- Appendices 1–10 · Afterword
+- Appendices 1–11 · Afterword
 
 逐章英文章名见 `working/toc.md`。
 
 ## 翻译进度
 
-- 全书已译完：序章、第 1–84 章、尾声、附录一至十、后记。2026-11-25 按中文版大改后的新稿（84 章）把第 28 章至尾声全部重译，附录一、七、八、九与后记同步更新；各章末注明据中文哪一版译出。
+- 全书已译完：序章、第 1–85 章、尾声、附录一至十一、后记。2026-11-27 按中文版第二轮修改（85 章）重译序章、第 34、37、52–85 章与尾声，新增附录十一，附录一、六、七、八同步。2026-11-25 按中文版大改后的新稿（84 章）把第 28 章至尾声全部重译，附录一、七、八、九与后记同步更新；各章末注明据中文哪一版译出。
 - 阅读网站：https://ny83427.github.io/luminous/ （需在仓库 Settings → Pages 选 `main` 分支 `/docs` 目录）。
 - 重新生成网站：`python3 tools/site/build_site.py`；重新生成预告片：`cd tools/trailer && python3 trailer.py && python3 sound.py`，再按 `tools/trailer/README.md` 说明合成。
 

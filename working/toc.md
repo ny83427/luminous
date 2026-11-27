@@ -116,16 +116,17 @@
 | 073 | 阿奴 | A-Nu | |
 | 074 | 三日 | Three Days | |
 | 075 | 埋碑 | Burying the Stele | |
-| 076 | 收拾 | Packing | |
-| 077 | 老祝 | Old Zhu | |
-| 078 | 约瑟 | Joseph | |
-| 079 | 何老人 | Old He | |
-| 080 | 分路 | Parting Ways | |
+| 076 | 本处 | Their Own Countries | |
+| 077 | 降诞 | Nativity | 第十二卷　玉门关起 |
+| 078 | 莫高窟 | Mogao | |
+| 079 | 莫贺延碛 | The Moheyan Desert | |
+| 080 | 殊途 | Different Roads | |
 | 081 | 四娘 | Siniang | |
-| 082 | 灵宝 | Lingbao | |
-| 083 | 萨朗 | Salang | |
-| 084 | 净风 | Pure Wind | |
-| 085 | 尾声　草原 | Epilogue: The Steppe | |
+| 082 | 王舍城 | Rajagriha | |
+| 083 | 金篦 | The Golden Lancet | |
+| 084 | 萨朗 | Salang | |
+| 085 | 净风 | Pure Wind | |
+| 086 | 尾声　草原 | Epilogue: The Steppe | |
 | 089–093 | 附录一至五　景教碑之一至五 | Appendix 1–5: The Stele, I–V | 大略 / 碑文对照 / 伊斯考 / 碑中人物 / 宾礼与贞观朝的外来宗教 → Overview / Text and Translation / Yisi / The People of the Stele / The Reception of Alopen and Foreign Religions under Taizong |
 | 094 | 附录六　异端之名 | Appendix 6: The Name of Heresy | |
 | 095 | 附录七　年表 | Appendix 7: Chronology | |
@@ -133,11 +134,12 @@
 | 097 | 附录九　景教术语对照 | Appendix 9: Glossary of Luminous Terms | |
 | 098 | 附录十　唐宋蹴鞠 | Appendix 10: Football in Tang and Song China | |
 | 099 | 后记 | Afterword | |
+| 100 | 附录十一　李之藻《读景教碑书后》译文及相关研究 | Appendix 11: Li Zhizao's "After Reading the Luminous Stele": Translation and Related Studies | |
 
 ## 文件名
 
-与中文版一一对应：`三位序号-Vol两位-Ch两位-英文章名.md`，章名里的空格写成连字符，如 `001-Vol01-Ch01-Breaking-Wind.md`；序章 `000-Prologue-Unearthed.md`，尾声 `067-Epilogue-The-Steppe.md`，附录 `089-Appendix01-…`，后记 `099-Afterword.md`。
+与中文版一一对应：`三位序号-Vol两位-Ch两位-英文章名.md`，章名里的空格写成连字符，如 `001-Vol01-Ch01-Breaking-Wind.md`；序章 `000-Prologue-Unearthed.md`，尾声 `086-Epilogue-The-Steppe.md`，附录 `089-Appendix01-…`，后记 `099-Afterword.md`，附录十一 `100-Appendix11-…`。
 
 ---
 
-**Version** v0.2　**Last modified** 2026-11-25（美国中部时间）　**Status** 模拟稿，待作者定
+**Version** v0.3　**Last modified** 2026-11-27（美国中部时间）　**Status** 模拟稿，待作者定

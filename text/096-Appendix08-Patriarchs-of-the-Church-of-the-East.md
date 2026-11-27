@@ -27,7 +27,7 @@ This appendix first lists the patriarchs of the seventh to ninth centuries relev
 | 823–828 | Ishoʿ bar Nun | |
 | 828–831 | Gewargis II | |
 | 831–835 | Sabrisho II | Sabrisho, one of the Seven Teachers in the book, shares his name |
-| 837–850 | Abraham II | In office during the Huichang proscription; the patriarch who, ill, does not receive Elijah and Salang in Chapter 83 |
+| 837–850 | Abraham II | In office during the Huichang proscription; the patriarch who receives Lingbao from his sickbed in Chapter 83 |
 | 853–858 | Theodosius | |
 
 The histories often differ by a year or two in their dates; the usual ones are given here.
@@ -90,7 +90,7 @@ That he consecrated a metropolitan for China is documented; the letter in the bo
 
 When the Luminous Religion was banned in Chang'an in the fifth year of Huichang (845), the patriarch in Baghdad was Abraham II. Here too the sources say little: only that he reigned thirteen years and died in 850, after which the seat was vacant for three years.
 
-In Chapter 83, Elijah and Salang reach Baghdad in the autumn of the fourth year of Dazhong, that is, 850. The patriarch has been ill all summer and is no better in autumn; he does not see them. They are received by the patriarch's scribe, Matthew. Elijah tells him, thing by thing, how it ended in Chang'an; from the Patriarchate's book of events they find the old entry on Guangzheng, and the year of his death is written into the empty line. The book does not give this patriarch's name; reckoning by the year, it is Abraham II, who died that same year.
+In Chapter 82, Priest John of the monastery at Balkh writes to the Patriarchate that a priest has come from China, and the patriarch has his scribe Matthew write back, asking him to come "if his strength allows." In Chapter 83, Lingbao reaches Baghdad in the autumn of the fourth year of Dazhong, that is, 850. The patriarch, Abraham II, has been ill all summer; he receives him from his sickbed, hears him ask on Jingfu's behalf that someone who can lay on hands be sent, and answers that he cannot promise it—it must wait for a later patriarch; not long after, he dies, and the patriarchal throne then stands empty for three years. In the library they find the two old entries on Guangzheng, and Matthew writes them into the empty lines of Lingbao's little book. The audience and the answer are the novel's elaboration; the patriarch's death year and the vacancy are historical.
 
 ## 7. Two after the Epilogue
 

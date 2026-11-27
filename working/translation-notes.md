@@ -87,3 +87,10 @@
 4. **第五十九章**：巴拜沿用 names.md 的 Babai（初稿误作 Baba，已改）。
 5. **统一用词**：莫贺延碛 the Moheyan desert；穆护 the Magi；坊正 ward headman；景福之父绰号“胡饼” Sesame Cake；荐饼 the offering bread；七日一荐 the offering once in seven；晨课 morning devotion（卷名作 Morning Praises）。
 
+
+## 九、第二轮同步（85 章，2026-11-27）
+
+1. **人名改动**：中文把小满改名柳儿，英译全书改作 Liu'er；第六十七章"那天是小满"指节气，仍作 Xiaoman。
+2. **附录十一**：李之藻《读景教碑书后》原文照录繁体，右栏英译，注释随行译出；碑文引语一律用附录二已有的英译措辞（如圣历、先天一句，"为公爪牙，作军耳目"）。标题与序章注 2 一致：*Li Zhizao's "After Reading the Luminous Stele": Translation and Related Studies*。
+3. **第八十五章**：杨判官沿用 Assistant Yang；四娘婆婆作 Granny Siniang；"埋了，量为处置"六字作 *Buried. Disposed of as judged fit.*，与第七十四章牒文 "dispose of as he judges fit" 呼应。
+4. **只改称呼的小改**（父亲→阿爷等）英文本已用 Pa/Ma，不另改。

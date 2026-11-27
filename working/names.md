@@ -188,7 +188,7 @@
 | 阿福 | A-Fu | 景福俗名。景福之父在神策营的绰号“胡饼”，第 28 章以后的新译作 Sesame Cake（早先曾拟 Flatbread）。 |
 | 安延 | An Yan | |
 | 萨朗 | Salang | 萨尔吉斯之孙。 |
-| 小满 | Xiaoman | |
+| 柳儿 | Liu'er | 中文版原名小满，已改名；英文同步改。 |
 | 康真 | Kang Zhen | |
 | 康商人 | Merchant Kang | |
 | 约瑟／以利亚 | Joseph / Elijah | 第六十章起两位波斯老僧。 |
@@ -246,7 +246,7 @@
 | 卢守冲、通真观 | Lu Shouchong, the Tongzhen Temple | |
 | 杨守素（杨翁、阿奴） | Yang Shousu (Old Yang, A-Nu) | |
 | 刘坊正 | Headman Liu | |
-| 小满 | Xiaoman | |
+| 柳儿 | Liu'er | 中文版原名小满，已改名；英文同步改。 |
 | 阿依 | Ayi | |
 | 赵归真 | Zhao Guizhen | |
 | 曹头人 | Headman Cao | |
@@ -258,6 +258,16 @@
 | 约翰（缚喝司铎） | the priest John | |
 | 马太（本部书记） | the scribe Matthew | |
 | 老萨 | Old Sa | 草原上的回鹘景教徒。 |
+| 侯奈因 | Hunayn (ibn Ishaq) | 巴格达医者，第八十三章为灵宝拨障。 |
+| 穆塔瓦基勒 | al-Mutawakkil | 哈里发。 |
+| 阿依的姨祖母 | Ayi's great-aunt | |
+| 尼尼微斋 | the Nineveh fast (*Ba'utha*) | |
+| 和散那主日 | the Lord's day of Hosanna | |
+| 光明之夜 | the Night of Light | 复活前夜。 |
+| 无饼之礼 | the rite without bread | 附注语。 |
+| 李之藻（我存、凉庵） | Li Zhizao (Wocun, Liang'an) | 附录十一。 |
+| 张赓虞 | Zhang Gengyu | |
+| 阳玛诺《唐景教碑颂正诠》 | Manuel Dias the Younger, *A Correct Explanation of the Hymn on the Tang Luminous Stele* | |
 | 主客（司） | the Office of Receptions | |
 | 功德巡院 | the Commissioners of Merit's inspectorate | |
 | 少府 | Shaofu | 县尉的称呼。 |
@@ -266,4 +276,4 @@
 
 ---
 
-**Version** v0.2　**Last modified** 2026-11-25（美国中部时间）　**Status** 模拟稿，待作者定
+**Version** v0.3　**Last modified** 2026-11-27（美国中部时间）　**Status** 模拟稿，待作者定

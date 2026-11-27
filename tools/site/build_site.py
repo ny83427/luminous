@@ -127,7 +127,7 @@ def main():
             cur_vol = d["vol"]
         num = f.name[:3]
         d["num"], d["slug"] = num, f"{num}.html"
-        if num == "000" or num >= "085":
+        if num == "000" or "Epilogue" in f.name or num >= "089":
             d["group_part"] = d["group_vol"] = None
         else:
             d["group_part"], d["group_vol"] = cur_part, cur_vol
@@ -156,7 +156,7 @@ def main():
         body_html = md.convert(c["body"])
         if not SHOW_EPIGRAPH:
             body_html = re.sub(r"\A\s*<blockquote>.*?</blockquote>\s*", "", body_html, count=1, flags=re.S)
-        if not SHOW_CHAPTER_NOTES and c["num"] <= "085":
+        if not SHOW_CHAPTER_NOTES and c["num"] <= "086":
             body_html = re.sub(r"<hr\s*/?>\s*<p>(<strong>)?Notes?[:：.].*\Z", "", body_html, flags=re.S)
         body_html = body_html.replace('src="../images/', 'src="img/fig/')
         body_html = nianbiao(body_html)
@@ -235,7 +235,7 @@ def main():
                 open_vol = True
             last_vol = c["group_vol"]
         if not c["group_vol"] and c["num"] != "000":
-            (apps if "089" <= c["num"] <= "098" else tails).append(c)
+            (apps if ("089" <= c["num"] <= "098" or c["num"] >= "100") else tails).append(c)
             continue
         toc.append(li(c) if open_vol else f'<ol class="toc-single">{li(c)}</ol>')
     if open_vol:
@@ -263,8 +263,9 @@ def main():
       <h1 class="big">Luminous</h1>
       <p class="subtitle">A Novel of the Church of the East in Tang China</p>
       <p class="by">Lao Tie &amp; Claude</p>
-      <p class="blurb">In 1623, outside the walls of Xi'an, workmen dig up a Tang stele with rotted hemp cloth still clinging to its face. The Jesuit fathers read the inscription and claim the men on it as their brothers, not knowing that the Western church had long ago branded them heretics. The stone holds some seventeen hundred characters. It cannot hold the people behind them: a monk who scouted the road for Guo Ziyi, a son who translated scripture and raised the stele, and a grandson-in-the-faith who buried it with his own hands.</p>
-      <p class="stat">Three books · twelve volumes · eighty-four chapters, with prologue, epilogue, afterword and ten appendices · about {round(total / 1000):,} thousand words · translated from the Chinese 《景》</p>
+      <p class="blurb">In 1623, outside the walls of Xi'an, workmen dig up a Tang stele. Under it lies a bed of sand; over its face, two layers of felt rotted through; a corner knocked from its base has been fitted back so closely the seam barely shows. It did not fall. Someone laid it in the earth, little by little. The stone holds some seventeen hundred characters. It cannot hold the people behind them: a foreign monk who scouted the road for Guo Ziyi, a son who translated scripture and raised the stele, and a grandson-in-the-faith who buried it with his own hands.</p>
+      <p class="blurb">The Catholic fathers read the inscription and claim the men on it as their brothers. They do not know that these men belonged to a church that parted from Rome in the fifth century and went its own way for more than a thousand years after, a church that in the West has always borne the heretic's name of "Nestorian."</p>
+      <p class="stat">Three books · twelve volumes · eighty-five chapters, with prologue, epilogue, afterword and eleven appendices · about {round(total / 1000):,} thousand words · translated from the Chinese 《景》</p>
       <p class="cta"><a href="000.html" class="btn">Begin with the Prologue</a><a href="#" class="btn ghost" id="resume" hidden>Continue reading</a></p>
     </div>
   </section>
